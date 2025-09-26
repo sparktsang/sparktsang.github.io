@@ -2,7 +2,7 @@
 layout: page
 title: Life
 description: How the world is like
-image: assets/images/pic01.jpg
+image: assets/images/Spark__facebook_profile_pic.jpg
 nav-menu: true
 ---
 
