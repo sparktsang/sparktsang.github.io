@@ -2,7 +2,7 @@
 layout: home
 title: Home
 landing-title: r'This is not a portfolio.\nIt is an indictment, a constitution, and an epic.'
-description: My Life is the evidence. My Philosophy is the law. My Works are the world to come.
+description: null
 image: null
 author: null
 show_tile: false
