@@ -2,7 +2,7 @@
 layout: page
 title: Life
 description: "THE INDICTMENT: How the World Is."
-image: assets/images/Spark__facebook_profile_pic.jpg
+image: assets/images/rain_in_city.png
 nav-menu: true
 ---
 
