@@ -1,7 +1,7 @@
 ---
 title: Works
 layout: landing
-description: The means I change the world
+description: "THE EPIC: How the World Will Be."
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
