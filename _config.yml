@@ -1,7 +1,7 @@
 # site settings
 title: Spark Tsang
 email: cashtsang@gmail.com
-description: My Life, My Philosophy, My works
+description: My Life, My Philosophy, My Works
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sparktsang.github.io" # the base hostname & protocol for your site
 author: Spark Tsang
