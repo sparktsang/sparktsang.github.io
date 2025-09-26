@@ -24,19 +24,19 @@ It is no surprise that many philosophers now argue: we can believe in anything, 
 
 The world did not merely fail Amina. It failed the very condition for truth to exist. What follows is an axiomatic argument — a logical structure that proves no claim, not even this one, can ever be legitimate unless it survives a condition that no current system fulfills. That condition is called the Epistemic Constitution.
 
-A1. Knowledge is only possible if we know what we know. 
-A2. Justice is only possible if we know what is just. 
-A3. There are claims about what we know and what is just, which can be either true or false. 
-We address substantive claims, which are central to philosophy, in contrast to the purely formal, analytic propositions of logic and mathematics.
-A4. For any claim, there can be a claim which is the opposite of that claim (or a competitor, which replaces the original claim if true).
-A5. To establish a claim to be true is to justify it. (Definition) 
-A6. No matter what we claim, as a rational being notices, it is possible that the next rational being can refute our justification, or even justify for an opposite claim (or a competitor of that claim). 
-A7. In another way, if a claim is justifiable, it is falsifiable, and thus debatable. 
-A8. Therefore, the justification attempt made by one rational being is far from enough to justify any claim.
-A9. Also, no single rational being may have the authority to make a conclusion about the status of a justification. 
-A10. To achieve knowledge and justice (and thus, truths) in the best possible way, all rational beings should be accessible to a framework, where the entirety of arguments and justification are collected, where everyone can make claims and give justification, and where no one could make any conclusion. It is the epistemic constitution, the ultimate truth generator. 
-A11. Before achieving so, we cannot make any conclusion about anything. 
-A12. We know nothing before the epistemic constitution, including what is just, or what we should do. 
+A1. Knowledge is only possible if we know what we know.  
+A2. Justice is only possible if we know what is just.  
+A3. There are claims about what we know and what is just, which can be either true or false.  
+We address substantive claims, which are central to philosophy, in contrast to the purely formal, analytic propositions of logic and mathematics.  
+A4. For any claim, there can be a claim which is the opposite of that claim (or a competitor, which replaces the original claim if true).  
+A5. To establish a claim to be true is to justify it. (Definition)   
+A6. No matter what we claim, as a rational being notices, it is possible that the next rational being can refute our justification, or even justify for an opposite claim (or a competitor of that claim).  
+A7. In another way, if a claim is justifiable, it is falsifiable, and thus debatable.  
+A8. Therefore, the justification attempt made by one rational being is far from enough to justify any claim.  
+A9. Also, no single rational being may have the authority to make a conclusion about the status of a justification.  
+A10. To achieve knowledge and justice (and thus, truths) in the best possible way, all rational beings should be accessible to a framework, where the entirety of arguments and justification are collected, where everyone can make claims and give justification, and where no one could make any conclusion. It is the epistemic constitution, the ultimate truth generator.  
+A11. Before achieving so, we cannot make any conclusion about anything.  
+A12. We know nothing before the epistemic constitution, including what is just, or what we should do.  
 A13. Knowledge is only possible with the constitution.  
 A14. Justice is only possible with the constitution. 
 
