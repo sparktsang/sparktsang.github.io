@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Life
+description: How the world is like
 image: assets/images/pic01.jpg
 nav-menu: true
 ---
