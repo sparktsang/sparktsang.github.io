@@ -37,7 +37,7 @@ A9. Also, no single rational being may have the authority to make a conclusion a
 A10. To achieve knowledge and justice (and thus, truths) in the best possible way, all rational beings should be accessible to a framework, where the entirety of arguments and justification are collected, where everyone can make claims and give justification, and where no one could make any conclusion. It is the epistemic constitution, the ultimate truth generator. 
 A11. Before achieving so, we cannot make any conclusion about anything. 
 A12. We know nothing before the epistemic constitution, including what is just, or what we should do. 
-A13. Knowledge is only possible with the constitution. 
+A13. Knowledge is only possible with the constitution.  
 A14. Justice is only possible with the constitution. 
 
 For all kinds of theories:
