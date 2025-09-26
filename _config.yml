@@ -1,7 +1,7 @@
 # site settings
 title: Spark Tsang
 email: cashtsang@gmail.com
-description: My Life, My Philosophy, My Works
+description: My Life is the evidence. My Philosophy is the law. My Works are the world to come.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sparktsang.github.io" # the base hostname & protocol for your site
 author: Spark Tsang
@@ -18,8 +18,8 @@ socials:
   GitHub: https://github.com/sparktsang
   envelope: mailto:cashtsang@gmail.com
   Facebook: https://www.facebook.com/spark.cs.tsang
-  telegram: https://t.me/Glorydeep
   WhatsApp: https://wa.me/85260814453
+  telegram: https://t.me/Glorydeep
 
 # build settings
 markdown: kramdown
