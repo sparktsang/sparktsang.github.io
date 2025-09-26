@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: |
+landing-title: >
   This is not a portfolio.
   It is an indictment, a constitution, and an epic.
 description: null
