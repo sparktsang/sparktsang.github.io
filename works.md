@@ -1,7 +1,7 @@
 ---
 title: Works
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: The means I change the world
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
