@@ -2,7 +2,7 @@
 layout: post
 title: Philosophy
 description: 'THE CONSTITUTION: How the World Should Be.'
-image: assets/images/pic11.jpg
+image: assets/images/refused_letter.png
 nav-menu: true
 ---
 
