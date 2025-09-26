@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Philosophy
-description: How the world should be
+description: THE CONSTITUTION: How the World Should Be.
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
