@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Philosophy
-description: Lorem ipsum dolor est
+description: How the world should be
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
