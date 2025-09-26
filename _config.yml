@@ -16,7 +16,10 @@ tiles-count: 6
 # You need to restart jekyll for changes to have an effect
 socials:
   GitHub: https://github.com/sparktsang
+  Email: cashtsang@gmail.com
   Facebook: https://www.facebook.com/spark.cs.tsang
+  Telegram: https://t.me/Glorydeep
+  WhatsApp: https://wa.me/85260814453
 
 # build settings
 markdown: kramdown
