@@ -6,6 +6,19 @@ image: assets/images/refused_letter_bing.jpeg
 nav-menu: true
 ---
 
+# The Constitution
+### *The First Principle of a Just World*
+
+---
+
+> All philosophies begin with a single question. Ours begins here. 
+>
+> The following argument is the cornerstone of a new epistemic framework. It is not one theory among many, but the very condition under which any theory can claim to be true. 
+>
+> It is the story of how our world structurally fails truth, and the axiomatic proof of the only possible remedy.
+
+<br>
+
 ## I. The Epistemic Constitution
 
 Amina, a Nepali prodigy trapped in extreme poverty, is constantly starving — but she survives. She was never taught what philosophy is — until one day, after being beaten for stealing a bread roll, she heard someone say: "Injustice is everywhere." She did not understand the word. She searched for a book that could define it — and found one. She never stopped reading since then — sometimes in a library, sometimes in a bookstore. She read through all the great works of philosophy. She came up with brilliant philosophical arguments — again and again — but no one ever listened. One night, hungry and defeated, she whispered to herself: "It's not just me. The whole world is built to ignore truth." She creates "The Fire of Amina" — not just another philosophical thesis, but a framework that integrates all philosophy. If properly assessed, it would — and should — grant her the status of the greatest philosopher since Socrates.
@@ -44,3 +57,14 @@ For all kinds of theories:
 1. Whatever you claim, do you claim your claim to be true? If not, you are just making some noise. Please proceed if yes. 
 2. Do you accept that your claim could be established to be wrong? If not, you make yourself an outsider of philosophical discussion. Please proceed if yes. 
 3. Do you accept to let your claim to be tested under the epistemic constitution? If not, again you are an outsider of philosophical discussion. If yes, you are welcome. 
+
+<br>
+<br>
+
+---
+
+<br>
+
+> The logical consequences of this single argument are vast. They extend to every domain of human thought and action—from ethics and politics to science and economics. The rigorous proofs of how the great philosophical inquiries of history all converge upon this Constitution, and how this Constitution in turn provides the final verdict on our current economic and social systems, will be laid out in a forthcoming multi-volume work.
+>
+> **For now, the first principle has been established. The rest is an exercise in ruthless deduction.**
