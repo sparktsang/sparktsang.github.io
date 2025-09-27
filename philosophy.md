@@ -58,12 +58,7 @@ For all kinds of theories:
 2. Do you accept that your claim could be established to be wrong? If not, you make yourself an outsider of philosophical discussion. Please proceed if yes. 
 3. Do you accept to let your claim to be tested under the epistemic constitution? If not, again you are an outsider of philosophical discussion. If yes, you are welcome. 
 
-<br>
-<br>
-
 ---
-
-<br>
 
 > The logical consequences of this single argument are vast. They extend to every domain of human thought and action—from ethics and politics to science and economics. The rigorous proofs of how the great philosophical inquiries of history all converge upon this Constitution, and how this Constitution in turn provides the final verdict on our current economic and social systems, will be laid out in a forthcoming multi-volume work.
 >
