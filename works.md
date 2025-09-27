@@ -2,7 +2,7 @@
 title: Works
 layout: landing
 description: "THE EPIC: How the World Will Be."
-image: assets/images/weaving_world.png
+image: assets/images/weaving_world_leonardo_4.jpg
 nav-menu: true
 ---
 
