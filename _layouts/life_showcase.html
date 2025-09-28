@@ -3,27 +3,48 @@
 <head>
     {% include head.html %}
     <style>
-        /* ===== 背景局部 override ===== */
+        /* ===== 背景延伸全版 ===== */
         body {
-            background: linear-gradient(to bottom, #2a2338, #282c34);
+            background: url('{{ site.baseurl }}/{{ page.image }}') center center / cover no-repeat fixed;
+            position: relative;
         }
+
+        /* 覆蓋掉 _banner.scss 嘅顏色，避免藍灰色 */
+        #main.gallery-main, #banner {
+            background: none !important;
+        }
+
+        /* 全版濾鏡 */
+        body::before {
+            content: "";
+            position: fixed;
+            top: 0; left: 0; right: 0; bottom: 0;
+            background: rgba(0,0,0,0.55); /* 保留黑色濾鏡效果 */
+            z-index: 0;
+        }
+
+        /* Banner 區本身保持文字置中 */
+        #banner {
+            position: relative;
+            z-index: 1;
+            padding: 8em 2em; /* 保持現有間距 */
+        }
+
+        /* ===== Life showcase 專屬佈局 ===== */
         #main.gallery-main {
-            background: none !important; /* 覆蓋 _main.scss 嘅藍灰色 */
             max-width: 1400px;
             margin: 0 auto;
             padding: 4em 2em;
+            position: relative;
+            z-index: 1; /* 確保喺濾鏡之上 */
         }
         #main.gallery-main > section {
-            padding: 0;
-            border: none;
-            background: none;
             display: grid;
             grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
             grid-gap: 6em;
             justify-items: center;
         }
 
-        /* ===== 碎片方塊 ===== */
         .post-fragment {
             position: relative;
             width: 220px;
@@ -39,50 +60,37 @@
             z-index: 2;
         }
 
-        /* ===== 點擊區 ===== */
         .post-fragment .click-area {
             position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
+            top: 0; left: 0;
+            width: 100%; height: 100%;
             z-index: 3;
         }
 
-        /* ===== 浮動資訊框 ===== */
         .info-popup {
             position: absolute;
-            background: rgba(30, 34, 40, 0.95);
+            background: rgba(20,20,25,0.95);
             padding: 1em 1.5em;
             border-radius: 10px;
             box-shadow: 0 8px 25px rgba(0,0,0,0.6);
             opacity: 0;
             transition: opacity 0.3s ease, transform 0.3s ease;
-            z-index: 9999; /* 一定浮喺最上層 */
+            z-index: 9999;
             min-width: 200px;
             max-width: 280px;
             pointer-events: none;
         }
-        .info-popup h2 {
-            font-size: 1.1em;
-            margin: 0 0 0.4em 0;
-            color: #fff;
-        }
-        .info-popup p {
-            margin: 0.2em 0;
-            color: rgba(255,255,255,0.85);
-        }
-        .post-fragment:hover .info-popup {
-            opacity: 1;
-        }
+        .info-popup h2 { font-size: 1.1em; margin: 0 0 0.4em; color: #fff; }
+        .info-popup p { margin: 0.2em 0; color: rgba(255,255,255,0.85); }
+        .post-fragment:hover .info-popup { opacity: 1; }
     </style>
 </head>
 
 <body>
     {% include header.html %}
 
-    <!-- Banner 保持不變 -->
-    <section id="banner" style="background-image: url('{{ site.baseurl }}/{{ page.image }}');">
+    <!-- Banner （文字部分仍然保留，但背景已延伸至全版） -->
+    <section id="banner">
         <div class="inner">
             <header class="major">
                 <h1>{{ page.title }}</h1>
@@ -93,7 +101,7 @@
         </div>
     </section>
 
-    <!-- 主要內容區：碎片化佈局 -->
+    <!-- 主要內容區 -->
     <div id="main" class="gallery-main">
         <section>
             {% assign life_posts = site.posts | where: "category", "Life" | reverse %}
@@ -112,10 +120,10 @@
 
     {% include footer.html %}
 
-    <!-- JS 加隨機散落效果 -->
+    <!-- 隨機散落效果 -->
     <script>
         document.querySelectorAll('.post-fragment').forEach(el => {
-            const offsetX = Math.floor(Math.random() * 80) - 40; // -40px ~ +40px
+            const offsetX = Math.floor(Math.random() * 80) - 40;
             const offsetY = Math.floor(Math.random() * 80) - 40;
             el.style.transform = `translate(${offsetX}px, ${offsetY}px)`;
             el.addEventListener('mouseenter', () => {
