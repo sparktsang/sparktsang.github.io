@@ -3,115 +3,70 @@
 <head>
     {% include head.html %}
     <!-- =================================================================
-    === 「畫廊」佈局專用 CSS - 修正衝突版
+    === CSS 修正：直接攻擊 Header 預設樣式，並為全局背景加上濾鏡
     ================================================================== -->
     <style>
-        /* 1. 創建我哋嘅「畫布」(.page-wrapper) */
-        .page-wrapper {
-            position: relative; /* 讓內部元素可以相對於佢定位 */
-            background-size: cover;
-            background-position: center center;
-            background-attachment: fixed; /* 固定背景 */
-            background-repeat: no-repeat;
+        /* 1. 【核心修正】強制將內頁 header 嘅背景變透明，消滅「陰魂」 */
+        body:not(.is-front) header#header {
+            background-color: transparent !important;
+            /* 下面呢兩句係用嚟移除 header 預設嘅頂圖 */
+            background-image: none !important;
+            border-bottom: none !important;
         }
 
-        /* 2. 【核心修正】強制將 #main 嘅背景變透明 */
+        /* 2. 【核心修正】為我哋嘅「畫布」加上深色濾鏡 */
+        .page-wrapper::before {
+            content: '';
+            position: fixed; /* 用 fixed 令佢覆蓋全螢幕 */
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(20, 25, 30, 0.6); /* 60% 透明度嘅深灰色濾鏡 */
+            z-index: -1; /* 將濾鏡放喺背景圖之上，但喺所有內容之下 */
+        }
+        .page-wrapper {
+            position: relative;
+            background-size: cover;
+            background-position: center center;
+            background-attachment: fixed;
+            background-repeat: no-repeat;
+        }
+        
+        /* 3. 強制將 #main 嘅背景變透明，確保濾鏡同背景可以透出嚟 */
         #main.gallery-main {
-            background-color: transparent !important; /* !important 確保最高優先級 */
+            background-color: transparent !important;
             max-width: 1200px;
             margin: 0 auto;
             padding: 4em 2em;
         }
-        
-        /* 3. 【核心修正】確保 Banner 區域都係透明 */
-        #banner {
-            background-color: transparent !important;
-        }
-        
-        #main.gallery-main > section,
-        #banner {
-            border: none;
-            padding-top: 0;
-            padding-bottom: 0;
-        }
+        #main.gallery-main > section, #banner { border: none; padding-top:0; padding-bottom:0; }
         
         /* 4. Banner 內文區域，保持原有佈局 */
-        #banner .inner {
-            padding: 8em 0 6em 0; /* 確保同之前有足夠空間 */
-        }
+        #banner { background-color: transparent !important; }
+        #banner .inner { padding: 8em 0 6em 0; }
         
-        /* --- 以下係碎片樣式，大部分不變 --- */
+        /* --- 以下係碎片樣式，完全不變 --- */
         
-        .post-fragment {
-            position: relative;
-            background-size: cover;
-            background-position: center center;
-            margin-bottom: 4em;
-            min-height: 60vh;
-            width: 85%;
-            box-shadow: 0 10px 30px rgba(0,0,0,0.3);
-            transition: transform 0.3s ease-out;
-        }
-
-        .post-fragment:nth-child(odd) {
-            margin-left: 0;
-            margin-right: auto;
-        }
-        .post-fragment:nth-child(even) {
-            margin-left: auto;
-            margin-right: 0;
-        }
-        .post-fragment:hover {
-            transform: scale(1.02);
-        }
-
-        .post-fragment .text-content {
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            background-color: rgba(20, 25, 30, 0.8);
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-            align-items: center;
-            text-align: center;
-            padding: 2em;
-            opacity: 0;
-            transition: opacity 0.4s ease;
-        }
-
-        .post-fragment:hover .text-content {
-            opacity: 1;
-        }
-        
-        .post-fragment .text-content h2,
-        .post-fragment .text-content p {
-            color: #ffffff !important;
-        }
-        .post-fragment .text-content h2 { font-size: 2em !important; }
-        .post-fragment .text-content p { max-width: 80%; }
-
-        .post-fragment .click-area {
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            z-index: 3;
-        }
+        .post-fragment{position:relative;background-size:cover;background-position:center center;margin-bottom:4em;min-height:60vh;width:85%;box-shadow:0 10px 30px rgba(0,0,0,0.3);transition:transform .3s ease-out}
+        .post-fragment:nth-child(odd){margin-left:0;margin-right:auto}
+        .post-fragment:nth-child(even){margin-left:auto;margin-right:0}
+        .post-fragment:hover{transform:scale(1.02)}
+        .post-fragment .text-content{position:absolute;top:0;left:0;width:100%;height:100%;background-color:rgba(20,25,30,0.8);display:flex;flex-direction:column;justify-content:center;align-items:center;text-align:center;padding:2em;opacity:0;transition:opacity .4s ease}
+        .post-fragment:hover .text-content{opacity:1}
+        .post-fragment .text-content h2,.post-fragment .text-content p{color:#fff!important}
+        .post-fragment .text-content h2{font-size:2em!important}
+        .post-fragment .text-content p{max-width:80%}
+        .post-fragment .click-area{position:absolute;top:0;left:0;width:100%;height:100%;z-index:3}
     </style>
 </head>
 
 <body>
 
-    <!-- 【核心改動】創建 page-wrapper 作為我哋嘅畫布，並直接用 inline style 設定背景圖 -->
     <div class="page-wrapper" style="background-image: url('{{ site.baseurl }}/{{ page.image }}');">
 
         {% include header.html %}
 
-        <!-- Banner - 佢嘅作用只係定位文字 -->
         <section id="banner">
             <div class="inner">
                 <header class="major">
@@ -123,7 +78,6 @@
             </div>
         </section>
 
-        <!-- 主要內容區 -->
         <div id="main" class="gallery-main">
             <section>
                 {% assign life_posts = site.posts | where: "category", "Life" | reverse %}
@@ -142,7 +96,7 @@
 
         {% include footer.html %}
 
-    </div> <!-- 結束 .page-wrapper -->
+    </div>
 
 </body>
 </html>
