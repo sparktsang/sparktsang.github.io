@@ -3,35 +3,25 @@
 <head>
     {% include head.html %}
     <style>
-        /* ===== 背景延伸全版 ===== */
+        /* ===== 背景設定 (保持不變) ===== */
         body {
             background: url('{{ site.baseurl }}/{{ page.image }}') center center / cover no-repeat fixed;
             position: relative;
         }
-        #main.gallery-main, #banner {
-            background: none !important;
-        }
         body::before {
             content: "";
-            position: fixed;
-            top: 0; left: 0; right: 0; bottom: 0;
+            position: fixed; top: 0; left: 0; right: 0; bottom: 0;
             background: rgba(20,20,20,0.85);
-            z-index: 0;
+            z-index: -1; /* 將遮罩放喺最底層 */
         }
-        #banner {
-            position: relative;
-            z-index: 1;
-            padding: 8em 2em;
-        }
-        #banner:after { background: none !important; }
+        #main.gallery-main, #banner { background: none !important; }
+        #banner { padding: 8em 2em; }
 
-        /* ===== Life showcase ===== */
+        /* ===== Life showcase 佈局 (保持不變) ===== */
         #main.gallery-main {
             max-width: 1400px;
             margin: 0 auto;
             padding: 4em 2em;
-            position: relative;
-            z-index: 1;
         }
         #main.gallery-main > section {
             display: grid;
@@ -40,8 +30,9 @@
             justify-items: center;
         }
 
+        /* ===== 碎片方塊 (保持不變) ===== */
         .post-fragment {
-            position: relative;
+            position: relative; /* <<< 核心：作為 popup 嘅定位參考點 */
             width: 220px;
             height: 220px;
             background-size: cover;
@@ -52,98 +43,71 @@
         }
         .post-fragment:hover {
             transform: scale(1.05);
-            z-index: 2;
+            z-index: 10;
         }
         .post-fragment .click-area {
-            position: absolute;
-            top: 0; left: 0;
+            position: absolute; top: 0; left: 0;
             width: 100%; height: 100%;
             z-index: 3;
         }
-        
-        /* ===== 精靈 Popup (Ghost Popup) ===== */
+
+        /* ===== 精靈 Popup (全新智能定位版本) ===== */
         .info-popup {
-            position: fixed; /* 核心改動：改為 fixed，相對於整個瀏覽器視窗定位 */
+            position: absolute; /* <<< 核心改動：相對於 post-fragment 定位 */
+            top: 50%;
+            transform: translateY(-50%); /* 垂直置中對齊 */
             opacity: 0;
-            z-index: 9999;
-            pointer-events: none; /* 確保佢唔會阻擋滑鼠事件 */
+            z-index: -1; /* 預設喺圖片後面，避免影響 hover */
+            pointer-events: none;
             
-            /* 文字風格保持不變 */
+            /* 文字風格 */
             font-family: "Courier New", monospace;
+            font-size: 0.9em;
+            font-weight: bold;
             color: #5eead4;
             text-shadow: 0 0 5px rgba(94,234,212,0.8),
                          0 0 15px rgba(94,234,212,0.6);
             
-            /* 動畫效果 */
-            transition: opacity 0.3s ease-out, transform 0.3s ease-out;
-            transform: translateY(20px); /* 預設向下偏移，營造向上浮現效果 */
+            transition: opacity 0.3s ease-out;
         }
         
-        /* 當所屬嘅 post-fragment 被 hover 時，popup 先顯示 */
-        .post-fragment:hover .info-popup {
-            opacity: 1;
-            transform: translateY(0); /* 向上浮現到原位 */
+        /* ===== 核心改動：智能定位 ===== */
+        /* 當碎片係單數 (喺左邊)，popup 就喺右邊出現 */
+        .post-fragment:nth-child(odd) .info-popup {
+            left: 115%; /* 喺碎片右邊 15% 嘅距離 */
+            text-align: left;
         }
-        
-        /* ===== Popup 內部結構 ===== */
-        .info-popup div {
-            white-space: nowrap; /* 確保打字效果唔會換行 */
-            overflow: hidden;
-            border-right: 2px solid #5eead4; /* 打字游標 */
-            animation: caret 0.7s infinite;
-        }
-        .info-popup div:not(:last-child) {
-            margin-bottom: 0.8em; /* 項目之間嘅距離 */
-        }
-        /* 日期 */
-        .info-popup div:nth-child(1) { 
-            font-size: 0.8em;
-            opacity: 0.7;
-        }
-        /* 標題 */
-        .info-popup div:nth-child(2) {
-            font-size: 1.2em;
-            font-weight: bold;
-        }
-        /* 副標題 */
-        .info-popup div:nth-child(3) {
-            font-size: 0.9em;
-            font-style: italic;
-            white-space: normal; /* 副標題可以比較長，允許佢換行 */
-            border-right: none; /* 副標題打完字就唔需要游標 */
-            animation: none;
+        /* 當碎片係雙數 (喺右邊)，popup 就喺左邊出現 */
+        .post-fragment:nth-child(even) .info-popup {
+            right: 115%; /* 喺碎片左邊 15% 嘅距離 */
+            text-align: right;
         }
 
-        /* 打字效果 */
-        .typing {
-            display: inline-block;
-            border-right: 2px solid #5eead4;
-            white-space: nowrap;
-            overflow: hidden;
-            animation: caret 0.7s infinite;
+        .post-fragment:hover .info-popup {
+            opacity: 1;
+            z-index: 20; /* 顯示時提到最上層 */
         }
-        @keyframes caret {
-            50% { border-color: transparent; }
-        }
+        
+        /* ===== Popup 內部結構 (同之前一樣) ===== */
+        .info-popup div { white-space: nowrap; overflow: hidden; border-right: 2px solid #5eead4; animation: caret 0.7s infinite; }
+        .info-popup div:not(:last-child) { margin-bottom: 0.8em; }
+        .info-popup div:nth-child(1) { font-size: 0.8em; opacity: 0.7; }
+        .info-popup div:nth-child(2) { font-size: 1.2em; font-weight: bold; }
+        .info-popup div:nth-child(3) { font-size: 0.9em; font-style: italic; white-space: normal; border-right: none; animation: none; }
+        @keyframes caret { 50% { border-color: transparent; } }
+
     </style>
 </head>
 
 <body>
     {% include header.html %}
-
-    <!-- Banner -->
     <section id="banner">
         <div class="inner">
-            <header class="major">
-                <h1>{{ page.title }}</h1>
-            </header>
-            <div class="content">
-                <p>{{ page.description }}</p>
-            </div>
+            <header class="major"><h1>{{ page.title }}</h1></header>
+            <div class="content"><p>{{ page.description }}</p></div>
         </div>
     </section>
 
-    <!-- Showcase -->
     <div id="main" class="gallery-main">
         <section>
             {% assign life_posts = site.posts | where: "category", "Life" | reverse %}
@@ -158,69 +122,42 @@
 
     {% include footer.html %}
 
-    <!-- 隨機散落 + 打字動畫 -->
+    <!-- ===== JS (極簡化版本) ===== -->
     <script>
-        // 隨機散落
-        document.querySelectorAll('.post-fragment').forEach(el => {
-            const offsetX = Math.floor(Math.random() * 80) - 40;
-            const offsetY = Math.floor(Math.random() * 80) - 40;
-            el.style.transform = `translate(${offsetX}px, ${offsetY}px)`;
-            el.addEventListener('mouseenter', () => {
-                el.style.transform = `translate(${offsetX}px, ${offsetY}px) scale(1.05)`;
-            });
-            el.addEventListener('mouseleave', () => {
-                el.style.transform = `translate(${offsetX}px, ${offsetY}px)`;
-            });
-        });
-
-        // 打字動畫
+        // 打字動畫函數 (保持不變)
         function typeText(element, text, speed = 25, callback) {
-            element.textContent = "";
-            let i = 0;
+            element.textContent = ""; let i = 0;
             function typing() {
                 if (i < text.length) {
-                    element.textContent += text.charAt(i);
-                    i++;
+                    element.textContent += text.charAt(i); i++;
                     setTimeout(typing, speed);
-                } else {
-                    if (callback) callback(element); // 當打字完成時，執行回呼函數
-                }
+                } else { if (callback) callback(element); }
             }
             typing();
         }
-        
+
         document.querySelectorAll('.post-fragment').forEach(fragment => {
             const popup = fragment.querySelector('.info-popup');
             const title = popup.dataset.title;
             const subtitle = popup.dataset.subtitle;
             const date = popup.dataset.date;
-            let typingTimeout; // 用嚟儲存計時器
-        
-            // == 核心改動：監聽滑鼠移入事件，並捕捉 event 物件 ==
-            fragment.addEventListener('mouseenter', (event) => {
-                // 1. 設定 Popup 位置喺滑鼠右邊
-                popup.style.left = `${event.clientX + 30}px`; // X 坐標 + 30px 偏移
-                popup.style.top = `${event.clientY}px`; // Y 坐標
-        
-                // 2. 清空並重建 Popup 內容
+            let typingTimeout;
+
+            // JS 依家只負責動畫，唔再負責定位
+            fragment.addEventListener('mouseenter', () => {
                 popup.innerHTML = "";
                 const d = document.createElement("div");
                 const t = document.createElement("div");
                 const s = document.createElement("div");
-                popup.appendChild(d);
-                popup.appendChild(t);
-                popup.appendChild(s);
-        
-                // 3. 依序執行打字，並喺最後一個完成時移除游標
-                clearTimeout(typingTimeout); // 清除之前可能未完成嘅計時
+                popup.appendChild(d); popup.appendChild(t); popup.appendChild(s);
+
+                clearTimeout(typingTimeout);
                 typeText(d, date, 20);
                 typingTimeout = setTimeout(() => {
                     typeText(t, title, 15);
                     typingTimeout = setTimeout(() => {
                         typeText(s, subtitle, 20, (el) => {
-                            // 呢個係回呼函數，當副標題打完後先會執行
-                            el.style.borderRight = 'none';
-                            el.style.animation = 'none';
+                            el.style.borderRight = 'none'; el.style.animation = 'none';
                         });
                     }, title.length * 20);
                 }, date.length * 25);
