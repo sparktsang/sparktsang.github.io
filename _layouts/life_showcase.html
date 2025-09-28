@@ -3,100 +3,133 @@
 <head>
     {% include head.html %}
     <!-- =================================================================
-    === CSS 修正：直接攻擊 Header 預設樣式，並為全局背景加上濾鏡
+    === 全新「碎片化 / 畫廊」佈局專用 CSS
     ================================================================== -->
     <style>
-        /* 1. 【核心修正】強制將內頁 header 嘅背景變透明，消滅「陰魂」 */
-        body:not(.is-front) header#header {
-            background-color: transparent !important;
-            /* 下面呢兩句係用嚟移除 header 預設嘅頂圖 */
-            background-image: none !important;
-            border-bottom: none !important;
+        /* 1. 設定主背景，營造「留白」空間 */
+        body {
+            /* 顏色可以跟你 header/footer 嘅深色一致 */
+            background-color: #1c2024; 
         }
 
-        /* 2. 【核心修正】為我哋嘅「畫布」加上深色濾鏡 */
-        .page-wrapper::before {
-            content: '';
-            position: fixed; /* 用 fixed 令佢覆蓋全螢幕 */
+        /* 2. 限制主要內容區嘅寬度，創造左右留白 */
+        #main.gallery-main {
+            max-width: 1200px; /* 限制最大寬度 */
+            margin: 0 auto; /* 置中 */
+            padding: 4em 2em; /* 上下左右留少少空間 */
+        }
+        
+        #main.gallery-main > section {
+            padding: 0;
+            border: none;
+        }
+
+        /* 3. 「碎片」嘅基礎樣式 */
+        .post-fragment {
+            position: relative;
+            background-size: cover;
+            background-position: center center;
+            margin-bottom: 4em; /* 碎片之間嘅垂直距離 */
+            min-height: 60vh; /* 碎片嘅高度，避免太壓迫 */
+            width: 85%; /* 碎片嘅寬度，唔會填滿晒 */
+            box-shadow: 0 10px 30px rgba(0,0,0,0.3); /* 加陰影，營造懸浮感 */
+            transition: transform 0.3s ease-out; /* 為 hover 效果加動畫 */
+        }
+
+        /* 4. 實現左右交錯嘅「破碎感」佈局 */
+        .post-fragment:nth-child(odd) {
+            margin-left: 0;
+            margin-right: auto;
+        }
+        .post-fragment:nth-child(even) {
+            margin-left: auto;
+            margin-right: 0;
+        }
+        .post-fragment:hover {
+            transform: scale(1.02); /* 滑鼠移過去時輕微放大 */
+        }
+
+        /* 5. 文字內容嘅容器：預設係完全透明 */
+        .post-fragment .text-content {
+            position: absolute;
             top: 0;
             left: 0;
             width: 100%;
             height: 100%;
-            background-color: rgba(20, 25, 30, 0.6); /* 60% 透明度嘅深灰色濾鏡 */
-            z-index: -1; /* 將濾鏡放喺背景圖之上，但喺所有內容之下 */
+            background-color: rgba(20, 25, 30, 0.8); /* 深色遮罩，確保文字清晰 */
+            display: flex;
+            flex-direction: column;
+            justify-content: center; /* 垂直置中 */
+            align-items: center; /* 水平置中 */
+            text-align: center;
+            padding: 2em;
+            opacity: 0; /* <<< 核心：預設睇唔到 */
+            transition: opacity 0.4s ease; /* <<< 核心：為顯示效果加動畫 */
         }
-        .page-wrapper {
-            position: relative;
-            background-size: cover;
-            background-position: center center;
-            background-attachment: fixed;
-            background-repeat: no-repeat;
+
+        /* 6. 當滑鼠指向任何「碎片」時，文字內容先浮現 */
+        .post-fragment:hover .text-content {
+            opacity: 1; /* <<< 核心：Hover 時變得可見 */
         }
         
-        /* 3. 強制將 #main 嘅背景變透明，確保濾鏡同背景可以透出嚟 */
-        #main.gallery-main {
-            background-color: transparent !important;
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 4em 2em;
+        /* 7. 文字樣式 */
+        .post-fragment .text-content h2 {
+            color: #ffffff !important;
+            font-size: 2em !important;
         }
-        #main.gallery-main > section, #banner { border: none; padding-top:0; padding-bottom:0; }
-        
-        /* 4. Banner 內文區域，保持原有佈局 */
-        #banner { background-color: transparent !important; }
-        #banner .inner { padding: 8em 0 6em 0; }
-        
-        /* --- 以下係碎片樣式，完全不變 --- */
-        
-        .post-fragment{position:relative;background-size:cover;background-position:center center;margin-bottom:4em;min-height:60vh;width:85%;box-shadow:0 10px 30px rgba(0,0,0,0.3);transition:transform .3s ease-out}
-        .post-fragment:nth-child(odd){margin-left:0;margin-right:auto}
-        .post-fragment:nth-child(even){margin-left:auto;margin-right:0}
-        .post-fragment:hover{transform:scale(1.02)}
-        .post-fragment .text-content{position:absolute;top:0;left:0;width:100%;height:100%;background-color:rgba(20,25,30,0.8);display:flex;flex-direction:column;justify-content:center;align-items:center;text-align:center;padding:2em;opacity:0;transition:opacity .4s ease}
-        .post-fragment:hover .text-content{opacity:1}
-        .post-fragment .text-content h2,.post-fragment .text-content p{color:#fff!important}
-        .post-fragment .text-content h2{font-size:2em!important}
-        .post-fragment .text-content p{max-width:80%}
-        .post-fragment .click-area{position:absolute;top:0;left:0;width:100%;height:100%;z-index:3}
+        .post-fragment .text-content p {
+            color: rgba(255, 255, 255, 0.8) !important;
+            max-width: 80%; /* 避免副標題太闊 */
+        }
+
+        /* 8. 實現「全區域點擊」嘅魔法 */
+        .post-fragment .click-area {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: 3; /* 確保喺最上層，可以被點擊 */
+        }
     </style>
 </head>
 
 <body>
+    {% include header.html %}
 
-    <div class="page-wrapper" style="background-image: url('{{ site.baseurl }}/{{ page.image }}');">
-
-        {% include header.html %}
-
-        <section id="banner">
-            <div class="inner">
-                <header class="major">
-                    <h1>{{ page.title }}</h1>
-                </header>
-                <div class="content">
-                    <p>{{ page.description }}</p>
-                </div>
+    <!-- Banner (不變) -->
+    <section id="banner" style="background-image: url('{{ site.baseurl }}/{{ page.image }}');">
+        <div class="inner">
+            <header class="major">
+                <h1>{{ page.title }}</h1>
+            </header>
+            <div class="content">
+                <p>{{ page.description }}</p>
             </div>
-        </section>
-
-        <div id="main" class="gallery-main">
-            <section>
-                {% assign life_posts = site.posts | where: "category", "Life" | reverse %}
-                {% for post in life_posts %}
-                    <article class="post-fragment" style="background-image: url('{{ site.baseurl }}/{{ post.image }}');">
-                        <a href="{{ post.url | relative_url }}" class="click-area" aria-label="{{ post.title }}"></a>
-                        <div class="text-content">
-                            <h2>{{ post.title }}</h2>
-                            <p>{{ post.subtitle }}</p>
-                            <p><small>{{ post.date | date: "%Y-%m-%d" }}</small></p>
-                        </div>
-                    </article>
-                {% endfor %}
-            </section>
         </div>
+    </section>
 
-        {% include footer.html %}
-
+    <!-- 主要內容區：全新嘅「畫廊」佈局 -->
+    <div id="main" class="gallery-main">
+        <section>
+            {% assign life_posts = site.posts | where: "category", "Life" | reverse %}
+            {% for post in life_posts %}
+                <!-- 每一篇文章都係一個獨立嘅「碎片」 -->
+                <article class="post-fragment" style="background-image: url('{{ site.baseurl }}/{{ post.image }}');">
+                    <!-- 呢個 a tag 就係隱形嘅點擊區域 -->
+                    <a href="{{ post.url | relative_url }}" class="click-area" aria-label="{{ post.title }}"></a>
+                    
+                    <!-- 文字內容預設係隱藏 -->
+                    <div class="text-content">
+                        <h2>{{ post.title }}</h2>
+                        <p>{{ post.subtitle }}</p>
+                        <p><small>{{ post.date | date: "%Y-%m-%d" }}</small></p>
+                    </div>
+                </article>
+            {% endfor %}
+        </section>
     </div>
 
+    {% include footer.html %}
 </body>
 </html>
