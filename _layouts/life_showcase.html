@@ -3,31 +3,45 @@
 <head>
     {% include head.html %}
     <!-- =================================================================
-    === 「碎片化 / 畫廊」佈局專用 CSS - 已更新
+    === 「畫廊」佈局專用 CSS - 修正衝突版
     ================================================================== -->
     <style>
-        /* 1. 【核心改動】將 banner 圖片設為整個頁面嘅固定背景 */
-        body.life-showcase-body {
-            background-image: url('{{ site.baseurl }}/{{ page.image }}');
+        /* 1. 創建我哋嘅「畫布」(.page-wrapper) */
+        .page-wrapper {
+            position: relative; /* 讓內部元素可以相對於佢定位 */
             background-size: cover;
             background-position: center center;
-            background-attachment: fixed; /* << 呢個屬性會令背景圖固定唔郁，內文向上滾動 */
+            background-attachment: fixed; /* 固定背景 */
             background-repeat: no-repeat;
         }
 
-        /* 2. 限制主要內容區嘅寬度，創造左右留白 */
+        /* 2. 【核心修正】強制將 #main 嘅背景變透明 */
         #main.gallery-main {
+            background-color: transparent !important; /* !important 確保最高優先級 */
             max-width: 1200px;
             margin: 0 auto;
             padding: 4em 2em;
         }
         
-        #main.gallery-main > section {
-            padding: 0;
-            border: none;
+        /* 3. 【核心修正】確保 Banner 區域都係透明 */
+        #banner {
+            background-color: transparent !important;
         }
-
-        /* 3. 「碎片」嘅基礎樣式 (不變) */
+        
+        #main.gallery-main > section,
+        #banner {
+            border: none;
+            padding-top: 0;
+            padding-bottom: 0;
+        }
+        
+        /* 4. Banner 內文區域，保持原有佈局 */
+        #banner .inner {
+            padding: 8em 0 6em 0; /* 確保同之前有足夠空間 */
+        }
+        
+        /* --- 以下係碎片樣式，大部分不變 --- */
+        
         .post-fragment {
             position: relative;
             background-size: cover;
@@ -39,7 +53,6 @@
             transition: transform 0.3s ease-out;
         }
 
-        /* 4. 實現左右交錯嘅「破碎感」佈局 (不變) */
         .post-fragment:nth-child(odd) {
             margin-left: 0;
             margin-right: auto;
@@ -52,7 +65,6 @@
             transform: scale(1.02);
         }
 
-        /* 5. 文字內容嘅容器 (不變) */
         .post-fragment .text-content {
             position: absolute;
             top: 0;
@@ -70,22 +82,17 @@
             transition: opacity 0.4s ease;
         }
 
-        /* 6. 當滑鼠指向任何「碎片」時，文字內容先浮現 (不變) */
         .post-fragment:hover .text-content {
             opacity: 1;
         }
         
-        /* 7. 文字樣式 (不變) */
-        .post-fragment .text-content h2 {
-            color: #ffffff !important;
-            font-size: 2em !important;
-        }
+        .post-fragment .text-content h2,
         .post-fragment .text-content p {
-            color: rgba(255, 255, 255, 0.8) !important;
-            max-width: 80%;
+            color: #ffffff !important;
         }
+        .post-fragment .text-content h2 { font-size: 2em !important; }
+        .post-fragment .text-content p { max-width: 80%; }
 
-        /* 8. 實現「全區域點擊」嘅魔法 (不變) */
         .post-fragment .click-area {
             position: absolute;
             top: 0;
@@ -97,40 +104,45 @@
     </style>
 </head>
 
-<!-- 【核心改動】喺 body 加入一個 class，方便 CSS 對佢進行操作 -->
-<body class="life-showcase-body">
+<body>
 
-    {% include header.html %}
+    <!-- 【核心改動】創建 page-wrapper 作為我哋嘅畫布，並直接用 inline style 設定背景圖 -->
+    <div class="page-wrapper" style="background-image: url('{{ site.baseurl }}/{{ page.image }}');">
 
-    <!-- Banner - 【核心改動】移除咗 inline style，令佢變透明，只係用嚟定位文字 -->
-    <section id="banner">
-        <div class="inner">
-            <header class="major">
-                <h1>{{ page.title }}</h1>
-            </header>
-            <div class="content">
-                <p>{{ page.description }}</p>
+        {% include header.html %}
+
+        <!-- Banner - 佢嘅作用只係定位文字 -->
+        <section id="banner">
+            <div class="inner">
+                <header class="major">
+                    <h1>{{ page.title }}</h1>
+                </header>
+                <div class="content">
+                    <p>{{ page.description }}</p>
+                </div>
             </div>
-        </div>
-    </section>
-
-    <!-- 主要內容區 (HTML 結構完全不變) -->
-    <div id="main" class="gallery-main">
-        <section>
-            {% assign life_posts = site.posts | where: "category", "Life" | reverse %}
-            {% for post in life_posts %}
-                <article class="post-fragment" style="background-image: url('{{ site.baseurl }}/{{ post.image }}');">
-                    <a href="{{ post.url | relative_url }}" class="click-area" aria-label="{{ post.title }}"></a>
-                    <div class="text-content">
-                        <h2>{{ post.title }}</h2>
-                        <p>{{ post.subtitle }}</p>
-                        <p><small>{{ post.date | date: "%Y-%m-%d" }}</small></p>
-                    </div>
-                </article>
-            {% endfor %}
         </section>
-    </div>
 
-    {% include footer.html %}
+        <!-- 主要內容區 -->
+        <div id="main" class="gallery-main">
+            <section>
+                {% assign life_posts = site.posts | where: "category", "Life" | reverse %}
+                {% for post in life_posts %}
+                    <article class="post-fragment" style="background-image: url('{{ site.baseurl }}/{{ post.image }}');">
+                        <a href="{{ post.url | relative_url }}" class="click-area" aria-label="{{ post.title }}"></a>
+                        <div class="text-content">
+                            <h2>{{ post.title }}</h2>
+                            <p>{{ post.subtitle }}</p>
+                            <p><small>{{ post.date | date: "%Y-%m-%d" }}</small></p>
+                        </div>
+                    </article>
+                {% endfor %}
+            </section>
+        </div>
+
+        {% include footer.html %}
+
+    </div> <!-- 結束 .page-wrapper -->
+
 </body>
 </html>
