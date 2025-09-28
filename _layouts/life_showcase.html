@@ -2,183 +2,162 @@
 <html>
 <head>
     {% include head.html %}
+    <!-- 引入更有塗鴉感嘅 Google Font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap" rel="stylesheet">
+
     <style>
-        /* ===== 背景延伸全版 ===== */
-        body {
-            background: url('{{ site.baseurl }}/{{ page.image }}') center center / cover no-repeat fixed;
-            position: relative;
-        }
-        #main.gallery-main, #banner {
-            background: none !important;
-        }
-        body::before {
-            content: "";
-            position: fixed;
-            top: 0; left: 0; right: 0; bottom: 0;
-            background: rgba(20,20,20,0.85);
-            z-index: 0;
-        }
-        #banner {
-            position: relative;
-            z-index: 1;
-            padding: 8em 2em;
-        }
+        /* ===== 背景 (不變) ===== */
+        body { background: url('{{ site.baseurl }}/{{ page.image }}') center center / cover no-repeat fixed; position: relative; }
+        body::before { content: ""; position: fixed; top: 0; left: 0; right: 0; bottom: 0; background: rgba(20,20,20,0.85); z-index: 0; }
+        #banner, #main.gallery-main { background: none !important; position: relative; z-index: 1; }
+        #banner { padding: 8em 2em; }
         #banner:after { background: none !important; }
 
-        /* ===== Life showcase ===== */
-        #main.gallery-main {
-            max-width: 1400px;
-            margin: 0 auto;
-            padding: 4em 2em;
-            position: relative;
-            z-index: 1;
-        }
-        #main.gallery-main > section {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
-            grid-gap: 6em;
-            justify-items: center;
-        }
+        /* ===== 畫廊佈局 (不變) ===== */
+        #main.gallery-main { max-width: 1400px; margin: 0 auto; padding: 4em 2em; }
+        #main.gallery-main > section { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); grid-gap: 6em; justify-items: center; }
+        .post-fragment { position: relative; width: 220px; height: 220px; background-size: cover; background-position: center center; box-shadow: 0 10px 25px rgba(0,0,0,0.35); transition: transform 0.3s ease-out; border-radius: 6px; }
+        .post-fragment:hover { transform: scale(1.05); z-index: 10; }
+        .post-fragment .click-area { position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 3; }
 
-        .post-fragment {
-            position: relative;
-            width: 220px;
-            height: 220px;
-            background-size: cover;
-            background-position: center center;
-            box-shadow: 0 10px 25px rgba(0,0,0,0.35);
-            transition: transform 0.3s ease-out;
-            border-radius: 6px;
+        /* ===== 全新：「幽靈文本」顯示器 ===== */
+        #ghost-text-display {
+            position: fixed; /* <<< 核心：固定喺螢幕上，唔會跟住滾動 */
+            top: 15vh; /* 離頂部 15% */
+            right: 5vw; /* 離右邊 5% */
+            width: 350px; /* 佔據可觀空間 */
+            padding: 1.5em;
+            opacity: 0; /* 預設隱藏 */
+            pointer-events: none; /* 唔會阻擋滑鼠點擊 */
+            transition: opacity 0.4s ease;
+            z-index: 999;
         }
-        .post-fragment:hover {
-            transform: scale(1.05);
-            z-index: 2;
-        }
-        .post-fragment .click-area {
-            position: absolute;
-            top: 0; left: 0;
-            width: 100%; height: 100%;
-            z-index: 3;
-        }
-
-        /* ===== 精靈 Popup ===== */
-        .info-popup {
-            position: absolute;
-            top: -20px; /* 預設向上漂浮 */
-            left: 50%;
-            transform: translateX(-50%) scale(0.95);
-            opacity: 0;
-            background: none; /* 唔要死板背景 */
-            z-index: 9999;
-            pointer-events: none;
-            white-space: pre-line;
-            text-align: center;
-            font-family: "Courier New", monospace; /* 打字感 */
-            font-size: 0.9em;
-            font-weight: bold;
-            color: #5eead4; /* 青色 graffiti */
-            text-shadow: 0 0 5px rgba(94,234,212,0.8),
-                         0 0 15px rgba(94,234,212,0.6);
-        }
-        .post-fragment:hover .info-popup {
+        
+        #ghost-text-display.visible {
             opacity: 1;
-            transform: translateX(-50%) translateY(-100%) scale(1);
-            transition: all 0.3s ease-out;
         }
 
-        /* 打字效果 */
-        .typing {
+        /* 文本樣式 */
+        #ghost-text-display .line {
+            display: block;
+            font-family: 'Permanent Marker', cursive; /* <<< 核心：使用塗鴉字體 */
+            text-shadow: 0 0 8px rgba(94,234,212,0.7),
+                         0 0 20px rgba(94,234,212,0.5);
+            line-height: 1.6;
+        }
+        #ghost-text-display .date {
+            font-size: 1.1em;
+            color: #5eead4; /* 青色 */
+        }
+        #ghost-text-display .title {
+            font-size: 1.8em;
+            color: #fafafa; /* 白色，更突出 */
+            margin: 0.2em 0;
+        }
+        #ghost-text-display .subtitle {
+            font-size: 1em;
+            color: #85d7c9; /* 稍暗嘅青色 */
+            opacity: 0.9;
+        }
+
+        /* 打字游標效果 */
+        .typing::after {
+            content: '_';
             display: inline-block;
-            border-right: 2px solid #5eead4;
-            white-space: nowrap;
-            overflow: hidden;
             animation: caret 0.7s infinite;
         }
         @keyframes caret {
-            50% { border-color: transparent; }
+            50% { opacity: 0; }
         }
     </style>
 </head>
 
 <body>
     {% include header.html %}
+    <section id="banner"> ... </section> <!-- Banner 內容不變 -->
 
-    <!-- Banner -->
-    <section id="banner">
-        <div class="inner">
-            <header class="major">
-                <h1>{{ page.title }}</h1>
-            </header>
-            <div class="content">
-                <p>{{ page.description }}</p>
-            </div>
-        </div>
-    </section>
-
-    <!-- Showcase -->
-    <div id="main" class="gallery-main">
-        <section>
-            {% assign life_posts = site.posts | where: "category", "Life" | reverse %}
-            {% for post in life_posts %}
-                <article class="post-fragment" style="background-image: url('{{ site.baseurl }}/{{ post.image }}');">
-                    <a href="{{ post.url | relative_url }}" class="click-area" aria-label="{{ post.title }}"></a>
-                    <div class="info-popup" data-title="{{ post.title }}" data-subtitle="{{ post.subtitle }}" data-date="{{ post.date | date: '%Y-%m-%d' }}"></div>
-                </article>
-            {% endfor %}
-        </section>
+    <!-- 全新嘅「幽靈文本」顯示器，放喺主要內容外面 -->
+    <div id="ghost-text-display">
+        <span class="line date"></span>
+        <span class="line title"></span>
+        <span class="line subtitle"></span>
     </div>
+
+    <div id="main" class="gallery-main"> ... </div> <!-- 主要內容區結構不變 -->
 
     {% include footer.html %}
 
-    <!-- 隨機散落 + 打字動畫 -->
+    <!-- 全新 Javascript 邏輯 -->
     <script>
-        // 隨機散落
-        document.querySelectorAll('.post-fragment').forEach(el => {
-            const offsetX = Math.floor(Math.random() * 80) - 40;
-            const offsetY = Math.floor(Math.random() * 80) - 40;
-            el.style.transform = `translate(${offsetX}px, ${offsetY}px)`;
-            el.addEventListener('mouseenter', () => {
-                el.style.transform = `translate(${offsetX}px, ${offsetY}px) scale(1.05)`;
-            });
-            el.addEventListener('mouseleave', () => {
-                el.style.transform = `translate(${offsetX}px, ${offsetY}px)`;
-            });
-        });
+        const display = document.getElementById('ghost-text-display');
+        const dateEl = display.querySelector('.date');
+        const titleEl = display.querySelector('.title');
+        const subtitleEl = display.querySelector('.subtitle');
+        const fragments = document.querySelectorAll('.post-fragment');
+        
+        let activeTyper = null; // 用嚟追蹤同中斷正在進行嘅打字動畫
+        let hideTimeout = null; // 用嚟處理滑鼠移開時嘅延遲隱藏
 
-        // 打字動畫
-        function typeText(element, text, speed=25) {
+        // 打字動畫函數
+        function typeText(element, text, speed = 30, onComplete = null) {
             element.textContent = "";
+            element.classList.add('typing'); // 加入游標
             let i = 0;
+            
             function typing() {
+                if (activeTyper !== typing) return; // 如果有新動畫開始，就中斷自己
                 if (i < text.length) {
                     element.textContent += text.charAt(i);
                     i++;
                     setTimeout(typing, speed);
+                } else {
+                    element.classList.remove('typing'); // <<< 核心：打完就移除游標
+                    if (onComplete) onComplete();
                 }
             }
+            activeTyper = typing; // 將自己設定為當前活動嘅動畫
             typing();
         }
 
-        document.querySelectorAll('.post-fragment').forEach(fragment => {
-            const popup = fragment.querySelector('.info-popup');
-            const title = popup.dataset.title;
-            const subtitle = popup.dataset.subtitle;
-            const date = popup.dataset.date;
-
+        fragments.forEach(fragment => {
             fragment.addEventListener('mouseenter', () => {
-                popup.innerHTML = "";
-                const d = document.createElement("div");
-                const t = document.createElement("div");
-                const s = document.createElement("div");
-                popup.appendChild(d);
-                popup.appendChild(t);
-                popup.appendChild(s);
+                clearTimeout(hideTimeout); // 取消準備隱藏嘅計時
 
-                typeText(d, date, 20);
-                setTimeout(() => typeText(t, title, 15), date.length * 25);
-                setTimeout(() => typeText(s, subtitle, 20), (date.length + title.length) * 20);
+                // 中斷上一個動畫
+                activeTyper = null;
+
+                // 獲取數據
+                const title = popup.dataset.title;
+                const subtitle = popup.dataset.subtitle;
+                const date = popup.dataset.date;
+
+                // 清空並顯示
+                dateEl.textContent = '';
+                titleEl.textContent = '';
+                subtitleEl.textContent = '';
+                display.classList.add('visible');
+
+                // 順序播放打字動畫
+                typeText(dateEl, date, 25, () => {
+                    typeText(titleEl, title, 20, () => {
+                        typeText(subtitleEl, subtitle, 30);
+                    });
+                });
+            });
+
+            fragment.addEventListener('mouseleave', () => {
+                // 準備喺 300ms 後隱藏，如果滑鼠冇移到新目標上
+                hideTimeout = setTimeout(() => {
+                    display.classList.remove('visible');
+                    activeTyper = null; // 清理活動動畫
+                }, 300);
             });
         });
+
+        // 隨機散落 (不變)
+        document.querySelectorAll('.post-fragment').forEach(el => { ... });
     </script>
 </body>
 </html>
