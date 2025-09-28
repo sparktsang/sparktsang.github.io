@@ -32,7 +32,9 @@
                         <a href="{{ post.url | relative_url }}">
                             <h2>{{ post.title }}</h2>
                             <div class="content">
-                                <!-- 你可以喺度顯示日期或者副標題 -->
+                                <!-- 加入日期，並設定格式 -->
+                                <p>{{ post.date | date: "%Y-%m-%d" }}</p>
+                                <!-- 副標題可以放喺度 -->
                                 <p>{{ post.subtitle }}</p>
                             </div>
                         </a>
