@@ -174,7 +174,7 @@
         });
 
         // 打字動畫
-        function typeText(element, text, speed=25) {
+        function typeText(element, text, speed = 25, callback) {
             element.textContent = "";
             let i = 0;
             function typing() {
@@ -182,18 +182,27 @@
                     element.textContent += text.charAt(i);
                     i++;
                     setTimeout(typing, speed);
+                } else {
+                    if (callback) callback(element); // 當打字完成時，執行回呼函數
                 }
             }
             typing();
         }
-
+        
         document.querySelectorAll('.post-fragment').forEach(fragment => {
             const popup = fragment.querySelector('.info-popup');
             const title = popup.dataset.title;
             const subtitle = popup.dataset.subtitle;
             const date = popup.dataset.date;
-
-            fragment.addEventListener('mouseenter', () => {
+            let typingTimeout; // 用嚟儲存計時器
+        
+            // == 核心改動：監聽滑鼠移入事件，並捕捉 event 物件 ==
+            fragment.addEventListener('mouseenter', (event) => {
+                // 1. 設定 Popup 位置喺滑鼠右邊
+                popup.style.left = `${event.clientX + 30}px`; // X 坐標 + 30px 偏移
+                popup.style.top = `${event.clientY}px`; // Y 坐標
+        
+                // 2. 清空並重建 Popup 內容
                 popup.innerHTML = "";
                 const d = document.createElement("div");
                 const t = document.createElement("div");
@@ -201,10 +210,20 @@
                 popup.appendChild(d);
                 popup.appendChild(t);
                 popup.appendChild(s);
-
+        
+                // 3. 依序執行打字，並喺最後一個完成時移除游標
+                clearTimeout(typingTimeout); // 清除之前可能未完成嘅計時
                 typeText(d, date, 20);
-                setTimeout(() => typeText(t, title, 15), date.length * 25);
-                setTimeout(() => typeText(s, subtitle, 20), (date.length + title.length) * 20);
+                typingTimeout = setTimeout(() => {
+                    typeText(t, title, 15);
+                    typingTimeout = setTimeout(() => {
+                        typeText(s, subtitle, 20, (el) => {
+                            // 呢個係回呼函數，當副標題打完後先會執行
+                            el.style.borderRight = 'none';
+                            el.style.animation = 'none';
+                        });
+                    }, title.length * 20);
+                }, date.length * 25);
             });
         });
     </script>
