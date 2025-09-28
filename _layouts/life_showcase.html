@@ -3,13 +3,12 @@
 <head>
     {% include head.html %}
     <style>
-        /* ===== 背景 ===== */
+        /* ===== 背景局部 override ===== */
         body {
-            background-color: #1c2024; /* 深灰色為唯一背景 */
+            background-color: #282c34; /* Life Showcase 專屬底色 */
         }
-
-        /* ===== 主要內容區 ===== */
         #main.gallery-main {
+            background: none !important; /* 覆蓋 _main.scss 嘅藍灰色 */
             max-width: 1400px;
             margin: 0 auto;
             padding: 4em 2em;
@@ -17,36 +16,27 @@
         #main.gallery-main > section {
             padding: 0;
             border: none;
-            background: none; /* 移除藍灰色底 */
+            background: none;
             display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-            grid-gap: 5em;
+            grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+            grid-gap: 6em;
             justify-items: center;
         }
 
-        /* ===== 方塊（碎片） ===== */
+        /* ===== 碎片方塊 ===== */
         .post-fragment {
             position: relative;
-            width: 280px;  /* 固定正方形 */
-            height: 280px;
+            width: 220px;
+            height: 220px;
             background-size: cover;
             background-position: center center;
-            box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+            box-shadow: 0 10px 25px rgba(0,0,0,0.35);
             transition: transform 0.3s ease-out;
+            border-radius: 6px;
         }
         .post-fragment:hover {
             transform: scale(1.05);
-        }
-
-        /* 隨機散落感（用 nth-child 模擬 offset） */
-        .post-fragment:nth-child(3n) {
-            margin-top: 30px;
-        }
-        .post-fragment:nth-child(4n) {
-            margin-top: 60px;
-        }
-        .post-fragment:nth-child(5n) {
-            margin-top: 15px;
+            z-index: 2;
         }
 
         /* ===== 點擊區 ===== */
@@ -62,24 +52,20 @@
         /* ===== 浮動資訊框 ===== */
         .info-popup {
             position: absolute;
-            top: 100%; /* 方塊正下方 */
-            left: 50%;
-            transform: translateX(-50%);
-            margin-top: 1em;
-            background: rgba(40,45,50,0.95);
+            background: rgba(30, 34, 40, 0.95);
             padding: 1em 1.5em;
             border-radius: 10px;
-            box-shadow: 0 6px 20px rgba(0,0,0,0.4);
+            box-shadow: 0 8px 25px rgba(0,0,0,0.6);
             opacity: 0;
+            transition: opacity 0.3s ease, transform 0.3s ease;
+            z-index: 9999; /* 一定浮喺最上層 */
+            min-width: 200px;
+            max-width: 280px;
             pointer-events: none;
-            transition: opacity 0.3s ease;
-            text-align: center;
-            z-index: 10;
-            min-width: 260px;
         }
         .info-popup h2 {
-            font-size: 1.2em;
-            margin: 0 0 0.5em 0;
+            font-size: 1.1em;
+            margin: 0 0 0.4em 0;
             color: #fff;
         }
         .info-popup p {
@@ -125,5 +111,20 @@
     </div>
 
     {% include footer.html %}
+
+    <!-- JS 加隨機散落效果 -->
+    <script>
+        document.querySelectorAll('.post-fragment').forEach(el => {
+            const offsetX = Math.floor(Math.random() * 80) - 40; // -40px ~ +40px
+            const offsetY = Math.floor(Math.random() * 80) - 40;
+            el.style.transform = `translate(${offsetX}px, ${offsetY}px)`;
+            el.addEventListener('mouseenter', () => {
+                el.style.transform = `translate(${offsetX}px, ${offsetY}px) scale(1.05)`;
+            });
+            el.addEventListener('mouseleave', () => {
+                el.style.transform = `translate(${offsetX}px, ${offsetY}px)`;
+            });
+        });
+    </script>
 </body>
 </html>
