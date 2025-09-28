@@ -3,93 +3,90 @@
 <head>
     {% include head.html %}
     <!-- =================================================================
-    === 全新「碎片化 / 畫廊」佈局專用 CSS
+    === Showcase 佈局專用 CSS (只新增 body::before)
     ================================================================== -->
     <style>
-        /* 1. 設定主背景，營造「留白」空間 */
-        body {
-            /* 顏色可以跟你 header/footer 嘅深色一致 */
-            background-color: #1c2024; 
-        }
-
-        /* 2. 限制主要內容區嘅寬度，創造左右留白 */
-        #main.gallery-main {
-            max-width: 1200px; /* 限制最大寬度 */
-            margin: 0 auto; /* 置中 */
-            padding: 4em 2em; /* 上下左右留少少空間 */
+        /* 【【【【【 新增嘅核心程式碼喺度 】】】】】 */
+        /* 1. 將 Banner 圖片設為全頁固定背景 */
+        body::before {
+            content: '';
+            position: fixed; /* 固定喺度，唔會跟住碌 */
+            top: 0;
+            left: 0;
+            width: 100vw;
+            height: 100vh;
+            background-image: url('{{ site.baseurl }}/{{ page.image }}');
+            background-size: cover;
+            background-position: center center;
+            background-attachment: fixed;
+            filter: brightness(0.6); /* 加返個濾鏡，壓暗背景 */
+            z-index: -1; /* 確保佢喺最底層 */
         }
         
-        #main.gallery-main > section {
-            padding: 0;
-            border: none;
+        /* 2. 將 body 原本嘅背景色變透明，先會睇到後面張圖 */
+        body {
+            background-color: transparent !important;
+        }
+        
+        /* 3. 將 #main 容器本身嘅顏色都變透明 */
+        #main {
+            background-color: transparent !important;
+        }
+        /* 【【【【【 新增程式碼結束 】】】】】 */
+
+
+        /* ----------------------------------------------------------------- */
+        /* ▼▼▼ 以下係 life_showcase.html 原本所有嘅 CSS，完全冇改動過 ▼▼▼ */
+        /* ----------------------------------------------------------------- */
+        #main.showcase-main > section {
+            padding: 4em 0; 
+            border-top: none;
         }
 
-        /* 3. 「碎片」嘅基礎樣式 */
-        .post-fragment {
+        .post-showcase-section {
             position: relative;
             background-size: cover;
             background-position: center center;
-            margin-bottom: 4em; /* 碎片之間嘅垂直距離 */
-            min-height: 60vh; /* 碎片嘅高度，避免太壓迫 */
-            width: 85%; /* 碎片嘅寬度，唔會填滿晒 */
-            box-shadow: 0 10px 30px rgba(0,0,0,0.3); /* 加陰影，營造懸浮感 */
-            transition: transform 0.3s ease-out; /* 為 hover 效果加動畫 */
+            color: #ffffff;
+            text-align: left;
         }
 
-        /* 4. 實現左右交錯嘅「破碎感」佈局 */
-        .post-fragment:nth-child(odd) {
-            margin-left: 0;
-            margin-right: auto;
-        }
-        .post-fragment:nth-child(even) {
-            margin-left: auto;
-            margin-right: 0;
-        }
-        .post-fragment:hover {
-            transform: scale(1.02); /* 滑鼠移過去時輕微放大 */
-        }
-
-        /* 5. 文字內容嘅容器：預設係完全透明 */
-        .post-fragment .text-content {
+        .post-showcase-section::before {
+            content: '';
             position: absolute;
             top: 0;
             left: 0;
             width: 100%;
             height: 100%;
-            background-color: rgba(20, 25, 30, 0.8); /* 深色遮罩，確保文字清晰 */
-            display: flex;
-            flex-direction: column;
-            justify-content: center; /* 垂直置中 */
-            align-items: center; /* 水平置中 */
-            text-align: center;
-            padding: 2em;
-            opacity: 0; /* <<< 核心：預設睇唔到 */
-            transition: opacity 0.4s ease; /* <<< 核心：為顯示效果加動畫 */
-        }
-
-        /* 6. 當滑鼠指向任何「碎片」時，文字內容先浮現 */
-        .post-fragment:hover .text-content {
-            opacity: 1; /* <<< 核心：Hover 時變得可見 */
+            background-color: rgba(30, 35, 40, 0.7); 
         }
         
-        /* 7. 文字樣式 */
-        .post-fragment .text-content h2 {
-            color: #ffffff !important;
-            font-size: 2em !important;
-        }
-        .post-fragment .text-content p {
-            color: rgba(255, 255, 255, 0.8) !important;
-            max-width: 80%; /* 避免副標題太闊 */
+        .post-showcase-section .inner {
+            position: relative;
+            z-index: 2;
         }
 
-        /* 8. 實現「全區域點擊」嘅魔法 */
-        .post-fragment .click-area {
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            z-index: 3; /* 確保喺最上層，可以被點擊 */
+        .post-showcase-section .text-box {
+            background-color: rgba(15, 20, 25, 0.6); 
+            padding: 2em;
+            display: inline-block; 
+            max-width: 80%;
+            border-radius: 4px;
+        }
+
+        .post-showcase-section h2 {
+            font-size: 2em !important;
+            color: #ffffff !important;
+            line-height: 1.3 !important;
+        }
+        
+        .post-showcase-section p {
+            font-size: 1.1em !important;
+            color: rgba(255, 255, 255, 0.85) !important;
+        }
+
+        .post-showcase-section .button {
+            margin-top: 1em;
         }
     </style>
 </head>
@@ -97,8 +94,8 @@
 <body>
     {% include header.html %}
 
-    <!-- Banner (不變) -->
-    <section id="banner" style="background-image: url('{{ site.baseurl }}/{{ page.image }}');">
+    <!-- Banner (HTML 結構不變，但背景圖已經交俾上面嘅 CSS body::before 處理) -->
+    <section id="banner">
         <div class="inner">
             <header class="major">
                 <h1>{{ page.title }}</h1>
@@ -109,25 +106,26 @@
         </div>
     </section>
 
-    <!-- 主要內容區：全新嘅「畫廊」佈局 -->
-    <div id="main" class="gallery-main">
-        <section>
-            {% assign life_posts = site.posts | where: "category", "Life" | reverse %}
-            {% for post in life_posts %}
-                <!-- 每一篇文章都係一個獨立嘅「碎片」 -->
-                <article class="post-fragment" style="background-image: url('{{ site.baseurl }}/{{ post.image }}');">
-                    <!-- 呢個 a tag 就係隱形嘅點擊區域 -->
-                    <a href="{{ post.url | relative_url }}" class="click-area" aria-label="{{ post.title }}"></a>
-                    
-                    <!-- 文字內容預設係隱藏 -->
-                    <div class="text-content">
-                        <h2>{{ post.title }}</h2>
+    <!-- 主要內容區：全新嘅 Showcase 佈局 (HTML 結構不變) -->
+    <div id="main" class="showcase-main">
+        {% assign life_posts = site.posts | where: "category", "Life" | reverse %}
+        {% for post in life_posts %}
+            <!-- 每一篇文章都係一個獨立嘅 section -->
+            <section class="post-showcase-section" style="background-image: url('{{ site.baseurl }}/{{ post.image }}');">
+                <div class="inner">
+                    <div class="text-box">
+                        <header class="major">
+                            <h2>{{ post.title }}</h2>
+                        </header>
                         <p>{{ post.subtitle }}</p>
                         <p><small>{{ post.date | date: "%Y-%m-%d" }}</small></p>
+                        <ul class="actions">
+                            <li><a href="{{ post.url | relative_url }}" class="button">繼續閱讀</a></li>
+                        </ul>
                     </div>
-                </article>
-            {% endfor %}
-        </section>
+                </div>
+            </section>
+        {% endfor %}
     </div>
 
     {% include footer.html %}
