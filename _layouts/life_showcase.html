@@ -9,25 +9,28 @@
             position: relative;
         }
 
-        /* 覆蓋掉 _banner.scss 嘅顏色，避免藍灰色 */
+        /* 覆蓋掉 _banner.scss 嘅背景，避免藍灰色 */
         #main.gallery-main, #banner {
             background: none !important;
         }
 
-        /* 全版濾鏡 */
+        /* 全版濾鏡 (等同 banner:after) */
         body::before {
             content: "";
             position: fixed;
             top: 0; left: 0; right: 0; bottom: 0;
-            background: rgba(0,0,0,0.55); /* 保留黑色濾鏡效果 */
+            background: rgba(20,20,20,0.85); /* 深色 overlay，對應原本 _palette(bg) */
             z-index: 0;
         }
 
-        /* Banner 區本身保持文字置中 */
+        /* Banner 區保持文字可見 */
         #banner {
             position: relative;
             z-index: 1;
-            padding: 8em 2em; /* 保持現有間距 */
+            padding: 8em 2em;
+        }
+        #banner:after {
+            background: none !important; /* 關掉 banner 自己個 overlay，避免雙重濾鏡 */
         }
 
         /* ===== Life showcase 專屬佈局 ===== */
@@ -89,7 +92,7 @@
 <body>
     {% include header.html %}
 
-    <!-- Banner （文字部分仍然保留，但背景已延伸至全版） -->
+    <!-- Banner （文字部分保留） -->
     <section id="banner">
         <div class="inner">
             <header class="major">
