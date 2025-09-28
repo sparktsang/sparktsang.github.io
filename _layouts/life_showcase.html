@@ -2,94 +2,92 @@
 <html>
 <head>
     {% include head.html %}
-    <!-- =================================================================
-    === 全新「碎片化 / 畫廊」佈局專用 CSS
-    ================================================================== -->
     <style>
-        /* 1. 設定主背景，營造「留白」空間 */
+        /* ===== 背景 ===== */
         body {
-            /* 顏色可以跟你 header/footer 嘅深色一致 */
-            background-color: #1c2024; 
+            background-color: #1c2024; /* 深灰色為唯一背景 */
         }
 
-        /* 2. 限制主要內容區嘅寬度，創造左右留白 */
+        /* ===== 主要內容區 ===== */
         #main.gallery-main {
-            max-width: 1200px; /* 限制最大寬度 */
-            margin: 0 auto; /* 置中 */
-            padding: 4em 2em; /* 上下左右留少少空間 */
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 4em 2em;
         }
-        
         #main.gallery-main > section {
             padding: 0;
             border: none;
+            background: none; /* 移除藍灰色底 */
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            grid-gap: 5em;
+            justify-items: center;
         }
 
-        /* 3. 「碎片」嘅基礎樣式 */
+        /* ===== 方塊（碎片） ===== */
         .post-fragment {
             position: relative;
+            width: 280px;  /* 固定正方形 */
+            height: 280px;
             background-size: cover;
             background-position: center center;
-            margin-bottom: 4em; /* 碎片之間嘅垂直距離 */
-            min-height: 60vh; /* 碎片嘅高度，避免太壓迫 */
-            width: 85%; /* 碎片嘅寬度，唔會填滿晒 */
-            box-shadow: 0 10px 30px rgba(0,0,0,0.3); /* 加陰影，營造懸浮感 */
-            transition: transform 0.3s ease-out; /* 為 hover 效果加動畫 */
-        }
-
-        /* 4. 實現左右交錯嘅「破碎感」佈局 */
-        .post-fragment:nth-child(odd) {
-            margin-left: 0;
-            margin-right: auto;
-        }
-        .post-fragment:nth-child(even) {
-            margin-left: auto;
-            margin-right: 0;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+            transition: transform 0.3s ease-out;
         }
         .post-fragment:hover {
-            transform: scale(1.02); /* 滑鼠移過去時輕微放大 */
+            transform: scale(1.05);
         }
 
-        /* 5. 文字內容嘅容器：預設係完全透明 */
-        .post-fragment .text-content {
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            background-color: rgba(20, 25, 30, 0.8); /* 深色遮罩，確保文字清晰 */
-            display: flex;
-            flex-direction: column;
-            justify-content: center; /* 垂直置中 */
-            align-items: center; /* 水平置中 */
-            text-align: center;
-            padding: 2em;
-            opacity: 0; /* <<< 核心：預設睇唔到 */
-            transition: opacity 0.4s ease; /* <<< 核心：為顯示效果加動畫 */
+        /* 隨機散落感（用 nth-child 模擬 offset） */
+        .post-fragment:nth-child(3n) {
+            margin-top: 30px;
+        }
+        .post-fragment:nth-child(4n) {
+            margin-top: 60px;
+        }
+        .post-fragment:nth-child(5n) {
+            margin-top: 15px;
         }
 
-        /* 6. 當滑鼠指向任何「碎片」時，文字內容先浮現 */
-        .post-fragment:hover .text-content {
-            opacity: 1; /* <<< 核心：Hover 時變得可見 */
-        }
-        
-        /* 7. 文字樣式 */
-        .post-fragment .text-content h2 {
-            color: #ffffff !important;
-            font-size: 2em !important;
-        }
-        .post-fragment .text-content p {
-            color: rgba(255, 255, 255, 0.8) !important;
-            max-width: 80%; /* 避免副標題太闊 */
-        }
-
-        /* 8. 實現「全區域點擊」嘅魔法 */
+        /* ===== 點擊區 ===== */
         .post-fragment .click-area {
             position: absolute;
             top: 0;
             left: 0;
             width: 100%;
             height: 100%;
-            z-index: 3; /* 確保喺最上層，可以被點擊 */
+            z-index: 3;
+        }
+
+        /* ===== 浮動資訊框 ===== */
+        .info-popup {
+            position: absolute;
+            top: 100%; /* 方塊正下方 */
+            left: 50%;
+            transform: translateX(-50%);
+            margin-top: 1em;
+            background: rgba(40,45,50,0.95);
+            padding: 1em 1.5em;
+            border-radius: 10px;
+            box-shadow: 0 6px 20px rgba(0,0,0,0.4);
+            opacity: 0;
+            pointer-events: none;
+            transition: opacity 0.3s ease;
+            text-align: center;
+            z-index: 10;
+            min-width: 260px;
+        }
+        .info-popup h2 {
+            font-size: 1.2em;
+            margin: 0 0 0.5em 0;
+            color: #fff;
+        }
+        .info-popup p {
+            margin: 0.2em 0;
+            color: rgba(255,255,255,0.85);
+        }
+        .post-fragment:hover .info-popup {
+            opacity: 1;
         }
     </style>
 </head>
@@ -97,7 +95,7 @@
 <body>
     {% include header.html %}
 
-    <!-- Banner (不變) -->
+    <!-- Banner 保持不變 -->
     <section id="banner" style="background-image: url('{{ site.baseurl }}/{{ page.image }}');">
         <div class="inner">
             <header class="major">
@@ -109,18 +107,14 @@
         </div>
     </section>
 
-    <!-- 主要內容區：全新嘅「畫廊」佈局 -->
+    <!-- 主要內容區：碎片化佈局 -->
     <div id="main" class="gallery-main">
         <section>
             {% assign life_posts = site.posts | where: "category", "Life" | reverse %}
             {% for post in life_posts %}
-                <!-- 每一篇文章都係一個獨立嘅「碎片」 -->
                 <article class="post-fragment" style="background-image: url('{{ site.baseurl }}/{{ post.image }}');">
-                    <!-- 呢個 a tag 就係隱形嘅點擊區域 -->
                     <a href="{{ post.url | relative_url }}" class="click-area" aria-label="{{ post.title }}"></a>
-                    
-                    <!-- 文字內容預設係隱藏 -->
-                    <div class="text-content">
+                    <div class="info-popup">
                         <h2>{{ post.title }}</h2>
                         <p>{{ post.subtitle }}</p>
                         <p><small>{{ post.date | date: "%Y-%m-%d" }}</small></p>
