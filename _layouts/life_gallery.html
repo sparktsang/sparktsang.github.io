@@ -2,146 +2,149 @@
 <html>
 <head>
     {% include head.html %}
-    <!-- 1. 引入一個有「手寫感」嘅 Google Font -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Zhi+Mang+Xing&display=swap" rel="stylesheet">
 
     <style>
-        /* ================== CSS 基礎設定 ================== */
+        /* ================== CSS 結構設定 ================== */
+        body { background-color: #1c2024; } /* 後備背景色 */
 
-        /* 2. 將 Banner 作為成個頁面嘅「畫布」 */
-        body.gallery-body::before {
-            content: '';
-            position: fixed; /* 固定喺度，唔會跟住碌 */
-            top: 0;
-            left: 0;
-            width: 100vw;
-            height: 100vh;
-            background-image: url('{{ site.baseurl }}/{{ page.image }}');
-            background-size: cover;
-            background-position: center center;
-            background-attachment: fixed;
-            filter: brightness(0.7); /* 稍微壓暗，突出碎片 */
-            z-index: -1;
+        /* 1. 全頁畫布背景 */
+        #gallery-background {
+            position: fixed; top: 0; left: 0; width: 100vw; height: 100vh;
+            background-size: cover; background-position: center; background-attachment: fixed;
+            filter: brightness(0.6); z-index: -1;
         }
 
-        /* 3. 主要內容區，變成一個透明嘅容器，俾 JS 喺上面擺嘢 */
+        /* 2. Banner 內容區 (將佢重新帶返嚟) */
+        #gallery-banner {
+            display: flex; align-items: center; justify-content: center; text-align: center;
+            min-height: 60vh; /* Banner 嘅高度 */
+            color: white;
+        }
+        #gallery-banner .inner { max-width: 650px; }
+        #gallery-banner h1 { font-size: 3em; }
+
+        /* 3. 主要內容區 (碎片容器) */
         #main.gallery-container {
-            position: relative; /* 俾 JS 絕對定位用嘅參考點 */
-            max-width: 1400px;
-            margin: 0 auto;
-            padding: 5em 2em;
-            min-height: 100vh;
+            position: relative; max-width: 1400px; margin: 0 auto; padding: 0 2em;
         }
 
-        /* 4. 「碎片」嘅容器 (包含圖同文) */
+        /* 4. 單一碎片 (圖+文) 嘅容器 */
         .post-piece {
-            position: absolute; /* <<< 核心：位置將會由 JS 控制 */
-            visibility: hidden; /* 預設隱藏，等 JS 計算完位置再顯示 */
+            position: absolute; /* 位置由 JS 控制 */
+            width: 350px; /* 碎片圖片嘅寬度 */
+            visibility: hidden; /* 預設隱藏 */
+            transition: opacity 0.5s ease;
         }
-        
-        /* 5. 圖片碎片本身嘅樣式 */
+
+        /* 5. 圖片碎片 */
         .post-piece .image-frag {
-            width: 300px; /* 相當於你講嘅 a */
-            height: 300px; /* 正方形 */
-            background-size: cover;
-            background-position: center;
+            width: 100%; height: 350px; /* 正方形 */
+            background-size: cover; background-position: center;
             box-shadow: 0 10px 40px rgba(0,0,0,0.5);
-            transition: transform 0.3s ease;
+            border: 3px solid rgba(255,255,255,0.1);
         }
-        .post-piece:hover .image-frag {
-            transform: scale(1.05); /* 滑鼠移過去輕微放大 */
+
+        /* 6. 文字區 (預設完全透明) */
+        .post-piece .text-block {
+            position: absolute; top: 0; left: 0; width: 100%; height: 100%;
+            background: rgba(20, 25, 30, 0.85);
+            display: flex; flex-direction: column; justify-content: center;
+            text-align: center; padding: 1em;
+            opacity: 0; /* <<< 核心：預設睇唔到 */
+            transition: opacity 0.4s ease;
         }
         
-        /* 6. 文字塊嘅樣式 */
-        .post-piece .text-block {
-            position: absolute;
-            bottom: 20px; /* 位置可以微調 */
-            left: 320px; /* 放喺圖片右邊 */
-            width: 350px; /* 俾文字足夠嘅空間 */
-            color: rgba(255, 255, 255, 0.8);
-            text-shadow: 1px 1px 2px rgba(0,0,0,0.7);
+        /* 7. 滑鼠指向成個容器時，文字區先浮現 */
+        .post-piece:hover .text-block {
+            opacity: 1; /* <<< 核心：Hover 時變得可見 */
         }
 
         .post-piece .text-block h2 {
-            font-family: 'Zhi Mang Xing', cursive; /* <<< 核心：使用手寫感字體 */
-            font-size: 2.5em !important;
-            color: #ffffff !important;
-            font-weight: normal;
+            font-family: 'Zhi Mang Xing', cursive;
+            font-size: 2.2em !important; color: #ffffff !important; font-weight: normal;
         }
+        .post-piece .text-block p { color: rgba(255,255,255,0.7) !important; }
     </style>
 </head>
 
-<body class="gallery-body">
-
+<body>
+    <!-- Header 保持不變 -->
     {% include header.html %}
 
-    <!-- 主要內容區，只係一個空嘅容器 -->
+    <!-- 1. 將背景圖獨立出嚟 -->
+    <div id="gallery-background" style="background-image: url('{{ site.baseurl }}/{{ page.image }}');"></div>
+    
+    <!-- 2. Banner 內容正式回歸 -->
+    <div id="gallery-banner">
+        <div class="inner">
+            <h1>{{ page.title }}</h1>
+            <p>{{ page.description }}</p>
+        </div>
+    </div>
+
+    <!-- 3. 主要內容區，準備俾 JS 擺嘢 -->
     <div id="main" class="gallery-container">
-        
         {% assign life_posts = site.posts | where: "category", "Life" | reverse %}
         {% for post in life_posts %}
-            <!-- 7. Jekyll 只負責準備好一舊舊「材料」 -->
-            <div class="post-piece">
-                <a href="{{ post.url | relative_url }}">
-                    <div class="image-frag" style="background-image: url('{{ site.baseurl }}/{{ post.image }}');"></div>
-                </a>
+            <!-- Jekyll 只係準備材料 -->
+            <a href="{{ post.url | relative_url }}" class="post-piece">
+                <div class="image-frag" style="background-image: url('{{ site.baseurl }}/{{ post.image }}');"></div>
                 <div class="text-block">
                     <h2>{{ post.title }}</h2>
                     <p>{{ post.subtitle }}</p>
                 </div>
-            </div>
+            </a>
         {% endfor %}
-
     </div>
 
     {% include footer.html %}
 
-    <!-- ================== JavaScript 隨機佈局算法 ================== -->
+    <!-- ================== JavaScript 虛擬網格算法 ================== -->
     <script>
         document.addEventListener('DOMContentLoaded', function() {
-            const container = document.getElementById('main');
+            const container = document.querySelector('.gallery-container');
             const pieces = document.querySelectorAll('.post-piece');
             if (pieces.length === 0) return;
 
-            // 算法參數
-            const a = 300; // 碎片嘅邊長 (px)
-            const w = container.offsetWidth; // 容器嘅闊度
-            const horizontalMargin = 50; // 左右邊距
-            const verticalGap = a; // 垂直樓層高度
+            // 網格參數
+            const pieceWidth = 350;
+            const pieceHeight = 350;
+            const gap = 100; // 碎片之間嘅最小間距
+            const containerWidth = container.offsetWidth;
+            const cols = Math.floor(containerWidth / (pieceWidth + gap));
+            
+            let grid = []; // 用一個 array 嚟記錄每一列嘅當前高度
 
-            let lastY = 0; // 追蹤上一塊碎片嘅 y 座標
+            for (let i = 0; i < cols; i++) {
+                grid.push(0); // 初始化所有列嘅高度為 0
+            }
 
-            pieces.forEach((piece, index) => {
-                // 水平位置：喺容器闊度內隨機擺放
-                const maxLeft = w - a - horizontalMargin;
-                let randomX = Math.random() * maxLeft;
-                
-                // 垂直位置：實現你嘅隨機「樓層」概念
-                // 喺上一塊碎片嘅基礎上，向下移動 0 到 2 層樓嘅隨機距離
-                let randomYOffset = Math.random() * (verticalGap * 2); 
-                let currentY = lastY + randomYOffset;
+            pieces.forEach(piece => {
+                // 1. 搵出當前最矮嘅一列
+                let minColHeight = Math.min(...grid);
+                let targetColIndex = grid.indexOf(minColHeight);
 
-                // 如果係第一塊，就俾個初始位置
-                if(index === 0) {
-                    currentY = 50; // 同頂部嘅距離
-                }
+                // 2. 計算碎片嘅 X, Y 座標
+                // X 座標 = 目標列嘅 index * (碎片寬度 + 間距)
+                let x = targetColIndex * (pieceWidth + gap);
+                // Y 座標 = 目標列當前嘅高度
+                let y = minColHeight;
 
-                // 將計算好嘅位置應用到碎片上
-                piece.style.top = currentY + 'px';
-                piece.style.left = randomX + 'px';
-                
-                // 顯示返塊碎片
+                // 3. 將座標應用到碎片上
+                piece.style.top = y + 'px';
+                piece.style.left = x + 'px';
                 piece.style.visibility = 'visible';
+                piece.style.opacity = 1;
 
-                // 更新 lastY，為下一塊碎片做準備
-                lastY = currentY + a * 0.3; // 加一個細數值避免完全重疊
+                // 4. 更新網格，將呢塊碎片嘅高度加返上去
+                grid[targetColIndex] += pieceHeight + gap;
             });
 
-            // 確保容器高度足夠裝晒所有碎片
-            const lastPiece = pieces[pieces.length - 1];
-            container.style.height = lastPiece.offsetTop + a + 200 + 'px';
+            // 5. 最後，設定容器嘅總高度，確保 footer 唔會疊上嚟
+            container.style.height = Math.max(...grid) + 'px';
         });
     </script>
 </body>
