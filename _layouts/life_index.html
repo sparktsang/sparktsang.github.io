@@ -8,7 +8,6 @@
     {% include header.html %}
 
     <!-- Banner -->
-    <!-- 同你首頁一樣，呢度可以有一個橫幅介紹呢個分類 -->
     <section id="banner" class="major">
         <div class="inner">
             <header class="major">
@@ -23,40 +22,26 @@
     <!-- Main Content: The Tiles -->
     <div id="main">
         <section id="one" class="tiles">
-            {% for post in paginator.posts %}
-                {% if post.category == 'Life' %}
-                    <article class="style{{ forloop.index | modulo: 6 | plus: 1 }}">
-                        <span class="image">
-                            <img src="{{ site.baseurl }}/{{ post.image }}" alt="{{ post.title }}" />
-                        </span>
-                        <a href="{{ post.url | relative_url }}">
-                            <h2>{{ post.title }}</h2>
-                            <div class="content">
-                                <!-- 加入日期，並設定格式 -->
-                                <p>{{ post.date | date: "%Y-%m-%d" }}</p>
-                                <!-- 副標題可以放喺度 -->
-                                <p>{{ post.subtitle }}</p>
-                            </div>
-                        </a>
-                    </article>
-                {% endif %}
+            
+            <!-- 1. 篩選出所有 'Life' 分類嘅文章 -->
+            {% assign life_posts = site.posts | where: "category", "Life" %}
+            
+            <!-- 2. 遍歷篩選後嘅文章列表 -->
+            {% for post in life_posts %}
+                <article class="style{{ forloop.index | modulo: 6 | plus: 1 }}">
+                    <span class="image">
+                        <img src="{{ site.baseurl }}/{{ post.image }}" alt="{{ post.title }}" />
+                    </span>
+                    <a href="{{ post.url | relative_url }}">
+                        <h2>{{ post.title }}</h2>
+                        <div class="content">
+                            <!-- 你可以自由組合想顯示嘅內容 -->
+                            <p>{{ post.date | date: "%Y-%m-%d" }}</p>
+                            <p>{{ post.subtitle }}</p>
+                        </div>
+                    </a>
+                </article>
             {% endfor %}
-        </section>
-        
-        <!-- Pagination Links -->
-        <section>
-            <div class="inner">
-                {% if paginator.total_pages > 1 %}
-                <ul class="actions">
-                    {% if paginator.previous_page %}
-                        <li><a href="{{ paginator.previous_page_path | relative_url }}" class="button">« Newer Posts</a></li>
-                    {% endif %}
-                    {% if paginator.next_page %}
-                        <li><a href="{{ paginator.next_page_path | relative_url }}" class="button">Older Posts »</a></li>
-                    {% endif %}
-                </ul>
-                {% endif %}
-            </div>
         </section>
     </div>
 
