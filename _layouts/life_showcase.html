@@ -3,98 +3,106 @@
 <head>
     {% include head.html %}
     <!-- =================================================================
-    === Showcase 佈局專用 CSS (只新增 body::before)
+    === 「碎片化 / 畫廊」佈局專用 CSS - 已更新
     ================================================================== -->
     <style>
-        /* 【【【【【 新增嘅核心程式碼喺度 】】】】】 */
-        /* 1. 將 Banner 圖片設為全頁固定背景 */
-        body::before {
-            content: '';
-            position: fixed; /* 固定喺度，唔會跟住碌 */
-            top: 0;
-            left: 0;
-            width: 100vw;
-            height: 100vh;
+        /* 1. 【核心改動】將 banner 圖片設為整個頁面嘅固定背景 */
+        body.life-showcase-body {
             background-image: url('{{ site.baseurl }}/{{ page.image }}');
             background-size: cover;
             background-position: center center;
-            background-attachment: fixed;
-            filter: brightness(0.6); /* 加返個濾鏡，壓暗背景 */
-            z-index: -1; /* 確保佢喺最底層 */
+            background-attachment: fixed; /* << 呢個屬性會令背景圖固定唔郁，內文向上滾動 */
+            background-repeat: no-repeat;
+        }
+
+        /* 2. 限制主要內容區嘅寬度，創造左右留白 */
+        #main.gallery-main {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 4em 2em;
         }
         
-        /* 2. 將 body 原本嘅背景色變透明，先會睇到後面張圖 */
-        body {
-            background-color: transparent !important;
-        }
-        
-        /* 3. 將 #main 容器本身嘅顏色都變透明 */
-        #main {
-            background-color: transparent !important;
-        }
-        /* 【【【【【 新增程式碼結束 】】】】】 */
-
-
-        /* ----------------------------------------------------------------- */
-        /* ▼▼▼ 以下係 life_showcase.html 原本所有嘅 CSS，完全冇改動過 ▼▼▼ */
-        /* ----------------------------------------------------------------- */
-        #main.showcase-main > section {
-            padding: 4em 0; 
-            border-top: none;
+        #main.gallery-main > section {
+            padding: 0;
+            border: none;
         }
 
-        .post-showcase-section {
+        /* 3. 「碎片」嘅基礎樣式 (不變) */
+        .post-fragment {
             position: relative;
             background-size: cover;
             background-position: center center;
-            color: #ffffff;
-            text-align: left;
+            margin-bottom: 4em;
+            min-height: 60vh;
+            width: 85%;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+            transition: transform 0.3s ease-out;
         }
 
-        .post-showcase-section::before {
-            content: '';
+        /* 4. 實現左右交錯嘅「破碎感」佈局 (不變) */
+        .post-fragment:nth-child(odd) {
+            margin-left: 0;
+            margin-right: auto;
+        }
+        .post-fragment:nth-child(even) {
+            margin-left: auto;
+            margin-right: 0;
+        }
+        .post-fragment:hover {
+            transform: scale(1.02);
+        }
+
+        /* 5. 文字內容嘅容器 (不變) */
+        .post-fragment .text-content {
             position: absolute;
             top: 0;
             left: 0;
             width: 100%;
             height: 100%;
-            background-color: rgba(30, 35, 40, 0.7); 
-        }
-        
-        .post-showcase-section .inner {
-            position: relative;
-            z-index: 2;
-        }
-
-        .post-showcase-section .text-box {
-            background-color: rgba(15, 20, 25, 0.6); 
+            background-color: rgba(20, 25, 30, 0.8);
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
             padding: 2em;
-            display: inline-block; 
-            max-width: 80%;
-            border-radius: 4px;
+            opacity: 0;
+            transition: opacity 0.4s ease;
         }
 
-        .post-showcase-section h2 {
-            font-size: 2em !important;
-            color: #ffffff !important;
-            line-height: 1.3 !important;
+        /* 6. 當滑鼠指向任何「碎片」時，文字內容先浮現 (不變) */
+        .post-fragment:hover .text-content {
+            opacity: 1;
         }
         
-        .post-showcase-section p {
-            font-size: 1.1em !important;
-            color: rgba(255, 255, 255, 0.85) !important;
+        /* 7. 文字樣式 (不變) */
+        .post-fragment .text-content h2 {
+            color: #ffffff !important;
+            font-size: 2em !important;
+        }
+        .post-fragment .text-content p {
+            color: rgba(255, 255, 255, 0.8) !important;
+            max-width: 80%;
         }
 
-        .post-showcase-section .button {
-            margin-top: 1em;
+        /* 8. 實現「全區域點擊」嘅魔法 (不變) */
+        .post-fragment .click-area {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: 3;
         }
     </style>
 </head>
 
-<body>
+<!-- 【核心改動】喺 body 加入一個 class，方便 CSS 對佢進行操作 -->
+<body class="life-showcase-body">
+
     {% include header.html %}
 
-    <!-- Banner (HTML 結構不變，但背景圖已經交俾上面嘅 CSS body::before 處理) -->
+    <!-- Banner - 【核心改動】移除咗 inline style，令佢變透明，只係用嚟定位文字 -->
     <section id="banner">
         <div class="inner">
             <header class="major">
@@ -106,26 +114,21 @@
         </div>
     </section>
 
-    <!-- 主要內容區：全新嘅 Showcase 佈局 (HTML 結構不變) -->
-    <div id="main" class="showcase-main">
-        {% assign life_posts = site.posts | where: "category", "Life" | reverse %}
-        {% for post in life_posts %}
-            <!-- 每一篇文章都係一個獨立嘅 section -->
-            <section class="post-showcase-section" style="background-image: url('{{ site.baseurl }}/{{ post.image }}');">
-                <div class="inner">
-                    <div class="text-box">
-                        <header class="major">
-                            <h2>{{ post.title }}</h2>
-                        </header>
+    <!-- 主要內容區 (HTML 結構完全不變) -->
+    <div id="main" class="gallery-main">
+        <section>
+            {% assign life_posts = site.posts | where: "category", "Life" | reverse %}
+            {% for post in life_posts %}
+                <article class="post-fragment" style="background-image: url('{{ site.baseurl }}/{{ post.image }}');">
+                    <a href="{{ post.url | relative_url }}" class="click-area" aria-label="{{ post.title }}"></a>
+                    <div class="text-content">
+                        <h2>{{ post.title }}</h2>
                         <p>{{ post.subtitle }}</p>
                         <p><small>{{ post.date | date: "%Y-%m-%d" }}</small></p>
-                        <ul class="actions">
-                            <li><a href="{{ post.url | relative_url }}" class="button">繼續閱讀</a></li>
-                        </ul>
                     </div>
-                </div>
-            </section>
-        {% endfor %}
+                </article>
+            {% endfor %}
+        </section>
     </div>
 
     {% include footer.html %}
