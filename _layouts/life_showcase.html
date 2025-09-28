@@ -60,30 +60,58 @@
             width: 100%; height: 100%;
             z-index: 3;
         }
-
-        /* ===== 精靈 Popup ===== */
+        
+        /* ===== 精靈 Popup (Ghost Popup) ===== */
         .info-popup {
-            position: absolute;
-            top: -20px; /* 預設向上漂浮 */
-            left: 50%;
-            transform: translateX(-50%) scale(0.95);
+            position: fixed; /* 核心改動：改為 fixed，相對於整個瀏覽器視窗定位 */
             opacity: 0;
-            background: none; /* 唔要死板背景 */
             z-index: 9999;
-            pointer-events: none;
-            white-space: pre-line;
-            text-align: center;
-            font-family: "Courier New", monospace; /* 打字感 */
-            font-size: 0.9em;
-            font-weight: bold;
-            color: #5eead4; /* 青色 graffiti */
+            pointer-events: none; /* 確保佢唔會阻擋滑鼠事件 */
+            
+            /* 文字風格保持不變 */
+            font-family: "Courier New", monospace;
+            color: #5eead4;
             text-shadow: 0 0 5px rgba(94,234,212,0.8),
                          0 0 15px rgba(94,234,212,0.6);
+            
+            /* 動畫效果 */
+            transition: opacity 0.3s ease-out, transform 0.3s ease-out;
+            transform: translateY(20px); /* 預設向下偏移，營造向上浮現效果 */
         }
+        
+        /* 當所屬嘅 post-fragment 被 hover 時，popup 先顯示 */
         .post-fragment:hover .info-popup {
             opacity: 1;
-            transform: translateX(-50%) translateY(-100%) scale(1);
-            transition: all 0.3s ease-out;
+            transform: translateY(0); /* 向上浮現到原位 */
+        }
+        
+        /* ===== Popup 內部結構 ===== */
+        .info-popup div {
+            white-space: nowrap; /* 確保打字效果唔會換行 */
+            overflow: hidden;
+            border-right: 2px solid #5eead4; /* 打字游標 */
+            animation: caret 0.7s infinite;
+        }
+        .info-popup div:not(:last-child) {
+            margin-bottom: 0.8em; /* 項目之間嘅距離 */
+        }
+        /* 日期 */
+        .info-popup div:nth-child(1) { 
+            font-size: 0.8em;
+            opacity: 0.7;
+        }
+        /* 標題 */
+        .info-popup div:nth-child(2) {
+            font-size: 1.2em;
+            font-weight: bold;
+        }
+        /* 副標題 */
+        .info-popup div:nth-child(3) {
+            font-size: 0.9em;
+            font-style: italic;
+            white-space: normal; /* 副標題可以比較長，允許佢換行 */
+            border-right: none; /* 副標題打完字就唔需要游標 */
+            animation: none;
         }
 
         /* 打字效果 */
