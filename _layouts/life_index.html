@@ -7,9 +7,13 @@
 
     {% include header.html %}
 
-    <!-- Banner -->
-    <section id="banner" class="major">
+    <!-- Banner - 全新改造版 -->
+    <!-- 佢會讀取 life.md 嘅 image, title, description -->
+    <section id="banner" class="style2" style="background-image: url('{{ site.baseurl }}/{{ page.image }}');">
         <div class="inner">
+            <span class="image">
+                <img src="{{ site.baseurl }}/{{ page.image }}" alt="" />
+            </span>
             <header class="major">
                 <h1>{{ page.title }}</h1>
             </header>
@@ -23,30 +27,35 @@
     <div id="main">
         <section id="one" class="tiles">
             
-            <!-- 1. 篩選出所有 'Life' 分類嘅文章 -->
             {% assign life_posts = site.posts | where: "category", "Life" %}
             
-            <!-- 2. 遍歷篩選後嘅文章列表 -->
-            {% for post in life_posts %}
-                <article class="style{{ forloop.index | modulo: 6 | plus: 1 }}">
-                    <span class="image">
-                        <img src="{{ site.baseurl }}/{{ post.image }}" alt="{{ post.title }}" />
-                    </span>
-                    <a href="{{ post.url | relative_url }}">
-                        <h2>{{ post.title }}</h2>
-                        <div class="content">
-                            <!-- 你可以自由組合想顯示嘅內容 -->
-                            <p>{{ post.date | date: "%Y-%m-%d" }}</p>
-                            <p>{{ post.subtitle }}</p>
-                        </div>
-                    </a>
-                </article>
-            {% endfor %}
+            <!-- 如果一篇 'Life' 文章都冇，就顯示提示 -->
+            {% if life_posts.size == 0 %}
+                <div class="inner">
+                    <p>There is no articles yet.</p>
+                </div>
+            {% else %}
+                <!-- 遍歷所有 'Life' 文章 -->
+                {% for post in life_posts %}
+                    <article class="style{{ forloop.index | modulo: 6 | plus: 1 }}">
+                        <span class="image">
+                            <img src="{{ site.baseurl }}/{{ post.image }}" alt="" />
+                        </span>
+                        <!-- 修正後嘅連結結構，確保可以點擊 -->
+                        <a href="{{ post.url | relative_url }}">
+                            <h2>{{ post.title }}</h2>
+                            <div class="content">
+                                <p>{{ post.subtitle }}</p>
+                                <p><small>{{ post.date | date: "%Y-%m-%d" }}</small></p>
+                            </div>
+                        </a>
+                    </article>
+                {% endfor %}
+            {% endif %}
         </section>
     </div>
 
     {% include footer.html %}
 
 </body>
-
 </html>
