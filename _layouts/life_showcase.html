@@ -95,7 +95,7 @@
     @keyframes caret { 50% { border-color: transparent; } }
   </style>
 </head>
-
+  
 <body>
   {% include header.html %}
 
@@ -116,11 +116,14 @@
       {% for post in life_posts %}
         <article class="post-fragment" style="background-image: url('{{ site.baseurl }}/{{ post.image }}');">
           <a href="{{ post.url | relative_url }}" class="click-area" aria-label="{{ post.title }}"></a>
-          <div class="info-popup"
-               data-date="{{ post.date | date: "%Y-%m-%d" }}"
-               data-title="{{ post.title }}"
-               data-subtitle="{{ post.subtitle }}">
+          
+          <!-- HTML 結構一次過寫好晒，唔再用 JS 去砌 -->
+          <div class="info-popup">
+            <div class="date typing" data-text="{{ post.date | date: '%Y-%m-%d' }}"></div>
+            <div class="title typing" data-text="{{ post.title }}"></div>
+            <div class="subtitle typing" data-text="{{ post.subtitle }}"></div>
           </div>
+
         </article>
       {% endfor %}
     </section>
@@ -129,25 +132,30 @@
   {% include footer.html %}
 
   <script>
-    function typeText(element, text, speed=30, callback) {
-      element.textContent = "";
+    // 呢個新嘅 typeText 函數會直接由 element 嘅 data-text 屬性讀取文字
+    function typeText(element, speed = 30, callback) {
+      const text = element.getAttribute('data-text') || '';
+      element.textContent = ""; // 清空現有文字
       let i = 0;
+      
+      // 用一個 timer ID 嚟控制，避免動畫重疊
+      if (element.typingTimer) {
+        clearTimeout(element.typingTimer);
+      }
+
       function typing() {
         if (i < text.length) {
           element.textContent += text.charAt(i);
           i++;
-          setTimeout(typing, speed);
-        } else if (callback) callback();
+          element.typingTimer = setTimeout(typing, speed);
+        } else {
+          if (callback) callback();
+        }
       }
       typing();
     }
 
     document.querySelectorAll('.post-fragment').forEach(fragment => {
-      const popup = fragment.querySelector('.info-popup');
-      const date = popup.dataset.date;
-      const title = popup.dataset.title;
-      const subtitle = popup.dataset.subtitle;
-
       // === 隨機位移效果 (不變) ===
       const dx = (Math.random() - 0.5) * 40;
       const dy = (Math.random() - 0.5) * 40;
@@ -155,28 +163,30 @@
       fragment.style.setProperty('--dy', dy + 'px');
       fragment.style.transform = `translate(${dx}px, ${dy}px)`;
 
-      fragment.addEventListener('mouseenter', () => {
-        // 為咗確保每次都有打字動畫，喺開始前先清空內容
-        popup.innerHTML = `
-          <div class="date typing"></div>
-          <div class="title typing"></div>
-          <div class="subtitle typing"></div>
-        `;
-        const d = popup.querySelector('.date');
-        const t = popup.querySelector('.title');
-        const s = popup.querySelector('.subtitle');
+      // === 事件監聽 ===
+      const dateEl = fragment.querySelector('.date');
+      const titleEl = fragment.querySelector('.title');
+      const subtitleEl = fragment.querySelector('.subtitle');
 
-        // 開始打字動畫
-        typeText(d, date, 25, () => {
-          typeText(t, title, 20, () => {
-            typeText(s, subtitle, 20);
+      fragment.addEventListener('mouseenter', () => {
+        // 我哋唔再修改 innerHTML，只係觸發打字動畫
+        typeText(dateEl, 25, () => {
+          typeText(titleEl, 20, () => {
+            typeText(subtitleEl, 20);
           });
         });
       });
 
-      // === 刪除整個 mouseleave 事件 ===
-      // 我哋唔再需要用 JavaScript 去隱藏 popup，完全交俾 CSS 處理。
-      // 咁樣就唔會再產生 inline style 衝突。
+      fragment.addEventListener('mouseleave', () => {
+        // 滑鼠移開時，清空文字，為下一次 hover 做準備
+        // 咁樣可以確保每次移入都係由頭開始打字
+        if (dateEl.typingTimer) clearTimeout(dateEl.typingTimer);
+        if (titleEl.typingTimer) clearTimeout(titleEl.typingTimer);
+        if (subtitleEl.typingTimer) clearTimeout(subtitleEl.typingTimer);
+        dateEl.textContent = "";
+        titleEl.textContent = "";
+        subtitleEl.textContent = "";
+      });
     });
   </script>
 </body>
