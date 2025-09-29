@@ -122,7 +122,7 @@
             {% for post in life_posts %}
                 <article class="post-fragment" style="background-image: url('{{ site.baseurl }}/{{ post.image }}');">
                     <a href="{{ post.url | relative_url }}" class="click-area" aria-label="{{ post.title }}"></a>
-                    <div class="info-popup" data-title="{{ post.title }}" data-subtitle="{{ post.subtitle }}" data-date="{{ post.date | date: '%Y-%m-%d' }}"></div>
+                    <div class="info-popup" data-title="{{ post.short_title | default: post.title }}" data-subtitle="{{ post.subtitle }}" data-date="{{ post.date | date: '%Y-%m-%d' }}"></div>
                 </article>
             {% endfor %}
         </section>
