@@ -7,8 +7,6 @@ category: "Life"
 image: assets/images/rejected_passport_bing.jpeg
 ---
 
-### **The Emperor of Nowhere: A Tale of Two Borders, One Broken Passport, and a Getaway Minivan**
-
 Travel, they say, broadens the mind. Sometimes, it also threatens to break your spirit, test your friendships, and leave you stranded in a border town where the last bus out is powered by rumor and prayer. This is one of those stories.
 
 It began with a ticking clock. My friend and I had rendezvoused in Ao Nang, Krabi, with a shared goal: cross into Malaysia and begin a long journey down its east coast. The plan was simple, but the deadline was not. His Thai visa was set to expire in a mere 48 hours. Mine, a fresh 60-day stamp, was practically glowing with youth. We were a team, but the clock was only ticking for him.
