@@ -148,23 +148,25 @@
       const title = popup.dataset.title;
       const subtitle = popup.dataset.subtitle;
 
-      // === 隨機位移效果 ===
-      const dx = (Math.random() - 0.5) * 40; // -20 ~ +20px
+      // === 隨機位移效果 (不變) ===
+      const dx = (Math.random() - 0.5) * 40;
       const dy = (Math.random() - 0.5) * 40;
       fragment.style.setProperty('--dx', dx + 'px');
       fragment.style.setProperty('--dy', dy + 'px');
       fragment.style.transform = `translate(${dx}px, ${dy}px)`;
 
       fragment.addEventListener('mouseenter', () => {
+        // 為咗確保每次都有打字動畫，喺開始前先清空內容
         popup.innerHTML = `
-          <div class="date"></div>
-          <div class="title"></div>
-          <div class="subtitle"></div>
+          <div class="date typing"></div>
+          <div class="title typing"></div>
+          <div class="subtitle typing"></div>
         `;
         const d = popup.querySelector('.date');
         const t = popup.querySelector('.title');
         const s = popup.querySelector('.subtitle');
 
+        // 開始打字動畫
         typeText(d, date, 25, () => {
           typeText(t, title, 20, () => {
             typeText(s, subtitle, 20);
@@ -172,11 +174,9 @@
         });
       });
 
-      fragment.addEventListener('mouseleave', () => {
-        popup.style.opacity = 0;
-        // reset innerHTML，確保下次 hover 會重新打字
-        popup.innerHTML = "";
-      });
+      // === 刪除整個 mouseleave 事件 ===
+      // 我哋唔再需要用 JavaScript 去隱藏 popup，完全交俾 CSS 處理。
+      // 咁樣就唔會再產生 inline style 衝突。
     });
   </script>
 </body>
