@@ -174,7 +174,7 @@
           <a href="{{ post.url | relative_url }}" class="click-area" aria-label="{{ post.title }}"></a>
           <div class="info-popup"
                data-date="{{ post.date | date: "%Y-%m-%d" }}"
-               data-title="{{ post.title }}"
+               data-title="{{ post.short_title | default: post.title }}"
                data-subtitle="{{ post.subtitle }}">
           </div>
         </article>
