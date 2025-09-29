@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "The Monk on the Delayed Train to Phatthalung"
-subtitle: "A story. A connection. A small, silver token of grace, given freely on a slow train to nowhere special."
+short_title: "The Monk and the Amulet"
+subtitle: "My journey to Malaysia had failed, but my journey in Thailand had just acquired a soul."
 category: "Life"
 image: assets/images/pic02.jpg
 ---
