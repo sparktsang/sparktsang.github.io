@@ -7,8 +7,6 @@ category: "Life"
 image: assets/images/amulet_imagen.png
 ---
 
-### **The Monk on the Delayed Train to Phatthalung**
-
 Rejection leaves a bitter taste. Being turned away at a border, especially for something as trivial as a decade-old water stain on a passport, feels deeply personal. My grand plan to conquer Malaysia’s east coast had ended before it began, culminating in a frantic, last-minute escape back to the Thai city of Hat Yai. My travel partner was now in another country, and I was alone, back at square one, my meticulously laid plans in ashes.
 
 Defeated but not destroyed, I needed a new direction. My friend had often spoken wistfully of the places he’d missed due to his visa deadline: the towns of Trang and Phatthalung. With time now an infinite resource, I decided to pick up the thread he’d left behind. I booked a cheap room in Phatthalung, a town I knew nothing about, simply because it was the nearest southern city reachable by train. It wasn't a plan; it was a retreat.
