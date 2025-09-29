@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "The Ghost Bus of Phuket: A Traveler's Tale of Hubris, Humility, and a 30-Baht Miracle"
-subtitle: "I traded my time and my pride for a genuine piece of understanding. And that, I realized, is the best currency a traveler can ever have.
-"
+short_title: "The Ghost Bus of Phuket"
+subtitle: "I traded my time and my pride for a genuine piece of understanding."
 category: "Life"
 image: assets/images/pink-baht-bus-phuket-town.jpg
 ---
