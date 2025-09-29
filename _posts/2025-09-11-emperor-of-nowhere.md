@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Emperor of Nowhere: A Tale of Two Borders, One Broken Passport, and a Getaway Minivan"
+short_title: "The Emperor of Nowhere"
 subtitle: "In the end, maybe that’s the real privilege: not taking the road no one else takes, but surviving it."
 category: "Life"
 image: assets/images/pic01.jpg
