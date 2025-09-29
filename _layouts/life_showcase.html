@@ -22,9 +22,7 @@
       position: relative;
       z-index: 1;
     }
-    #banner {
-      padding: 8em 2em;
-    }
+    #banner { padding: 8em 2em; }
     #banner:after { background: none !important; }
 
     /* ===== Grid & fragments ===== */
@@ -49,16 +47,13 @@
       box-shadow: 0 10px 25px rgba(0,0,0,0.35);
       transition: transform 0.25s ease-out;
       border-radius: 6px;
-      /* 初始 transform 由 custom properties 控制（由 JS 設定 --dx/--dy） */
       transform: translate(var(--dx, 0px), var(--dy, 0px));
       will-change: transform;
     }
-    /* hover 時 scale 同保留偏移 */
     .post-fragment:hover {
       transform: translate(var(--dx, 0px), var(--dy, 0px)) scale(1.05);
       z-index: 2;
     }
-
     .post-fragment .click-area {
       position: absolute;
       top: 0; left: 0;
@@ -66,86 +61,47 @@
       z-index: 3;
     }
 
-    /* ===== Info popup（保護框） ===== */
+    /* ===== Info popup（改為 position: fixed，由 JS 決定座標） ===== */
     .info-popup {
-      position: absolute;
-      top: -260px;
-      left: 50%;
-      transform: translateX(-50%);
-      /* 4a × 2a 的概念（a = 220px）；使用 clamp/min 以兼容窄螢幕 */
-      width: min(880px, 80vw);            /* 4 * 220 = 880 */
-      min-height: min(440px, 50vh);      /* 2 * 220 = 440 */
+      /* 改動重點：用 fixed（相對於視窗），而唔係 absolute（相對於方塊）*/
+      position: fixed;              /* <-- 改動（詳解見下） */
+      /* top / left / transform 不再預設（由 JS 計算並設定），
+         所以這裡不放 top/left/transform 的固定值 */
+
+      /* popup 大小與內文保護（保持原來樣式） */
+      width: min(880px, 80vw);
+      min-height: min(440px, 50vh);
       box-sizing: border-box;
-      background: rgba(0,0,0,0.72);      /* 保護層：確保在任何背景都清晰 */
+      background: rgba(0,0,0,0.72);
       border-radius: 12px;
       padding: 1.25rem 1.5rem;
       box-shadow: 0 10px 40px rgba(0,0,0,0.6), 0 0 30px rgba(94,234,212,0.14) inset;
       font-family: 'Permanent Marker', cursive;
       color: #5eead4;
       text-align: left;
-      opacity: 0;
+      opacity: 0;                  /* 隱藏/顯示由 JS 操控 inline opacity */
       z-index: 9999;
-      pointer-events: none;
+      pointer-events: none;       /* 不阻擋下面的點擊（文章還可以點入） */
       overflow-wrap: break-word;
       word-break: break-word;
       hyphens: auto;
+      transition: opacity 0.22s ease; /* 讓顯示/隱藏更柔和 */
     }
-    .post-fragment:hover .info-popup {
-      opacity: 1;
-      transition: opacity 0.25s ease-in-out;
-    }
+    /* 仍保留 hover CSS 作為備用，但 JS 使用 inline style 直接控制 opacity（inline 優先） */
+    .post-fragment:hover .info-popup { opacity: 1; }
 
-    /* 文字層次（清楚可讀） */
-    .info-popup .date {
-      font-size: 2.5rem;
-      margin-bottom: 0.5rem;
-      color: #93f9e6;
-      line-height: 1.1;
-    }
-    .info-popup .title {
-      font-size: 5rem;
-      margin-bottom: 0.6rem;
-      color: #5eead4;
-      line-height: 1.15;
-      text-shadow: 0 0 6px rgba(94,234,212,0.9), 0 0 18px rgba(94,234,212,0.35);
-      /* 允許換行 */
-      white-space: normal;
-    }
-    .info-popup .subtitle {
-      font-size: 2.5rem;
-      color: #a5ffe5;
-      line-height: 1.3;
-      white-space: normal;
-    }
+    /* 內容字級 */
+    .info-popup .date { font-size: 0.95rem; margin-bottom: 0.5rem; color: #93f9e6; line-height:1.2; }
+    .info-popup .title { font-size: 1.6rem; margin-bottom: 0.6rem; color: #5eead4; line-height:1.15; white-space: normal; }
+    .info-popup .subtitle { font-size: 1.05rem; color: #a5ffe5; line-height:1.3; white-space: normal; }
 
-    /* 打字效果 caret（用 ::after） */
-    .typing {
-      /* 重要：允許換行，否則會無限向右延伸 */
-      white-space: normal;
-      display: block;
-      overflow-wrap: break-word;
-      word-break: break-word;
-    }
-    .typing::after {
-      content: "";
-      display: inline-block;
-      width: 2px;
-      height: 1em;
-      background: #5eead4;
-      margin-left: 6px;
-      vertical-align: text-bottom;
-      animation: blink 0.8s steps(2, start) infinite;
-    }
+    /* typing caret （內嵌）*/
+    .typing { white-space: normal; display: block; overflow-wrap: break-word; word-break: break-word; }
+    .typing::after { content: ""; display:inline-block; width:2px; height:1em; background:#5eead4; margin-left:6px; vertical-align:text-bottom; animation: blink 0.8s steps(2,start) infinite; }
     @keyframes blink { 50% { opacity: 0 } }
 
-    /* 小螢幕調整 */
     @media (max-width: 600px) {
-      .info-popup {
-        top: -220px;
-        width: calc(100% - 40px);
-        min-height: 200px;
-        padding: 1rem;
-      }
+      .info-popup { top: auto; left: 50%; transform: translateX(-50%); width: calc(100% - 40px); min-height: 200px; }
       .info-popup .title { font-size: 1.15rem; }
       .info-popup .subtitle { font-size: 0.95rem; }
     }
@@ -185,12 +141,10 @@
   {% include footer.html %}
 
   <script>
-    /**
-     * typeText -> 回傳 Promise，內部會把 setTimeout 的 id 記錄在 el._timers 上
-     * 以便在 mouseleave 時清除（防止殘留 timer 造成 race condition）
-     */
+    /* ---------- typing helper (returns Promise) ---------- */
     function typeText(el, text, speed = 30) {
       return new Promise(resolve => {
+        if (!el) return resolve();
         // 清除舊 timers（若有）
         if (el._timers && el._timers.length) {
           el._timers.forEach(id => clearTimeout(id));
@@ -206,7 +160,7 @@
             const id = setTimeout(step, speed);
             el._timers.push(id);
           } else {
-            // 打字完畢，清除 timers list
+            // 清 timer list
             el._timers.forEach(id => clearTimeout(id));
             el._timers = [];
             resolve();
@@ -216,23 +170,36 @@
       });
     }
 
+    /* ---------- main behaviour ---------- */
     document.querySelectorAll('.post-fragment').forEach(fragment => {
       const popup = fragment.querySelector('.info-popup');
       const date = popup.dataset.date || "";
       const title = popup.dataset.title || "";
       const subtitle = popup.dataset.subtitle || "";
 
-      // 隨機偏移：透過 CSS custom properties (--dx, --dy)
+      // 隨機偏移（碎片原始位置）保留，使用 CSS variable --dx/--dy
       const dx = (Math.random() - 0.5) * 80; // -40 ~ +40 px
       const dy = (Math.random() - 0.5) * 60;
       fragment.style.setProperty('--dx', dx + 'px');
       fragment.style.setProperty('--dy', dy + 'px');
-      // 注意：不要直接設 inline transform（會覆蓋 :hover 的 scale）
 
       let activeTyping = false;
 
-      function startTyping() {
-        // 每次進來清空，並加入 .typing class（以顯示光標）
+      function stopTypingAndReset() {
+        // 清除 timers（若存在）
+        const nodes = popup.querySelectorAll('.date, .title, .subtitle');
+        nodes.forEach(n => {
+          if (n && n._timers && n._timers.length) {
+            n._timers.forEach(id => clearTimeout(id));
+            n._timers = [];
+          }
+        });
+        popup.innerHTML = "";      // 清空內文（下次 hover 會重新打）
+        popup.style.opacity = '0'; // 隱藏
+      }
+
+      function startTypingSequence() {
+        // 先清空內容，建立三個節點並加 .typing 類（顯示 caret）
         popup.innerHTML = `
           <div class="date typing"></div>
           <div class="title typing"></div>
@@ -243,45 +210,52 @@
         const s = popup.querySelector('.subtitle');
 
         activeTyping = true;
-
-        // 逐段打字，完成後移除該段 .typing（令 caret 消失）
-        typeText(d, date, 25).then(() => {
-          d.classList.remove('typing');
-          return typeText(t, title, 18);
-        }).then(() => {
-          t.classList.remove('typing');
-          return typeText(s, subtitle, 18);
-        }).then(() => {
-          s.classList.remove('typing');
-          activeTyping = false;
-        }).catch(() => {
-          // 若有錯誤（通常是被清除），確保狀態重置
-          activeTyping = false;
-        });
-      }
-
-      function stopTypingAndReset() {
-        // 清除所有 timers（若存在）並清空內容
-        const nodes = popup.querySelectorAll('.date, .title, .subtitle');
-        nodes.forEach(n => {
-          if (n._timers && n._timers.length) {
-            n._timers.forEach(id => clearTimeout(id));
-            n._timers = [];
-          }
-        });
-        popup.innerHTML = "";
+        // 逐段打字：日期 -> 標題 -> 副標題；每段完成後移除 typing class 令 caret 消失
+        typeText(d, date, 25).then(() => { d.classList.remove('typing'); return typeText(t, title, 18); })
+          .then(() => { t.classList.remove('typing'); return typeText(s, subtitle, 18); })
+          .then(() => { s.classList.remove('typing'); activeTyping = false; })
+          .catch(() => { activeTyping = false; });
       }
 
       fragment.addEventListener('mouseenter', () => {
-        // 若已在打字中，先清除舊的（避免重疊），再重新開始
-        stopTypingAndReset();
-        startTyping();
+        // ========= 新行為：在視窗內選一個安全位置，放置 popup =========
+        // 先確保 popup 是存在 DOM 並可測量（opacity 0 仍可測量）
+        popup.style.position = 'fixed';    // fixed 相對於視窗（保證不會跟 fragment 本身的 bounding box 越位）
+        popup.style.transform = 'none';    // 取消任何 transform，確保座標準確
+
+        // 取視窗同 popup 大小以便計算安全範圍
+        const vw = window.innerWidth;
+        const vh = window.innerHeight;
+        // popup 可能剛被建立或內容清空，但 CSS width/min-height 已生效，可讀 offset
+        const popupW = Math.min(popup.offsetWidth || 400, Math.max(200, Math.min(880, Math.round(vw * 0.8)))); // 保守的 fallback
+        const popupH = popup.offsetHeight || Math.round(Math.min(440, vh * 0.5));
+
+        const margin = 16; // 同畫面邊界保留 16px 空間
+        const minX = margin;
+        const maxX = Math.max(minX, vw - popupW - margin);
+        const minY = margin;
+        const maxY = Math.max(minY, vh - popupH - margin);
+
+        // 隨機選一個位置（確保不會超出畫面）
+        const x = Math.floor(Math.random() * (maxX - minX + 1)) + minX;
+        const y = Math.floor(Math.random() * (maxY - minY + 1)) + minY;
+
+        // 設定 popup 座標（fixed）
+        popup.style.left = x + 'px';    /* <-- 這行會把 popup 固定在視窗中該 x 座標 */
+        popup.style.top  = y + 'px';    /* <-- 這行會把 popup 固定在視窗中該 y 座標 */
+
+        // 顯示（用 inline style 覆蓋 CSS hover 規則），並開始打字
+        popup.style.opacity = '1';
+        stopTypingAndReset();   // 清除任何殘留，保證每次重打
+        startTypingSequence();
       });
 
       fragment.addEventListener('mouseleave', () => {
-        // 當滑走時，停止目前的打字並清空內容（下次 hover 會重打）
+        // 隱藏並停止打字（下次再 hover 會重新打）
         stopTypingAndReset();
       });
+
+      // 可選：如果視窗大小改變，確保下次 hover 仍計算新尺寸（不需要額外處理）
     });
   </script>
 </body>
