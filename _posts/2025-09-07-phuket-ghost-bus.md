@@ -4,7 +4,7 @@ title: "The Ghost Bus of Phuket: A Traveler's Tale of Hubris, Humility, and a 30
 short_title: "The Ghost Bus of Phuket"
 subtitle: "I traded my time and my pride for a genuine piece of understanding."
 category: "Life"
-image: assets/images/pink-baht-bus-phuket-town.jpg
+image: assets/images/phuket_bus_leonardo_1.jpg
 ---
 
 ### **The Ghost Bus of Phuket: A Traveler's Tale of Hubris, Humility, and a 30-Baht Miracle**
