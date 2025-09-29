@@ -7,8 +7,6 @@ category: "Life"
 image: assets/images/phuket_bus_leonardo_1.jpg
 ---
 
-### **The Ghost Bus of Phuket: A Traveler's Tale of Hubris, Humility, and a 30-Baht Miracle**
-
 There’s a certain kind of smugness that infects you after you’ve been on the road for a while. You start believing you’ve "cracked the code." You scoff at tourist traps, you know a few local phrases, and you navigate public transport not with a map, but with a kind of seasoned instinct. Today, in the heart of Phuket Town, that smugness died a slow and painful death at a dusty bus stop.
 
 It all started so well. I’d just polished off a delicious meal at the Limelight mall, feeling clever for finding a local lunch spot. My next mission: get to Phuket Bus Terminal 2 to catch a ride to Krabi. Simple. According to a beautifully detailed English travel blog I’d found, my chariot was to be a "Pink Songthaew." The blog even had a neat little map, a digital oracle promising a smooth journey.
