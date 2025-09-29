@@ -3,16 +3,15 @@
 <head>
   {% include head.html %}
 
-  <!-- Google Fonts graffiti style -->
+  <!-- Graffiti font -->
   <link href="https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap" rel="stylesheet">
 
   <style>
-    /* ===== 背景延伸全版 ===== */
+    /* ===== 全頁背景延伸 + overlay ===== */
     body {
       background: url('{{ site.baseurl }}/{{ page.image }}') center center / cover no-repeat fixed;
       position: relative;
     }
-
     body::before {
       content: "";
       position: fixed;
@@ -21,25 +20,18 @@
       z-index: 0;
     }
 
-    #banner, #main.gallery-main {
-      background: none !important;
-      position: relative;
-      z-index: 1;
-    }
-
-    /* Banner */
-    #banner {
-      padding: 8em 2em;
-    }
+    /* override banner / main background from theme */
+    #banner, #main.gallery-main { background: none !important; position: relative; z-index: 1; }
+    #banner { padding: 8em 2em; }
     #banner:after { background: none !important; }
 
-    /* ===== Life showcase grid ===== */
+    /* ===== gallery layout ===== */
     #main.gallery-main {
       max-width: 1400px;
       margin: 0 auto;
       padding: 4em 2em;
+      position: relative; /* important: popup absolute will be relative to this */
     }
-
     #main.gallery-main > section {
       display: grid;
       grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
@@ -54,71 +46,81 @@
       background-size: cover;
       background-position: center center;
       box-shadow: 0 10px 25px rgba(0,0,0,0.35);
-      transition: transform 0.3s ease-out;
+      transition: transform 0.25s ease;
       border-radius: 6px;
     }
-    .post-fragment:hover {
-      transform: scale(1.05);
-      z-index: 2;
-    }
-
+    .post-fragment:hover { transform: scale(1.05); z-index: 2; }
     .post-fragment .click-area {
-      position: absolute;
-      top: 0; left: 0;
-      width: 100%; height: 100%;
-      z-index: 3;
+      position: absolute; top:0; left:0; width:100%; height:100%; z-index: 3;
     }
 
-    /* ===== Info popup ===== */
-    .info-popup {
-      position: absolute;
-      top: -260px;
-      left: 50%;
-      transform: translateX(-50%);
-      width: 400px;
-      min-height: 150px;
-      background: rgba(0,0,0,0.65);
-      border-radius: 10px;
-      padding: 1em 1.5em;
-      box-shadow: 0 0 20px rgba(94,234,212,0.6);
-      font-family: 'Permanent Marker', cursive;
-      color: #5eead4;
-      text-align: left;
+    /* ===== 全局 Popup (外置於 fragments) ===== */
+    #global-popup {
+      position: absolute; /* relative to #main.gallery-main */
+      left: 20px;
+      top: 20px;
+      width: 600px;
+      max-width: calc(100% - 40px);
+      max-height: 60vh;
+      background: rgba(0,0,0,0.72);
+      border-radius: 18px;
+      padding: 1.2em 1.4em;
+      box-shadow: 0 10px 40px rgba(0,0,0,0.6), 0 0 30px rgba(94,234,212,0.14) inset;
+      border: 2px solid rgba(94,234,212,0.08);
+      color: #bffbf0;
+      z-index: 9999;
       opacity: 0;
-      z-index: 10;
-      pointer-events: none;
-    }
-    .post-fragment:hover .info-popup {
-      opacity: 1;
-      transition: opacity 0.3s ease-in-out;
-    }
-
-    /* 文字層次 */
-    .info-popup .date {
-      font-size: 0.9em;
-      margin-bottom: 0.5em;
-      color: #93f9e6;
-    }
-    .info-popup .title {
-      font-size: 1.5em;
-      margin-bottom: 0.5em;
-      color: #5eead4;
-      text-shadow: 0 0 5px #5eead4, 0 0 15px #5eead4;
-    }
-    .info-popup .subtitle {
-      font-size: 1.1em;
-      color: #a5ffe5;
-    }
-
-    /* 打字效果 cursor */
-    .typing {
-      display: inline-block;
-      white-space: nowrap;
+      transform: translateY(10px);
+      transition: opacity 0.28s ease, transform 0.28s ease;
+      pointer-events: none; /* do not capture mouse */
+      display: flex;
+      flex-direction: column;
+      gap: 0.35em;
       overflow: hidden;
-      border-right: 2px solid #5eead4;
-      animation: caret 0.7s infinite;
+      word-wrap: break-word;
     }
-    @keyframes caret { 50% { border-color: transparent; } }
+    #global-popup.visible {
+      opacity: 1;
+      transform: translateY(0);
+    }
+
+    /* Popup internal formatting */
+    #global-popup .date {
+      font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+      font-size: 0.95rem;
+      color: #93f9e6;
+      letter-spacing: 0.06em;
+      opacity: 0.95;
+    }
+    #global-popup .title {
+      font-family: 'Permanent Marker', cursive;
+      font-size: 1.6rem;
+      line-height: 1.0;
+      color: #5eead4;
+      text-shadow: 0 0 6px rgba(94,234,212,0.45), 0 0 18px rgba(94,234,212,0.18);
+      margin-top: 0.1rem;
+    }
+    #global-popup .subtitle {
+      font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+      font-size: 1.05rem;
+      color: #aef8e9;
+      opacity: 0.95;
+      margin-top: 0.25rem;
+    }
+
+    /* typing caret (applies only to the element currently typing) */
+    .typing {
+      border-right: 2px solid #5eead4;
+      padding-right: 2px;
+      animation: blink-caret 0.7s steps(1) infinite;
+    }
+    @keyframes blink-caret { 50% { border-color: transparent; } }
+
+    /* responsive tweak */
+    @media (max-width: 800px) {
+      #global-popup { width: calc(100% - 40px); left: 20px; right: 20px; top: 10px; }
+      .post-fragment { width: 160px; height: 160px; }
+    }
   </style>
 </head>
 
@@ -128,76 +130,169 @@
   <!-- Banner -->
   <section id="banner">
     <div class="inner">
-      <header class="major">
-        <h1>{{ page.title }}</h1>
-      </header>
-      <div class="content">
-        <p>{{ page.description }}</p>
-      </div>
+      <header class="major"><h1>{{ page.title }}</h1></header>
+      <div class="content"><p>{{ page.description }}</p></div>
     </div>
   </section>
 
-  <!-- 主要內容 -->
+  <!-- Main gallery -->
   <div id="main" class="gallery-main">
     <section>
       {% assign life_posts = site.posts | where: "category", "Life" | reverse %}
       {% for post in life_posts %}
-        <article class="post-fragment" style="background-image: url('{{ site.baseurl }}/{{ post.image }}');">
+        <!-- store the data on the article element -->
+        <article class="post-fragment"
+                 data-date="{{ post.date | date: "%Y-%m-%d" }}"
+                 data-title="{{ post.title | escape }}"
+                 data-subtitle="{{ post.subtitle | escape }}"
+                 style="background-image: url('{{ site.baseurl }}/{{ post.image }}');">
           <a href="{{ post.url | relative_url }}" class="click-area" aria-label="{{ post.title }}"></a>
-          <div class="info-popup"
-               data-date="{{ post.date | date: "%Y-%m-%d" }}"
-               data-title="{{ post.title }}"
-               data-subtitle="{{ post.subtitle }}">
-          </div>
         </article>
       {% endfor %}
     </section>
+
+    <!-- single global popup element (initially hidden) -->
+    <div id="global-popup" aria-hidden="true">
+      <div class="date"></div>
+      <div class="title"></div>
+      <div class="subtitle"></div>
+    </div>
   </div>
 
   {% include footer.html %}
 
-  <!-- 打字動畫 -->
   <script>
-    function typeText(element, text, speed=30, callback) {
-      element.textContent = "";
-      let i = 0;
-      function typing() {
-        if (i < text.length) {
-          element.textContent += text.charAt(i);
-          i++;
-          setTimeout(typing, speed);
-        } else if (callback) callback();
+    (function () {
+      const main = document.querySelector('#main.gallery-main');
+      const fragments = Array.from(document.querySelectorAll('.post-fragment'));
+      const popup = document.getElementById('global-popup');
+
+      let typingTimers = []; // store timeouts so we can cancel
+      function clearTypingTimers() {
+        while (typingTimers.length) {
+          clearTimeout(typingTimers.shift());
+        }
       }
-      typing();
-    }
 
-    document.querySelectorAll('.post-fragment').forEach(fragment => {
-      const popup = fragment.querySelector('.info-popup');
-      const date = popup.dataset.date;
-      const title = popup.dataset.title;
-      const subtitle = popup.dataset.subtitle;
+      function cancelAndHide() {
+        clearTypingTimers();
+        popup.classList.remove('visible');
+        popup.setAttribute('aria-hidden', 'true');
+        // clear text
+        popup.querySelector('.date').textContent = '';
+        popup.querySelector('.title').textContent = '';
+        popup.querySelector('.subtitle').textContent = '';
+        // remove typing class if any
+        popup.querySelectorAll('.date, .title, .subtitle').forEach(el => el.classList.remove('typing'));
+      }
 
-      fragment.addEventListener('mouseenter', () => {
-        popup.innerHTML = `
-          <div class="date"></div>
-          <div class="title"></div>
-          <div class="subtitle"></div>
-        `;
-        const d = popup.querySelector('.date');
-        const t = popup.querySelector('.title');
-        const s = popup.querySelector('.subtitle');
+      function clamp(v, a, b) { return Math.max(a, Math.min(b, v)); }
 
-        typeText(d, date, 25, () => {
-          typeText(t, title, 20, () => {
-            typeText(s, subtitle, 20);
+      // typeText with cancellable timers
+      function typeText(el, text, speed, cb) {
+        el.classList.add('typing');
+        el.textContent = '';
+        let i = 0;
+        function step() {
+          if (i < text.length) {
+            el.textContent += text.charAt(i++);
+            const t = setTimeout(step, speed);
+            typingTimers.push(t);
+          } else {
+            // done
+            el.classList.remove('typing');
+            if (typeof cb === 'function') {
+              const t = setTimeout(cb, 80);
+              typingTimers.push(t);
+            }
+          }
+        }
+        step();
+      }
+
+      function showPopupForFragment(fragment) {
+        // reset previous
+        clearTypingTimers();
+
+        // read data
+        const date = fragment.getAttribute('data-date') || '';
+        const title = fragment.getAttribute('data-title') || '';
+        const subtitle = fragment.getAttribute('data-subtitle') || '';
+
+        // geometry
+        const fragRect = fragment.getBoundingClientRect();
+        const mainRect = main.getBoundingClientRect();
+        const a = fragment.offsetWidth || 220;
+        // choose popup size: up to 4a width, limited by main width
+        const pad = 20;
+        const desiredW = Math.floor(Math.min(4 * a, main.clientWidth - pad * 2));
+        const desiredH = Math.floor(Math.min(2 * fragment.offsetHeight, window.innerHeight * 0.6));
+        popup.style.width = desiredW + 'px';
+        popup.style.maxHeight = Math.max(desiredH, 160) + 'px';
+
+        // compute left (relative to #main)
+        let left = (fragRect.left + fragRect.width / 2) - (desiredW / 2) - mainRect.left;
+        left = clamp(left, pad, main.clientWidth - desiredW - pad);
+        // compute top: prefer above the fragment
+        let top = fragRect.top - mainRect.top - desiredH - 18;
+        if (top < 6) {
+          // not enough space above -> put below fragment
+          top = fragRect.bottom - mainRect.top + 18;
+        }
+        popup.style.left = Math.round(left) + 'px';
+        popup.style.top = Math.round(top) + 'px';
+
+        // set content empty then type
+        const dateEl = popup.querySelector('.date');
+        const titleEl = popup.querySelector('.title');
+        const subEl = popup.querySelector('.subtitle');
+
+        dateEl.textContent = '';
+        titleEl.textContent = '';
+        subEl.textContent = '';
+
+        // show popup (use class for transitions)
+        popup.classList.add('visible');
+        popup.setAttribute('aria-hidden', 'false');
+
+        // typing sequence: date -> title -> subtitle
+        // speeds tuned for legibility
+        typeText(dateEl, date, 22, function () {
+          typeText(titleEl, title, 18, function () {
+            typeText(subEl, subtitle, 20);
           });
+        });
+      }
+
+      // attach listeners
+      fragments.forEach(frag => {
+        frag.addEventListener('mouseenter', () => {
+          // show popup (recreates animation each time)
+          showPopupForFragment(frag);
+        });
+        frag.addEventListener('mouseleave', () => {
+          // hide & cancel timers
+          cancelAndHide();
         });
       });
 
-      fragment.addEventListener('mouseleave', () => {
-        popup.style.opacity = 0;
+      // if user scrolls while popup visible, reposition it to track the hovered fragment
+      let currentHover = null;
+      fragments.forEach(f => {
+        f.addEventListener('mouseenter', () => currentHover = f);
+        f.addEventListener('mouseleave', () => { if (currentHover === f) currentHover = null; });
       });
-    });
+
+      window.addEventListener('scroll', () => {
+        if (currentHover) showPopupForFragment(currentHover);
+      });
+      window.addEventListener('resize', () => {
+        if (currentHover) showPopupForFragment(currentHover);
+      });
+
+      // ensure initial clean state
+      cancelAndHide();
+    })();
   </script>
 </body>
 </html>
