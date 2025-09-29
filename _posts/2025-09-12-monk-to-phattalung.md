@@ -4,7 +4,7 @@ title: "The Monk on the Delayed Train to Phatthalung"
 short_title: "The Monk and the Amulet"
 subtitle: "My journey to Malaysia had failed, but my journey in Thailand had just acquired a soul."
 category: "Life"
-image: assets/images/pic02.jpg
+image: assets/images/amulet_imagen.png
 ---
 
 ### **The Monk on the Delayed Train to Phatthalung**
