@@ -2,17 +2,13 @@
 <html>
 <head>
   {% include head.html %}
-
-  <!-- Google Fonts graffiti style -->
   <link href="https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap" rel="stylesheet">
 
   <style>
-    /* ===== 背景延伸全版 ===== */
     body {
       background: url('{{ site.baseurl }}/{{ page.image }}') center center / cover no-repeat fixed;
       position: relative;
     }
-
     body::before {
       content: "";
       position: fixed;
@@ -20,26 +16,21 @@
       background: rgba(20,20,20,0.85);
       z-index: 0;
     }
-
     #banner, #main.gallery-main {
       background: none !important;
       position: relative;
       z-index: 1;
     }
-
-    /* Banner */
     #banner {
       padding: 8em 2em;
     }
     #banner:after { background: none !important; }
 
-    /* ===== Life showcase grid ===== */
     #main.gallery-main {
       max-width: 1400px;
       margin: 0 auto;
       padding: 4em 2em;
     }
-
     #main.gallery-main > section {
       display: grid;
       grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
@@ -58,10 +49,9 @@
       border-radius: 6px;
     }
     .post-fragment:hover {
-      transform: scale(1.05);
+      transform: scale(1.05) translate(var(--dx), var(--dy));
       z-index: 2;
     }
-
     .post-fragment .click-area {
       position: absolute;
       top: 0; left: 0;
@@ -69,7 +59,6 @@
       z-index: 3;
     }
 
-    /* ===== Info popup ===== */
     .info-popup {
       position: absolute;
       top: -260px;
@@ -92,25 +81,10 @@
       opacity: 1;
       transition: opacity 0.3s ease-in-out;
     }
+    .info-popup .date { font-size: 0.9em; margin-bottom: 0.5em; color: #93f9e6; }
+    .info-popup .title { font-size: 1.5em; margin-bottom: 0.5em; color: #5eead4; text-shadow: 0 0 5px #5eead4, 0 0 15px #5eead4; }
+    .info-popup .subtitle { font-size: 1.1em; color: #a5ffe5; }
 
-    /* 文字層次 */
-    .info-popup .date {
-      font-size: 0.9em;
-      margin-bottom: 0.5em;
-      color: #93f9e6;
-    }
-    .info-popup .title {
-      font-size: 1.5em;
-      margin-bottom: 0.5em;
-      color: #5eead4;
-      text-shadow: 0 0 5px #5eead4, 0 0 15px #5eead4;
-    }
-    .info-popup .subtitle {
-      font-size: 1.1em;
-      color: #a5ffe5;
-    }
-
-    /* 打字效果 cursor */
     .typing {
       display: inline-block;
       white-space: nowrap;
@@ -125,7 +99,6 @@
 <body>
   {% include header.html %}
 
-  <!-- Banner -->
   <section id="banner">
     <div class="inner">
       <header class="major">
@@ -137,7 +110,6 @@
     </div>
   </section>
 
-  <!-- 主要內容 -->
   <div id="main" class="gallery-main">
     <section>
       {% assign life_posts = site.posts | where: "category", "Life" | reverse %}
@@ -156,7 +128,6 @@
 
   {% include footer.html %}
 
-  <!-- 打字動畫 -->
   <script>
     function typeText(element, text, speed=30, callback) {
       element.textContent = "";
@@ -177,6 +148,13 @@
       const title = popup.dataset.title;
       const subtitle = popup.dataset.subtitle;
 
+      // === 隨機位移效果 ===
+      const dx = (Math.random() - 0.5) * 40; // -20 ~ +20px
+      const dy = (Math.random() - 0.5) * 40;
+      fragment.style.setProperty('--dx', dx + 'px');
+      fragment.style.setProperty('--dy', dy + 'px');
+      fragment.style.transform = `translate(${dx}px, ${dy}px)`;
+
       fragment.addEventListener('mouseenter', () => {
         popup.innerHTML = `
           <div class="date"></div>
@@ -196,6 +174,8 @@
 
       fragment.addEventListener('mouseleave', () => {
         popup.style.opacity = 0;
+        // reset innerHTML，確保下次 hover 會重新打字
+        popup.innerHTML = "";
       });
     });
   </script>
