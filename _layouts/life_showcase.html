@@ -270,12 +270,49 @@
           }
         });
         popup.innerHTML = "";
+        popup.removeAttribute('style'); // 簡單粗暴但有效，清除所有 inline style
       }
 
       fragment.addEventListener('mouseenter', () => {
-        // 若已在打字中，先清除舊的（避免重疊），再重新開始
-        stopTypingAndReset();
-        startTyping();
+        // 先清除上一次可能留下嘅臨時樣式
+        popup.style.top = '';
+        popup.style.left = '';
+        popup.style.transform = '';
+        popup.style.bottom = ''; // etc.
+        
+        // 進行判斷...
+        const fragmentRect = fragment.getBoundingClientRect();
+        const popupRect = popup.getBoundingClientRect(); // 假設已獲取
+        
+        // 垂直調整
+        if (fragmentRect.top < popupRect.height) { // 上方空間唔夠
+          // 改為喺下方彈出
+          popup.style.top = '230px'; // 方塊高度 220px + 10px buffer
+        } else {
+          // 空間足夠，用返預設值（或者唔設，由 CSS 控制）
+          popup.style.top = '-260px';
+        }
+        
+        // 水平調整
+        const popupHalfWidth = popupRect.width / 2;
+        const fragmentCenter = fragmentRect.left + (fragmentRect.width / 2);
+        
+        if (fragmentCenter - popupHalfWidth < 0) { // 左邊出界
+          // 緊貼左邊界
+          popup.style.left = '0';
+          popup.style.transform = 'translateX(0)';
+        } else if (fragmentCenter + popupHalfWidth > window.innerWidth) { // 右邊出界
+          // 緊貼右邊界
+          popup.style.left = 'auto'; // 取消 left
+          popup.style.right = '0';   // 改用 right
+          popup.style.transform = 'translateX(0)';
+        } else {
+          // 空間足夠，用返預設值
+          popup.style.left = '50%';
+          popup.style.transform = 'translateX(-50%)';
+        }
+        
+        startTyping(); // 然後先開始打字
       });
 
       fragment.addEventListener('mouseleave', () => {
