@@ -51,7 +51,8 @@
       border-radius: 6px;
       transform: translate(var(--dx, 0px), var(--dy, 0px));
       will-change: transform;
-      mix-blend-mode: normal !important;  /* attempt to avoid a rare bug of passport pic changing to negative color */
+      backface-visibility: hidden;
+      -webkit-transform: translateZ(0);
     }
     .post-fragment:hover {
       transform: translate(var(--dx, 0px), var(--dy, 0px)) scale(1.05);
