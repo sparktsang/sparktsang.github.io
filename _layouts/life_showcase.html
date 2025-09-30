@@ -247,6 +247,7 @@
 
       /**
        * 邊界檢測，智能調整彈出框位置
+       * (*** 已修正版本 ***)
        */
       function calibratePopupPosition(fragment, popup) {
           // 確保 popup 是可見的以便測量尺寸，但不顯示出來
@@ -259,33 +260,45 @@
           const fragmentRect = fragment.getBoundingClientRect();
           const viewportWidth = window.innerWidth;
           
-          let top = -260; // 預設值
+          // --- 新邏輯：垂直位置智能微調 ---
+          let top = -260; // 從 CSS 預設的相對位置開始
+          
+          // 計算如果按預設值顯示，資訊框的頂部會在哪個屏幕 Y 座標
+          const potentialPopupTopY = fragmentRect.top + top; 
+          
+          // 如果潛在位置會衝出畫面頂部（我們留 10px 的邊距）
+          if (potentialPopupTopY < 10) {
+            // 計算衝出了多少距離
+            const overflowAmount = 10 - potentialPopupTopY;
+            // 將 `top` 值增加衝出的距離，把它「拉」回畫面內
+            top = top + overflowAmount;
+          }
+          // --- 舊邏輯 (已被取代) ---
+          // if (fragmentRect.top < popupRect.height) {
+          //     top = fragment.offsetHeight + 15; 
+          // }
+
+          // --- 水平位置檢查 (維持不變) ---
           let left = '50%';
           let transform = 'translateX(-50%)';
           let right = 'auto';
 
-          // 垂直檢查
-          if (fragmentRect.top < popupRect.height) {
-              top = fragment.offsetHeight + 15; // 在方塊下方彈出
-          }
-
-          // 水平檢查
           const fragmentCenter = fragmentRect.left + fragmentRect.width / 2;
-          if (fragmentCenter - (popupRect.width / 2) < 10) { // 靠近左邊界
+          if (fragmentCenter - (popupRect.width / 2) < 10) {
               left = '10px';
               transform = 'translateX(0)';
-          } else if (fragmentCenter + (popupRect.width / 2) > (viewportWidth - 10)) { // 靠近右邊界
+          } else if (fragmentCenter + (popupRect.width / 2) > (viewportWidth - 10)) {
               left = 'auto';
               right = '10px';
               transform = 'translateX(0)';
           }
 
+          // 應用計算後的所有樣式
           popup.style.top = `${top}px`;
           popup.style.left = left;
           popup.style.right = right;
           popup.style.transform = transform;
       }
-
 
       // ===================================================================
       // 2. 設備偵測與邏輯分流
