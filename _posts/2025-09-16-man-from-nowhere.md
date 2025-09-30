@@ -4,7 +4,7 @@ title: "The Man from Nowhere, and the Truth in a Rainstorm"
 short_title: "The Man from Nowhere"
 subtitle: "Sometimes, the people with the least to give are the ones who give the most."
 category: "Life"
-image: assets/images/pic01.jpg 
+image: assets/images/Neung_bing.jpeg
 ---
 
 Travel has a funny way of stripping things down to their essence. You think you’re exploring a place, but what you’re often exploring is life itself, in all its messy, beautiful, and contradictory glory. I learned this today in Surat Thani, not in a temple or a museum, but under a dirty pavilion on a river island, waiting out a storm.
