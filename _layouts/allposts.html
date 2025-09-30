@@ -1,48 +1,45 @@
-<!DOCTYPE html>
-<!--
-    Forty by HTML5 UP
-    html5up.net | @ajlkn
-    Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-  -->
-<html>
+<div class="sort-toggle" style="margin-bottom: 1em;">
+  <button id="sort-oldest">OLD TO NEW</button>
+  <button id="sort-newest">NEW TO OLD</button>
+</div>
 
-  {% include head.html %}
+<div id="post-list">
+  {% for post in site.posts reversed %}
+    {% if post.title != 404 %}
+      <article class="post-summary">
+        <header class="major">
+          <h1>{{ post.title }}</h1>
+        </header>
+        {% if post.date %}
+          <p class="post-date">{{ post.date | date: "%Y-%m-%d" }}</p>
+        {% endif %}
+        {% if post.image %}
+          <span class="image main">
+            <img src="{{ site.baseurl }}/{{ post.image }}" alt="" />
+          </span>
+        {% endif %}
+        <p>{{ post.content }}</p>
+      </article>
+      {% unless forloop.last %}
+        <hr class="post-divider" />
+      {% endunless %}
+    {% endif %}
+  {% endfor %}
+</div>
 
-  <body>
+<script>
+  document.addEventListener("DOMContentLoaded", () => {
+    const container = document.getElementById("post-list");
+    const posts = Array.from(container.children);
 
-    {% include header.html %} 
-    
-    
-    <!-- Main -->
-    <div id="main" class="alt">
+    document.getElementById("sort-newest").addEventListener("click", () => {
+      container.innerHTML = "";
+      posts.slice().reverse().forEach(p => container.appendChild(p));
+    });
 
-      <!-- One -->
-      <section id="one">
-	<div class="inner">
-	  {% for post in site.posts %}
-		{% if post.title != 404 %}
-		  <article class="post-summary">
-			<header class="major">
-			  <h1>{{ post.title }}</h1>
-			</header>
-			{% if post.date %}<p class="post-date">{{ post.date | date: "%Y-%m-%d" }}</p>{% endif %}
-			{% if post.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ post.image }}" alt="" /></span>{% endif %}
-			<p>{{ post.content }}</p>
-		  </article>
-	
-		  {% unless forloop.last %}
-			<hr class="post-divider" />
-		  {% endunless %}
-		{% endif %}
-	  {% endfor %}
-	</div>
-
-      </section>
-
-    </div>
-
-    {% include footer.html %}
-
-  </body>
-
-</html>
+    document.getElementById("sort-oldest").addEventListener("click", () => {
+      container.innerHTML = "";
+      posts.forEach(p => container.appendChild(p));
+    });
+  });
+</script>
