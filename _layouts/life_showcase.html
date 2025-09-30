@@ -49,7 +49,7 @@
       box-shadow: 0 10px 25px rgba(0,0,0,0.35);
       transition: transform 0.25s ease-out, opacity 0.3s ease; /* 加入 opacity transition */
       border-radius: 6px;
-      transform: translate(var(--dx, 0px), var(--dy, 0px));
+      transform: translate(round(var(--dx, 0px)), round(var(--dy, 0px)));
       will-change: transform;
     }
     .post-fragment:hover {
