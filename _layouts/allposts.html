@@ -1,13 +1,36 @@
 <!DOCTYPE html>
-<!--
-    Forty by HTML5 UP
-    html5up.net | @ajlkn
-    Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-  -->
 <html>
-
   {% include head.html %}
-
+  <style>
+    /* sort-toggle 樣式 */
+    .sort-toggle {
+      display: flex;
+      justify-content: center;
+      gap: 1rem;
+      margin: 2rem 0;
+    }
+    .sort-toggle button {
+      padding: 0.6rem 1.5rem;
+      font-size: 0.95rem;
+      font-weight: 600;
+      border: 2px solid #5eead4;
+      border-radius: 8px;
+      background: transparent;
+      color: #5eead4;
+      cursor: pointer;
+      transition: all 0.25s ease;
+      letter-spacing: 0.5px;
+    }
+    .sort-toggle button:hover {
+      background: rgba(94, 234, 212, 0.1);
+    }
+    .sort-toggle button.active,
+    .sort-toggle button[aria-pressed="true"] {
+      background: #5eead4;
+      color: #0a0a0a;
+      box-shadow: 0 0 12px rgba(94, 234, 212, 0.4);
+    }
+  </style>
   <body>
 
     {% include header.html %} 
@@ -20,9 +43,9 @@
 <section id="one">
   <div class="inner">
     <!-- 排序按鈕（放喺 inner 裡，保持間距） -->
-    <div class="sort-toggle" style="margin-bottom: 1rem;">
-      <button id="sort-oldest" aria-pressed="true">OLD TO NEW</button>
-      <button id="sort-newest" aria-pressed="false">NEW TO OLD</button>
+    <div class="sort-toggle">
+  <button id="sort-oldest" class="active" aria-pressed="true">OLD TO NEW</button>
+  <button id="sort-newest" aria-pressed="false">NEW TO OLD</button>
     </div>
 
     <!-- 注意：保留 .inner（上面那層），#post-list 嵌入其內 -->
@@ -49,13 +72,10 @@
 <script>
 document.addEventListener("DOMContentLoaded", () => {
   const container = document.getElementById("post-list");
-  // 只選 article，保留原始順序作為 baseline
   const articles = Array.from(container.querySelectorAll('article.post-summary'));
-  const original = articles.slice(); // 保存原始（舊->新，因為模板用了 reversed）
+  const original = articles.slice();
 
-  // helper: 重建 DOM（使用 DocumentFragment，避免多次 reflow）
   function render(list) {
-    // 清空 children（保留 container 的 class/id）
     container.innerHTML = "";
     const frag = document.createDocumentFragment();
     list.forEach((article, idx) => {
@@ -69,20 +89,22 @@ document.addEventListener("DOMContentLoaded", () => {
     container.appendChild(frag);
   }
 
-  // 初始化（保證 DOM 與 articles reference 一致）
+  // 初始化
   render(original);
 
-  // buttons
-  document.getElementById('sort-newest').addEventListener('click', () => {
-    render(original.slice().reverse());
-    document.getElementById('sort-newest').setAttribute('aria-pressed', 'true');
-    document.getElementById('sort-oldest').setAttribute('aria-pressed', 'false');
-  });
-  document.getElementById('sort-oldest').addEventListener('click', () => {
-    render(original.slice());
-    document.getElementById('sort-oldest').setAttribute('aria-pressed', 'true');
-    document.getElementById('sort-newest').setAttribute('aria-pressed', 'false');
-  });
+  const btnOldest = document.getElementById('sort-oldest');
+  const btnNewest = document.getElementById('sort-newest');
+
+  function setActive(activeBtn, inactiveBtn, list) {
+    render(list);
+    activeBtn.classList.add("active");
+    activeBtn.setAttribute("aria-pressed", "true");
+    inactiveBtn.classList.remove("active");
+    inactiveBtn.setAttribute("aria-pressed", "false");
+  }
+
+  btnOldest.addEventListener("click", () => setActive(btnOldest, btnNewest, original.slice()));
+  btnNewest.addEventListener("click", () => setActive(btnNewest, btnOldest, original.slice().reverse()));
 });
 </script>
     </div>
