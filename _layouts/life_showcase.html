@@ -247,7 +247,7 @@
 
       /**
        * 邊界檢測，智能調整彈出框位置
-       * (*** 最終修正版本 ***)
+       * (*** 考慮 Header 版本 ***)
        */
       function calibratePopupPosition(fragment, popup) {
           // 確保 popup 是可見的以便測量尺寸，但不顯示出來
@@ -260,19 +260,23 @@
           const fragmentRect = fragment.getBoundingClientRect();
           const viewportWidth = window.innerWidth;
           
+          // --- 新增：動態計算頂部安全邊界 ---
+          const header = document.querySelector('#header'); // 假設你的 header 標籤 ID 是 'header'
+          let topBoundary = 10; // 預設 10px 邊距
+          if (header) {
+            // 如果搵到 header，安全邊界就係 header 嘅高度 + 10px
+            topBoundary = header.offsetHeight + 10;
+          }
+          
+          // --- 核心邏輯：使用新嘅 topBoundary ---
           let top = -260; // 預設的相對 top 值
 
-          // 計算如果按預設值顯示，資訊框的頂部會在哪個屏幕 Y 座標
           const potentialPopupTopY = fragmentRect.top + top;
           
-          // 如果潛在位置會衝出畫面頂部 (留 10px 邊距)
-          if (potentialPopupTopY < 10) {
-            // ** 新嘅、更直接嘅計算方法 **
-            // 我哋嘅目標係令資訊框嘅最終絕對 top Y 座標 = 10px
-            // 公式: 最終座標 = fragmentRect.top + 新嘅相對 top
-            // 所以: 10 = fragmentRect.top + top
-            // 解出 top:
-            top = 10 - fragmentRect.top;
+          // 如果潛在位置高過咗我哋嘅安全邊界
+          if (potentialPopupTopY < topBoundary) {
+            // 直接計算出一個新嘅 top 值，令資訊框頂部剛剛好喺安全邊界上
+            top = topBoundary - fragmentRect.top;
           }
 
           // --- 水平位置檢查 (維持不變) ---
