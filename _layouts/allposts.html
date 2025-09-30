@@ -17,28 +17,74 @@
     <div id="main" class="alt">
 
       <!-- One -->
-      <section id="one">
-	<div class="inner">
-	  {% for post in site.posts %}
-		{% if post.title != 404 %}
-		  <article class="post-summary">
-			<header class="major">
-			  <h1>{{ post.title }}</h1>
-			</header>
-			{% if post.date %}<p class="post-date">{{ post.date | date: "%Y-%m-%d" }}</p>{% endif %}
-			{% if post.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ post.image }}" alt="" /></span>{% endif %}
-			<p>{{ post.content }}</p>
-		  </article>
-	
-		  {% unless forloop.last %}
-			<hr class="post-divider" />
-		  {% endunless %}
-		{% endif %}
-	  {% endfor %}
-	</div>
+<section id="one">
+  <div class="inner">
+    <!-- 排序按鈕（放喺 inner 裡，保持間距） -->
+    <div class="sort-toggle" style="margin-bottom: 1rem;">
+      <button id="sort-oldest" aria-pressed="true">由舊至新</button>
+      <button id="sort-newest" aria-pressed="false">由新至舊</button>
+    </div>
 
-      </section>
+    <!-- 注意：保留 .inner（上面那層），#post-list 嵌入其內 -->
+    <div id="post-list">
+      {% for post in site.posts reversed %}
+        {% if post.title != 404 %}
+          <article class="post-summary">
+            <header class="major">
+              <h1>{{ post.title }}</h1>
+            </header>
+            {% if post.date %}<p class="post-date">{{ post.date | date: "%Y-%m-%d" }}</p>{% endif %}
+            {% if post.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ post.image }}" alt="" /></span>{% endif %}
+            <p>{{ post.content }}</p>
+          </article>
 
+          {% unless forloop.last %}
+            <hr class="post-divider" />
+          {% endunless %}
+        {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+</section>
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  const container = document.getElementById("post-list");
+  // 只選 article，保留原始順序作為 baseline
+  const articles = Array.from(container.querySelectorAll('article.post-summary'));
+  const original = articles.slice(); // 保存原始（舊->新，因為模板用了 reversed）
+
+  // helper: 重建 DOM（使用 DocumentFragment，避免多次 reflow）
+  function render(list) {
+    // 清空 children（保留 container 的 class/id）
+    container.innerHTML = "";
+    const frag = document.createDocumentFragment();
+    list.forEach((article, idx) => {
+      frag.appendChild(article);
+      if (idx !== list.length - 1) {
+        const hr = document.createElement('hr');
+        hr.className = 'post-divider';
+        frag.appendChild(hr);
+      }
+    });
+    container.appendChild(frag);
+  }
+
+  // 初始化（保證 DOM 與 articles reference 一致）
+  render(original);
+
+  // buttons
+  document.getElementById('sort-newest').addEventListener('click', () => {
+    render(original.slice().reverse());
+    document.getElementById('sort-newest').setAttribute('aria-pressed', 'true');
+    document.getElementById('sort-oldest').setAttribute('aria-pressed', 'false');
+  });
+  document.getElementById('sort-oldest').addEventListener('click', () => {
+    render(original.slice());
+    document.getElementById('sort-oldest').setAttribute('aria-pressed', 'true');
+    document.getElementById('sort-newest').setAttribute('aria-pressed', 'false');
+  });
+});
+</script>
     </div>
 
     {% include footer.html %}
