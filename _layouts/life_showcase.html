@@ -247,7 +247,7 @@
 
       /**
        * 邊界檢測，智能調整彈出框位置
-       * (*** 已修正版本 ***)
+       * (*** 最終修正版本 ***)
        */
       function calibratePopupPosition(fragment, popup) {
           // 確保 popup 是可見的以便測量尺寸，但不顯示出來
@@ -260,23 +260,20 @@
           const fragmentRect = fragment.getBoundingClientRect();
           const viewportWidth = window.innerWidth;
           
-          // --- 新邏輯：垂直位置智能微調 ---
-          let top = -260; // 從 CSS 預設的相對位置開始
-          
+          let top = -260; // 預設的相對 top 值
+
           // 計算如果按預設值顯示，資訊框的頂部會在哪個屏幕 Y 座標
-          const potentialPopupTopY = fragmentRect.top + top; 
+          const potentialPopupTopY = fragmentRect.top + top;
           
-          // 如果潛在位置會衝出畫面頂部（我們留 10px 的邊距）
+          // 如果潛在位置會衝出畫面頂部 (留 10px 邊距)
           if (potentialPopupTopY < 10) {
-            // 計算衝出了多少距離
-            const overflowAmount = 10 - potentialPopupTopY;
-            // 將 `top` 值增加衝出的距離，把它「拉」回畫面內
-            top = top + overflowAmount;
+            // ** 新嘅、更直接嘅計算方法 **
+            // 我哋嘅目標係令資訊框嘅最終絕對 top Y 座標 = 10px
+            // 公式: 最終座標 = fragmentRect.top + 新嘅相對 top
+            // 所以: 10 = fragmentRect.top + top
+            // 解出 top:
+            top = 10 - fragmentRect.top;
           }
-          // --- 舊邏輯 (已被取代) ---
-          // if (fragmentRect.top < popupRect.height) {
-          //     top = fragment.offsetHeight + 15; 
-          // }
 
           // --- 水平位置檢查 (維持不變) ---
           let left = '50%';
