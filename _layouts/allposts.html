@@ -19,17 +19,24 @@
       <!-- One -->
       <section id="one">
 	<div class="inner">
-          {% for post in site.posts %}
-	  {% if post.title != 404 %}
-	  <header class="major">
-	    <h1>{{ post.title }}</h1>
-	  </header>
-	  {% if post.date %}<p>{{ post.date | date: "%Y-%m-%d" }}</p>{% endif %}
-	  {% if post.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ post.image }}" alt="" /></span>{% endif %}
-	  <p>{{ post.content }}</p>
-	  {% endif %}
-          {% endfor %}
+	  {% for post in site.posts %}
+		{% if post.title != 404 %}
+		  <article class="post-summary">
+			<header class="major">
+			  <h1>{{ post.title }}</h1>
+			</header>
+			{% if post.date %}<p class="post-date">{{ post.date | date: "%Y-%m-%d" }}</p>{% endif %}
+			{% if post.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ post.image }}" alt="" /></span>{% endif %}
+			<p>{{ post.content }}</p>
+		  </article>
+	
+		  {% unless forloop.last %}
+			<hr class="post-divider" />
+		  {% endunless %}
+		{% endif %}
+	  {% endfor %}
 	</div>
+
       </section>
 
     </div>
