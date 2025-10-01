@@ -20,7 +20,7 @@
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			{% if page.date %}<h1>{{ page.date | date: "%Y-%m-%d" }}</h1>{% endif %}
+			{% if page.date and page.order != 0 %}<h1>{{ page.date | date: "%Y-%m-%d" }}</h1>{% endif %}
 			<h1>{{ page.title }}</h1>
 		</header>
 		{% if page.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></span>{% endif %}
