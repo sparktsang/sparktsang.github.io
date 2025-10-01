@@ -29,7 +29,7 @@ After the students departed, happy with their completed task, it was time for me
 
 I suggested he check out my guesthouse, and he followed me back, as his motorbike was parked nearby anyway. He glanced at the photos and price list by the door with a detached curiosity. "Maybe Agoda has discount," I offered via the translator. He showed no reaction.
 
-We said our goodbyes at the door, he took my Telegram, and he asked for my Telegram. As he walked away, the pieces of his story clicked into place. The photo of the nice room wasn't a lie; it was probably an aspiration, a projection of the life he wished he had, a small shield to maintain his dignity in front of a new foreign friend. His generosity, his stories, his willingness to share his city and his soul with me—all of it had come from a place of deep scarcity.
+We said our goodbyes at the door, he took my Telegram. As he walked away, the pieces of his story clicked into place. The photo of the nice room wasn't a lie; it was probably an aspiration, a projection of the life he wished he had, a small shield to maintain his dignity in front of a new foreign friend. His generosity, his stories, his willingness to share his city and his soul with me—all of it had come from a place of deep scarcity.
 
 I had met a man who felt adrift in his own hometown, wrestling with love, work, and a nation he felt was failing him. He was a ghost of Thailand's forgotten economy, and for a few hours, he had let me see the world through his weary but remarkably kind eyes. The encounter left me with a profound and humbling truth: sometimes, the people with the least to give are the ones who give the most.
 
