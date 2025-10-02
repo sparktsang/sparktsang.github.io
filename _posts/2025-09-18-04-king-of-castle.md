@@ -7,7 +7,7 @@ category: "Life"
 image: assets/images/castle_king_bing.jpeg
 ---
 
-After a forty-minute trek from the pier, fueled by stubborn principle and the fumes of overpriced taxis I’d refused, I finally arrived at my destination. This was the place: the legendary guesthouse called Phangan Arena, offering a three-night stay for a laughable 83 baht. I knew from their welcome messages—a barrage of upsells for tours, rentals, and party packages—that this wasn't a charity. It was a business model. I was the loss leader, the bait. My plan was simple: be a quiet observer, a ghost in the machine, and see what stories this place had to tell.
+After [a forty-minute trek](https://sparktsang.github.io/life/2025/09/18/03-the-150-baht-principle.html) from the pier, fueled by stubborn principle and the fumes of overpriced taxis I’d refused, I finally arrived at my destination. This was the place: the legendary guesthouse called Phangan Arena, offering a three-night stay for a laughable 83 baht. I knew from their welcome messages—a barrage of upsells for tours, rentals, and party packages—that this wasn't a charity. It was a business model. I was the loss leader, the bait. My plan was simple: be a quiet observer, a ghost in the machine, and see what stories this place had to tell.
 
 The guesthouse was a sprawling complex, a vibrant ecosystem of shirtless, sun-kissed backpackers lounging in various states of repose. The reception wasn't in a lobby, but in a separate, standalone building buzzing with a frenetic energy. I stepped inside to check in.
 
