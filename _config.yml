@@ -5,6 +5,7 @@ description: My Life is the evidence. My Philosophy is the law. My Works are the
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sparktsang.github.io" # the base hostname & protocol for your site
 author: Spark Tsang
+future: true
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
