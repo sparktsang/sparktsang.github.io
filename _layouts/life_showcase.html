@@ -146,7 +146,7 @@
         <article class="post-fragment" style="background-image: url('{{ site.baseurl }}/{{ post.image }}');">
           <a href="{{ post.url | relative_url }}" class="click-area" aria-label="{{ post.title }}"></a>
           <div class="info-popup"
-               {% if post.order != 0 %}data-date="{{ post.date | date: "%Y-%m-%d" }}"{% endif %}
+               {% if post.order != 0 or post.order != 99999 %}data-date="{{ post.date | date: "%Y-%m-%d" }}"{% endif %}
                data-title="{{ post.short_title | default: post.title }}"
                data-subtitle="{{ post.subtitle }}">
           </div>
