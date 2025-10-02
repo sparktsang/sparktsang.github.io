@@ -7,7 +7,7 @@ category: "Life"
 image: assets/images/volunteer_bing.jpeg
 ---
 
-After being banished from the kingdom of the 83-baht-3-night guesthouse, I found myself back on the dark, rain-slicked streets of Koh Pha Ngan. My next move was a retreat. I booked the second-cheapest dorm on the island, a place called Kiko's Hostel, located halfway back to the ferry terminal I had just spent forty minutes walking from.
+After being banished from [the kingdom of the 83-baht-3-night guesthouse](https://sparktsang.github.io/life/2025/09/18/04-king-of-castle.html), I found myself back on the dark, rain-slicked streets of Koh Pha Ngan. My next move was a retreat. I booked the second-cheapest dorm on the island, a place called Kiko's Hostel, located halfway back to the ferry terminal I had just spent forty minutes walking from.
 
 By the time I arrived, night had fallen. The new hostel was much smaller, more intimate. To the right of the entrance was a simple desk that seemed to be the reception. To the left, a man was quietly working on a computer at a long table. In front of the desk, a young Western woman sat cross-legged on a large cushion, typing away on a tablet with a keyboard attached. She looked up as I entered and greeted me with a warm, genuine smile.
 
