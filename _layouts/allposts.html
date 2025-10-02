@@ -33,7 +33,7 @@
             <header class="major">
               <h1>{{ post.title }}</h1>
             </header>
-            {% if post.date and post.order != 0 %}<p class="post-date">{{ post.date | date: "%Y-%m-%d" }}</p>{% endif %}
+            {% if post.date and post.order != 0 and post.order != 99999 %}<p class="post-date">{{ post.date | date: "%Y-%m-%d" }}</p>{% endif %}
             {% if post.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ post.image }}" alt="" /></span>{% endif %}
             <p>{{ post.content }}</p>
           </article>
