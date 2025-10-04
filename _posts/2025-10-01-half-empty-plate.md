@@ -13,19 +13,19 @@ My quest led me on a 34-minute walk to a small eatery, a place with dishes as lo
 
 Yet, I left utterly disappointed. I walked out into the rain with a still half-empty stomach and ended up eating a microwaved meal from a 7-Eleven, just to have something before I slept. Fueled by the profound letdown, I did what we digital-age creatures do: I channeled my disillusionment into [a Google Maps review](https://goo.gl/maps/K7LnyCMFX8GqPCFJ6).
 
->Having been to Thailand for more than a dozen times and having been to more than 20 cities and town in Thailand, this single one meal here in this restaurant was one of my worst meals in this country ever.
+>Having been to Thailand for more than a dozen times and having been to more than 20 cities and town in Thailand, this single one meal here in this restaurant was one of my worst meals in this country ever.  
 >
->It rarely happens at a 4.9 Star restaurant. Perhaps it's because of being in the tourist area.
+>It rarely happens at a 4.9 Star restaurant. Perhaps it's because of being in the tourist area.  
 >
->Some of the dishes are a bit beyond local prices. Fried eggs are 15 bahts each while all Thai local restaurants offer 10-baht fried eggs. But that's not the main point.
+>Some of the dishes are a bit beyond local prices. Fried eggs are 15 bahts each while all Thai local restaurants offer 10-baht fried eggs. But that's not the main point.  
 >
->The main point is that the portion was only half the normal. I had to look for another meal in another restaurant under the rain.
+>The main point is that the portion was only half the normal. I had to look for another meal in another restaurant under the rain.  
 >
->Plus it's not really delicious. I have had more than 100 times of the same dish (ผัดกระเพราหมู) and I know the difference.
+>Plus it's not really delicious. I have had more than 100 times of the same dish (ผัดกระเพราหมู) and I know the difference.  
 >
->Maybe they are enough for foreigners who don't taste Thai food often. But for me it's quite a disaster. I spent all my years trying to do expectation management with the review data I can find, and I had an epic failure here. It hurts.
+>Maybe they are enough for foreigners who don't taste Thai food often. But for me it's quite a disaster. I spent all my years trying to do expectation management with the review data I can find, and I had an epic failure here. It hurts.  
 >
->She didn't even look at me when she collected her bill from me, like I was non-existent, just another machine delivering her well-deserved bahts.
+>She didn't even look at me when she collected her bill from me, like I was non-existent, just another machine delivering her well-deserved bahts.  
 >
 >This is a restaurant which cooked without heart, served without heart, and even collected the bill without heart.
 
