@@ -24,6 +24,9 @@ socials:
 
 # build settings
 markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: true
 
 sass:
   style: compressed
