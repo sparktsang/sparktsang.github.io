@@ -23,10 +23,7 @@ socials:
   telegram: https://t.me/Glorydeep
 
 # build settings
-markdown: kramdown
-kramdown:
-  input: GFM
-  hard_wrap: true
+markdown: GFM
 
 sass:
   style: compressed
