@@ -14,12 +14,19 @@ My quest led me on a 34-minute walk to a small eatery, a place with dishes as lo
 Yet, I left utterly disappointed. I walked out into the rain with a still half-empty stomach and ended up eating a microwaved meal from a 7-Eleven, just to have something before I slept. Fueled by the profound letdown, I did what we digital-age creatures do: I channeled my disillusionment into [a Google Maps review](https://goo.gl/maps/K7LnyCMFX8GqPCFJ6).
 
 >Having been to Thailand for more than a dozen times and having been to more than 20 cities and town in Thailand, this single one meal here in this restaurant was one of my worst meals in this country ever.
+>
 >It rarely happens at a 4.9 Star restaurant. Perhaps it's because of being in the tourist area.
+>
 >Some of the dishes are a bit beyond local prices. Fried eggs are 15 bahts each while all Thai local restaurants offer 10-baht fried eggs. But that's not the main point.
+>
 >The main point is that the portion was only half the normal. I had to look for another meal in another restaurant under the rain.
+>
 >Plus it's not really delicious. I have had more than 100 times of the same dish (ผัดกระเพราหมู) and I know the difference.
+>
 >Maybe they are enough for foreigners who don't taste Thai food often. But for me it's quite a disaster. I spent all my years trying to do expectation management with the review data I can find, and I had an epic failure here. It hurts.
+>
 >She didn't even look at me when she collected her bill from me, like I was non-existent, just another machine delivering her well-deserved bahts.
+>
 >This is a restaurant which cooked without heart, served without heart, and even collected the bill without heart.
 
 I made a point of not mentioning the sad 7-Eleven meal; it felt like a personal detail too heavy, too unfair to lay at their feet. It was nearly 10 PM. Finding another local spot at that hour would have been its own ordeal.
@@ -41,8 +48,11 @@ Two parallel universes had been born from a single, 60-baht meal. But were the d
 I went back to my review and added a final thought.
 
 >Epilogue:
+>
 >The owner has since replied, offering their version of events: a kind mother, a warm exchange, a clean plate. Perhaps that was true, in their eyes. But notice what was missing: no mention of the portion size, no mention of the taste. The two things I actually wrote about never entered their story.
+>
 >And that is the deeper tragedy. It isn’t about whether my account or theirs was "true." It’s that our versions never touched. They cared about defending their image; I cared about whether a traveler left full, satisfied, acknowledged. Between those two realities lies a silence that no reply can bridge.
+>
 >This is what communication has become: everyone redirecting attention elsewhere, no one holding onto the simplest of questions—did the human in front of you eat well, feel welcome, feel seen?
 
 Reading it over, I felt like a tiny human shouting at an indifferent cosmos, a small stone tossed into a vast ocean. The ripples vanished before they even formed. The fault wasn't with the owner, not really. She was only doing what anyone in her position would do: defending her narrative.
