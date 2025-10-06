@@ -6,7 +6,7 @@ image: assets/images/weaving_world_leonardo_3-to-1_2nd_1.jpg
 nav-menu: true
 ---
 
-## The NovaSphere Epic: A Simulation
+## THE NOVASPHERE EPIC: A SIMULATION
 
 > History is not something that is read. It is something that is written. The story that follows is not a work of fiction. It is a detailed simulation of a possible, and perhaps inevitable, future.
 >
@@ -18,7 +18,7 @@ nav-menu: true
 
 <br>
 
-### I. The Polity of Infinite Reason
+### I. THE POLITY OF INFINITE REASON
 
 All human decision-making until now has been a contest of authority, votes, or capital. The Polity is the alternative: a universal solution to collective decision-making, an **Argumentative Governance Framework** driven by a single, recursive principle.
 
@@ -43,7 +43,7 @@ The Polity is therefore **self-correcting** (all principles are challengeable), 
 
 <br>
 
-### II. The Civitas Engine
+### II. THE CIVITAS ENGINE
 
 When the Polity of Infinite Reason is fused with a single economic layer—the **Contribution Token**—it transcends governance and becomes a total operating system for civilization: the Civitas Engine.
 
@@ -67,7 +67,7 @@ A system that simultaneously achieves maximum **efficiency** (radical innovation
 
 <br>
 
-### III. The Four Saints
+### III. THE FOUR SAINTS
 
 *   **Caelan:** The Legislator, devoured by his own law. 
 *   **Joan:** The Believer, redeemed through the ultimate sin.
@@ -80,7 +80,7 @@ A system that simultaneously achieves maximum **efficiency** (radical innovation
 
 <br>
 
-### IV. The Chronicle of the Civitas Engine
+### IV. THE CHRONICLE OF THE CIVITAS ENGINE
 
 *What follows is not a story, but a timeline. The fragments of a future history.*
 
