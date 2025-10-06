@@ -110,9 +110,13 @@ A system that simultaneously achieves maximum **efficiency** (radical innovation
 **CE Y.23**
 > The Final Argument. An ultimate weapon, born from an act of treason, is deployed to solve the final equation. A sky of fire. A world of silence. Unity.
 
+---
+
 <br>
 
 ---
+
+<br>
 
 > The full manuscript of the First Volume of the NovaSphere Epic is in preparation.
 >
