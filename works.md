@@ -6,6 +6,8 @@ image: assets/images/weaving_world_leonardo_3-to-1_2nd_1.jpg
 nav-menu: true
 ---
 
+<br>
+
 ## THE NOVASPHERE EPIC: A SIMULATION
 
 > History is not something that is read. It is something that is written. The story that follows is not a work of fiction. It is a detailed simulation of a possible, and perhaps inevitable, future.
@@ -13,6 +15,8 @@ nav-menu: true
 > It is the chronicle of a civilization discovering its own source code—an engine of governance, economics, and ethics so ruthlessly coherent that it becomes a black hole, pulling all of human society into its orbit. This is not a story about heroes and villains. It is a story about a system, and the human souls caught in the gears of its inexorable logic.
 >
 > **This is the blueprint for a revolution, disguised as a story. Read it not as an escape, but as a warning, and a promise.**
+
+<br>
 
 ---
 
