@@ -64,23 +64,30 @@ A system that simultaneously achieves maximum **efficiency** (radical innovation
 <br>
 
 ---
-<!-- Module 3 -->
-### The Four Saints
+
+<br>
+
+### III. The Four Saints
 
 *   **Caelan:** The Legislator, devoured by his own law. 
 *   **Joan:** The Believer, redeemed through the ultimate sin.
 *   **Katsuo:** The Warrior, who conquered by surrendering.
 *   **Eleanor:** The Defender, who sought to save the world by destroying it.
 
+<br>
+
 ---
 
-<!-- Module 4 -->
-### The Chronicle
+<br>
+
+### IV. The Chronicle
 
 *   CE Y.0: Year Zero of Constitution
 *   CE Y.7: The First Sentence; The Dominoes Fall
 *   CE Y.23: The Air Bomb Decision
 *   The Final Chapter: The Last Holdout
+*   
+<br>
 
 ---
 
