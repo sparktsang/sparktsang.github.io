@@ -102,7 +102,7 @@ A system that simultaneously achieves maximum **efficiency** (radical innovation
 > The Betrayal of the Republic. The leader of the free world attempts to offer up her nation, is branded a traitor, and is saved only by a paradox of law.
 
 **CE Y.17 – Y.19**
-> The Great Reckoning. As the final ancient civilization is absorbed, its immense intellectual force pushes the Engine's logic to its ethical limits. The creators of the system begin to be consumed by their creation.
+> The Great Reckoning. As the final ancient civilization is absorbed, its immense intellectual force pushes the Engine's logic to its ethical limits. The creator of the system begin to be consumed by their creation.
 
 **CE Y.22**
 > The Last Stand. A redeemer returns to power, vowing to defend the last bastion of the old world's freedom.
