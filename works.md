@@ -86,7 +86,7 @@ A system that simultaneously achieves maximum **efficiency** (radical innovation
 *   CE Y.7: The First Sentence; The Dominoes Fall
 *   CE Y.23: The Air Bomb Decision
 *   The Final Chapter: The Last Holdout
-*   
+
 <br>
 
 ---
