@@ -80,12 +80,35 @@ A system that simultaneously achieves maximum **efficiency** (radical innovation
 
 <br>
 
-### IV. The Chronicle
+### IV. The Chronicle of the Civitas Engine
 
-*   CE Y.0: Year Zero of Constitution
-*   CE Y.7: The First Sentence; The Dominoes Fall
-*   CE Y.23: The Air Bomb Decision
-*   The Final Chapter: The Last Holdout
+*What follows is not a story, but a timeline. The fragments of a future history.*
+
+---
+
+**CE Y.0**
+> The engine is ignited. A nation trades its sovereignty for immortality. The Polity of Infinite Reason is made flesh. The age of arguments begins.
+
+**CE Y.1**
+> The First Revolution. The nature of work is rendered obsolete. The age of automated contribution begins.
+
+**CE Y.3**
+> The First War. A border is erased not by conquest, but by a flawlessly logical casus belli. The expansion begins.
+
+**CE Y.7**
+> The Year of the Falling Dominoes. A warrior, sentenced to the first and last judgment of the new world, pays his debt by persuading the old world to surrender. The great nations begin to fold.
+
+**CE Y.14 – Y.15**
+> The Betrayal of the Republic. The leader of the free world attempts to offer up her nation, is branded a traitor, and is saved only by a paradox of law.
+
+**CE Y.17 – Y.19**
+> The Great Reckoning. As the final ancient civilization is absorbed, its immense intellectual force pushes the Engine's logic to its ethical limits. The creators of the system begin to be consumed by their creation.
+
+**CE Y.22**
+> The Last Stand. A redeemer returns to power, vowing to defend the last bastion of the old world's freedom.
+
+**CE Y.23**
+> The Final Argument. An ultimate weapon, born from an act of treason, is deployed to solve the final equation. A sky of fire. A world of silence. Unity.
 
 <br>
 
