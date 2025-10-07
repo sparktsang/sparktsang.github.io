@@ -17,7 +17,7 @@ Should I send it to him as well?
 
 The question stopped me cold. And in the ensuing internal debate, the entire ethical foundation of my writing began to tremble.
 
-Sharing with Sandeep felt like a continuation of our dialogue. He was a programmer, a digital native. He would understand the concepts of a "website," a "digital monument." He was my peer. But Neung? He didn't even know how to use Agoda. He lived in a different world, one navigated by personal connections and word-of-mouth, not algorithms. To him, what would an essay on a foreigner's website even mean?
+Sharing with Sandeep felt like a continuation of our dialogue. He was a programmer, a digital native. He would understand the concepts of a "website," a "digital monument." He was my peer. But Neung? He might not even know how to use Agoda. He lived in a different world, one navigated by personal connections and word-of-mouth, not algorithms. To him, what would an essay on a foreigner's website even mean?
 
 The content, too, was profoundly different. The article about Sandeep was a philosophical discussion where he was an equal participant. The article about Neung, however, derived its power from revealing his vulnerability—the quiet fictions he told to maintain his dignity, like the photo of a nice room he wasn't actually staying in. My writing was empathetic, but it was also invasive. For him to read it might not feel like an honor, but a betrayal. He might see not a compassionate portrait, but a foreigner who had taken his pain and turned it into content.
 
