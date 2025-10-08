@@ -13,7 +13,7 @@ My first encounter with this world was at a restaurant a 40-minute walk from Ao 
 
 A sliver of suspicion crept in. I politely asked for the Thai menu, using my go-to excuse: "I'm learning Thai." What I expected to find was a set of uniformly lower prices. What I found was a fog of confusion. Chicken fried rice was 60 baht, but beef and seafood were 70. This meant that if I ordered the seafood fried rice from the English menu, I’d actually be paying *less*.
 
-My mind raced. A foreigner getting a better price than the menu dictates? Impossible. The only logical explanation was that the English menu was a simplification, and the portion size would inevitably be adjusted to match the price. A smaller, "international version."
+My mind raced. A foreigner getting a better price than the menu dictates? Impossible. The only logical explanation was that the English menu was a simplification, and the portion size would inevitably be adjusted to match the price. A smaller, "international version".
 
 With both menus now in my possession, I asked the owner directly if the portion would be smaller. Perhaps sensing that his system had been decoded, he became incredibly friendly. With a warm smile, he assured me that for 65 baht, the portion would be just fine, not much different. His sincerity disarmed me. I relaxed and ordered the 65-baht seafood fried rice. It was delicious, and the portion was, indeed, generous.
 
