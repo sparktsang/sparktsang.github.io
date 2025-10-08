@@ -7,7 +7,7 @@ category: "Life"
 image: assets/images/black_paint_bing.jpeg
 ---
 
-2025-10-04-
+2025-10-04-02-american-dreamer.md
 
 My check-in at the Hangout guesthouse began with a piece of paper. It was an Arrival Card, a formality most Thai hostels have long since abandoned. The few that still use them are usually content with a name and a scribble for a signature. But this one was different. Andrew, the American owner, had meticulously marked most fields with a hand-drawn asterisk. Mandatory.
 
