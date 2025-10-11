@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Inner Circle"
+title: "JOIN THE REVOLUTION"
 short_title: "JOIN THE REVOLUTION"
 subtitle: "The evidence is being collected. The blueprint is being drawn. The verdict is not yet in. Your place is here."
 category: "Life"
