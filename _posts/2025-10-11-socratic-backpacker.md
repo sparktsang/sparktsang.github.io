@@ -7,10 +7,10 @@ category: "Life"
 image: assets/images/socrates_quote_imagen.jpeg
 ---
  
-Last night, I was in the common area of a guesthouse in Ao Nang, Krabi, preparing images for my last article, when a young East Asian man came over and said hello. He was my new roommate, he explained, just checked in two minutes ago. He was from Singapore. He said our other roommate, Brian, had told him I was a long-term traveler. 
+Last night, I was in the common area of a guesthouse in Ao Nang, Krabi, preparing an image for my last article, when a young East Asian man came over and said hello. He was my new roommate, he explained, just checked in two minutes ago. He was from Singapore. He said our other roommate, Brian, had told him I was a long-term traveler. 
  
 There was something immediately different about him. His expressions were animated, his gestures expansive, his speech rapid. His mind seemed to be moving faster than his body could keep up. You got the distinct feeling that this was a person you could say anything to. The unspoken rules of social convention, the carefully curated topics for small talk, simply seemed to evaporate in his presence. 
- 
+
 Our conversation began, as it always does, with travel. And for the first time, perhaps, I felt I could be completely honest about my own journey. 
  
 "For me, the marginal utility of exploring new places is diminishing," I said, a statement that would sound pretentious to a more 'normal' person. "I've been to a lot of places." He didn't flinch. He just listened. My honesty had opened a door. 
