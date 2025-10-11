@@ -15,13 +15,13 @@ Our conversation began, as it always does, with travel. And for the first time, 
  
 "For me, the marginal utility of exploring new places is diminishing," I said, a statement that would sound pretentious to a more 'normal' person. "I've been to a lot of places." He didn't flinch. He just listened. My honesty had opened a door. 
  
-I explained that my journey was no longer about exploring the external world, but the internal one. I was trying to transform the vast, chaotic material in my head into written words, to make sense of the interesting phenomena I constantly witnessed. I told him about my experience unlocking a secret Thai-only menu simply by attempting to speak a single sentence in Thai. "In Hong Kong or Singapore, this kind of price discrimination would be unthinkable," I explained. "Our business ethics wouldn't allow it. But here, it's a different culture, a different way of being. And to discover a new reality like that, it's fascinating." 
+I explained that my journey was no longer about exploring the external world, but the internal one. I was trying to transform the vast, chaotic material in my head into written words, to make sense of the interesting phenomena I constantly witnessed. I told him about my experience [unlocking a secret Thai-only menu](https://sparktsang.github.io/life/2025/10/05/unwritten-menu.html) simply by attempting to speak a single sentence in Thai. "In Hong Kong or Singapore, this kind of price discrimination would be unthinkable," I explained. "Our business ethics wouldn't allow it. But here, it's a different culture, a different way of being. And to discover a new reality like that, it's fascinating." 
  
 As I spoke about my method—taking a step back, questioning the logic of everything—he held up his phone. On the screen was a quote. *The unexamined life is not worth living.* Socrates. 
  
 "He's my favorite philosopher," I said, a grin spreading across my face. We both burst into laughter, two strangers in a Thai guesthouse suddenly united by a 2,400-year-old Greek man. He moved to the chair beside me. The conversation had begun. 
  
-I used the story of the schoolgirl in the Chumphon library to illustrate my point. She hogged the only fan to scroll on her phone, I explained, when she could have gone to an air-conditioned 7-Eleven. Why? Because as a local schoolgirl, her presence there would be judged, while I, a foreigner, could sit there all day without issue. 
+I used [the story of the schoolgirl in the Chumphon library](https://sparktsang.github.io/life/2025/09/23/02-library.html) to illustrate my point. She hogged the only fan to scroll on her phone, I explained, when she could have gone to an air-conditioned 7-Eleven. Why? Because as a local schoolgirl, her presence there would be judged, while I, a foreigner, could sit there all day without issue. 
  
 He paused, then asked, his own mind clearly working at high speed, "But how can you be sure of her intention? You could be wrong about what others are thinking." 
  
@@ -33,7 +33,7 @@ He paused, then asked, his own mind clearly working at high speed, "But how can 
  
 "I'm writing," I said. "I'm writing it all down. And this conversation, right now, is part of it. If I can convince you that the world works this way, and that this way is wrong, then we have already changed the world, just a tiny bit." 
  
-I took a breath and laid out my entire philosophy. My core belief that humans are rational beings, that right and wrong are determined by reason. That any one of us can be wrong. That the only path to truth is a framework that allows all of humanity to present their arguments, a system where the best reason wins, not the loudest voice or the biggest stick. 
+I took a breath and laid out my entire philosophy. My core belief that humans are rational beings, that right and wrong are determined by reason. That any one of us can be wrong. That the only path to truth is [a framework that allows all of humanity to present their arguments](https://sparktsang.github.io/philosophy.html), a system where the best reason wins, not the loudest voice or the biggest stick. 
  
 He listened with a kind of solemn reverence. "I agree," he said. 
  
@@ -45,7 +45,7 @@ He listened with a kind of solemn reverence. "I agree," he said.
  
 "What's your next big step?" he asked. 
  
-I explained that my ideas, as they were, could only reach people like him—those who were already inclined to think deeply. To start a revolution, I needed the masses. "I'm writing an epic," I said, "a story that is also a blueprint. A sandbox simulation of how this new world could be built, packaged in a narrative that anyone can understand, a spark that can start a fire." 
+I explained that my ideas, as they were, could only reach people like him—those who were already inclined to think deeply. To start a revolution, I needed the masses. "I'm writing [an epic](https://sparktsang.github.io/works.html)," I said, "a story that is also a blueprint. A sandbox simulation of how this new world could be built, packaged in a narrative that anyone can understand, a spark that can start a fire." 
  
 "And the next small step?" 
  
