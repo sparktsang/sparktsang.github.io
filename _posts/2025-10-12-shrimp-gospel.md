@@ -23,7 +23,7 @@ I knew the place. A restaurant with a stunning viewpoint. "It cost... I don't kn
 
 Then he showed me what he had truly purchased. It wasn't the photo; it was a video. It began with a slow, cinematic pan across the restaurant's name, elegantly inscribed on a lawn. It then swept across the chic, open-air dining space. The spectacular natural landscape was there, but only as a backdrop, a supporting actor to the main star: the restaurant itself.
 
-I murmured an appreciative "nice," but in my mind, the entire logic of the transaction laid itself bare. He hadn't bought food. He had bought a *narrative*. A perfectly packaged, easily shareable story: *I had a beautiful, exquisite meal at this stunning location*. A buffet, with its chaotic mounds of food, could never offer such a clean, elegant narrative. The restaurant wasn't selling shrimp; it was selling a stage, and the feeling of grandeur that came with being on it.
+I murmured an appreciative "nice", but in my mind, the entire logic of the transaction laid itself bare. He hadn't bought food. He had bought a *narrative*. A perfectly packaged, easily shareable story: *I had a beautiful, exquisite meal at this stunning location*. A buffet, with its chaotic mounds of food, could never offer such a clean, elegant narrative. The restaurant wasn't selling shrimp; it was selling a stage, and the feeling of grandeur that came with being on it.
 
 And he, in turn, had become its unwitting brand ambassador. He was showing the video to me now, and would surely post it to his social media, broadcasting the unspoken subtext: *I had this refined experience, and I possess the means to acquire it.*
 
