@@ -43,4 +43,4 @@ The conversation died. I was left with the sting of his words. *You always compa
 
 And so the system self-replicates, auto-generates, and endlessly reinforces itself. Truth, fairness, quality, dignity—they become secondary, perhaps even irrelevant.
 
-Just like this essay, I thought. It will never go viral. It has no beautiful images to share. It will stand, instead, in some quiet, eternal archive, a silent witness to the world as it is. And maybe that's why I still write—to leave behind proofs that someone, somewhere, still compared.
+Just like this essay, I thought. It will never go viral. It has no beautiful images to share. It will stand, instead, in some quiet, [eternal archive](https://sparktsang.github.io/life.html), a silent witness to the world as it is. And maybe that's why I still write—to leave behind proofs that someone, somewhere, still compared.
