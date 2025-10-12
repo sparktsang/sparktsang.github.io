@@ -25,6 +25,11 @@
 		</header>
 		{% if page.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></span>{% endif %}
 		{{ content }}
+		{% if page.category == "Life" %}
+		  <div class="sort-toggle" style="text-align:center; margin-top: 2rem;">
+		    <a href="{{ site.baseurl }}/life.html" class="button">Back to LIFE</a>
+		  </div>
+		{% endif %}
 	</div>
 </section>
 
