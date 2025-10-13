@@ -7,8 +7,6 @@ category: "Life"
 image: assets/images/letter_autopsy_bing.jpeg
 ---
 
-"An Autopsy of a Heartfelt Letter" 
-
 Yesterday a female shared a letter she received from a male pen pal. "It's full of sincerity," she said, "but I have absolutely no motivation to reply."
 
 I understood immediately why. The letter wasn't an isolated case; it was a perfect specimen, a product of the structural logic of our times. It was a typical, earnest attempt at connection, the kind that floods our inboxes and dating apps, written by someone who, after receiving no reply, would likely never know what they did wrong.
