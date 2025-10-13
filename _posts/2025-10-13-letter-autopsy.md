@@ -9,7 +9,7 @@ image: assets/images/letter_autopsy_bing.jpeg
 
 Yesterday a female shared a letter she received from a male pen pal. "It's full of sincerity," she said, "but I have absolutely no motivation to reply."
 
-I understood immediately why. The letter wasn't an isolated case; it was a perfect specimen, a product of the structural logic of our times. It was a typical, earnest attempt at connection, the kind that floods our inboxes and dating apps, written by someone who, after receiving no reply, would likely never know what they did wrong.
+I understood immediately why. The letter wasn't an isolated case; it was a perfect specimen, a product of the structural logic of our times. It was a typical, earnest attempt at connection, the kind that floods our inboxes and social apps, written by someone who, after receiving no reply, would likely never know what they did wrong.
 
 The letter began with a slightly awkward icebreaker about language, followed by a laugh-out-with-tear emoji. It then moved into the "connection attempt" phase. But what was it trying to connect? The author presented himself as a blank slate, a man with no sharp edges, no discernible substance, his own subjectivity almost completely erased. His sincerity was not in revealing himself, but in his eagerness to follow her lead. "That's great!" he wrote about her verbosity, "I don't want you to stop writing so soon!😆" The message was clear: *You talk, I'll listen.*
 
