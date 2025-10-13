@@ -15,7 +15,7 @@ The letter began with a slightly awkward icebreaker about language, followed by 
 
 His own opinions were fleeting, non-committal. On her stated dislike of AI, he offered a vague "I understand your aversion to AI, because there are people who use it directly to replace their replies..." and then he trailed off with an ellipsis, a void where a real thought should have been. Was he hiding an opinion for fear of disagreement, or did he simply not have one? In this age, it's hard to tell. A thought unexamined is not a thought; it is a narrative virus, like the one my roommate Brian had been infected with.
 
-The entire subtext of the letter was: *I am interested in you, and I hope you will be interested in me.* It was an attempt at a transaction, a negotiation of interest and meaning, based on a bizarre framework where two people, without revealing who they are—perhaps without even knowing who they are—try to form a connection. It was a plea for validation, an offer to trade compliance and agreeableness for the same in return.
+The entire subtext of the letter was: *I am interested in you, and I hope you will be interested in me.* It was an attempt at a transaction, a negotiation of interest, based on a bizarre framework where two people, without revealing who they are—perhaps without even knowing who they are—try to form a connection. It was a plea for validation, an offer to trade compliance and agreeableness for the same in return.
 
 And the emojis—three in just a few short paragraphs—felt less like genuine warmth and more like cosmetic enhancements, like rouge on a corpse. They were an attempt to paint emotion onto a surface where no soul resided.
 
