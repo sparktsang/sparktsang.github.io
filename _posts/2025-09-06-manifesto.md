@@ -4,7 +4,7 @@ title: "Field Notes from a Broken World"
 short_title: "MANIFESTO"
 subtitle: "This is not a travel blog. It is a crime scene investigation. The victim is us."
 category: "Life"
-image: assets/images/notebook_wooden_table_bing.jpeg
+image: assets/images/forensic_philosopher_imagen.jpeg
 order: 0
 ---
 
