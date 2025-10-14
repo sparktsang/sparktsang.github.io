@@ -27,7 +27,7 @@ A chill crept over me, extinguishing the flicker of excitement. This wasn't the 
 
 He tried to explain the mission, his words elegant and precise, but the concepts themselves were like sand slipping through my fingers. I understood each English word, but strung together, they formed a language from another civilization, one whose grammar was beyond my grasp. My brow furrowed in concentration. He didn't seem to notice, his monologue flowing uninterrupted, a beautiful, mesmerizing cascade of abstractions about the magnitude of his purpose, none of which brought me any closer to understanding.
 
-The philosophical discussion had turned into a strange, mystical journey. I had to find my way back to solid ground. "How?" I interjected, seizing a rare pause. "How did you *know* your bloodline was aligned in this way? What showed you this?"
+The dialogue had dissolved into mysticism. I had to find my way back to solid ground. "How?" I interjected, seizing a rare pause. "How did you *know* your bloodline was aligned in this way? What showed you this?"
 
 His gaze softened, the intensity replaced by a quiet sorrow. He began to tell his story. It started in the 2020 lockdown—the loss of his job, the anchor of his meaning cut loose. A woman, a near stranger, had sensed his despair. "You should try magical mushrooms," she'd said. In the grand tradition of the hero's journey, he refused the call to adventure. But she left a note. Months later, adrift and desperate, he accepted his fate.
 
@@ -56,7 +56,9 @@ He then added a word of caution, as if sensing my unspoken skepticism. "A lot of
 
 And how does one tell the difference? "It's simple," he said, "common sense. Research that anyone can do."
 
-I felt a fresh wave of unease, a cold dread that was more complex than my initial fear. This wasn't just a man taking drugs. This was a man "optimizing" his psychedelic experience with the help of artificial intelligence, perhaps even using it to analyze chemical compositions. He was using the most advanced tool of our rational age to navigate the most irrational journey possible. It was a terrifying, brilliant, and utterly modern form of alchemy, an attempt to build a bridge of code to the divine. And I was witnessing its birth.
+I felt a fresh wave of unease, a cold dread that was more complex than my initial fear. This wasn't just a man taking drugs. This was a man "optimizing" his psychedelic experience with the help of artificial intelligence, perhaps even using it to analyze chemical compositions. He was using the most advanced tool of our rational age to navigate the most irrational journey possible. It was a terrifying, brilliant, and utterly modern form of alchemy, an attempt to build a bridge of code to the divine. 
+
+And I was witnessing its birth.
 
 
 A terrifying, brilliant, and utterly modern form of alchemy, an attempt to build a bridge of code to the divine. And I was witnessing its birth.
@@ -102,7 +104,7 @@ I felt a profound sense of loss. He was still using the language of reason, he s
 
 But my thoughts were interrupted. His topic had already shifted to his reading list. He had, he claimed, listened to all the major religious texts on audiobook—the Bible, the Quran, the Vedas, a dozen others he rattled off. He knew reading was better for critical thinking, but audiobooks were more efficient, he said, even if he had to constantly pause to reflect.
 
-Then he soared beyond Buddha. Above all the realms, he explained, was the highest dimension, "the source of everything." He described how, upon reaching it, one could reshape reality like a god, how he could transform Hong Kong into a pinnacle of civilization, its people remade into beings of breathtaking beauty.
+Then he soared beyond Buddha. Above all the realms, he explained, was the highest dimension, "the source of everything." He cited a scene in *Matrix*, and described how, upon reaching it, one could reshape reality like a god, how he could transform my hometown into a pinnacle of civilization, its people remade into beings of breathtaking beauty.
 
 And at that point, I stopped listening. The desire to ask more questions had evaporated. I was just staring at him, my mind a blank, trying to calculate how to politely end this conversation and escape.
 
@@ -114,4 +116,6 @@ He thought I was asking for a hookup.
 
 "I feel this could be especially useful for you," he continued, his voice filled with a sincere, almost tender concern. "Someone like you, who already has a financial engine, you can skip a whole part of the journey. Most people can't do that." I could hear the admiration in his voice, but no jealousy. He genuinely wanted to help. "Of course," he added, "I don't tell this to everyone. It challenges their core beliefs. They are not ready."
 
-I didn't respond immediately, feigning deep contemplation. He didn't push. He just kept talking, his monologue seamlessly flowing into another cosmic tangent, and my mind returned to its single, pressing task: how do I get out of this room?
+I didn't respond immediately, feigning deep contemplation. He didn't push. He just kept talking, his monologue seamlessly flowing into another cosmic tangent.
+
+He was offering salvation, and I was calculating my escape.
