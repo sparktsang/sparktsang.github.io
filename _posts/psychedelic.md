@@ -106,7 +106,7 @@ Then he soared beyond Buddha. Above all the realms, he explained, was the highes
 
 And at that point, I stopped listening. The desire to ask more questions had evaporated. I was just staring at him, my mind a blank, trying to calculate how to politely end this conversation and escape.
 
-But before I could, I remembered one last, practical detail I was curious about. "As a traveler," I asked, "how do you even get these... substances?"
+But before I could, I remembered one last, practical detail I was curious about. "As a traveler," I asked, "how do you even get these... psychedelics?"
 
 He not only answered—telling me he had a contact right here in Krabi—but he also shared his personal dosage. "I'm on five grams now, every two weeks." I immediately understood why he had volunteered this information. "I can introduce you," he offered. "You should start with one gram and work your way up."
 
