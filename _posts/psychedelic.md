@@ -61,8 +61,6 @@ I felt a fresh wave of unease, a cold dread that was more complex than my initia
 And I was witnessing its birth.
 
 
-A terrifying, brilliant, and utterly modern form of alchemy, an attempt to build a bridge of code to the divine. And I was witnessing its birth.
-
 Still reeling from the revelation, I was pulled forward by the gravitational force of my own curiosity. "What's your next big step?" I asked.
 
 "Expand consciousness," he replied.
