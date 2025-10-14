@@ -75,7 +75,7 @@ And that's when he opened the door to the multiverse. The entire blueprint of hi
 
 *Realm?*
 
-The world, he explained, consists of many realms. He needed to enter his lineage's realm to fully align with his mission, but he couldn't get in until he was "qualified."
+The world, he explained, consists of many realms. He needed to enter his lineage's realm to fully align with his mission, but he couldn't get in until he was "qualified".
 
 "A gatekeeper?" I offered.
 
