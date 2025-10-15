@@ -7,13 +7,13 @@ category: "Life"
 image: assets/images/instant_coffee_imagen.jpeg
 ---
 
-It began, as so many things do, with a television. In my empty hotel in Chumphon—a magnificent, three-star ghost ship where I was the solitary passenger—I found myself watching Thai TV ads. It was a nostalgic experience, a glimpse into a dying medium from a bygone era. A slickly produced commercial for something called "Super" instant coffee played on a loop, featuring a handsome, doe-eyed celebrity whispering the brand name in an ecstatic moan: *“Supeeeer~”*
+It began, as so many things do, with a television. In my [empty hotel in Chumphon](https://sparktsang.github.io/life/2025/09/23/01-accountant-holiday.html)—a magnificent, three-star ghost ship where I was the solitary passenger—I found myself watching Thai TV ads. It was a nostalgic experience, a glimpse into a dying medium from a bygone era. A slickly produced commercial for something called "Super" instant coffee played on a loop, featuring a handsome, doe-eyed celebrity whispering the brand name in an ecstatic moan: *“Supeeeer~”*
 
 The next day, in a local supermarket, I saw it. An entire promotional shelf, a monolith dedicated solely to this "Super" coffee. It was cheaper than the other brands. I picked up a bag, a casual act of consumer curiosity. And in that moment, I discovered something so simple, so obvious, that I was instantly consumed by a profound sense of shame for never having thought of it before.
 
 I looked at the ingredients list. An instant 3-in-1 coffee mix contains three things: coffee, creamer, and sugar. But in what proportion? The label told the tale. Sugar: 46%. Creamer: 24%. And the actual, real, instant coffee powder? A mere 9.7%.
 
-I stood there, stunned. I was buying a bag of coffee that was nearly half sugar. I was buying a coffee-flavored sugar slurry. I thought of how I make my own coffee; if I accidentally added that much sugar, I would pour it down the drain in disgust. I wanted to drink coffee, not syrup. The revelation was staggering. How many millions of consumers knew that what they were drinking was not, in any meaningful sense, coffee?
+I stood there, stunned. A bag of coffee that was nearly half sugar. A coffee-flavored sugar slurry. I thought of how I make my own coffee; if I accidentally added that much sugar, I would pour it down the drain in disgust. I wanted to drink coffee, not syrup. The revelation was staggering. How many millions of consumers knew that what they were drinking was not, in any meaningful sense, coffee?
 
 A wave of betrayal washed over me, followed by a hot flush of shame. I thought of the red-packaged brand of 3-in-1 I'd been drinking every morning for years on my travels. I, the self-proclaimed savvy consumer, had always chosen it because it offered the most grams for the price. I rushed to the coffee aisle. I found my brand. The coffee content: 11%. Barely better. My entire calculation, my years of "smart" purchasing, had been a lie. I had been optimizing for the total weight, completely ignoring the most crucial variable in the equation.
 
