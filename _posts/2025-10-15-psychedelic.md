@@ -9,7 +9,7 @@ image: assets/images/new_god_l.jpg
 
 I was about to leave my dorm room when he checked in. A new roommate, a man from London. I offered a simple hello, expecting a brief, forgettable exchange. Instead, over the next hour, I was given a guided tour of a parallel reality, a universe of thought so intricate and profound that I am still trying to find my way out of it.
 
-His name was Ade, a software engineer. This was his first time in Asia, and he had already spent two months here in Krabi. What was the appeal? "A bit of everything," he said. He called his trip a "journey," a preparation for the next phase of his work. He was something of a digital nomad, he admitted. "Me too," I said, and on this flimsy common ground—the blurred lines between travel, life, and work—a connection was made.
+His name was Ade, a software engineer. This was his first time in Asia, and he had already spent two months here in Krabi. What was the appeal? "A bit of everything," he said. He called his trip a "journey", a preparation for the next phase of his work. He was something of a digital nomad, he admitted. "Me too," I said, and on this flimsy common ground—the blurred lines between travel, life, and work—a connection was made.
 
 I sensed the word "journey" held a deeper meaning for him. "What's the ultimate goal of this journey?" I asked.
 
@@ -38,7 +38,7 @@ The dialogue had dissolved into mysticism. I had to find my way back to solid gr
 
 His gaze softened, the intensity replaced by a quiet sorrow. He began to tell his story. It started in the 2020 lockdown—the loss of his job, the anchor of his meaning cut loose. A woman, a near stranger, had sensed his despair. "You should try magical mushrooms," she'd said. In the grand tradition of the hero's journey, he refused the call to adventure. But she left a note. Months later, adrift and desperate, he accepted his fate.
 
-"She took them with me," he said, his voice barely a whisper. "And I experienced a peak state of consciousness I had never imagined." He used the word "psychedelics." "Isn't that just drugs?" I asked. He explained that this was the system's way of stigmatizing them, to prevent people from enlightening themselves and critiquing the system. The expert term, he added, was "entheogens."
+"She took them with me," he said, his voice barely a whisper. "And I experienced a peak state of consciousness I had never imagined." He used the word "psychedelics". "Isn't that just drugs?" I asked. He explained that this was the system's way of stigmatizing them, to prevent people from enlightening themselves and critiquing the system. The expert term, he added, was "entheogens".
 
 A wave of alarm, bordering on fear, washed over me. I tried to keep my face neutral, my expression calm, terrified that my pupils might betray my inner turmoil. My mind raced, trying to make sense of it. How could a chemical experience reveal a truth about one's ancestry, a grand "mission"? I tried to imagine the neurological pathways, the psychological leaps required to connect a psychedelic trip to a genealogical destiny.
 
@@ -78,7 +78,7 @@ He explained that his ultimate goal was to grow his own psychedelics, to control
 
 "And how does expanding your consciousness," I asked, trying to connect the dots, "relate to the mission of your bloodline?"
 
-And that's when he opened the door to the multiverse. The entire blueprint of his lineage, he said, existed within a specific "realm."
+And that's when he opened the door to the multiverse. The entire blueprint of his lineage, he said, existed within a specific "realm".
 
 *Realm?*
 
@@ -86,7 +86,7 @@ The world, he explained, consists of many realms. He needed to enter his lineage
 
 "A gatekeeper?" I offered.
 
-"Exactly," he said, completely unaware of the loaded meaning that word held in my own revolutionary philosophy. "A *proper* gatekeeper." Expanding his consciousness, it turned out, was the key to earning his entry visa.
+"Exactly," he said, completely unaware of the loaded meaning that word held in [my own revolutionary philosophy](https://sparktsang.github.io/philosophy.html). "A *proper* gatekeeper." Expanding his consciousness, it turned out, was the key to earning his entry visa.
 
 He then looped back to the concept of dreams. Dreaming, he explained, is also a journey to a realm, just a low-level one that everyone can access. The realms are hierarchical, differentiated by dimensions. The dreamspace is the fourth dimension. There is a fifth, a sixth, and so on. Only by expanding one's consciousness can one ascend to these higher dimensions and achieve true alignment.
 
@@ -139,7 +139,7 @@ We both started from the same place: a profound dissatisfaction with the existin
 
 But at a critical crossroad, we diverged.
 
-I had chosen a path that leads outward. A revolution based on reason, on dialogue, on the painstaking, [collective construction of a shared truth](https://sparktsang.github.io/philosophy.html). It is a path of engagement, of trying to persuade the world to be better. It is an attempt to empower *everyone* to assert their agency.
+I had chosen a path that leads outward. A revolution based on reason, on dialogue, on the painstaking, collective construction of a shared truth. It is a path of engagement, of trying to persuade the world to be better. It is an attempt to empower *everyone* to assert their agency.
 
 He had chosen a path that leads inward. A solitary enlightenment fueled by psychedelics, a retreat into a private, unverifiable reality. His path was not about persuading the world, but about replacing it. It was a revolution of one. His agency was not to be asserted *in* the world, but *outside* of it, in a realm of his own making. He seemed to have created a new narrative, a new religion, a new possible world—but the materials he used to build it, I realized, were depressingly familiar.
 
