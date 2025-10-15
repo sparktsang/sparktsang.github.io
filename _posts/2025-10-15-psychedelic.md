@@ -19,7 +19,7 @@ I sensed the word "journey" held a deeper meaning for him. "What's the ultimate 
 
 "Some meditation," he said. "And some Socratic interrogation."
 
-*Another Socratic dialogue.* A jolt of excitement ran through me. Another truth-seeker, another soul unafraid of questions. By invoking that name, he had given me an express pass into the depths of his mind. No question now would be too abrupt.
+[*Another Socratic dialogue.*](https://sparktsang.github.io/life/2025/10/11/socratic-backpacker.html) A jolt of excitement ran through me. Another truth-seeker, another soul unafraid of questions. By invoking that name, he had given me an express pass into the depths of his mind. No question now would be too abrupt.
 
 And so I asked. And he answered, unveiling concept after concept I had never heard before. I, the relentless questioner, became an ignorant student, willingly absorbing the wisdom of a giant. As he spoke, the question marks above my head multiplied.
 
