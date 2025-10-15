@@ -7,7 +7,7 @@ category: "Life"
 image: assets/images/instant_coffee_imagen.jpeg
 ---
 
-It began, as so many things do, with a television. In my [empty hotel in Chumphon](https://sparktsang.github.io/life/2025/09/23/01-accountant-holiday.html)—a magnificent, three-star ghost ship where I was the solitary passenger—I found myself watching Thai TV ads. It was a nostalgic experience, a glimpse into a dying medium from a bygone era. A slickly produced commercial for something called "Super" instant coffee played on a loop, featuring a handsome, doe-eyed celebrity whispering the brand name in an ecstatic moan: *“Supeeeer~”*
+It began, as so many things do, with a television. In my [empty hotel in Chumphon](https://sparktsang.github.io/life/2025/09/23/01-accountant-holiday.html)—a magnificent, three-star ghost ship where I was the solitary passenger—I found myself watching Thai TV ads. It was a nostalgic experience, a glimpse into a dying medium from a bygone era. A slickly produced commercial for something called "Super" instant coffee played on a loop, featuring a handsome, doe-eyed celebrity whispering the brand name in an ecstatic moan: *"Supeeeer~"*
 
 The next day, in a local supermarket, I saw it. An entire promotional shelf, a monolith dedicated solely to this "Super" coffee. It was cheaper than the other brands. I picked up a bag, a casual act of consumer curiosity. And in that moment, I discovered something so simple, so obvious, that I was instantly consumed by a profound sense of shame for never having thought of it before.
 
@@ -17,7 +17,7 @@ I stood there, stunned. A bag of coffee that was nearly half sugar. A coffee-fla
 
 A wave of betrayal washed over me, followed by a hot flush of shame. I thought of the red-packaged brand of 3-in-1 I'd been drinking every morning for years on my travels. I, the self-proclaimed savvy consumer, had always chosen it because it offered the most grams for the price. I rushed to the coffee aisle. I found my brand. The coffee content: 11%. Barely better. My entire calculation, my years of "smart" purchasing, had been a lie. I had been optimizing for the total weight, completely ignoring the most crucial variable in the equation.
 
-Then, a second blow. The same brand had a green-packaged version I'd always ignored because it seemed more expensive on a price-per-gram basis. But now, reading the fine print, I saw it was "extra rich," with a coffee content of 17%. A quick mental calculation revealed that on a price-per-actual-coffee-gram basis, *it* was the superior value. I had been buying the wrong product for years.
+Then, a second blow. The same brand had a green-packaged version I'd always ignored because it seemed more expensive on a price-per-gram basis. But now, reading the fine print, I saw it was "extra rich", with a coffee content of 17%. A quick mental calculation revealed that on a price-per-actual-coffee-gram basis, *it* was the superior value. I had been buying the wrong product for years.
 
 Armed with this new, painful knowledge, I gazed at the coffee aisle. It was a five-meter-long wall of 3-in-1 coffee mixes. Two hundred and forty different products, perhaps? Even if half were duplicates, it was a dizzying array. Each one a puzzle with four variables: number of sachets, grams per sachet, coffee percentage, and price. To find the true best value, you’d need a spreadsheet and half a day. Who does that? Who, in the history of grocery shopping, has ever done that?
 
