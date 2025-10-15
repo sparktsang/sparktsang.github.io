@@ -1,4 +1,11 @@
-
+---
+layout: post
+title: "The Gospel of the Psychedelic Buddha"
+short_title: "The Psychedelic Buddha"
+subtitle: "A system that doesn't need to trap you, because it has taught you how to build your own cage... and call it freedom."
+category: "Life"
+image: assets/images/new_god_l.jpg
+---
 
 "The Gospel of the Psychedelic Buddha"
 
