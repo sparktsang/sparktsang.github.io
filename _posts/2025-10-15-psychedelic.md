@@ -139,7 +139,7 @@ We both started from the same place: a profound dissatisfaction with the existin
 
 But at a critical crossroad, we diverged.
 
-I had chosen a path that leads outward. A revolution based on reason, on dialogue, on the painstaking, collective construction of a shared truth. It is a path of engagement, of trying to persuade the world to be better. It is an attempt to empower *everyone* to assert their agency.
+I had chosen a path that leads outward. A revolution based on reason, on dialogue, on the painstaking, [collective construction of a shared truth](https://sparktsang.github.io/philosophy.html). It is a path of engagement, of trying to persuade the world to be better. It is an attempt to empower *everyone* to assert their agency.
 
 He had chosen a path that leads inward. A solitary enlightenment fueled by psychedelics, a retreat into a private, unverifiable reality. His path was not about persuading the world, but about replacing it. It was a revolution of one. His agency was not to be asserted *in* the world, but *outside* of it, in a realm of his own making. He seemed to have created a new narrative, a new religion, a new possible world—but the materials he used to build it, I realized, were depressingly familiar.
 
