@@ -7,8 +7,6 @@ category: "Life"
 image: assets/images/new_god_l.jpg
 ---
 
-"The Gospel of the Psychedelic Buddha"
-
 I was about to leave my dorm room when he checked in. A new roommate, a man from London. I offered a simple hello, expecting a brief, forgettable exchange. Instead, over the next hour, I was given a guided tour of a parallel reality, a universe of thought so intricate and profound that I am still trying to find my way out of it.
 
 His name was Ade, a software engineer. This was his first time in Asia, and he had already spent two months here in Krabi. What was the appeal? "A bit of everything," he said. He called his trip a "journey," a preparation for the next phase of his work. He was something of a digital nomad, he admitted. "Me too," I said, and on this flimsy common ground—the blurred lines between travel, life, and work—a connection was made.
