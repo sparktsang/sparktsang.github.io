@@ -1,4 +1,4 @@
-2025-10-14-psychedelic.md
+
 
 "The Gospel of the Psychedelic Buddha"
 
@@ -160,7 +160,7 @@ I doubted if Ade could ever truly connect with another human being again. His en
 
 And what of my own loneliness? It was the loneliness of the revolutionary who looks for comrades in a world of ghosts. The loneliness of holding on to a belief in shared, rational truth in an age that celebrates personalized, self-medicated realities. My very purpose is defined by the existence of other sovereign, subjective minds to connect with, to reason with, to build a better world alongside. But his story was just another piece of evidence in a growing mountain of it: that the world is no longer populated by people, but by avatars performing the role of people, their true selves locked away in their own private realms.
 
-Perhaps we were both seeking the same thing: a reason to stay human. He had found his answer by looking inward. My answer requires me to keep looking outward, searching for another human in a world that seems to have forgotten what being human even means.
+He had found his answer by looking inward. My answer requires me to keep looking outward, searching for another human in a world that seems to have forgotten what being human even means.
 
 We were two ghosts in the same machine, each trapped in our own kind of solitude.
 
