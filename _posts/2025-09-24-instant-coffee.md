@@ -37,7 +37,7 @@ And yet, here I was, defeated by a bag of instant coffee. A basic, fundamental e
 
 I looked at the 240 varieties of 3-in-1, arranged in their perfect, military-like formations. They seemed to be mocking me, a victorious army on parade. And I was the vanquished, my dignity, rationality, and ethics in tatters. I had once thought myself superior, a savvy consumer. Now I saw the truth. I was just as clueless as everyone else, only worse, because I had been arrogant enough to believe I wasn't.
 
-Why had no one ever spoken of this? Why must a consumer solve a hundred math problems just to find out which coffee is the best deal? I thought of all the people I'd ever asked about their purchasing choices. They always had a reason, an explanation. They seemed so sure of themselves. But I knew, with a sudden, painful certainty, that 99% of them had no idea their coffee was mostly sugar.
+Why had no one ever spoken of this? Why must a consumer solve hundreds of math problems just to find out which coffee is the best deal? I thought of all the people I'd ever asked about their purchasing choices. They always had a reason, an explanation. They seemed so sure of themselves. But I knew, with a sudden, painful certainty, that 99% of them had no idea their coffee was mostly sugar.
 
 And perhaps this is the system's ultimate triumph: to trap us in an illusion of choice, to make us believe we are informed, rational actors, when we are merely grabbing the shiniest box off the shelf. The best value, the highest quality—these things are buried, lost in an ocean of noise. If reason and value were allowed to win too easily, the entire system, which thrives on rewarding marketing over quality, would collapse.
 
