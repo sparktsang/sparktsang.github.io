@@ -42,7 +42,7 @@ We were both purifiers, I realized then, just fighting on two completely differe
 
 "But what health benefits do you actually feel?" I asked, my voice betraying a hint of the urgency I felt. "How do you *know* you're healthier?" This was the crux of it all. I leaned in, a part of me desperately hoping for a logical answer, another part terrified of the strange new concepts he might unleash.
 
-"That's a very good question," he said slowly, and for a moment, I felt a flicker of hope, the thrill of a detective about to solve a case. The answer, however, was devastatingly simple. He knew through meditation. The clarity he could achieve in meditation after switching to the alkaline diet was on another level entirely. It was, he said, like his brain had a new, "supercharged engine."
+"That's a very good question," he said slowly, and for a moment, I felt a flicker of hope, the thrill of a detective about to solve a case. The answer, however, was devastatingly simple. He knew through meditation. The clarity he could achieve in meditation after switching to the alkaline diet was on another level entirely. It was, he said, like his brain had a new, "supercharged engine".
 
 My heart sank. Not because his belief was wrong, but because it was irrefutable. It was a truth based entirely on a subjective feeling, a "supercharged engine" that no instrument could ever measure, that no argument could ever disprove. I understood then the nature of his fortress: no one could ever rescue him from this belief, because there was no way to demonstrate that the engine he felt so vividly did not, in fact, exist.
 
@@ -71,7 +71,7 @@ In that instant, my entire critique collapsed. On what grounds could I possibly 
 
 Could I imagine a reality where we tell people to *distrust* their inner voice? The thought was unthinkable. I, the relentless questioner, had finally met a belief system I had no tools to dismantle. I was defeated before the battle had even begun, disarmed by the most powerful weapon of all: an unshakeable, unprovable, and universally celebrated truth.
 
-My purification project—my dream of a world where individuals achieve sovereignty through rigorous self-interrogation and rational dialogue—was revealed for what it was: a hopeless, one-man insurgency against an entire epoch. His path of purification was showing progress, validated by the "supercharged engine" in his mind. Mine, faced with the unthinking, unchallengeable titan of "instinct," was a non-starter, a total failure.
+My purification project—my dream of a world where individuals achieve sovereignty through rigorous self-interrogation and rational dialogue—was revealed for what it was: a hopeless, one-man insurgency against an entire epoch. His path of purification was showing progress, validated by the "supercharged engine" in his mind. Mine, faced with the unthinking, unchallengeable titan of "instinct", was a non-starter, a total failure.
 
 I felt a profound sense of defeat, a loneliness that was deeper and colder than any I had felt before. My battle was not with him, but with the spirit of the age itself. And I had already lost.
 
