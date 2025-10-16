@@ -37,7 +37,7 @@ A wave of empathy, sharp and painful, washed over me. What would his parents, hi
 
 He spoke of purification, of cleansing the parasites from his body. And I couldn't help but think of my own quest. I, too, was on a path of purification. But the parasites I sought to exterminate were not in my gut; they were in my mind—the unexamined beliefs, the logical fallacies, the narrative viruses of our time.
 
-We were both purifiers, I realized then, just fighting on two completely different battlefields.
+We were both purifiers, I realized then, just fighting on two completely different battlefields. He wanted to reach the neutral body; I wanted to reach the neutral mind.
 
 
 "But what health benefits do you actually feel?" I asked, my voice betraying a hint of the urgency I felt. "How do you *know* you're healthier?" This was the crux of it all. I leaned in, a part of me desperately hoping for a logical answer, another part terrified of the strange new concepts he might unleash.
