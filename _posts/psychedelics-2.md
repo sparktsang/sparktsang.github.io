@@ -1,3 +1,5 @@
+"The Sunlit Cage: On the Tyranny of the Inner Voice"
+
 The next day, as I passed his bunk, Ade greeted me warmly. I expected a fleeting hello, but the conversation that followed lasted another hour, unlocking yet another, deeper layer of his parallel reality.
 
 It began with a simple question. "How are you doing?" he asked, then added, "I see you stay up late."
@@ -90,5 +92,6 @@ I looked at Ade, a man who had successfully purified himself of everything—foo
 
 In an age that worships the inner voice, what happens when that voice leads you into a beautiful, sunlit, and inescapable void—
 and everyone else calls it enlightenment?
+
 
 https://techcrunch.com/2025/02/01/ai-agents-could-birth-the-first-one-person-unicorn-but-at-what-societal-cost/
