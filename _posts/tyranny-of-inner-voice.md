@@ -1,3 +1,5 @@
+2025-10-16
+
 "The Sunlit Cage: On the Tyranny of the Inner Voice"
 
 The next day, as I passed his bunk, Ade greeted me warmly. I expected a fleeting hello, but the conversation that followed lasted another hour, unlocking yet another, deeper layer of his parallel reality.
