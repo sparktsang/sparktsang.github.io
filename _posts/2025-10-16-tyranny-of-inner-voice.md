@@ -7,7 +7,7 @@ category: "Life"
 image: assets/images/sunlit_cage_copilot.png
 ---
 
-Prequel: [*The Gospel of the Psychedelic Buddha*](https://sparktsang.github.io/life/2025/10/15/psychedelic.html)
+Prequel — [*The Gospel of the Psychedelic Buddha*](https://sparktsang.github.io/life/2025/10/15/psychedelic.html)
 
 ---
 
