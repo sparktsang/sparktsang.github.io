@@ -40,5 +40,22 @@ He spoke of purification, of cleansing the parasites from his body. And I couldn
 We were both purifiers, I realized then, just fighting on two completely different battlefields.
 
 
+"But what health benefits do you actually feel?" I asked, my voice betraying a hint of the urgency I felt. "How do you *know* you're healthier?" This was the crux of it all. I leaned in, a part of me desperately hoping for a logical answer, another part terrified of the strange new concepts he might unleash.
+
+"That's a very good question," he said slowly, and for a moment, I felt a flicker of hope, the thrill of a detective about to solve a case. The answer, however, was devastatingly simple. He knew through meditation. The clarity he could achieve in meditation after switching to the alkaline diet was on another level entirely. It was, he said, like his brain had a new, "supercharged engine."
+
+My heart sank. Not because his belief was wrong, but because it was irrefutable. It was a truth based entirely on a subjective feeling, a "supercharged engine" that no instrument could ever measure, that no argument could ever disprove. I understood then the nature of his fortress: no one could ever rescue him from this belief, because there was no way to demonstrate that the engine he felt so vividly did not, in fact, exist.
+
+And as I tried to imagine this higher state of meditative clarity, he delivered the final, devastating piece of the puzzle.
+
+"The entheogens I take," he said, almost reverently, "they are alkaline. A very powerful neutralizer."
+
+The words fell like the final click of a complex lock. And in that instant, all the disparate, chaotic pieces of his worldview slammed together in my mind, forming a single, horrifyingly perfect picture. It was the last puzzle piece. The "alkaline" narrative virus, absorbed from the outside world, had seamlessly fused his spiritual journey with his physical one. The drugs that brought enlightenment were now also, conveniently, the agents of his bodily purification. It was a closed loop, a self-sustaining cosmology, a bomb that had just armed itself.
+
+But it was more than that. It was the last puzzle piece for *me*. I finally understood that his grand journey was not a passive, mystical revelation. It was an active, ongoing construction. He was a curator, a scavenger of ideas, constantly absorbing narrative viruses from the world, testing them, and integrating the ones that fit, piece by piece, into his one-man religion. He wasn't just a believer; he was an alchemist.
+
+This was the true meaning of his "step by step" journey. It was a mad, modern alchemy, an attempt to transmute the lead of a collapsed subjectivity into the gold of a divine purpose. And the thought that formed in my mind was not a conclusion, but a parasite of its own, burrowing deep: what if this process, this endless absorption and integration, was not building a self, but consuming it?
+
+
 
 https://techcrunch.com/2025/02/01/ai-agents-could-birth-the-first-one-person-unicorn-but-at-what-societal-cost/
