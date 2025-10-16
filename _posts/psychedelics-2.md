@@ -88,7 +88,7 @@ The prophets of our time speak of one-person, billion-dollar companies, empowere
 
 I looked at Ade, a man who had successfully purified himself of everything—food, parasites, doubt, and perhaps, even the world itself. And I, the relentless questioner, the purifier of thoughts, was left with only one, impure question:
 
-In an age that worships the inner voice, what happens when that voice leads you into a beautiful, sunlit, and inescapable void?
-
+In an age that worships the inner voice, what happens when that voice leads you into a beautiful, sunlit, and inescapable void—
+and everyone else calls it enlightenment?
 
 https://techcrunch.com/2025/02/01/ai-agents-could-birth-the-first-one-person-unicorn-but-at-what-societal-cost/
