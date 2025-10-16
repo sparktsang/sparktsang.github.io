@@ -7,7 +7,7 @@ category: "Life"
 image: assets/images/socrates_quote_imagen.jpeg
 ---
  
-Last night, I was in the common area of a guesthouse in Ao Nang, Krabi, preparing an image for my last article, when a young East Asian man came over and said hello. He was my new roommate, he explained, just checked in two minutes ago. His name was Hao. He was from Singapore. He said our other roommate, Brian, had told him I was a long-term traveler. 
+Last night, I was in the common area of a guesthouse in Ao Nang, Krabi, preparing an image for my last article, when a young East Asian man came over and said hello. He was my new roommate, he explained, just checked in two minutes ago. His name was Hao. He was from Singapore. He said our other roommate, [Brian](https://sparktsang.github.io/life/2025/10/12/shrimp-gospel.html), had told him I was a long-term traveler. 
  
 There was something immediately different about him. His expressions were animated, his gestures expansive, his speech rapid. His mind seemed to be moving faster than his body could keep up. You got the distinct feeling that this was a person you could say anything to. The unspoken rules of social convention, the carefully curated topics for small talk, simply seemed to evaporate in his presence. 
 
