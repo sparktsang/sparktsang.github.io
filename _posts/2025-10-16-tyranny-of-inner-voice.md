@@ -7,11 +7,15 @@ category: "Life"
 image: assets/images/sunlit_cage_copilot.png
 ---
 
+Prequel: [*The Gospel of the Psychedelic Buddha*](https://sparktsang.github.io/life/2025/10/15/psychedelic.html)
+
+---
+
 The next day, as I passed his bunk, Ade greeted me warmly. I expected a fleeting hello, but the conversation that followed lasted another hour, unlocking yet another, deeper layer of his parallel reality.
 
 It began with a simple question. "How are you doing?" he asked, then added, "I see you stay up late."
 
-"Yes," I replied, a little self-consciously, "the nights are quiet. Good for thinking and writing." I felt a slight pang of guilt, knowing that he had been [the subject of my writing](https://sparktsang.github.io/life/2025/10/15/psychedelic.html) the night before. Thankfully, he had no interest in what I was thinking or writing about.
+"Yes," I replied, a little self-consciously, "the nights are quiet. Good for thinking and writing." I felt a slight pang of guilt, knowing that he had been the subject of my writing the night before. Thankfully, he had no interest in what I was thinking or writing about.
 
 The conversation, as I had hoped, quickly circled back to him. I asked where he usually ate, noticing he rarely seemed to leave the room. His answer, delivered with a calm simplicity, opened a door to a new world.
 
