@@ -16,10 +16,10 @@ The statement hung in the air. I looked at the strange, unfamiliar fruit sitting
 
 His eyes had told me he believed it with every fiber of his being. But even then, a quiet doubt had pricked at my mind: did the clarity come from the diet, or from the meditation? Was he making a false attribution? I never pursued the question back then.
 
-And now, here I was again, faced with another fruit-eating meditator. The old question returned, but this time with a new, more urgent weight. Is this a health choice, or is it something more?
+Here I was again, faced with another fruit-eating meditator. The old question returned, but this time with a new, more urgent weight. Is this a health choice, or is it something more?
 
 
-But for Ade, this wasn't just a lifestyle choice; it was a cornerstone of his entire cosmology. He explained that the ideal human body is in a neutral state, its pH perfectly balanced. Digestion, however, creates acid. Therefore, to achieve neutrality, one must consume alkaline foods. All mainstream foods—rice, bread, meat, fish—are acidic, he stated. They make you tired. Alkaline foods, like fruit, give you energy, aligning your *chakras*.
+And for Ade, this wasn't just a lifestyle choice; it was a cornerstone of his entire cosmology. He explained that the ideal human body is in a neutral state, its pH perfectly balanced. Digestion, however, creates acid. Therefore, to achieve neutrality, one must consume alkaline foods. All mainstream foods—rice, bread, meat, fish—are acidic, he stated. They make you tired. Alkaline foods, like fruit, give you energy, aligning your *chakras*.
 
 *Chakras*. I recognized the word. It was another ancient, living-fossil of a narrative virus, much like the concepts of Yin and Yang. A radically simplified model of the world, simple to digest, easy to spread, and nearly impossible to disprove. This ancient virus, I was about to learn, had been given a powerful modern update.
 
