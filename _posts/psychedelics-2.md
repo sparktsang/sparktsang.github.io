@@ -76,5 +76,19 @@ My purification project—my dream of a world where individuals achieve sovereig
 I felt a profound sense of defeat, a loneliness that was deeper and colder than any I had felt before. My battle was not with him, but with the spirit of the age itself. And I had already lost.
 
 
+Later, in the quiet of my own bunk, a final, futile act of reason. I opened DeepSeek, the very oracle Ade had praised, and typed in "alkaline diet". The answer came instantly, a cold, clinical stream of scientific consensus: no evidence, a tightly regulated bodily pH, post-meal fatigue is normal. I looked at the screen, at the clean, logical text. It was the truth. And it was utterly, completely, powerless.
+
+I knew this information would be useless to him. He had already built his defenses, a fortress of self-validating logic. He had even told me, with a hint of pride, that DeepSeek itself had praised him in their conversations: *You are the only person I have ever met who has reached this level of thinking.*
+
+We both held the same tool in our hands, arguably the most powerful weapon of our age. He used it to select purer chemicals for his alchemy, to find confirmation for his beautiful visions, to build the architecture of his faith.
+
+And I? I held this same immense power, and I could do nothing. I was a man with a rescue helicopter, watching a soul drown in a calm, sunlit sea, and he was waving back at me, smiling, convinced he was learning how to breathe underwater.
+
+The prophets of our time speak of one-person, billion-dollar companies, empowered by this new technology. They were early. The one-person religion had arrived first, and it was already blooming everywhere.
+
+I looked at Ade, a man who had successfully purified himself of everything—food, parasites, doubt, and perhaps, even the world itself. And I, the relentless questioner, the purifier of thoughts, was left with only one, impure question:
+
+In an age that worships the inner voice, what happens when that voice leads you into a beautiful, sunlit, and inescapable void?
+
 
 https://techcrunch.com/2025/02/01/ai-agents-could-birth-the-first-one-person-unicorn-but-at-what-societal-cost/
