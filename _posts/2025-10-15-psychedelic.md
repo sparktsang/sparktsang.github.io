@@ -170,6 +170,6 @@ He had found his answer by looking inward. My answer requires me to keep looking
 We were two ghosts in the same machine, each trapped in our own kind of solitude.
 
 Perhaps the world no longer needs to oppress anyone. It only needs to persuade us that there is nothing left to free. We have all learned how to self-medicate, how to build our own beautiful cages, and how to lock the door from the inside.
-　
-　
+  
+  
 Sequel — [*The Sunlit Cage: On the Tyranny of the Inner Voice*](https://sparktsang.github.io/life/2025/10/16/tyranny-of-inner-voice.html)
