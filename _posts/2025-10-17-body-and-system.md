@@ -174,7 +174,7 @@ I recoiled in disgust, but the thought lingered, ugly and persistent.
 
 I had to do something. But in the chasm of power between us, even the act of helping was a minefield. "I have some ideas," I began, carefully, "I'm not sure if they can help, but maybe we can brainstorm together? If you want to hear them?" I was trying to frame my advice not as charity, but as a collaboration between equals, a desperate attempt to preserve his dignity.
 
-He agreed, this time with a flicker of genuine interest. I asked him how he applied for jobs now. He said he had a collection of files on a Google Drive. "A professional portfolio website," I suggested, "could be ten times more powerful than a folder of files." He agreed completely. I then showed him my own site, guiding him through the process of building one for free, how AI could write the code and generate the images.
+He agreed, this time with a flicker of genuine interest. I asked him how he applied for jobs now. He said he had a collection of files on a Google Drive. "A professional portfolio website," I suggested, "could be ten times more powerful than a folder of files." He agreed completely. I then showed him [my own site](https://sparktsang.github.io/), guiding him through the process of building one for free, how AI could write the code and generate the images.
 
 I tried to think of what else I could offer. And I came up empty. My vast arsenal of knowledge, my hard-won freedom, and all I could offer a man on the brink was... a website. A digital business card. The feeling of inadequacy was immense. Was this truly the best I could do? Was knowledge, in the face of such raw, immediate need, even useful?
 
