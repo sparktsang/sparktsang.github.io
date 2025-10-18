@@ -105,3 +105,24 @@ His entire Japanese life—his own studio, his equipment, his investments—turn
 The buyer, a half-English, half-Japanese man did something extraordinary. He bought Tshepo a plane ticket.
 
 It wasn't a miracle. It was a final, devastating act of pity. A confirmation that his dream was over. His body, once an object of admiration, was now just a piece of baggage, shipped out of the country by the kindness of a stranger. He had been expelled from paradise.
+
+
+The final moments in Japan were a frantic nightmare. He arrived at the airport with eight large bags—the sum total of his life's possessions—only to be told he could only check in four. With ten minutes until his flight, he was forced to abandon half of his net worth on the cold floor of the Narita airport terminal. He fled with what he could carry, his body now not just a piece of baggage, but a refugee's.
+
+He landed in Hanoi with a plan. He had a friend there, another South African, who knew the local dance scene. This time, he would be smarter. No more tying his fate to a single company. He would be a free agent, a freelancer, a master of his own destiny. His body, once an object of art, would now become a ruthlessly efficient **business machine**.
+
+The initial struggle was immense. His friend couldn't house him for long. He soon found himself with only 150,000 Vietnamese Dong (about 6 USD) to his name. But he found a lifeline: a work-for-accommodation deal at a Mad Monkey hostel. From this precarious base, he started networking, hustling, making connections. Hope began to flicker.
+
+And then, disaster struck again. His phone was stolen. In our age, this is not a minor inconvenience; it is a catastrophic systems failure. His entire network of contacts, his only path back to a career, vanished into the ether. He was stranded, a ghost in the machine, but at least he had a roof over his head and food to eat. He was, as he said, at peace with it.
+
+Slowly, things got better. The universe, it seemed, was rewarding his resilience. Kind strangers appeared. A man from Amsterdam, moved by his story, gifted him a new phone. He reconnected with the studios. He started getting work. Learning his lesson from Japan, he worked with multiple studios, refusing to be tied down. His plan was ambitious: build a client base in Hanoi, expand his network to Ho Chi Minh City, and shuttle between the two, becoming an indispensable part of the Vietnamese dance scene.
+
+But his ambition, the very thing that drove him, became his undoing.
+
+"They thought I was... making progress too quick," he told me. They saw him as being too aggressive. The studios that had initially welcomed him began to pull back. The offers of classes became fewer. He had misread the culture. The Vietnamese dance community, another closed, tight-knit circle, saw his drive not as admirable, but as a threat. They didn't want a foreigner coming in and becoming "a phenomenon".
+
+"Everything happens under the table," he explained, his voice laced with a familiar weariness. "It's not about your talent. It's about how the gatekeepers *feel* about you. They watch you, see if you fit their standards, and then decide how much access to give you. There are no clear goals to meet. You just feel the doors slowly closing."
+
+He saw the writing on the wall. His visa was expiring. He left for Bangkok in June, but the pull of Vietnam was strong. A studio in Hanoi that he'd worked with once before reached out with a new offer. Hope, that stubborn, foolish thing, bloomed again. He flew back, ready to rebuild, to try again, shuttling between Hanoi and Saigon. But this time, things soured even faster. The major studios would tell him there were no classes, no students, but he knew it wasn't true. He was being shut out. Access denied.
+
+By August, he was broke again. He fled back to Bangkok, his dream in tatters. He was in a state of financial emergency. Within days of landing, unable to find work in the saturated Bangkok market, he had to take a bus to Krabi for the last lifeline available to a desperate traveler: a work-for-accommodation deal. And here, in this final outpost, the cycle of misfortune would reach its cruel, inevitable conclusion.
