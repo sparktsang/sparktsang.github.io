@@ -1,4 +1,11 @@
-"The Body and the System: An Autopsy of Value"
+---
+layout: post
+title: "The Body and the System: An Autopsy of Value"
+short_title: "Autopsy of a Body"
+subtitle: "Perhaps my offer of empowerment was just the system speaking through me—its survival instinct disguised as compassion."
+category: "Life"
+image: assets/images/tshepo_dancer_imagen.jpeg
+---
 
 He was a ghost in my periphery for nine days before he became a person. His name was Tshepo, a South African man. Our first encounter was a miniature thriller in itself. I was scouting the guesthouse, not yet a resident, when he greeted me in the tiny lobby. We exchanged names, countries. Standard traveller stuff. And then, on his third sentence, he made a request so bizarre, so out of sync with the normal rules of engagement, that it left me momentarily speechless.
 
