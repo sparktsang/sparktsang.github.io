@@ -56,3 +56,29 @@ The Skeptic's argument collapsed under the sheer improbability of the con. The P
 The Empath had won, not by out-arguing the others, but by appealing to a logic older and deeper than all of them.
 
 The moral calculus, in the end, was simple and brutal. I walked into a "Super Cheap" minimart and bought a cup of noodles. It cost 12 baht—an almost meaningless sum of money that could stave off a man's hunger.
+
+
+When I returned, he was still sitting in the small public space by the reception. "How are you doing?" I asked. He looked down at the floor for a long moment before raising his head, a strained smile on his face. "Yes, I'm fine." I felt the receptionist's presence nearby and suspected this wasn't a conversation he'd want to have in front of her. "Let's take a walk down the corridor," I suggested.
+
+Away from prying eyes, I asked again. "Have you eaten today?"
+"Not yet," he said.
+"How do you manage?"
+"Water. Fasting."
+"Is it really just the friend in Beijing?" I probed gently. "No other network?"
+"I'm asking other friends," he replied, his voice quiet.
+
+The moment had come. "I happen to have a cup of noodles," I said, trying to make it sound as casual as possible. "I'm not sure if it's your taste, but do you want it?" His face lit up with a relief so pure it was painful to watch. "Yes, please."
+
+I handed it to him and retreated, saying I needed the bathroom, giving him space. When I came back out, I saw a scene that will be forever burned into my memory. He was standing outside the hostel bar, facing the staff member who was sitting leisurely behind the counter. He, the guest, was standing, waiting, while she, the employee, sat, unhurried, preparing his meal. In the upside-down world of a struggling traveler, even the simple act of receiving sustenance becomes an exercise in humility. The urgency of his hunger, forcing him to stand and watch, was a silent testament to the vast power imbalance between them.
+
+I went to my room to collect myself. When I re-emerged, I found him in the furthest, darkest corner of the lobby, eating. It was real. This was his first meal of the day. A wave of profound sadness hit me. I couldn't remember the last time I'd eaten instant noodles; it was a food of no consequence to me. To him, right now, it was "delicious."
+
+I approached him, my every move now weighed down by this chasm between us. "Can I sit here?" I asked, a question he was in no position to refuse. Was my politeness a comfort, or was its very artifice a sting? I didn't know. The war in my head, which I thought had ended, had just begun a new campaign. The Empath had won the battle of the noodle cup, but now **The Exploiter** saw a new opportunity. *"We need stories,"* he whispered. *"He has one. A hundred baht for his story. It's a win-win. He eats for a few more days, we get our material."* Could I do it? Could I put a price on a man's dignity?
+
+No. The Empath, though weakened, barely won. I chose a different path. "I'm a writer," I began. "I want to tell people's stories. I was hoping you might let me tell yours. Sometimes, just thinking out loud, telling your own story, can give you a new perspective in a way you don't expect."
+
+"Okay," he said. I couldn't tell if he genuinely liked the idea, or if he simply couldn't refuse the man who had just given him his only meal.
+
+As he began to speak, I noticed the loud music coming from a speaker directly above his chosen corner. "It's too noisy, I can't hear you," I said, suggesting we move. He agreed, but as he stood up, his expression was not one of happiness. Had he chosen this dark corner for a reason? To be invisible? And here I was, in my quest for connection, unintentionally forcing him out into a more open, more brightly-lit space, where he could be seen, and judged.
+
+We moved. He spoke softly, and I had to pull my chair closer to hear his story. We were two men, struggling. He was struggling for survival, and I, against a rising tide of my own complicated motives, was struggling, simply, to do the right thing.
