@@ -185,4 +185,4 @@ Perhaps my offer of empowerment was just the system speaking through me—its su
 
 And then, the ugliest thought of all. Which act would have been more honest? My "noble" offer of a map to rebuild his kingdom? Or the Exploiter's cold, transactional offer of bread for a story?
 
-To this day, I still don't know the answer.
+To this day, I still don't know the answer. And maybe that’s the answer—that there isn’t one, only the system, watching us both, quietly adjusting its variables.
