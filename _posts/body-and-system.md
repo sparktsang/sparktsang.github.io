@@ -94,7 +94,7 @@ As he began to speak, I noticed the loud music coming from a speaker directly ab
 We moved. He spoke softly, and I had to pull my chair closer to hear his story. We were two men, struggling. He was struggling for survival, and I, against a rising tide of my own complicated motives, was struggling, simply, to do the right thing.
 
 
-He agreed to talk. And as he spoke, the riddle of Tshepo began to assemble itself into a devastating portrait of a man betrayed by the systems he had trusted.
+As he spoke, the riddle of Tshepo began to assemble itself into a devastating portrait of a man betrayed by the systems he had trusted.
 
 He was a dancer. His body was his temple, his instrument, his capital. He had started at eleven, was teaching for free by sixteen, and earning a living from it by eighteen. Dancing was not a job; it was his entire life. He had even been accepted into a prestigious four-year university dance program, but when a job offer from Universal Studios Japan came, complete with a work visa, he didn't hesitate. He dropped out of university and flew to his dream.
 
@@ -159,7 +159,7 @@ And finally, all the strange pieces of the puzzle I had been collecting for nine
 He was no longer just broke. He was trapped. His body, once his greatest asset, was now his greatest liability—a vessel that required feeding, a stationary target in a world that had left him with nowhere else to go.
 
 
-As he spoke, his story ran as a silent, searing parallel to my own. I, too, knew the sting of exclusion, the cold shoulder of the inner circle, the arbitrary judgment of gatekeepers. I knew what it felt like to have your fate decided in a black box, without reason or appeal. It was that very experience that had driven me to abandon the world of employment, to burn my ships and seek a true, sovereign freedom. I had, by some miracle of luck and relentless effort, succeeded. He had not. We were mirror images, fractured by the cruel lottery of circumstance. I had hacked the system from the inside to buy my freedom. He had been thrown out of the system, his freedom taken from him.
+His story ran as a silent, searing parallel to my own. I, too, knew the sting of exclusion, the cold shoulder of the inner circle, the arbitrary judgment of gatekeepers. I knew what it felt like to have your fate decided in a black box, without reason or appeal. It was that very experience that had driven me to abandon the world of employment, to burn my ships and seek a true, sovereign freedom. I had, by some miracle of luck and relentless effort, succeeded. He had not. We were mirror images, fractured by the cruel lottery of circumstance. I had hacked the system from the inside to buy my freedom. He had been thrown out of the system, his freedom taken from him.
 
 The Exploiter in my head, a voice I thought I had vanquished, made one last, seductive appearance. *"One hundred baht for his story,"* he whispered. *"It's a perfect transaction. We get the material, he gets another meal. A win-win."*
 
