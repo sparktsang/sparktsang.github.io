@@ -31,7 +31,17 @@ Then, today, I met him in the shared bathroom. "My friend still hasn't replied,"
 
 "Do you have 20 or 30 baht I could have?" he asked, his voice soft, almost apologetic. "For some noodles. It's totally okay if not."
 
-"Let me think about whether I can help," I said, a coward's answer to buy myself a moment. "I'll be around here," he replied, and sat down in the lobby, a portrait of patient desperation.
+My intuition screamed that this was real, even though my rationality refused to believe, at least for the moment.
+
+The question escaped my lips before I could stop it, a shocked, involuntary response. "So you are relying on friends to live?"
+"Yes," he said, his gaze unwavering.
+
+A wave of regret washed over me. The question was a clumsy intrusion, a violation. If it was true, I had just poured salt on an open wound. The air in the small bathroom grew thick with a palpable, suffocating awkwardness. I had to say something, anything, to break the silence.
+
+"Let me think about how I can help," I finally managed, a coward's answer designed to buy myself a moment, to neither offer false hope nor dismiss his plight.
+
+He simply nodded, his dignity intact. "I'll be around," he said. 
+
 
 Walking to lunch, my mind was not my own. It had become a courtroom, a battlefield where four distinct voices, four aspects of myself, waged a furious war over a single, 30-baht question.
 
@@ -142,7 +152,9 @@ The judgment of the friend-circle was swift and absolute. Soon after, he was tol
 
 This was the cruelest expulsion of all. In the world of business, in Japan and Vietnam, he was an outsider rejected by a professional community protecting its interests. But here, in the supposedly utopian, all-embracing world of backpacking, he had been judged and condemned by his "friends," by the very people who were supposed to be his tribe.
 
-And so, he ended up here, in the cheapest hostel in Krabi, a refugee from the party scene. And finally, all the strange pieces of the puzzle I had been collecting for nine days clicked into place. The constant presence in the lobby, the takeaway meals from a restaurant a minute's walk away—it wasn't a choice; it was a prison. He was waiting for parcels, for money from friends, a new phone from a former employer in Vietnam, whom he borrowed other people's phones to make contact. He couldn't risk leaving the hostel for more than a few moments, terrified that the one lifeline that might arrive would be stolen, again.
+And so he ended up here, in the cheapest hostel in Krabi, a refugee from the party scene, completely penniless. His stay was not a choice, but a desperate, day-to-day negotiation for survival. He had managed to find a friend after a friend, willing to pay for his bed with a credit card online, one night at a time. Each new day was a new uncertainty, a new plea for another 24 hours of shelter.
+
+And finally, all the strange pieces of the puzzle I had been collecting for nine days clicked into place. The constant presence in the lobby, the takeaway meals from a restaurant a minute's walk away—it wasn't a choice; it was a prison. He was waiting for parcels, for money from friends, a new phone from a former employer in Vietnam, whom he borrowed other people's phones to make contact. He couldn't risk leaving the hostel for more than a few moments, terrified that the one lifeline that might arrive would be stolen, again.
 
 He was no longer just broke. He was trapped. His body, once his greatest asset, was now his greatest liability—a vessel that required feeding, a stationary target in a world that had left him with nowhere else to go.
 
