@@ -82,3 +82,26 @@ No. The Empath, though weakened, barely won. I chose a different path. "I have s
 As he began to speak, I noticed the loud music coming from a speaker directly above his chosen corner. "It's too noisy, I can't hear you," I said, suggesting we move. He agreed, but as he stood up, his expression was not one of happiness. Had he chosen this dark corner for a reason? To be invisible? And here I was, in my quest for connection, unintentionally forcing him out into a more open, more brightly-lit space, where he could be seen, and judged.
 
 We moved. He spoke softly, and I had to pull my chair closer to hear his story. We were two men, struggling. He was struggling for survival, and I, against a rising tide of my own complicated motives, was struggling, simply, to do the right thing.
+
+
+He agreed to talk. And as he spoke, the riddle of Tshepo began to assemble itself into a devastating portrait of a man betrayed by the systems he had trusted.
+
+He was a dancer. His body was his temple, his instrument, his capital. He had started at eleven, was teaching for free by sixteen, and earning a living from it by eighteen. Dancing was not a job; it was his entire life. He had even been accepted into a prestigious four-year university dance program, but when a job offer from Universal Studios Japan came, complete with a work visa, he didn't hesitate. He dropped out of university and flew to his dream.
+
+For the first year in Japan, he performed. Then, a major dance studio scouted him to teach choreography. For the next three years, he thrived. He was good. His classes, ranging from young children to young adults, were popular. He felt himself improving, growing. His students' parents, in a gesture of ultimate acceptance, would invite him to their homes for dinner. He was, for a glorious moment, *inside*. He even began building his own studio, investing in equipment, laying the foundations for a future in the country he had come to love. His body, once just an instrument, had become a revered work of art.
+
+Then, the ground began to shift beneath him.
+
+The classes grew fewer. The scheduling, once predictable, became opaque. He went to HR, the official channel, the place where reasons are supposed to be given. But HR offered no explanation. They just bounced him back down, telling him to speak to the individual studio managers. So he went, from one manager to another, a supplicant asking for his own livelihood. The answer was always the same, a polite, impenetrable wall: "We've already arranged the upcoming classes."
+
+A cold dread began to set in. "I couldn't be sure why," he told me, "but I felt that the managers were just looking after their own friends. Unless you were in their circle, you didn't get the opportunities. The system wasn't based on your talent."
+
+He saw the crisis coming and went into survival mode, desperately searching for work at other studios. But the company he worked for was a giant, with dozens of branches across Japan. He found no openings. "I think," he said, "that the whole industry might just be one big community." A community he was not a part of.
+
+The final blow was swift and brutal. The studio terminated his contract. He had thirty days before his work visa expired. Thirty days to leave the country.
+
+His entire Japanese life—his own studio, his equipment, his investments—turned to dust. He spent his final weeks selling everything he owned. On his very last day in Japan, his visa set to expire in mere hours, he still didn't have enough money for a plane ticket. A potential buyer for his drawing tablet asked him to meet for the transaction. "I can't," Tshepo told him. "I'm stuck. My visa is gone tomorrow, and I don't even have the money to get to the airport."
+
+The buyer, a half-English, half-Japanese man did something extraordinary. He bought Tshepo a plane ticket.
+
+It wasn't a miracle. It was a final, devastating act of pity. A confirmation that his dream was over. His body, once an object of admiration, was now just a piece of baggage, shipped out of the country by the kindness of a stranger. He had been expelled from paradise.
