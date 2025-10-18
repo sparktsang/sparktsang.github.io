@@ -31,10 +31,10 @@ Over the following days, I would see him. Sometimes he was engrossed in a book i
 
 Then, last night, near midnight, I was working in the dark, cavernous common area. Two shadowy figures were sitting a few meters away. One of them called out to me, asking if I was from Hong Kong. "How did you know?" I asked. He pointed to the other shadow. "He told me." It was Tshepo. We exchanged another polite, distant greeting. A faint possibility of connection flickered in the darkness, then vanished. He knew I was there. He remembered me. And he was still here.
 
-The riddle of Tshepo remained unsolved, a low-frequency hum of mystery in the background of my Krabi life. Until today, in the shared bathroom, when the final, devastating piece of the puzzle was about to be revealed.
+The riddle of Tshepo remained unsolved, a low-frequency hum of mystery in the background of my Krabi life. Until today, when the final, devastating piece of the puzzle was about to be revealed.
 
 
-Then, today, I met him in the shared bathroom. "My friend still hasn't replied," he said again, a recurring line in a story I didn't yet know. Then, he delivered the line that changed everything.
+I met him in the shared bathroom. "My friend still hasn't replied," he said again, a recurring line in a story I didn't yet know. Then, he delivered the line that changed everything.
 
 "Do you have 20 or 30 baht I could have?" he asked, his voice soft, almost apologetic. "For some noodles. It's totally okay if not."
 
