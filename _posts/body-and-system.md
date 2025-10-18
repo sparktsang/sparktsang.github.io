@@ -1,6 +1,6 @@
-"The Body and the System: Notes from a Failing Network"
+"The Body and the System: An Autopsy of Value"
 
-He was a ghost in my periphery for nine days before he became a person. His name was Tshepo, a South African man. Our first encounter was a miniature thriller in itself. I was scouting the guesthouse, not yet a resident, when he greeted me in the tiny lobby. We exchanged names, countries. Standard traveler stuff. And then, on his third sentence, he made a request so bizarre, so out of sync with the normal rules of engagement, that it left me momentarily speechless.
+He was a ghost in my periphery for nine days before he became a person. His name was Tshepo, a South African man. Our first encounter was a miniature thriller in itself. I was scouting the guesthouse, not yet a resident, when he greeted me in the tiny lobby. We exchanged names, countries. Standard traveller stuff. And then, on his third sentence, he made a request so bizarre, so out of sync with the normal rules of engagement, that it left me momentarily speechless.
 
 He had a friend in Beijing, he explained, who was trying to send him money. Seeing that I was from Hong Kong, he figured I might be the solution. Could I, a complete stranger, act as the middleman—receive the funds and then pass the cash to him?
 
@@ -18,7 +18,7 @@ My suspicion deepened. "Why are you always *here*?" I asked, my curiosity overri
 
 "Traveling," he insisted.
 
-He was a walking riddle. A man who dressed well but needed to figure out a cross-border money transfer with a stranger. A man who was "traveling" but never seemed to leave the hostel lobby. A man who needed takeaway for a restaurant a stone's throw away. What was he sorting out? What was in those parcels? My mind filled with possibilities, none of them savory. A wall went up between us.
+He was a walking riddle. A man who dressed well but needed to figure out a cross-border money transfer with a stranger. A man who was "traveling" but never seemed to leave the hostel lobby. A man who needed takeaway for a restaurant a stone's throw away. What was he sorting out? What was in those parcels? My mind filled with possibilities, none of them savoury. A wall went up between us.
 
 Over the following days, I would see him. Sometimes he was engrossed in a book in that same lobby seat. Once, I saw him in the 7-Eleven, wearing dark sunglasses, an impenetrable mask. I never knew if he saw me. We exchanged no greetings. He was a puzzle I had decided was too complicated, too risky, to solve.
 
@@ -49,7 +49,7 @@ The first to speak was **The Hong Kong Skeptic**, a voice forged in a city of sc
 
 But a second voice, **The Pragmatist**, countered immediately. *"The logic is flawed,"* he argued, his tone clipped and efficient. *"Nine days of meticulous planning for the price of a cup of coffee? The ROI is pathetic. The probability of a scam is low. The real issue isn't the truth; it's the precedent. Once you open the floodgates of charity, you become a resource. He needs to eat every day. Can you sustain this? Will you become his personal ATM?"*
 
-Then, a third, more insidious voice emerged. **The Exploiter**, the cold-blooded capitalist. *"You're both missing the opportunity here,"* he whispered, his voice smooth and seductive. *"The Pragmatist is right; charity is unsustainable. But this isn't a problem; it's an asset. The man is desperate. His time is worthless on the open market. We need traffic for the website. We can buy his entire day's labor for the price of a few meals. Let's make him an offer. A perfect, win-win value exchange. He gets to eat, we get an army of one to seed links in African forums. It's the only logical, mutually beneficial solution."*
+Then, a third, more insidious voice emerged. **The Exploiter**, the cold-blooded capitalist. *"You're both missing the opportunity here,"* he whispered, his voice smooth and seductive. *"The Pragmatist is right; charity is unsustainable. But this isn't a problem; it's an asset. The man is desperate. His time is worthless on the open market. We need traffic for the website. We can buy his entire day's labour for the price of a few meals. Let's make him an offer. A perfect, win-win value exchange. He gets to eat, we get an army of one to seed links in African forums. It's the only logical, mutually beneficial solution."*
 
 The three voices debated, their arguments circling each other, each one rational, each one cold. And as they fought, a fourth voice, one that had been silent until now, finally spoke. **The Empath**.
 
@@ -79,7 +79,7 @@ Away from prying eyes, I asked again. "Have you eaten today?"
 
 The moment had come. "I happen to have a cup of noodles," I said, trying to make it sound as casual as possible. "I'm not sure if it's your taste, but do you want it?" His face lit up with a relief so pure it was painful to watch. "Yes, please."
 
-I handed it to him and retreated, saying I needed the bathroom, giving him space. When I came back out, I saw a scene that will be forever burned into my memory. He was standing outside the hostel bar, facing the staff member who was sitting leisurely behind the counter. He, the guest, was standing, waiting, while she, the employee, sat, unhurried, preparing his meal. In the upside-down world of a struggling traveler, even the simple act of receiving sustenance becomes an exercise in humility. The urgency of his hunger, forcing him to stand and watch, was a silent testament to the vast power imbalance between them.
+I handed it to him and retreated, saying I needed the bathroom, giving him space. When I came back out, I saw a scene that will be forever burned into my memory. He was standing outside the hostel bar, facing the staff member who was sitting leisurely behind the counter. He, the guest, was standing, waiting, while she, the employee, sat, unhurried, preparing his meal. In the upside-down world of a struggling traveller, even the simple act of receiving sustenance becomes an exercise in humility. The urgency of his hunger, forcing him to stand and watch, was a silent testament to the vast power imbalance between them.
 
 I went to my room to collect myself. When I re-emerged, I found him in the furthest, darkest corner of the lobby, eating. It was real. This was his first meal of the day. I approached him, my every move now weighed down by this chasm between us. He told me, the noodles were "good". Another wave of sadness hit me. I couldn't remember the last time I'd eaten instant noodles; it was a food of no consequence to me. 
 
@@ -138,9 +138,9 @@ He saw the writing on the wall. His visa was expiring. He left for Bangkok in Ju
 
 By August, he was broke again, fleeing back to Bangkok from a dream that had soured twice over. The promise of work in a major production never materialized; the city's dance scene was saturated. Desperate, he asked friends to help. "Come here," A friend at a party hostel in Krabi said, "you can work for accommodation." It was a last resort, a final lifeline. He took a bus south.
 
-It was Balcony Party Hostel, right on the beach. I knew its neighbor, Base, a place teeming with an army of "volunteers"—almost exclusively beautiful young Western women—who kept the party machine running. Balcony, I imagined, operated on the same model, its business built on a steady flow of party-goers fueled by cheap labor.
+It was Balcony Party Hostel, right on the beach. I knew its neighbour, Base, a place teeming with an army of "volunteers"—almost exclusively beautiful young Western women—who kept the party machine running. Balcony, I imagined, operated on the same model, its business built on a steady flow of party-goers fuelled by cheap labour.
 
-Here, Tshepo's body, once a vessel of art and a machine for business, was reduced to its most basic form: **cheap labor**, a tool to earn a bunk bed. He tried to find dance work in Krabi's studios, but it was the low season. Nothing. Then, the pattern of misfortune, with a cruel sense of irony, repeated itself. His phone was stolen, again.
+Here, Tshepo's body, once a vessel of art and a machine for business, was reduced to its most basic form: **cheap labour**, a tool to earn a bunk bed. He tried to find dance work in Krabi's studios, but it was the low season. Nothing. Then, the pattern of misfortune, with a cruel sense of irony, repeated itself. His phone was stolen, again.
 
 Severed from his digital lifelines, he was now utterly dependent on the small, insular community of volunteers he lived and worked with. And it was this community that would deliver the final blow.
 
@@ -150,7 +150,7 @@ One night, out with a group of them, a male volunteer grabbed him from behind in
 
 The judgment of the friend-circle was swift and absolute. Soon after, he was told his services were no longer needed. The work-exchange was terminated. He tried to get a spot at Base next door, but was rejected. "They all know each other," he explained. "The volunteers from all the hostels—Balcony, Base, Nomad—it's one big group of friends. They all knew who I was." Once one hostel had cast him out, they all had.
 
-This was the cruelest expulsion of all. In the world of business, in Japan and Vietnam, he was an outsider rejected by a professional community protecting its interests. But here, in the supposedly utopian, all-embracing world of backpacking, he had been judged and condemned by his "friends," by the very people who were supposed to be his tribe.
+This was the cruellest expulsion of all. In the world of business, in Japan and Vietnam, he was an outsider rejected by a professional community protecting its interests. But here, in the supposedly utopian, all-embracing world of backpacking, he had been judged and condemned by his "friends," by the very people who were supposed to be his tribe.
 
 And so he ended up here, in the cheapest hostel in Krabi, a refugee from the party scene, completely penniless. His stay was not a choice, but a desperate, day-to-day negotiation for survival. He had managed to find a friend after a friend, willing to pay for his bed with a credit card online, one night at a time. Each new day was a new uncertainty, a new plea for another 24 hours of shelter.
 
@@ -175,7 +175,7 @@ I tried to think of what else I could offer. And I came up empty. My vast arsena
 
 "Your contact," he said.
 
-We shook hands warmly. But as I walked away, a terrible, spiraling series of questions began to form in my mind, questions that have haunted me since.
+We shook hands warmly. But as I walked away, a terrible, spiralling series of questions began to form in my mind, questions that have haunted me since.
 
 My grand, well-intentioned advice... was that what he truly needed? Or was it just a way for me, the privileged one, to feel good about myself, to perform the role of the benevolent mentor?
 
