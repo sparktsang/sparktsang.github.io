@@ -125,4 +125,23 @@ But his ambition, the very thing that drove him, became his undoing.
 
 He saw the writing on the wall. His visa was expiring. He left for Bangkok in June, but the pull of Vietnam was strong. A studio in Hanoi that he'd worked with once before reached out with a new offer. Hope, that stubborn, foolish thing, bloomed again. He flew back, ready to rebuild, to try again, shuttling between Hanoi and Saigon. But this time, things soured even faster. The major studios would tell him there were no classes, no students, but he knew it wasn't true. He was being shut out. Access denied.
 
-By August, he was broke again. He fled back to Bangkok, his dream in tatters. He was in a state of financial emergency. Within days of landing, unable to find work in the saturated Bangkok market, he had to take a bus to Krabi for the last lifeline available to a desperate traveler: a work-for-accommodation deal. And here, in this final outpost, the cycle of misfortune would reach its cruel, inevitable conclusion.
+
+By August, he was broke again, fleeing back to Bangkok from a dream that had soured twice over. The promise of work in a major production never materialized; the city's dance scene was saturated. Desperate, he asked friends to help. "Come here," A friend at a party hostel in Krabi said, "you can work for accommodation." It was a last resort, a final lifeline. He took a bus south.
+
+It was Balcony Party Hostel, right on the beach. I knew its neighbor, Base, a place teeming with an army of "volunteers"—almost exclusively beautiful young Western women—who kept the party machine running. Balcony, I imagined, operated on the same model, its business built on a steady flow of party-goers fueled by cheap labor.
+
+Here, Tshepo's body, once a vessel of art and a machine for business, was reduced to its most basic form: **cheap labor**, a tool to earn a bunk bed. He tried to find dance work in Krabi's studios, but it was the low season. Nothing. Then, the pattern of misfortune, with a cruel sense of irony, repeated itself. His phone was stolen, again.
+
+Severed from his digital lifelines, he was now utterly dependent on the small, insular community of volunteers he lived and worked with. And it was this community that would deliver the final blow.
+
+One night, out with a group of them, a male volunteer grabbed him from behind in a chokehold. It was meant as a "joke," a moment of boisterous, drunken fun. But for Tshepo, it was a violation, a line crossed. Back at the hostel, a female volunteer asked him what was wrong. He told her.
+
+"I don't know how she told the story to others," he recounted, his voice devoid of emotion, "but after that, I could feel it. I was being pushed out."
+
+The judgment of the friend-circle was swift and absolute. Soon after, he was told his services were no longer needed. The work-exchange was terminated. He tried to get a spot at Base next door, but was rejected. "They all know each other," he explained. "The volunteers from all the hostels—Balcony, Base, Nomad—it's one big group of friends. They all knew who I was." Once one hostel had cast him out, they all had.
+
+This was the cruelest expulsion of all. In the world of business, in Japan and Vietnam, he was an outsider rejected by a professional community protecting its interests. But here, in the supposedly utopian, all-embracing world of backpacking, he had been judged and condemned by his "friends," by the very people who were supposed to be his tribe.
+
+And so, he ended up here, in the cheapest hostel in Krabi, a refugee from the party scene. And finally, all the strange pieces of the puzzle I had been collecting for nine days clicked into place. The constant presence in the lobby, the takeaway meals from a restaurant a minute's walk away—it wasn't a choice; it was a prison. He was waiting for parcels, for money from friends, a new phone from a former employer in Vietnam, whom he borrowed other people's phones to make contact. He couldn't risk leaving the hostel for more than a few moments, terrified that the one lifeline that might arrive would be stolen, again.
+
+He was no longer just broke. He was trapped. His body, once his greatest asset, was now his greatest liability—a vessel that required feeding, a stationary target in a world that had left him with nowhere else to go.
