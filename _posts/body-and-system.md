@@ -75,7 +75,7 @@ I went to my room to collect myself. When I re-emerged, I found him in the furth
 
 "Can I sit here?" I asked, a question he was in no position to refuse. Was my politeness a comfort, or was its very artifice a sting? I didn't know. The war in my head, which I thought had ended, had just begun a new campaign. The Empath had won the battle of the noodle cup, but now **The Exploiter** saw a new opportunity. *"We need stories,"* he whispered. *"He has one. A hundred baht for his story. It's a win-win. He eats for a few more days, we get our material."* Could I do it? Could I put a price on a man's dignity?
 
-No. The Empath, though weakened, barely won. I chose a different path. "I have started to write during my travels," I began. "I want to tell people's stories. I was hoping you might let me tell yours. Sometimes, just thinking out loud, telling your own story, can give you a new perspective in a way you don't expect."
+No. The Empath, though weakened, barely won. I chose a different path. "I have started to write on my travels," I began. "I want to tell people's stories. I was hoping you might let me tell yours. Sometimes, just thinking out loud, telling your own story, can give you a new perspective in a way you don't expect."
 
 "Okay," he said. I couldn't tell if he genuinely liked the idea, or if he simply couldn't refuse the man who had just given him his only meal.
 
