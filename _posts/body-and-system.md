@@ -145,3 +145,32 @@ This was the cruelest expulsion of all. In the world of business, in Japan and V
 And so, he ended up here, in the cheapest hostel in Krabi, a refugee from the party scene. And finally, all the strange pieces of the puzzle I had been collecting for nine days clicked into place. The constant presence in the lobby, the takeaway meals from a restaurant a minute's walk away—it wasn't a choice; it was a prison. He was waiting for parcels, for money from friends, a new phone from a former employer in Vietnam, whom he borrowed other people's phones to make contact. He couldn't risk leaving the hostel for more than a few moments, terrified that the one lifeline that might arrive would be stolen, again.
 
 He was no longer just broke. He was trapped. His body, once his greatest asset, was now his greatest liability—a vessel that required feeding, a stationary target in a world that had left him with nowhere else to go.
+
+
+As he spoke, his story ran as a silent, searing parallel to my own. I, too, knew the sting of exclusion, the cold shoulder of the inner circle, the arbitrary judgment of gatekeepers. I knew what it felt like to have your fate decided in a black box, without reason or appeal. It was that very experience that had driven me to abandon the world of employment, to burn my ships and seek a true, sovereign freedom. I had, by some miracle of luck and relentless effort, succeeded. He had not. We were mirror images, fractured by the cruel lottery of circumstance. I had hacked the system from the inside to buy my freedom. He had been thrown out of the system, his freedom taken from him.
+
+The Exploiter in my head, a voice I thought I had vanquished, made one last, seductive appearance. *"One hundred baht for his story,"* he whispered. *"It's a perfect transaction. We get the material, he gets another meal. A win-win."*
+
+I recoiled in disgust, but the thought lingered, ugly and persistent.
+
+I had to do something. But in the chasm of power between us, even the act of helping was a minefield. "I have some ideas," I began, carefully, "I'm not sure if they can help, but maybe we can brainstorm together? If you want to hear them?" I was trying to frame my advice not as charity, but as a collaboration between equals, a desperate attempt to preserve his dignity.
+
+He agreed, this time with a flicker of genuine interest. I asked him how he applied for jobs now. He said he had a collection of files on a Google Drive. "A professional portfolio website," I suggested, "could be ten times more powerful than a folder of files." He agreed completely. I then showed him my own site, guiding him through the process of building one for free, how AI could write the code and generate the images.
+
+I tried to think of what else I could offer. And I came up empty. My vast arsenal of knowledge, my hard-won freedom, and all I could offer a man on the brink was... a website. A digital business card. The feeling of inadequacy was immense. Was this truly the best I could do? Was knowledge, in the face of such raw, immediate need, even useful?
+
+"Do you have any questions for me?" I asked, my own well of ideas having run dry.
+
+"Your contact," he said.
+
+We shook hands warmly. But as I walked away, a terrible, spiraling series of questions began to form in my mind, questions that have haunted me since.
+
+My grand, well-intentioned advice... was that what he truly needed? Or was it just a way for me, the privileged one, to feel good about myself, to perform the role of the benevolent mentor?
+
+And what of his body? The very instrument of his art, which the system had devalued into a mere burden to be fed. Had he not thought his body was an asset in Japan? Now, it was a commodity to be priced, an object in a chokehold, a vessel of shame that forced him to accept a 12-baht noodle cup from a stranger. My offer of a website might give him a better tool to market that commodity, to get a better price for his body. But in the end, wasn't I just teaching him how to be a more efficient product within the same brutal marketplace that had crushed him?
+
+Perhaps my offer of empowerment was just the system speaking through me—its survival instinct disguised as compassion.
+
+And then, the ugliest thought of all. Which act would have been more honest? My "noble" offer of a map to rebuild his kingdom? Or the Exploiter's cold, transactional offer of bread for a story?
+
+To this day, I still don't know the answer.
