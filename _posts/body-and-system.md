@@ -1,4 +1,4 @@
-"The Body and the System"
+"The Body and the System: Notes from a Failing Network"
 
 He was a ghost in my periphery for nine days before he became a person. His name was Tshepo, a South African man. Our first encounter was a miniature thriller in itself. I was scouting the guesthouse, not yet a resident, when he greeted me in the tiny lobby. We exchanged names, countries. Standard traveler stuff. And then, on his third sentence, he made a request so bizarre, so out of sync with the normal rules of engagement, that it left me momentarily speechless.
 
@@ -117,7 +117,7 @@ The buyer, a half-English, half-Japanese man did something extraordinary. He bou
 It wasn't a miracle. It was a final, devastating act of pity. A confirmation that his dream was over. His body, once an object of admiration, was now just a piece of baggage, shipped out of the country by the kindness of a stranger. He had been expelled from paradise.
 
 
-The final moments in Japan were a frantic nightmare. He arrived at the airport with eight large bags—the sum total of his life's possessions—only to be told he could only check in four. With ten minutes until his flight, he was forced to abandon half of his net worth on the cold floor of the Narita airport terminal. He fled with what he could carry, his body now not just a piece of baggage, but a refugee's.
+The final moments in Japan were a frantic nightmare. He arrived at the airport with eight large bags—the sum total of his life's possessions—only to be told he could only check in four. With ten minutes until his flight, he was forced to abandon half of his net worth on the cold floor of the Narita airport terminal. He fled with what he could carry, his body now not just a piece of baggage, but a refugee's. He spoke about this without bitterness, only exhaustion. His words were like the slow exhale of a man who had already rehearsed his defeat a thousand times.
 
 He landed in Hanoi with a plan. He had a friend there, another South African, who knew the local dance scene. This time, he would be smarter. No more tying his fate to a single company. He would be a free agent, a freelancer, a master of his own destiny. His body, once an object of art, would now become a ruthlessly efficient **business machine**.
 
