@@ -27,7 +27,7 @@ My suspicion deepened. "Why are you always *here*?" I asked, my curiosity overri
 
 He was a walking riddle. A man who dressed well but needed to figure out a cross-border money transfer with a stranger. A man who was "traveling" but never seemed to leave the hostel lobby. A man who needed takeaway for a restaurant a stone's throw away. What was he sorting out? What was in those parcels? My mind filled with possibilities, none of them savoury. A wall went up between us.
 
-Over the following days, I would see him. Sometimes he was engrossed in a book in that same lobby seat. Once, I saw him in the 7-Eleven, wearing dark sunglasses, an impenetrable mask. I never knew if he saw me. We exchanged no greetings. He was a puzzle I had decided was too complicated, too risky, to solve.
+Over the following days, I would see him. Sometimes he was engrossed in *Iron Flame* in that same lobby seat. Once, I saw him in the 7-Eleven, wearing dark sunglasses, an impenetrable mask. I never knew if he saw me. We exchanged no greetings. He was a puzzle I had decided was too complicated, too risky, to solve.
 
 Then, last night, near midnight, I was working in the dark, cavernous common area. Two shadowy figures were sitting a few meters away. One of them called out to me, asking if I was from Hong Kong. "How did you know?" I asked. He pointed to the other shadow. "He told me." It was Tshepo. We exchanged another polite, distant greeting. A faint possibility of connection flickered in the darkness, then vanished. He knew I was there. He remembered me. And he was still here.
 
