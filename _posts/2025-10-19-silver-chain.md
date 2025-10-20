@@ -30,3 +30,23 @@ The rain is still falling, a soft, persistent drumming on the roof. I don't feel
 I begin the slow, laborious process of rubbing the links, the metallic scent rising in the damp air. This chain, once just an object, has been integrated into my personal aesthetic system. And now, I am bound to it. Unless I consciously choose to not care, I cannot ignore a tarnished chain. It simply doesn't look good.
 
 And why? Why am I, a man with aspirations to be one of the greatest writers and revolutionaries in human history, so trapped by these ridiculous, insignificant thoughts? My time, my mood—are they even my own anymore? I am financially free. An insurance agent just messaged me yesterday: a claim for over $3,000 in medical expenses has been approved. Another, cashback for over $10,000, is also being processed. For anyone else, this news might bring a surge of joy, of relief. For me, it registers as a piece of data and vanishes, leaving no emotional trace. If I hadn't just recalled it, I would have already forgotten. And yet, the weight of Tshepo's unspoken judgment, Su's transactional kindness, and this endlessly tarnishing silver chain—these things feel immense, real, heavy in my soul. At least, in this moment.
+
+
+Su sees me sitting, idle, just talking into my phone. She asks my plan for the day. I explain that I’m writing now, that my original plan to go out was thwarted by the gloomy weather, the loss of the sun and sea. I don’t tell her, of course, what I am writing. She moves on. I notice my stomach is growling. I’m hungry. And yet, I feel no desire to move.
+
+Am I depressed? No, I’m almost certain I’m not. How could a depressed man summon the energy to interview a soul for an hour and then spend two days pouring his heart out to write an epic about it? How could a depressed man wake up with such genuine excitement for a day of sun and sea? What is this paralysis that holds me captive, even against the primal urge of hunger? Is it just the grey, oppressive sky? Or is it the accumulated emotional weight of these small things—Tshepo, Su, the chain?
+
+I see him out of the corner of my eye. Tshepo. He’s walking back to the dorm, about three meters away. He doesn’t look over. He doesn’t say hi. I glance at my website’s analytics again. Still no new visitors. He hasn’t read it. Perhaps he’s avoiding me because he knows the first thing I’ll ask is if he’s read it. He probably doesn’t realize that the awkwardness will be a hundred times worse if he *has* read it.
+
+The hunger grows stronger, a dull ache in my stomach. And with it, a sudden, brutal realization. Tshepo. In all my spiraling thoughts about the awkwardness between us, I haven’t once wondered: has he eaten today?
+
+I take a deep breath, the air thick with my own hypocrisy. I, a man who fantasizes about a new system of global governance built on collective reason, can’t even manage the chaotic mess of my own thoughts. I, a man so fragile that a change in the weather can derail my entire day, so paralyzed by a few insignificant anxieties that I cannot even move to feed myself.
+
+And in that moment of self-reproach, the weight of his reality crushes the flimsy architecture of my own self-pity.
+
+
+Are other modern people like this? I scour the annals of human literature in my mind and find no trace of this chaotic, messy internal monologue. The voices that speak from the pages are so elegant. Their suffering is poetic, their insights profound, their narratives coherent. Is the universal human experience really so graceful? Or is literature, the grand project of human history, just the ultimate escape—a beautifully constructed sanctuary to hide us from the inglorious chaos of our own minds? Even the master of this stream, sculpted his chaos, studded it with classical allusions, crafted it into a dense, academic puzzle box for generations of scholars to dissect in their ivory towers, a self-replicating organism of intellectual vanity.
+
+I have spent my entire life searching for freedom. And in many ways, I have succeeded. Financial freedom, geographical freedom, temporal freedom, physical freedom. But is my mind free? Or is the ghost of modernity, this relentless specter of obligation and anxiety, still shadowing my every move? It is this ghost that dictates, in this very moment, that I must navigate the impending awkwardness with Tshepo, that I must bear the weight of repaying the favor of a hot water kettle, that I am bound by the "duty" to polish this endlessly tarnishing silver chain.
+
+How can a man so fragile, so imprisoned by the petty tyrannies of his own thoughts, ever hope to free himself, let alone help free anyone else?
