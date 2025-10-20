@@ -41,3 +41,31 @@ He said it was both. We have innate knowledge of good and bad, he argued, like a
 I thought of the countless unsung heroes of history, those who had sacrificed everything with no expectation of reward. But I held my tongue. This wasn't about winning a debate. It was about understanding *him*.
 
 And in that moment, it all clicked into a horrifying, self-consistent whole. His earlier talk of a brutal, alpha-driven cosmos, and now this belief in ultimate self-interest. They were two sides of the same coin. An enlightenment for the self, a salvation for one's own "ancestral VIP lounge". The chilling implication: if humans are fundamentally selfish and have no inherent value beyond being data points, then a world of predator and prey is not a tragedy; it is simply... the natural order. It was a worldview as coherent as it was terrifying. And it was just the beginning of his sermon.
+
+
+I thought of the countless unsung heroes of history, those who had sacrificed everything with no expectation of reward, but I held my tongue. To argue with him on this point felt like wrestling in mud. I sensed a better path forward, a more direct route to the heart of his system.
+
+"So what is your dream?" I asked again, returning to the source.
+
+"To become a sovereign," he replied, but this time, the words carried a new weight, a new dimension. "Everything must be in alignment." He then began to share more. His vision was not just a solitary quest; it was a construction project. It wasn't just about growing his own psychedelics; it was about building his own "base." A place from which he would emanate an energy, he said, that would cause others to "gravitate" towards him.
+
+"What kind of people?" I asked.
+
+"Especially those spiritually-inclined people," he began, then added a phrase that made the hairs on my arm stand up, "who have higher levels of melanin."
+
+He saw my confusion. "What people normally call 'black people'," he clarified, "but this is a more precise description." He then launched into a passionate, articulate account of the systemic discrimination faced by black people in every corner of the world. In America, where even a black millionaire, like his wealthy uncle in Texas, had to dress immaculately just to avoid being killed by the police. In Africa, where the legacy of colonialism still meant that white-owned corporations held the real power.
+
+"These people," he said, his voice resonating with a righteous anger, "are systematically oppressed. The spiritually inclined among them find it almost impossible to survive in the current capitalist engine."
+
+"And my discourse," he concluded, his eyes locking onto mine, "will be a magnet for them. I will build a *spiritual engine*."
+
+My mind was reeling. A man seeking enlightenment, a man who believed in becoming Buddha, was now speaking of a plan that seemed to target a specific race. Was this a benevolent act of liberation, or something else entirely? At first, I thought his description was just a clumsy attempt at political correctness, like the awkward "person with a penis." But now, I wasn't so sure.
+
+"This all aligns with the philosophy I shared before," he continued, sensing my unease. "It's all part of the same puzzle. But my puzzle is no longer getting bigger. Now, I need to make it smaller. To refine it, to distill it to its most useful parts."
+
+I had to ask. "Will this spiritual engine be in opposition to the capitalist engine?"
+
+He considered this. "It can exist on a spectrum," he said. "Just like there are mosques here in Krabi." But he conceded the point. "If my discourse becomes a true ideological threat, it cannot survive in the current system. And if that happens, of course, I would not be foolish enough to tell anyone." He smiled, a conspirator's smile. "What I have told you now, it is just the foundation. A tiny part of the book I am writing. You wouldn't want to read the book before you see the movie, would you?"
+
+I understood. The main event hadn't even started. He wouldn't spoil it for me. And in that moment, I perceived that the threat he posed was not just ideological, but perhaps something far more real. A cold, quiet terror began to bloom in my chest. If this was just the foundation, the mere prelude, what kind of horrifying crescendo was he building towards? The thought alone was suffocating. I felt like I was sitting in a room with one of the most dangerous men in the world. And he was just getting started.
+
