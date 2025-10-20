@@ -1,3 +1,5 @@
+"How to Educate a God: Notes on a War of Enlightenment"
+
 After our second conversation, the one about the alkaline gospel and the parasites of the mind, I knew I had to go deeper. "We need to talk more about your philosophy," I had told Ade, "I'm fascinated." He had smiled, a genuine, open smile, and readily agreed.
 
 But for three days, the universe conspired against us. He was resting, or he was out. I was consumed by the final, agonizing stages of writing Tshepo's story. Our appointment with the cosmos was postponed.
