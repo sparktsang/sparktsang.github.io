@@ -103,3 +103,7 @@ I looked at Ade, a man who had successfully purified himself of everything—foo
 
 In an age that worships the inner voice, what happens when that voice leads you into a beautiful, sunlit, and inescapable void—
 and everyone else calls it enlightenment?
+
+---
+
+Sequel — [*How to Educate a God: Notes on a War of Enlightenment*](https://sparktsang.github.io/life/2025/10/20/educate-god.html)
