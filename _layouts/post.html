@@ -25,11 +25,27 @@
 		</header>
 		{% if page.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></span>{% endif %}
 		{{ content }}
+		
 		{% if page.category == "Life" %}
-		  <div class="sort-toggle" style="text-align:center; margin-top: 2rem;">
-		    <a href="{{ site.baseurl }}/life.html" class="button">Back to LIFE</a>
+		  <div class="post-nav" style="display:flex; justify-content:space-between; align-items:center; margin-top:3rem;">
+		    <div class="prev-post">
+		      {% if page.next %}
+		        <a href="{{ site.baseurl }}{{ page.next.url }}" class="button small">← PREVIOUS</a>
+		      {% endif %}
+		    </div>
+		
+		    <div class="next-post" style="text-align:right;">
+		      {% if page.previous %}
+		        <a href="{{ site.baseurl }}{{ page.previous.url }}" class="button small">NEXT →</a>
+		      {% endif %}
+		    </div>
+		  </div>
+		
+		  <div class="sort-toggle" style="text-align:center; margin-top:2rem;">
+		    <a href="{{ site.baseurl }}/life.html" class="button">BACK TO LIFE</a>
 		  </div>
 		{% endif %}
+		
 	</div>
 </section>
 
