@@ -123,3 +123,22 @@ He used that word. He had taken my grand, revolutionary blueprint for humanity, 
 It was the most profound, most humiliating intellectual defeat of my life.
 
 I didn't know what to say. I forced a smile, feigning excitement. "I'd love to know more about those records," I said, "but I'm starving. We'll have to continue this another time." He smiled back, happy and triumphant. The prophet had found a new, useful disciple.
+
+
+I ate dinner alone, my mind a chaotic ruin. I searched for his phrase, "people who have higher levels of melanin." It led me down a rabbit hole of pseudoscientific race theories, ideologies of Afrocentric supremacy claiming ancient Egyptians as their own. And as I sat there, the pieces of our conversations—*Become Buddha, physical lineage, become a sovereign, Yuga Cycle, the divine power of the Pharaohs, melanin*—all clicked into place.
+
+His promise not to reveal his full ideology if it became a threat to the system. The coming of a new God who could bend reality. And my own revolutionary work, demoted to a mere educational tool for this divine being.
+
+A cold, horrifying certainty washed over me. I finally understood who the God he was waiting for truly was.
+
+It was him.
+
+The shock was visceral, far beyond a simple chill. But as the initial wave of terror subsided, a deeper, more profound realization took its place. My shock was unnecessary. Of course it was him. What else could it be? The final, logical destination for every one-man religion is the deification of the self. I hadn't uncovered a secret. I had merely witnessed the inevitable conclusion of a process that had been set in motion long ago.
+
+In the face of his self-made divinity, my entire intellectual framework, my revolution of reason, had been utterly crushed. And the greatest irony? At times during our debate, his passion for "reason" had seemed to burn even brighter than my own. This is what left me with the deepest sense of loss. I understood that our conversation was not just a dialogue between two travelers. It was a miniature, prophetic preview of an epic civilizational paradigm war yet to come.
+
+My framework, my dream of a world governed by reasoned, collective debate, would not be defeated by force. It would be *appropriated*. It would be consumed by a new kind of power—one that passionately champions the language of reason, only to place itself forever outside of reason's reach. They will not argue against your framework; they will offer a grander narrative, a more potent virus, that explains why your framework, while "cute," is ultimately irrelevant in the face of their higher truth. And they will do so while calling themselves the true rationalists. Ade was not an anomaly. He was the prototype.
+
+And perhaps this is the greatest irony of our age. I had just witnessed a preview of the coming war: a war not against ignorance, but against a new kind of knowledge.
+
+A war where reason itself would be used as the most effective weapon against reason.
