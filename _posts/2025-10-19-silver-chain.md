@@ -1,4 +1,4 @@
-
+"The Weight of the Silver Chain"
 
 I wake up. A deep, twelve-hour slumber, a necessary system reboot after the immense mental exertion of the past two days. Last night, I finally finished it—the agonizingly heartfelt story of Tshepo—and published it to my website, a digital island still awaiting its first visitor. The sleep was good, a deep dive aided by exhaustion and new earplugs. I only remember waking once. The sun is streaming into the dorm. Today, I think, today belongs to me. Today is for the beach, for the simple, uncomplicated pleasure of the view.
 
