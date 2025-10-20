@@ -69,3 +69,57 @@ He considered this. "It can exist on a spectrum," he said. "Just like there are 
 
 I understood. The main event hadn't even started. He wouldn't spoil it for me. And in that moment, I perceived that the threat he posed was not just ideological, but perhaps something far more real. A cold, quiet terror began to bloom in my chest. If this was just the foundation, the mere prelude, what kind of horrifying crescendo was he building towards? The thought alone was suffocating. I felt like I was sitting in a room with one of the most dangerous men in the world. And he was just getting started.
 
+
+Perhaps sensing my fear and confusion, his tone shifted, becoming almost humble. "What I've achieved is still at level zero," he said. "Because I haven't built my financial engine yet. You have. You're already at level one. At the very least, you've bought back your own time."
+
+And just like that, for the first time in all our conversations, the focus shifted back to me. Under his gentle, Socratic questioning, I found myself laying out my own dreams.
+
+"Are you still in a discovery process?" he asked.
+
+"I believe the discovery is mostly complete," I replied. "I know my ultimate goal, I have a roadmap, and while I can't predict the probability of success, the consequences, if achieved, would be earth-shattering."
+
+He tried to understand my framework through his own lens. "Does your philosophy provide a specific guide for life? Like, does it tell you what to eat?"
+
+"No," I said.
+
+"Then you are still in the discovery process," he concluded.
+
+I had to explain. My framework wasn't another specific narrative, another set of guidelines. It was the *precondition* for all narratives to be valid. It was a meta-system that demanded all discourses, all reasons, be justified within it.
+
+And then, the floodgates opened. I began to preach my gospel. I spoke of communicative rationality, a concept from Habermas, how humanity's source code is the obligation to give and ask for reasons. I used our very conversation as an example: you question me, I must defend my point with reason; I question you, you must do the same. This is what separates us from a pack of wolves, who can howl to coordinate a hunt, but can never rationally debate the fairness of the kill's distribution.
+
+His counter was as novel as it was disarming. He didn't think animals were without reason. In fact, he seemed to champion the power of reason even more than I did, extending its domain to all of nature. For a moment, it felt like we were on the same side, pushing for the same universal logic.
+
+But it was just the beginning.
+
+"There are people," he said, his voice dropping to a conspiratorial whisper, "who have the highest level of spiritual authority. They can directly command the laws of nature. A single sentence from them becomes the thought of all humanity." He cited the Buddha, whose divine power had created shrines that still stood today. "If the Buddha, in his time, had disliked Thailand," Ade stated, "he could have uttered a word, and this entire country would have vanished."
+
+I tried to pull him back to our reality. "If such powerful beings exist, why do we still need to debate? Why do we feel the capitalist engine is flawed? Why are so many of us trying to change the system?"
+
+"Because of the Yuga Cycle," he replied, as if it were common knowledge. "We are in a power vacuum."
+
+A strange, desperate hope flickered within me. A vacuum. An opening. Perhaps I could still pull him into my world. "If we are in a power vacuum," I argued, my voice filled with a renewed passion, "then doesn't my framework have the potential to become the next ruling power? If everyone agreed to enter this system of reason, wouldn't the best argument win? Wouldn't we create the greatest civilization in human history?"
+
+His answer, as always, surprised me. He didn't disagree. He just calmly stated that one of those beings with the highest spiritual authority might already be here, in our world, choosing not to reveal himself. He even mentioned a specific term for a Buddha who has reached enlightenment but keeps it a secret.
+
+"And what does that have to do with my framework?" I asked.
+
+"If such a person exists," he said, "one word from him, even spoken in a locked room, instantly becomes the collective thought of all humanity. He can bend reality. He is the law. You could, perhaps, call him God."
+
+I was losing him again. "But you just said we're in a power vacuum. How do you know such a person exists now?"
+
+He looked at me as if I'd asked why the sky was blue. "It's on all the records," he said. "The pyramids, everything..." He began to speak of the divine power of the Pharaohs, creators of engineering marvels that remain a mystery. They were not kings, he explained; they were gods. And all the records pointed to the fact that a new one was coming, or was already here. And it wouldn't be "people," he corrected me. It would be one person, a singular ruler.
+
+I knew the conversation had reached its end. But I had one last question. "If that's the case," I asked, a sense of defeat creeping into my voice, "should I still do anything? This framework I dream of... should I even try to build it?"
+
+His answer, once again, stunned me.
+
+"Yes," he said. "You should continue. Because your actions... they can *educate* the coming Buddha."
+
+*Educate.*
+
+He used that word. He had taken my grand, revolutionary blueprint for humanity, my engine of universal reason, and transformed it. It was no longer a competing ideology. It had been demoted, elegantly and ruthlessly, to a minor educational tool, a useful study guide for the god-in-waiting.
+
+It was the most profound, most humiliating intellectual defeat of my life.
+
+I didn't know what to say. I forced a smile, feigning excitement. "I'd love to know more about those records," I said, "but I'm starving. We'll have to continue this another time." He smiled back, happy and triumphant. The prophet had found a new, useful disciple.
