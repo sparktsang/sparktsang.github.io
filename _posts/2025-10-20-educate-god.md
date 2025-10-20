@@ -7,7 +7,7 @@ category: "Life"
 image: assets/images/two_deities_imagen.jpeg
 ---
 
-Prequel — [*The Sunlit Cage: On the Tyranny of the Inner Voice*]([https://sparktsang.github.io/life/2025/10/15/psychedelic.html](https://sparktsang.github.io/life/2025/10/16/tyranny-of-inner-voice.html))
+Prequel — [*The Sunlit Cage: On the Tyranny of the Inner Voice*](https://sparktsang.github.io/life/2025/10/16/tyranny-of-inner-voice.html)
 
 ---
 
