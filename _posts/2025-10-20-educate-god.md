@@ -1,8 +1,19 @@
-"How to Educate a God: Notes on a War of Enlightenment"
+---
+layout: post
+title: "How to Educate a God: Notes on a War of Enlightenment"
+short_title: "How to Educate a God"
+subtitle: "A war where reason itself would be used as the most effective weapon against reason."
+category: "Life"
+image: assets/images/two_deities_imagen.jpeg
+---
+
+Prequel — [*The Sunlit Cage: On the Tyranny of the Inner Voice*]([https://sparktsang.github.io/life/2025/10/15/psychedelic.html](https://sparktsang.github.io/life/2025/10/16/tyranny-of-inner-voice.html))
+
+---
 
 After our second conversation, the one about the alkaline gospel and the parasites of the mind, I knew I had to go deeper. "We need to talk more about your philosophy," I had told Ade, "I'm fascinated." He had smiled, a genuine, open smile, and readily agreed.
 
-But for three days, the universe conspired against us. He was resting, or he was out. I was consumed by the final, agonizing stages of writing Tshepo's story. Our appointment with the cosmos was postponed.
+But for three days, the universe conspired against us. He was resting, or he was out. I was consumed by the final, agonizing stages of writing [Tshepo's story](https://sparktsang.github.io/life/2025/10/17/body-and-system.html). Our appointment with the cosmos was postponed.
 
 The thought of our last exchange lingered, a low-frequency hum of unease in my mind. It wasn't just his talk of psychedelics. It was his cosmic philosophy. He had spoken of "alphas" who rule the world, an indisputable law of nature, he'd said, a cosmic food chain. He'd even cited Genghis Khan—or rather, Kublai Khan, a historical detail lost on him—whose twice-failed invasion of Japan was not due to typhoons, but to the intervention of a more powerful alpha, a lone, unknown figure in one of Japan's thousands of temples who had bent the laws of nature to his will.
 
