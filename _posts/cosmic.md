@@ -47,7 +47,7 @@ I thought of the countless unsung heroes of history, those who had sacrificed ev
 
 "So what is your dream?" I asked again, returning to the source.
 
-"To become a sovereign," he replied, but this time, the words carried a new weight, a new dimension. "Everything must be in alignment." He then began to share more. His vision was not just a solitary quest; it was a construction project. It wasn't just about growing his own psychedelics; it was about building his own "base." A place from which he would emanate an energy, he said, that would cause others to "gravitate" towards him.
+"To become a sovereign," he replied, but this time, the words carried a new weight, a new dimension. "Everything must be in alignment." He then began to share more. His vision was not just a solitary quest; it was a construction project. It wasn't just about growing his own psychedelics; it was about building his own "base". A place from which he would emanate an energy, he said, that would cause others to "gravitate" towards him.
 
 "What kind of people?" I asked.
 
@@ -59,7 +59,7 @@ He saw my confusion. "What people normally call 'black people'," he clarified, "
 
 "And my discourse," he concluded, his eyes locking onto mine, "will be a magnet for them. I will build a *spiritual engine*."
 
-My mind was reeling. A man seeking enlightenment, a man who believed in becoming Buddha, was now speaking of a plan that seemed to target a specific race. Was this a benevolent act of liberation, or something else entirely? At first, I thought his description was just a clumsy attempt at political correctness, like the awkward "person with a penis." But now, I wasn't so sure.
+My mind was reeling. A man seeking enlightenment, a man who believed in becoming Buddha, was now speaking of a plan that seemed to target a specific race. Was this a benevolent act of liberation, or something else entirely? At first, I thought his description was just a clumsy attempt at political correctness, like the awkward "person with a penis". But now, I wasn't so sure.
 
 "This all aligns with the philosophy I shared before," he continued, sensing my unease. "It's all part of the same puzzle. But my puzzle is no longer getting bigger. Now, I need to make it smaller. To refine it, to distill it to its most useful parts."
 
