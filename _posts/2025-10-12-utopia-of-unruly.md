@@ -46,3 +46,7 @@ Could it be that they had created something else here, a new moral universe that
 Was this not, in its own twisted way, the worker's utopia that millions dream of? A place where the tyranny of the customer and the authority of the owner have been utterly vanquished. A small, unassuming guesthouse in Krabi, the site of a quiet, successful revolution.
 
 It is a miracle of humanity. And once you know it exists, you realize it can exist anywhere. Miracles are all around us, just waiting to be discovered.
+
+---
+
+See also: [*The Tyranny of Small Things*](https://sparktsang.github.io/life/2025/10/19/small-tyranny.html)
