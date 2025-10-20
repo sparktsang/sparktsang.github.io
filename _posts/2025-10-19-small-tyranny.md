@@ -47,7 +47,7 @@ I see him out of the corner of my eye. Tshepo. He’s walking back to the dorm, 
 
 The hunger grows stronger, a dull ache in my stomach. And with it, a sudden, brutal realization. Tshepo. In all my spiraling thoughts about the awkwardness between us, I haven’t once wondered: has he eaten today?
 
-I take a deep breath, the air thick with my own hypocrisy. I, a man who fantasizes about a new system of global governance built on collective reason, can’t even manage the chaotic mess of my own thoughts. I, a man so fragile that a change in the weather can derail my entire day, so paralyzed by a few insignificant anxieties that I cannot even move to feed myself.
+I take a deep breath, the air thick with my own hypocrisy. I, a man who fantasizes about a [new system of global governance built on collective reason](https://sparktsang.github.io/philosophy.html), can’t even manage the chaotic mess of my own thoughts. I, a man so fragile that a change in the weather can derail my entire day, so paralyzed by a few insignificant anxieties that I cannot even move to feed myself.
 
 And in that moment of self-reproach, the weight of his reality crushes the flimsy architecture of my own self-pity.
 
