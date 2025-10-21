@@ -155,3 +155,7 @@ In the face of his self-made divinity, my entire intellectual framework, my revo
 And perhaps this is the greatest irony of our age. I had just witnessed a preview of the coming war: a war not against ignorance, but against a new kind of knowledge.
 
 A war where reason itself would be used as the most effective weapon against reason.
+
+---
+
+This essay is the last of a three-part series.
