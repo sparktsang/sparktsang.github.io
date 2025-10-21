@@ -4,8 +4,8 @@ title: "The Vulture and the Witness"
 short_title: "The Vulture and the Witness"
 subtitle: "What if the very act of telling a story, of framing it, of turning a soul into a narrative, was the most profound lie of all?"
 category: "Life"
+image: assets/images/vulture_meat_imagen.jpeg
 ---
-image: assets/images/life-029-vulture-witness.jpg 
 
 In the ecosystem of a long-term hostel stay, you learn to read the micro-climates. And the climate around Film, the guesthouse manager, had changed.
 
