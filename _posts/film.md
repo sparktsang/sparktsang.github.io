@@ -49,7 +49,7 @@ And then, finally, *Acceptance*. And with it, a cold, sickening dread. I begin t
 To me, they were words of profound appreciation. To him, sitting there, watching a vulnerable member of his hostel community pour out his heart... what did they sound like? Did they sound like empathy? Or did they sound like a prospector, having just struck gold, exclaiming over the purity of his find? Did I sound like a friend, or like a vulture, circling a man's suffering, excited by the narrative feast it would provide?
 
 
-My mind begins to construct a story, not mine, but his. I try to see the scene through Film’s eyes, to hear it through his ears. His narrative, I imagine, overwhelms my own, and it might have gone something like this:
+My mind begins to construct a story, not mine, but his. I try to see the scene through Film’s eyes, to hear it through his ears. His narrative, I imagine, overwhelms my own.
 
 > I’m sitting behind the counter, trying to sort out the bookings for the high season. It’s quiet. The guy from Hong Kong is talking to Tshepo in the lobby. That's normal. Tshepo’s a good guy, but he’s a problem. No money, living day-to-day. A ticking time bomb. I try to be nice to him, but I have a business to run.
 >
