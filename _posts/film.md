@@ -48,3 +48,31 @@ And then, finally, *Acceptance*. And with it, a cold, sickening dread. I begin t
 
 To me, they were words of profound appreciation. To him, sitting there, watching a vulnerable member of his hostel community pour out his heart... what did they sound like? Did they sound like empathy? Or did they sound like a prospector, having just struck gold, exclaiming over the purity of his find? Did I sound like a friend, or like a vulture, circling a man's suffering, excited by the narrative feast it would provide?
 
+
+My mind begins to construct a story, not mine, but his. I try to see the scene through Film’s eyes, to hear it through his ears. His narrative, I imagine, overwhelms my own, and it might have gone something like this:
+
+> I’m sitting behind the counter, trying to sort out the bookings for the high season. It’s quiet. The guy from Hong Kong is talking to Tshepo in the lobby. That's normal. Tshepo’s a good guy, but he’s a problem. No money, living day-to-day. A ticking time bomb. I try to be nice to him, but I have a business to run.
+>
+> The conversation gets intense. I can’t help but overhear. The Hong Kong guy is asking a lot of questions. *Japan? Vietnam? Contract terminated? Phone stolen?* He’s digging, pushing for details. Tshepo’s voice is low, full of a quiet sadness. The Hong Kong guy’s voice is focused, sharp, like a doctor with a scalpel. At first, I think maybe he’s just trying to help, a concerned fellow traveler.
+>
+> But then the questions get more specific. He’s asking about money. How Tshepo is surviving. How he fell from grace. This isn’t a friendly chat anymore. This is an interrogation. Tshepo is vulnerable, and this guy is systematically extracting his pain. For what?
+>
+> Why would a guest in the cheapest hostel in Krabi be so interested in another man’s misery? He doesn’t look broke. He wears nice shoes, a silver chain. He’s been here for weeks, just... writing. And now I get it. This is what he does. He comes to places like this, a cheap hunting ground, and he looks for stories. He looks for broken people.
+>
+> And then, I hear the final, damning words. After an hour of picking at Tshepo's wounds, the Hong Kong guy's voice is not filled with sympathy. It's filled with a chilling, creative *excitement*. "This is such a story full of blood and flesh," he says, then corrects himself, "I mean, it's full of literary value."
+>
+> *Literary value.*
+>
+> The words hit me with a physical disgust. He’s not a friend. He's not a helper. He's a vulture. He has taken a man’s life, a man’s real, gut-wrenching suffering, and he has appraised it like a piece of meat at the market. He’s happy. He’s found his material. And Tshepo, in his desperation, just sits there and takes it.
+
+The imagined narrative hits me with the force of a physical blow. I want to scream, to defend myself. *But my intention was good! I wanted to give his story a voice! I wanted to understand!*
+
+But my defense dies in my throat, choked by the brutal, undeniable logic of his perspective. From his side of the counter, what else could he have seen?
+
+He would have seen a man with the luxury of time and freedom, using it to dissect the misery of those who have neither. He would have seen me as a source of trouble, a destabilizing force in his small, fragile ecosystem, agitating a guest who was already on the edge. He would have seen the arrogance of a certain class, a man who treats the real, lived struggles of others as intellectual fodder, a raw material to be processed into his next great work.
+
+The truth is, he was not entirely wrong.
+
+I felt a profound sense of shame, a feeling of being seen in the worst possible light, and being unable to argue against it. The friendly, smiling Film was gone, replaced by a silent judge who had already passed his sentence. His coldness was not a mood swing; it was a verdict.
+
+And I, the relentless interrogator of systems and souls, had no words left. I was speechless, stripped of my own narrative, left with only the crushing weight of his. I felt a sense of vertigo, the ground giving way beneath me, the moral high ground I thought I occupied revealed to be nothing but a cliff's edge. And I was falling.
