@@ -12,7 +12,7 @@ But today, the feeling was undeniable. The hostel had raised its prices online f
 
 He looked at me, his face a professional mask. "Room number?" he asked. Then, "Your name?"
 
-A cold prickle ran down my spine. I had been living here probably longer than anyone except Tshepo. We had spoken half a dozen times. It was impossible that he didn't recognize me. This wasn't forgetfulness; it was a deliberate act of erasure. He was treating me like a stranger. After I gave him my details, he tapped at his computer, then confirmed the special price was still good. His service was impeccable, his integrity absolute—he was honoring a verbal agreement he had no obligation to keep. But the smile, the human connection, was gone. It was as if our previous, friendly encounters had never happened.
+A cold prickle ran down my spine. I had been living here probably longer than anyone except Tshepo. We had spoken half a dozen times. It was impossible that he didn't recognize me. This wasn't forgetfulness; it was a deliberate act of erasure. He was treating me like a stranger. After I gave him my details, he tapped at his computer, then confirmed the special price was still good. His service was impeccable, his integrity absolute—he was honouring a verbal agreement he had no obligation to keep. But the smile, the human connection, was gone. It was as if our previous, friendly encounters had never happened.
 
 A small, persistent ache started in my chest. It was a tiny, silent severance. He hadn't done anything wrong. I had no grounds for complaint. And yet, something had been lost. Something had been taken away.
 
@@ -25,7 +25,7 @@ I had found him again, and with a quiet intensity, I had pushed for the details,
 
 He spoke of Vietnam, of his smarter, more ambitious strategy to freelance, to build his own empire. And how that very ambition became his crime. How the local dance community saw him not as a talent, but as a "phenomenon," a threat to be neutralized. He described the world of gatekeepers, of unwritten rules, where access is granted not based on merit, but on how they *feel* about you.
 
-I listened, completely absorbed. I was no longer just a traveler; I was a chronicler, an archaeologist of a modern-day tragedy. His story was raw, powerful, a testament to the struggle of an individual against invisible, insurmountable systems.
+I listened, completely absorbed. I was no longer just a traveller; I was a chronicler, an archaeologist of a modern-day tragedy. His story was raw, powerful, a testament to the struggle of an individual against invisible, insurmountable systems.
 
 As our hour-long conversation wound down, I was buzzing with a kind of creative adrenaline. "This is such a story full of blood and flesh," I began, the English translation coming out clumsy, almost grotesque. I immediately corrected myself. "I mean, it's full of literary value," I finished, trying to convey my deep gratitude for his trust. He smiled, and we said our goodbyes. I promised to be available if he needed any more help with his website.
 
@@ -54,7 +54,7 @@ My mind begins to construct a story, not mine, but his. I try to see the scene t
 
 > I’m sitting behind the counter, trying to sort out the bookings for the high season. It’s quiet. The guy from Hong Kong is talking to Tshepo in the lobby. That's normal. Tshepo’s a good guy, but he’s a problem. No money, living day-to-day. A ticking time bomb. I try to be nice to him, but I have a business to run.
 >
-> The conversation gets intense. I can’t help but overhear. The Hong Kong guy is asking a lot of questions. *Japan? Vietnam? Contract terminated? Phone stolen?* He’s digging, pushing for details. Tshepo’s voice is low, full of a quiet sadness. The Hong Kong guy’s voice is focused, sharp, like a doctor with a scalpel. At first, I think maybe he’s just trying to help, a concerned fellow traveler.
+> The conversation gets intense. I can’t help but overhear. The Hong Kong guy is asking a lot of questions. *Japan? Vietnam? Contract terminated? Phone stolen?* He’s digging, pushing for details. Tshepo’s voice is low, full of a quiet sadness. The Hong Kong guy’s voice is focused, sharp, like a doctor with a scalpel. At first, I think maybe he’s just trying to help, a concerned fellow traveller.
 >
 > But then the questions get more specific. He’s asking about money. How Tshepo is surviving. How he fell from grace. This isn’t a friendly chat anymore. This is an interrogation. Tshepo is vulnerable, and this guy is systematically extracting his pain. For what?
 >
@@ -68,7 +68,7 @@ My mind begins to construct a story, not mine, but his. I try to see the scene t
 
 It hits me with the force of a physical blow. I want to scream, to defend myself. *But my intention was good! I wanted to give his story a voice! I wanted to understand!*
 
-But my defense dies in my throat, choked by the brutal, undeniable logic of his perspective. From his side of the counter, what else could he have seen?
+But my defence dies in my throat, choked by the brutal, undeniable logic of his perspective. From his side of the counter, what else could he have seen?
 
 He would have seen a man with the luxury of time and freedom, using it to dissect the misery of those who have neither. He would have seen me as a source of trouble, a destabilizing force in his small, fragile ecosystem, agitating a guest who was already on the edge. He would have seen the arrogance of a certain class, a man who treats the real, lived struggles of others as intellectual fodder, a raw material to be processed into his next great work.
 
@@ -79,9 +79,9 @@ I felt a profound sense of shame, a feeling of being seen in the worst possible 
 And I, the relentless interrogator of systems and souls, had no words left. I was speechless, stripped of my own narrative, left with only the crushing weight of his. I felt a sense of vertigo, the ground giving way beneath me, the moral high ground I thought I occupied revealed to be nothing but a cliff's edge. And I was falling.
 
 
-I was falling, trapped in the gravitational pull of his narrative, a story in which I was the villain. And the most terrifying part? I had no defense.
+I was falling, trapped in the gravitational pull of his narrative, a story in which I was the villain. And the most terrifying part? I had no defence.
 
-My mind scrambled to formulate a rebuttal. I wanted to grab Film, to sit him down and make him understand. I wanted to walk him through the moral war that had raged in my head before I even bought that damn noodle cup—the Skeptic, the Pragmatist, the monstrous Exploiter, and the final, quiet victory of the Empath. I wanted to show him the agonizing labor of the past two days, the spiritual and mental torment of trying to do justice to Tshepo's story. I wanted to make him feel the weight of my own self-doubt, the awkwardness that now haunted my every interaction. I wanted to present my evidence, to make my case.
+My mind scrambled to formulate a rebuttal. I wanted to grab Film, to sit him down and make him understand. I wanted to walk him through the moral war that had raged in my head before I even bought that damn noodle cup—the Skeptic, the Pragmatist, the monstrous Exploiter, and the final, quiet victory of the Empath. I wanted to show him the agonizing labour of the past two days, the spiritual and mental torment of trying to do justice to Tshepo's story. I wanted to make him feel the weight of my own self-doubt, the awkwardness that now haunted my every interaction. I wanted to present my evidence, to make my case.
 
 But I couldn't. I had been banished. Not from the hostel, but from the realm of his trust. There was no court in which I could file my appeal, no chamber in which I could present my testimony. His judgment was final, rendered in a black box I had no access to. My voice, my reasons, my entire world of intentions—they were irrelevant.
 
