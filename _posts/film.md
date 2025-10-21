@@ -11,7 +11,7 @@ But today, the feeling was undeniable. The hostel had raised its prices online f
 
 He looked at me, his face a professional mask. "Room number?" he asked. Then, "Your name?"
 
-A cold prickle ran down my spine. I had been living here for weeks. We had spoken half a dozen times. It was impossible that he didn't recognize me. This wasn't forgetfulness; it was a deliberate act of erasure. He was treating me like a stranger. After I gave him my details, he tapped at his computer, then confirmed the special price was still good. His service was impeccable, his integrity absolute—he was honoring a verbal agreement he had no obligation to keep. But the smile, the human connection, was gone. It was as if our previous, friendly encounters had never happened.
+A cold prickle ran down my spine. I had been living here probably longer than anyone except Tshepo. We had spoken half a dozen times. It was impossible that he didn't recognize me. This wasn't forgetfulness; it was a deliberate act of erasure. He was treating me like a stranger. After I gave him my details, he tapped at his computer, then confirmed the special price was still good. His service was impeccable, his integrity absolute—he was honoring a verbal agreement he had no obligation to keep. But the smile, the human connection, was gone. It was as if our previous, friendly encounters had never happened.
 
 A small, persistent ache started in my chest. It was a tiny, silent severance. He hadn't done anything wrong. I had no grounds for complaint. And yet, something had been lost. Something had been taken away.
 
