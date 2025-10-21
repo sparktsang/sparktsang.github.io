@@ -76,3 +76,20 @@ The truth is, he was not entirely wrong.
 I felt a profound sense of shame, a feeling of being seen in the worst possible light, and being unable to argue against it. The friendly, smiling Film was gone, replaced by a silent judge who had already passed his sentence. His coldness was not a mood swing; it was a verdict.
 
 And I, the relentless interrogator of systems and souls, had no words left. I was speechless, stripped of my own narrative, left with only the crushing weight of his. I felt a sense of vertigo, the ground giving way beneath me, the moral high ground I thought I occupied revealed to be nothing but a cliff's edge. And I was falling.
+
+
+I was falling, trapped in the gravitational pull of his narrative, a story in which I was the villain. And the most terrifying part? I had no defense.
+
+My mind scrambled to formulate a rebuttal. I wanted to grab Film, to sit him down and make him understand. I wanted to walk him through the moral war that had raged in my head before I even bought that damn noodle cup—the Skeptic, the Pragmatist, the monstrous Exploiter, and the final, quiet victory of the Empath. I wanted to show him the agonizing labor of the past two days, the spiritual and mental torment of trying to do justice to Tshepo's story. I wanted to make him feel the weight of my own self-doubt, the awkwardness that now haunted my every interaction. I wanted to present my evidence, to make my case.
+
+But I couldn't. I had been banished. Not from the hostel, but from the realm of his trust. There was no court in which I could file my appeal, no chamber in which I could present my testimony. His judgment was final, rendered in a black box I had no access to. My voice, my reasons, my entire world of intentions—they were irrelevant.
+
+And in that moment of profound powerlessness, I understood the true nature of human connection, or the lack thereof. We are a species of black boxes, of isolated islands of consciousness. We each operate our own sovereign legal system, with its own laws, its own trials, its own final verdicts. We believe our own narratives to be just, our own reasons to be true. There is no extradition treaty between our minds, no right to cross-examination, no obligation to explain. There are only eight billion solitary courtrooms, each handing down its own unappealable judgments.
+
+And I, just like Tshepo, was now on the outside of a wall I couldn't see, unable to even file a complaint.
+
+The initial sting of Film's silent verdict began to fade, replaced by a deeper, colder ache. It was the ache of a philosophical realization. It didn't matter what my intentions were. What mattered was the objective outcome: in my quest to understand a human being, I had turned him into an object of study. The moment I declared his life "full of literary value," I had committed a kind of ontological theft, extracting his lived experience and converting it into raw material for my own creation.
+
+I had given Tshepo a voice in my story, but in the process, had I stolen his personhood in real life?
+
+This is the writer's curse: to see the world in stories, and in doing so, risk turning the people you care about into ghosts that haunt your pages. I wanted to tell the truth. But what if the very act of telling it, of framing it, of turning a soul into a narrative, was the most profound lie of all?
