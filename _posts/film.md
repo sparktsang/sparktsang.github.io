@@ -65,7 +65,7 @@ My mind begins to construct a story, not mine, but his. I try to see the scene t
 >
 > The words hit me with a physical disgust. He’s not a friend. He's not a helper. He's a vulture. He has taken a man’s life, a man’s real, gut-wrenching suffering, and he has appraised it like a piece of meat at the market. He’s happy. He’s found his material. And Tshepo, in his desperation, just sits there and takes it.
 
-The imagined narrative hits me with the force of a physical blow. I want to scream, to defend myself. *But my intention was good! I wanted to give his story a voice! I wanted to understand!*
+It hits me with the force of a physical blow. I want to scream, to defend myself. *But my intention was good! I wanted to give his story a voice! I wanted to understand!*
 
 But my defense dies in my throat, choked by the brutal, undeniable logic of his perspective. From his side of the counter, what else could he have seen?
 
