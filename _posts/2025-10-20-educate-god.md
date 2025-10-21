@@ -49,7 +49,7 @@ I couldn't answer. To answer would be to defend a faith I wasn't sure could be d
 
 An awkward silence fell between us. I had to change the subject, to return to the question that had started this all. "What do you think of morality?" I asked. "Is it just a social construct, a narrative? Or is there a real, internal moral compass?"
 
-He said it was both. We have innate knowledge of good and bad, he argued, like a baby who knows not to step on sharp grass. But society also imposes narratives for the collective good. I pushed further. "What about altruism?" He conceded that society tells us to be altruistic, but that ultimately, humans are selfish. "Everyone's ultimate dream is about themselves," he said. "Even if it's just waking up in a comfortable bed. It's always about the self. We may have an impulse to help others, but it's only to consolidate our own interests."
+He said it was both. We have innate knowledge of good and bad, he argued, like a baby who knows not to step on sharp grass. But society also imposes narratives for the collective good. I pushed further. "What about altruism?" He conceded that society tells us to be altruistic, but that ultimately, humans are selfish. "Everyone's ultimate dream is about themselves," he said. "Even if it's just waking up in the most comfortable bed. It's always about the self. We may have an impulse to help others, but it's only to consolidate our own interests."
 
 I thought of the countless unsung heroes of history, those who had sacrificed everything with no expectation of reward. But I held my tongue. This wasn't about winning a debate. It was about understanding *him*.
 
