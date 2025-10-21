@@ -9,7 +9,7 @@ image: assets/images/vulture_meat_imagen.jpeg
 
 In the ecosystem of a long-term hostel stay, you learn to read the micro-climates. And the climate around Film, the guesthouse manager, had changed.
 
-Film was a rare and wonderful presence. I had met him on my first scouting visit to this place, and he had shown me around with a professional but warm energy. He was away in Koh Pha Ngan when I checked in, but when he returned, he remembered me. From then on, our interactions, though always brief, were filled with a genuine warmth and an easy smile. He was the kind of person who made a place feel like a home. When I once mentioned the surly attitude of his bar staff, he promised to speak to them, telling them I was a long-term guest who deserved respect. Another time, he had excitedly shared his plans for the upcoming high season, his eyes gleaming as he spoke of parties and renovations, his passion so infectious that even I, a traveler who actively avoids parties, felt a flicker of his joy.
+Film was a rare and wonderful presence. I had met him on my first scouting visit to this place, and he had shown me around with a professional but warm energy. He was away in Koh Pha Ngan when I checked in, but when he returned, he remembered me. From then on, our interactions, though always brief, were filled with a genuine warmth and an easy smile. He was the kind of person who made a place feel like a home. When I once mentioned the [surly attitude of his bar staff](https://sparktsang.github.io/life/2025/10/12/utopia-of-unruly.html), he promised to speak to them, telling them I was a long-term guest who deserved respect. Another time, he had excitedly shared his plans for the upcoming high season, his eyes gleaming as he spoke of parties and renovations, his passion so infectious that even I, a traveler who actively avoids parties, felt a flicker of his joy.
 
 But for the last few days, that warmth had vanished. A subtle chill had set in.
 
@@ -30,7 +30,7 @@ My mind rewinds the tape, searching for the moment the climate changed. And it l
 
 I had found him again, and with a quiet intensity, I had pushed for the details, the connective tissue of his tragedy. He spoke of Japan, not just the termination, but the slow, suffocating decline. The way his classes dwindled, the opaque scheduling, the impenetrable wall of polite managers who always had classes "already arranged." He described his desperate, futile search for work in a "community" that was, in fact, a closed circle. He recounted his final, humiliating day, his visa expiring in hours, without enough money for a flight, saved only by the charity of a stranger who bought his drawing tablet, and his ticket out of paradise.
 
-He spoke of Vietnam, of his smarter, more ambitious strategy to freelance, to build his own empire. And how that very ambition became his crime. How the local dance community saw him not as a talent, but as a "phenomenon," a threat to be neutralized. He described the world of gatekeepers, of unwritten rules, where access is granted not based on merit, but on how they *feel* about you.
+He spoke of Vietnam, of his smarter, more ambitious strategy to freelance, to build his own empire. And how that very ambition became his crime. How the local dance community saw him not as a talent, but as a "phenomenon", a threat to be neutralized. He described the world of gatekeepers, of unwritten rules, where access is granted not based on merit, but on how they *feel* about you.
 
 I listened, completely absorbed. I was no longer just a traveller; I was a chronicler, an archaeologist of a modern-day tragedy. His story was raw, powerful, a testament to the struggle of an individual against invisible, insurmountable systems.
 
@@ -42,7 +42,7 @@ As I approached, he quickly looked down, pretending to be intensely busy with so
 
 A siren went off in my head, a full-blown emotional alert. *He heard everything.* My privacy, Tshepo's privacy—gone. But a second voice, the Writer, instantly took control. *Stop. Shut down all irrelevant thoughts. Focus. You have a mountain of fresh material. Every second you waste on anxiety, a memory decays. The decay is exponential. We are in a race against time.*
 
-And so, I had pushed the thought away, locked it in a box, and spent the next two days writing Tshepo's story.
+And so, I had pushed the thought away, locked it in a box, and spent the next two days writing [Tshepo's story](https://sparktsang.github.io/life/2025/10/17/body-and-system.html).
 
 But now, sitting here in the chill of Film's new formality, the box bursts open. The memory of that moment plays on a loop. It has to be the reason. It's the only explanation that fits.
 
