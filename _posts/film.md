@@ -16,3 +16,35 @@ A cold prickle ran down my spine. I had been living here probably longer than an
 A small, persistent ache started in my chest. It was a tiny, silent severance. He hadn't done anything wrong. I had no grounds for complaint. And yet, something had been lost. Something had been taken away.
 
 What had changed? If it were just once, I could dismiss it as a bad mood. But the room number, the name… why? Why the sudden, chilling formality? Did I say something wrong? Did I offend him somehow? My mind began to rewind the tape of our recent interactions, searching, like a detective, for the scene of the crime.
+
+
+My mind rewinds the tape, searching for the moment the climate changed. And it lands on one scene, two days ago. The follow-up interview with Tshepo.
+
+I had found him again, and with a quiet intensity, I had pushed for the details, the connective tissue of his tragedy. He spoke of Japan, not just the termination, but the slow, suffocating decline. The way his classes dwindled, the opaque scheduling, the impenetrable wall of polite managers who always had classes "already arranged." He described his desperate, futile search for work in a "community" that was, in fact, a closed circle. He recounted his final, humiliating day, his visa expiring in hours, without enough money for a flight, saved only by the charity of a stranger who bought his drawing tablet, and his ticket out of paradise.
+
+He spoke of Vietnam, of his smarter, more ambitious strategy to freelance, to build his own empire. And how that very ambition became his crime. How the local dance community saw him not as a talent, but as a "phenomenon," a threat to be neutralized. He described the world of gatekeepers, of unwritten rules, where access is granted not based on merit, but on how they *feel* about you.
+
+I listened, completely absorbed. I was no longer just a traveler; I was a chronicler, an archaeologist of a modern-day tragedy. His story was raw, powerful, a testament to the struggle of an individual against invisible, insurmountable systems.
+
+As our hour-long conversation wound down, I was buzzing with a kind of creative adrenaline. "This is such a story full of blood and flesh," I began, the English translation coming out clumsy, almost grotesque. I immediately corrected myself. "I mean, it's full of literary value," I finished, trying to convey my deep gratitude for his trust. He smiled, and we said our goodbyes. I promised to be available if he needed any more help with his website.
+
+I stood up and turned to walk back into the main part of the hostel. And that's when I saw him. Film. He was sitting behind the reception counter. He had been there the entire time.
+
+As I approached, he quickly looked down, pretending to be intensely busy with something on his desk, as if desperately trying to avoid my gaze, to make himself invisible.
+
+A siren went off in my head, a full-blown emotional alert. *He heard everything.* My privacy, Tshepo's privacy—gone. But a second voice, the Writer, instantly took control. *Stop. Shut down all irrelevant thoughts. Focus. You have a mountain of fresh material. Every second you waste on anxiety, a memory decays. The decay is exponential. We are in a race against time.*
+
+And so, I had pushed the thought away, locked it in a box, and spent the next two days writing Tshepo's story.
+
+But now, sitting here in the chill of Film's new formality, the box bursts open. The memory of that moment plays on a loop. It has to be the reason. It's the only explanation that fits.
+
+My mind stages a frantic, internal trial. *Denial* comes first. What's the problem? It was a transparent interview. I'm giving a voice to a story that deserves to be heard. What could possibly be wrong with that?
+
+Then comes *Anger*. If this is a crime, then is all journalism, all documentary, a crime? Is every story written about another human being an act of violation?
+
+Then *Bargaining*. Maybe it was something else. The paint on the corridor? My request for a special price? No. Nothing else fits. The timing, the intensity of his reaction—it all points back to that one, single moment.
+
+And then, finally, *Acceptance*. And with it, a cold, sickening dread. I begin to replay my final words, not as I intended them, but as *he* must have heard them. "Full of blood and flesh." "Full of literary value."
+
+To me, they were words of profound appreciation. To him, sitting there, watching a vulnerable member of his hostel community pour out his heart... what did they sound like? Did they sound like empathy? Or did they sound like a prospector, having just struck gold, exclaiming over the purity of his find? Did I sound like a friend, or like a vulture, circling a man's suffering, excited by the narrative feast it would provide?
+
