@@ -34,7 +34,7 @@ He spoke of Vietnam, of his smarter, more ambitious strategy to freelance, to bu
 
 I listened, completely absorbed. I was no longer just a traveller; I was a chronicler, an archaeologist of a modern-day tragedy. His story was raw, powerful, a testament to the struggle of an individual against invisible, insurmountable systems.
 
-As our hour-long conversation wound down, I was buzzing with a kind of creative adrenaline. "This is such a story full of blood and flesh," I began, the English translation coming out clumsy, almost grotesque. I immediately corrected myself. "I mean, it's full of literary value," I finished, trying to convey my deep gratitude for his trust. He smiled, and we said our goodbyes. I promised to be available if he needed any more help with his website.
+As our hour-long conversation wound down, I was buzzing with a kind of creative adrenaline. "This is such a story full of blood and flesh," I began, the English translation coming out clumsy, almost grotesque. I immediately corrected myself. "I mean, it's full of literary value," I finished, trying to convey my deep gratitude for his trust. He smiled, and we said our goodbyes. I promised to be available if he needed any more help with his website, which I offered earlier.
 
 I stood up and turned to walk back into the main part of the hostel. And that's when I saw him. Film. He was sitting behind the reception counter. He had been there the entire time.
 
