@@ -92,7 +92,7 @@ My mind scrambled to formulate a rebuttal. I wanted to grab Film, to sit him dow
 
 But I couldn't. I had been banished. Not from the hostel, but from the realm of his trust. There was no court in which I could file my appeal, no chamber in which I could present my testimony. His judgment was final, rendered in a black box I had no access to. My voice, my reasons, my entire world of intentions—they were irrelevant.
 
-And in that moment of profound powerlessness, I understood the true nature of human connection, or the lack thereof. We are a species of black boxes, of isolated islands of consciousness. We each operate our own sovereign legal system, with its own laws, its own trials, its own final verdicts. We believe our own narratives to be just, our own reasons to be true. There is no extradition treaty between our minds, no right to cross-examination, no obligation to explain. There are only eight billion solitary courtrooms, each handing down its own unappealable judgments.
+And in that moment of profound powerlessness, I understood the true nature of [human connection](https://sparktsang.github.io/life/2025/10/13/letter-autopsy.html), or the lack thereof. We are a species of black boxes, of isolated islands of consciousness. We each operate our own sovereign legal system, with its own laws, its own trials, its own final verdicts. We believe our own narratives to be just, our own reasons to be true. There is no extradition treaty between our minds, no right to cross-examination, no obligation to explain. There are only eight billion solitary courtrooms, each handing down its own unappealable judgments.
 
 And I, just like Tshepo, was now on the outside of a wall I couldn't see, unable to even file a complaint.
 
