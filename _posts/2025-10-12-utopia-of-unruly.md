@@ -17,7 +17,7 @@ The first night was pleasant. I met a couple of new roommates; the vibe was good
 
 My heart sank. Another wall. Another gatekeeper. Another battle to be fought. I explained that the reception had already approved my request. They ignored me, chattering away in Thai. Were they dealing with it, or dismissing me? Finally, one of them held out a phone with a translated message: *The kettle broke yesterday.*
 
-Was it true? Impossible to know. I typed my reply: *Can I borrow a pan to boil it myself?* More chattering. More waiting. Finally, a different staff member, with a sigh of profound inconvenience, took a pan, filled it with a shallow layer of water, and put it on the stove. The entire action took five seconds.
+Was it true? Impossible to know. I typed my reply: *Can I borrow a pan to boil it myself?* More chattering. More waiting. Finally, a different staff member, with a barely contained aura of exasperation, took a pan, filled it with a shallow layer of water, and put it on the stove. The entire action took five seconds.
 
 They hadn't asked how much I needed. When I requested more, they added a little more, begrudgingly. The girl then slammed the wide-mouthed pan on the table for me to use. Pouring boiling water from a wide pan into a narrow-mouthed thermos is not a skill I possess. The table became a mess. They watched, offering no assistance.
 
