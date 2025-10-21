@@ -40,3 +40,7 @@ This is the echo chamber dilemma of a revolution. A call for liberation intended
 The real challenge, I now understand, is not to write a more profound critique of the system. It’s not to find more stories of struggle and injustice. The real, near-impossible challenge is this: how do you write [a story](https://sparktsang.github.io/works.html) that even Neung, after reading it, would look up and say, "Yes. That is the world I want to live in"?
 
 I don't have the answer. And in that humbling silence, the true journey begins.
+
+---
+
+See also: [*The Vulture and the Witness*](https://sparktsang.github.io/life/2025/10/21/vulture-and-witness.html)
