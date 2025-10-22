@@ -1,7 +1,7 @@
 
 It began with a disturbance in the force. Last night, returning to the hostel, I noticed something unusual. The door to my dorm room was wide open, and a man was sitting strangely at the table just outside, a cat sleeping on the chair next to him. He was holding a musical instrument, poised to play but not playing. *Why is the door open?* I wondered. Perhaps for ventilation. The room’s air‑con was perpetually set to 26°C, a temperature below which my fruitarian roommate Ade, with his heightened sensitivity to cold, likely found unbearable.
 
-I moved closer, ready to offer a standard traveler's greeting. But as I passed the doorway, I looked at the man's face. He was staring into the middle distance, his expression completely blank, his eyes empty. A chill, entirely unrelated to the air conditioning, ran down my spine. He looked like a serial killer from a movie. I said nothing, just a quick glance, and continued on my way. The room was dark, the air-con off. *They're just airing it out,* I told myself, dismissing the unease. I was only there to grab my laptop from my locker anyway.
+I moved closer, ready to offer a standard traveller's greeting. But as I passed the doorway, I looked at the man's face. He was staring into the middle distance, his expression completely blank, his eyes empty. A chill, entirely unrelated to the air conditioning, ran down my spine. He looked like a serial killer from a movie. I said nothing, just a quick glance, and continued on my way. The room was dark, the air-con off. *They're just airing it out,* I told myself, dismissing the unease. I was only there to grab my laptop from my locker anyway.
 
 At 2 AM, I returned to sleep. I opened my locker's padlock with the slow, deliberate care of a bomb disposal expert. In the dead of night, in a cheap hostel with creaky beds, every sound is amplified. The room now had three new occupants. The quality of my sleep, I knew, was about to plummet.
 
@@ -67,7 +67,7 @@ I didn't just repeat my complaints. I performed them. I knew this was no longer 
 
 And then, the final, decisive blow. I leaned in slightly. "Ade just told you exactly the same thing, didn't he?" The sentence was a symphony of escalating tones, a question that was not a question, but a threat. It was an announcement: *I am ready for battle.*
 
-My mind was already three moves ahead. If he refused, my phone would come out. I would start recording. I would ask him, on the record, for each and every violation, "Is this acceptable behavior in your hostel? Is this the standard you set for all guests?" His answer would become his brand's public statement.
+My mind was already three moves ahead. If he refused, my phone would come out. I would start recording. I would ask him, on the record, for each and every violation, "Is this acceptable behaviour in your hostel? Is this the standard you set for all guests?" His answer would become his brand's public statement.
 
 But I didn't need to deploy the nuclear option. He saw it in my eyes. He saw the vulture he had judged me to be a few days ago, and now, it was circling him. His previous coldness, his act of treating me like a stranger, had ironically become my greatest asset. There was no friendliness left to preserve, no goodwill to consider. I was simply a long-term, paying customer, my complaint now corroborated by another, and I was not going to back down.
 
@@ -80,7 +80,7 @@ Returning to the hostel, my heart beat a little faster. I was preparing for the 
 
 But the performance was unnecessary. "They have moved out of the room," Film informed me, his tone professional but calm. A genuine smile of relief broke across my face. I gave him a double thumbs-up. Thank you.
 
-I walked slowly towards the dorm, savoring the small victory. Suddenly, Film almost ran past me, murmuring an apology. He was heading into *my* room. The two invaders' beds had been cleared, but one of them was still there—the one with the "serial killer" eyes. Film was confronting him. The man was complaining about not having a key. Film insisted one had been given. I didn't pay much attention; they were gone, that's all that mattered.
+I walked slowly towards the dorm, savouring the small victory. Suddenly, Film almost ran past me, murmuring an apology. He was heading into *my* room. The two invaders' beds had been cleared, but one of them was still there—the one with the "serial killer" eyes. Film was confronting him. The man was complaining about not having a key. Film insisted one had been given. I didn't pay much attention; they were gone, that's all that mattered.
 
 But then I saw it. The door to our room was broken. The edge near the handle had been split vertically, not completely, but enough to be folded inwards. The man's story, I now understood, was that he had broken it because he couldn't get in.
 
