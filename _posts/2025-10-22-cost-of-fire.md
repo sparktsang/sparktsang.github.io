@@ -4,7 +4,7 @@ title: "The Cost of Fire: Autopsy of a Thought Engine"
 short_title: "The Cost of Fire"
 subtitle: "To change the world, must I first burn my own? Perhaps the Enlightenment never ended; it simply turned inward, until its light began to burn the thinker’s own flesh."
 category: "Life"
-image: assets/images/life-034-cost-of-fire.jpg 
+image: assets/images/self-burn-bing.jpg
 ---
 
 It feels like I can't stop.
