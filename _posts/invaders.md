@@ -74,3 +74,30 @@ But I didn't need to deploy the nuclear option. He saw it in my eyes. He saw the
 "I will talk to them," he finally said.
 
 "Good," I replied. "I'll be back later to see the result." He apologized for my experience. It was a professional, formulaic apology, but the expression of sincerity was perfectly feigned. The first battle was won.
+
+
+Returning to the hostel, my heart beat a little faster. I was preparing for the possibility of another confrontation, another war. I plastered a wide, friendly smile on my face—a tactical maneuver. If he told me he had failed, the smile would vanish instantly, replaced by the fiery glare I had deployed earlier, but with twice the intensity.
+
+But the performance was unnecessary. "They have moved out of the room," Film informed me, his tone professional but calm. A genuine smile of relief broke across my face. I gave him a double thumbs-up. Thank you.
+
+I walked slowly towards the dorm, savoring the small victory. Suddenly, Film almost ran past me, murmuring an apology. He was heading into *my* room. The two invaders' beds had been cleared, but one of them was still there—the one with the "serial killer" eyes. Film was confronting him. The man was complaining about not having a key. Film insisted one had been given. I didn't pay much attention; they were gone, that's all that mattered.
+
+But then I saw it. The door to our room was broken. The edge near the handle had been split vertically, not completely, but enough to be folded inwards. The man's story, I now understood, was that he had broken it because he couldn't get in.
+
+"That's crazy," I said to Film as I left the room. "If I were you, I would call the police."
+
+"I'm about to," he replied, though I couldn't tell if he was serious.
+
+I took my laptop to the common area. The two former invaders were now sitting quietly at a table outside the room. All their menacing energy was gone. They looked less like serial killers and more like stray dogs that had been kicked out into the rain. Film and his staff were huddled together, discussing the situation in hushed, urgent Thai.
+
+Then, a bizarre scene unfolded. The man who had broken the door walked calmly to the bar and ordered a drink. He sat there, sipping it like a regular customer, with Film standing nearby. What was happening? Had they already settled the damages? Was this Film's brilliant political maneuver—a "win-win" deal where the damages were paid in bar credits, converting a liability into a high-margin profit? If so, his skill was on another level.
+
+An hour later, the real answer arrived. A group of five or six men, mostly in plain clothes, but two with "Krabi Tourist Police" emblazoned on their backs. Film had been serious. He borrowed my key to open the now-useless door, and the police surrounded the man, who sat and explained his side of the story. The discussion was surprisingly calm. I only heard one officer shout "Listen!" once. An hour later, I saw the man hand over a wad of cash to Film and sign a document on high-quality paper. Justice, it seemed, had been served.
+
+As Film was heading back to the reception, I called out to him about my key. He walked over, and the chill was gone. "I can move you to another room," he offered, "the door is completely broken now." I went to look. The wood was no longer just split; it was completely severed. I decided to stay, at least for the night. A room with a broken door was a small price to pay for the luxury of having the entire dorm to myself.
+
+"If you change your mind," Film said, "just find me. I'm here until eleven." And then, it was back. The smile. The warmth.
+
+Perhaps it's a matter of comparison. Next to a guest who literally breaks down his door, I suddenly seemed reasonable and harmless.
+
+The power dynamic had reversed completely. I was no longer the threat. I was his ally. The war was over, and peace had been restored.
