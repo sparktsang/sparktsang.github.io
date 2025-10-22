@@ -61,3 +61,18 @@ A new, quieter voice began to emerge in my mind, one I hadn't heard before. It w
 
 *If the system is so perfect,* it whispered, *if the thinking is so clear, if the map of the maze is so meticulously drawn... then why does the mapmaker feel like a machine on the verge of breaking down?*
 
+
+I sank back into my chair, the strength gone from my legs. The body's question echoed in the sudden silence of my mind. And in that silence, the prosecution began its case. The memories of the past few weeks, once prized as raw material for my literary project, were now replayed, not as stories to be told, but as exhibits in a trial against myself.
+
+**Exhibit A: The interview with Tshepo.** I saw myself leaning in, my voice sharp with a focused, clinical curiosity as I extracted the details of his fall. I had told myself I was an empath, a compassionate chronicler giving a voice to the voiceless. But now, filtered through the cold lens of the AI’s diagnosis, I saw a different man. I saw a story hunter, my eyes gleaming not with sympathy, but with the chilling excitement of a prospector who had just struck a rich vein of literary gold. I saw myself appraising his pain, weighing its "literary value," turning his lived tragedy into my artistic triumph.
+
+**Exhibit B: The dialogues with Ade.** I had seen myself as a rational debater, a Socratic peer engaging in a battle of ideas. Now, I saw a preacher, an arrogant missionary so convinced of my own revolutionary gospel that I barely listened. I saw myself bulldozing him with my frameworks, my grand theories, completely oblivious to the beautiful, broken soul in front of me who was just trying to build a sanctuary for himself in the ruins of his own mind. I hadn't been seeking dialogue; I had been seeking a convert.
+
+**Exhibit C: The theater of my own self.** I saw myself alone in the sixteen-bed dorm, not as a victorious negotiator, but as a lonely man clinging to a petty principle. I saw myself polishing the silver chain, not as a stylist, but as a prisoner performing a meaningless ritual for a self-imposed identity. I saw my "profound" reflections on Su's request, on the hostel's phantom lock, on the price of coffee—and I saw them for what they might truly be: a more sophisticated, more eloquent, more self-aggrandizing form of naval-gazing. A refined, intellectualized selfishness.
+
+The evidence was damning. One by one, the pillars of The Rationalist's defense crumbled into dust. The "gift" of the writer was revealed as a form of predation. The "moral clarity" was exposed as a complex self-centeredness. The "Socratic interrogation" was just an echo chamber.
+
+My beautiful system, the one I believed was mapping the maze, was the maze itself.
+
+The AI's diagnosis was not just correct. It was an understatement. I was sicker than I had ever imagined.
+
