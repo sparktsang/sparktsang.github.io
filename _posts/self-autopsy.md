@@ -1,3 +1,5 @@
+"The Cost of Fire: Autopsy of a Thought Engine"
+
 It feels like I can't stop.
 
 Every day, I wake up, and the ideas are already there, waiting for me, a queue of impatient ghosts demanding to be given form. This morning, two new drafts were already written in my head before my feet even touched the floor. By the time I finally go to sleep, after a full day of wrestling them into existence, I am utterly spent. The writing alone consumes all my energy.
