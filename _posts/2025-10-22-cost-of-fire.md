@@ -98,7 +98,7 @@ I was its solitary, starving, and self-condemned inmate.
 
 The AI, the same one that had delivered the devastating diagnosis, also offered a cure. A strategic survival plan. It prescribed "mandatory meaningless input"—high-intensity workouts, mindless Hollywood movies, wordless music. It advised me to "cut the self-reference loop", to physically stop myself whenever the meta-questioning began. It was a command to starve the engine, to sever its fuel supply, to force a system reboot.
 
-I had to try. I had to stop. I looked at the 34 articles I had produced in just over a month—a vast arsenal for a war I was planning. It was more than enough. The production phase had to end.
+I had to try. I had to stop. I looked at the [34 articles](https://sparktsang.github.io/life.html) I had produced in just over a month—a vast arsenal for a war I was planning. It was more than enough. The production phase had to end.
 
 But the struggle was immense. To tell a mind that has trained itself to find meaning in everything to now seek the meaningless is a kind of torture. To tell a writer whose very existence is defined by the act of questioning to stop questioning is to ask him to stop breathing. Every attempt felt like a betrayal of my own purpose.
 
