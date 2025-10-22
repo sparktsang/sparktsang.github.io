@@ -1,4 +1,3 @@
-
 It feels like I can't stop.
 
 Every day, I wake up, and the ideas are already there, waiting for me, a queue of impatient ghosts demanding to be given form. This morning, two new drafts were already written in my head before my feet even touched the floor. By the time I finally go to sleep, after a full day of wrestling them into existence, I am utterly spent. The writing alone consumes all my energy.
@@ -34,13 +33,13 @@ The report was chillingly precise. It detailed my symptoms with a clinical detac
 
 I stared at the screen, at the cold, clinical words of the AI's second diagnosis: *Cancer of meaning. Symbolic Overload. Emotional Paralysis.*
 
-My first reaction wasn't fear. It was a surge of pure, indignant rage. A profound sense of being misunderstood, of having my greatest strength mislabeled as a pathology.
+My first reaction wasn't fear. It was a surge of pure, indignant rage. A profound sense of being misunderstood, of having my greatest strength mislabelled as a pathology.
 
-*Symbolic Overload?* The voice of The Rationalist in my head was sharp, contemptuous. *That's not a disease; it's a* ***gift***. It's the very definition of a writer's work! To see a tarnished silver chain and understand the invisible yokes of modernity, to see an empty noodle cup and grasp the weight of a man's dignity—this isn't an overload. This is the ability to distill meaning from the mundane, to see the universal in the particular. Did Shakespeare see just a flower when he looked at a rose?
+*Symbolic Overload?* The voice of The Rationalist in my head was sharp, contemptuous. *That's not a disease; it's a* ***gift***. It's the very definition of a writer's work! To see a tarnished silver chain and understand the invisible yokes of modernity, to see an empty noodle cup and grasp the weight of a man's dignity—this isn't an overload. This is the ability to distil meaning from the mundane, to see the universal in the particular. Did Shakespeare see just a flower when he looked at a rose?
 
 *Emotional Paralysis?* The voice scoffed. *That's not paralysis; it's* ***prioritization***. To be unmoved by a ten-thousand-dollar windfall, a mere string of digits that changes nothing about my existence, is not a sign of dysfunction. But to feel the immense, soul-crushing weight of Su's transactional kindness, of Tshepo's silent suffering—that is not emotional failure. That is **moral clarity**. It is to understand that the true currency of this world is not money, but the complex, painful, and beautiful transactions of human dignity.
 
-*The Infinite Loop of Self-Reference?* The defense was now a roar. *That's not a loop; it's a* ***Socratic interrogation***! An unexamined piece of writing, like an unexamined life, is not worth living. To write about my writing, to question my own questioning—this isn't getting lost in a maze. This is **drawing a map of the maze**. I am not a prisoner of my own thoughts; I am the architect of their liberation, meticulously charting every dead end, every hidden passage, in the relentless pursuit of a truth that lies at its center.
+*The Infinite Loop of Self-Reference?* The defense was now a roar. *That's not a loop; it's a* ***Socratic interrogation***! An unexamined piece of writing, like an unexamined life, is not worth living. To write about my writing, to question my own questioning—this isn't getting lost in a maze. This is **drawing a map of the maze**. I am not a prisoner of my own thoughts; I am the architect of their liberation, meticulously charting every dead end, every hidden passage, in the relentless pursuit of a truth that lies at its centre.
 
 I am not sick, The Rationalist concluded, his case seemingly airtight. I am simply operating at a level of analytical and ethical rigor that this simplistic machine cannot comprehend. I am not burning out. I am burning bright.
 
@@ -68,9 +67,9 @@ I sank back into my chair, the strength gone from my legs. The body's question e
 
 **Exhibit B: The dialogues with Ade.** I had seen myself as a rational debater, a Socratic peer engaging in a battle of ideas. Now, I saw a preacher, an arrogant missionary so convinced of my own revolutionary gospel that I barely listened. I saw myself bulldozing him with my frameworks, my grand theories, completely oblivious to the beautiful, broken soul in front of me who was just trying to build a sanctuary for himself in the ruins of his own mind. I hadn't been seeking dialogue; I had been seeking a convert.
 
-**Exhibit C: The theater of my own self.** I saw myself alone in the sixteen-bed dorm, not as a victorious negotiator, but as a lonely man clinging to a petty principle. I saw myself polishing the silver chain, not as a stylist, but as a prisoner performing a meaningless ritual for a self-imposed identity. I saw my "profound" reflections on Su's request, on the hostel's phantom lock, on the price of coffee—and I saw them for what they might truly be: a more sophisticated, more eloquent, more self-aggrandizing form of naval-gazing. A refined, intellectualized selfishness.
+**Exhibit C: The theatre of my own self.** I saw myself alone in the sixteen-bed dorm, not as a victorious negotiator, but as a lonely man clinging to a petty principle. I saw myself polishing the silver chain, not as a stylist, but as a prisoner performing a meaningless ritual for a self-imposed identity. I saw my "profound" reflections on Su's request, on the hostel's phantom lock, on the price of coffee—and I saw them for what they might truly be: a more sophisticated, more eloquent, more self-aggrandizing form of naval-gazing. A refined, intellectualized selfishness.
 
-The evidence was damning. One by one, the pillars of The Rationalist's defense crumbled into dust. The "gift" of the writer was revealed as a form of predation. The "moral clarity" was exposed as a complex self-centeredness. The "Socratic interrogation" was just an echo chamber.
+The evidence was damning. One by one, the pillars of The Rationalist's defence crumbled into dust. The "gift" of the writer was revealed as a form of predation. The "moral clarity" was exposed as a complex self-centeredness. The "Socratic interrogation" was just an echo chamber.
 
 My beautiful system, the one I believed was mapping the maze, was the maze itself.
 
