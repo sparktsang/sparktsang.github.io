@@ -7,7 +7,7 @@ At 2 AM, I returned to sleep. I opened my locker's padlock with the slow, delibe
 
 I was not wrong.
 
-Before noon, while I was still deep in a fragile sleep, the party began. Not in the bar downstairs, but right here, in the dorm room. A loud, jarring music exploded from a speaker. The door was thrown open, letting in the noise and heat from the hallway. They were talking, shouting, singing along. For an entire hour, the assault was relentless.
+Before noon, while I was still deep in a fragile sleep, the party began. Not in the bar outside, but right here, in the dorm room. A loud, jarring music exploded from a speaker. The door was thrown open, letting in the noise and heat. They were talking, shouting, singing along. For an entire hour, the assault was relentless.
 
 I lay there, my eyes squeezed shut, not in rest, but in a state of furious, helpless resignation. This was my sanctuary, my cheap, quiet corner of the world, and it had been invaded. The unwritten rules of the backpacker world—a world supposedly built on mutual respect and shared space—were being brutally, unapologetically violated.
 
@@ -113,9 +113,9 @@ Am I the only one who does this? I look around, and I see a world of people doin
 
 But I am still haunted by it. Because I know that for a period of time today, I was not myself. There was no "self" to speak of. There was only the cold, binary logic of winning or losing a miniature war. I was both the general and the soldier, fighting not just for my own interest, but for a principle of justice. If I had lost, a part of me—the part that believes the world shouldn't be worse off because of our actions—would have died.
 
-And to win that war, it seems, I had no choice but to become a tool.
+And to win that war, it seems, I had no choice but to become a tool. In a world where reason can no longer protect us, we learn to weaponize our humanity.
 
-I had won the war for a quiet room. But in the process, I had to kill a part of myself—the part that believed a just world could be won with reason alone.
+I had won the war for a quiet room. But in the process, I had to kill a part of myself—the part that believed a just world could be won with reason alone. 
 
 The silence in my room that night was profound. It was the sound of a small victory.
 
