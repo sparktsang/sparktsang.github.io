@@ -104,4 +104,4 @@ I, the grand designer of a new civilizational project, had to issue an executive
 
 The order was given. The silence that followed was heavy with a final, burning question, a question that contains the fate of every revolutionary, every artist, every thinker who has ever tried to bring a new light into the world.
 
-To change the world, must I first burn my own?
+To change the world, must I first burn my own? Perhaps the Enlightenment never ended; it simply turned inward, until its light began to burn the thinker’s own flesh.
