@@ -1,5 +1,5 @@
 
-It began with a disturbance in the force. Last night, returning to the hostel, I noticed something unusual. The door to my dorm room was wide open, and a man was sitting strangely at the table just outside, a cat sleeping on the chair next to him. He was holding a musical instrument, poised to play but not playing. *Why is the door open?* I wondered. Perhaps for ventilation. The room's air-con was perpetually set to a chilly 26 degrees, a temperature my fruitarian roommate Ade, with his heightened sensitivity to cold, likely found unbearable.
+It began with a disturbance in the force. Last night, returning to the hostel, I noticed something unusual. The door to my dorm room was wide open, and a man was sitting strangely at the table just outside, a cat sleeping on the chair next to him. He was holding a musical instrument, poised to play but not playing. *Why is the door open?* I wondered. Perhaps for ventilation. The room’s air‑con was perpetually set to 26°C, a temperature below which my fruitarian roommate Ade, with his heightened sensitivity to cold, likely found unbearable.
 
 I moved closer, ready to offer a standard traveler's greeting. But as I passed the doorway, I looked at the man's face. He was staring into the middle distance, his expression completely blank, his eyes empty. A chill, entirely unrelated to the air conditioning, ran down my spine. He looked like a serial killer from a movie. I said nothing, just a quick glance, and continued on my way. The room was dark, the air-con off. *They're just airing it out,* I told myself, dismissing the unease. I was only there to grab my laptop from my locker anyway.
 
@@ -7,14 +7,14 @@ At 2 AM, I returned to sleep. I opened my locker's padlock with the slow, delibe
 
 I was not wrong.
 
-Just before noon, while I was still deep in a fragile sleep, the party began. Not in the bar downstairs, but right here, in the dorm room. A loud, jarring music exploded from a speaker. The door was thrown open, letting in the noise and heat from the hallway. They were talking, shouting, singing along. For an entire hour, the assault was relentless.
+Before noon, while I was still deep in a fragile sleep, the party began. Not in the bar downstairs, but right here, in the dorm room. A loud, jarring music exploded from a speaker. The door was thrown open, letting in the noise and heat from the hallway. They were talking, shouting, singing along. For an entire hour, the assault was relentless.
 
 I lay there, my eyes squeezed shut, not in rest, but in a state of furious, helpless resignation. This was my sanctuary, my cheap, quiet corner of the world, and it had been invaded. The unwritten rules of the backpacker world—a world supposedly built on mutual respect and shared space—were being brutally, unapologetically violated.
 
-Every fiber of my being wanted to scream, to fight, to restore order. But I did nothing. I was tired. I was outnumbered. And in that moment, I was just another victim, another powerless subject in a kingdom newly conquered by chaos. I lay there, feigning sleep, my mind a raging storm of indignation, waiting, just waiting, for the barbarians to finish their celebration so I could reclaim a few more precious moments of peace.
+Every fiber of my being wanted to scream, to fight, to restore order. But I did nothing. I was tired. I was outnumbered. And in that moment, I was just another victim, another powerless subject in a kingdom newly conquered by chaos. Feigning sleep, my mind a raging storm of indignation, waiting, just waiting, for the barbarians to finish their celebration so I could reclaim a few more precious moments of peace.
 
 
-My twelve-hour sleep had been less of a rest and more of a siege. I finally emerged from my bunk after the party had subsided, feeling drained and violated. I saw Ade packing a small bag.
+My twelve-hour sleep had been less of a rest and more of a siege. I finally emerged from my bunk after the party had subsided, feeling drained and violated. I saw Ade packing a small suitcase.
 
 "I need to be alone sometimes," he explained. He was escaping to a nearby villa for one night, a small luxury. His bed here was already paid for, so it wasn't a move, just a temporary retreat.
 
