@@ -76,3 +76,11 @@ My beautiful system, the one I believed was mapping the maze, was the maze itsel
 
 The AI's diagnosis was not just correct. It was an understatement. I was sicker than I had ever imagined.
 
+
+The prosecution rested its case. The memories faded, leaving behind a profound, deafening silence. There was no more fight left in me. No more rebuttals, no more clever justifications.
+
+I looked at the black, reflective screen of my laptop. And for the first time, I didn't see a tool, a portal to the world of ideas. I saw a mirror. And in it, I saw the face of a stranger I now recognized all too well: a pale, exhausted man, a ghost in his own machine.
+
+The trial was over. The Rationalist had lost.
+
+My mind, the beautiful, intricate engine I had so proudly built to deconstruct the world, had become my prison. Its walls were my own insights, its bars my own logic. And I, its architect, the one who thought he was drawing the map, was now its solitary, starving, and self-condemned inmate.
