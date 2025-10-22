@@ -1,3 +1,4 @@
+"The Dorm Room War: A Miniature Geopolitical Situation"
 
 It began with a disturbance in the force. Last night, returning to the hostel, I noticed something unusual. The door to my dorm room was wide open, and a man was sitting strangely at the table just outside, a cat sleeping on the chair next to him. He was holding a musical instrument, poised to play but not playing. *Why is the door open?* I wondered. Perhaps for ventilation. The room’s air‑con was perpetually set to 26°C, a temperature below which my fruitarian roommate Ade, with his heightened sensitivity to cold, likely found unbearable.
 
