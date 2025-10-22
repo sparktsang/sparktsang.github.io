@@ -101,3 +101,22 @@ As Film was heading back to the reception, I called out to him about my key. He 
 Perhaps it's a matter of comparison. Next to a guest who literally breaks down his door, I suddenly seemed reasonable and harmless.
 
 The power dynamic had reversed completely. I was no longer the threat. I was his ally. The war was over, and peace had been restored.
+
+
+Later that night, I sat in the common area, working. The hostel was quiet. The war was over. Peace had been restored. But I felt no joy, no sense of triumph. Only a profound, chilling emptiness.
+
+Ade's words from a few days ago came back to me: *This is a miniature geopolitical situation.* I had dismissed it then as another one of his cosmic pronouncements. But now, I saw the terrifying truth in it.
+
+I replayed the events in my mind. A cold dread washed over me as I realized what I had done. In the process of fighting for what was rightfully mine, I had instrumentalized myself. My body, my facial expressions, my language, the very tone of my voice—they had all ceased to be expressions of my self. They had become weapons, tools to be strategically deployed in a micro-political battle. I was no longer a person; I was a calculated performance of anger, a threat assessment, a walking, talking leverage machine.
+
+Am I the only one who does this? I look around, and I see a world of people doing the same thing, just without the burden of self-awareness. Perhaps we are all forced to become these things. In an imperfect world, a world of black box courtrooms and unwritten rules, a world where reason is not enough, maybe this is the only way to survive. We just get used to it. We forget there was ever another way to be.
+
+But I am still haunted by it. Because I know that for a period of time today, I was not myself. There was no "self" to speak of. There was only the cold, binary logic of winning or losing a miniature war. I was both the general and the soldier, fighting not just for my own interest, but for a principle of justice. If I had lost, a part of me—the part that believes the world shouldn't be worse off because of our actions—would have died.
+
+And to win that war, it seems, I had no choice but to become a tool.
+
+I had won the war for a quiet room. But in the process, I had to kill a part of myself—the part that believed a just world could be won with reason alone.
+
+The silence in my room that night was profound. It was the sound of a small victory.
+
+And the sound of a great loss.
