@@ -1,0 +1,163 @@
+---
+layout: post
+title: "The Algorithm of the Human"
+short_title: "The Algorithm of the Human"
+subtitle: "The horror was not that I was a sinner. The horror was that I could see the code of my own sin."
+category: "Life"
+image: assets/images/life-036-algorithm-of-human.jpg 
+---
+
+"The Algorithm of the Human"
+
+<!-- I -->
+The common area of the Slumber Party Hostel is designed for connection. It’s a stage, really. There’s a bar for drinks, long tables for communal meals, soft cushions for late-night conversations. The air is supposed to be thick with laughter, with the easy mingling of strangers sharing stories.
+
+But in this perpetual low season, the stage is almost always empty. And on it, there is only one, unchanging performer: me.
+
+Every day, I claim a spot at a round table near an electricity outlet, open my laptop, and begin my work. My presence here is a quiet paradox. In a party hostel, my relentless productivity is a form of silent protest. In a space built for social communion, my solitary focus is an anti-social declaration. I am not here to drink, or to party, or to connect. I am here to write.
+
+My strange ritual does not go unnoticed. I feel the gazes of the other guests, the few scattered souls who drift in and out of this space. Tshepo, before his story unfolded, would watch me with a quiet, unreadable curiosity. Other backpackers, on their way to the pool or the bar, would slow their pace as they passed my table, their eyes lingering on my screen. I have become part of the scenery, a strange, permanent fixture in their transient world. *What is he writing? Why is he always here?* I can almost hear their unspoken questions.
+
+I am a performer on a stage for an audience I will never know, enacting a play they will never understand. In this space designed for connection—for drinks, for laughter, for shared stories—I sit day after day in front of my laptop, a monk of a different order, practicing a silent, solitary craft.
+
+<!-- II -->
+One evening, one of the silent spectators broke the silence. A young Spanish guy—Victor, I would later learn—saw me writing and approached my table. "What are you writing?" he asked, his curiosity genuine. I told him I was writing travel stories, that I had already found seven or eight just within the walls of this hostel. He pulled up a chair. The dialogue had begun.
+
+How do you explain a project like this to a stranger? I started with the same entry point I had used with Hao, the Singaporean traveler: the story of the two menus. How a single sentence in Thai could unlock a completely different reality, a different set of prices. "The world," I explained, "is full of written rules, unwritten rules, and then this deeper, unspoken layer of social logic." I gave him more examples, like the award-winning 20-baht Thai tea from 7-Eleven. Intrigued, he declared he was thirsty and wanted to try one immediately, only to return minutes later, unsuccessful, with a bottle of coconut water instead, which he kindly offered me a sip of.
+
+"But what if it's just their culture?" he asked.
+
+It was a brilliant question, the kind that could take a lifetime to answer. "You're right," I said. "And I'm not looking at it with a critical eye, as if my own culture is superior. Every perspective is shaped by its background. The problem I'm interested in isn't about one specific culture. It's a universal, philosophical question: beyond our given cultural norms, is there a *better system*?"
+
+The air between us crackled with a shared intellectual energy. He was not just listening; he was *understanding*. He was my true reader.
+
+And then he asked the ultimate question: "So what's your conclusion?"
+
+The question was a beautiful, terrifying thing. He was asking for the answer, the grand theory. But to deliver a conclusion without the journey, without the evidence, without the painstaking construction of the argument—would it have any meaning? Our conversation had leaped over a dozen necessary steps.
+
+I hesitated, searching for the right words, for a path to lead him through the labyrinth of my thoughts. I was about to show him the entire architecture of my revolution.
+
+But the universe, it seemed, had other plans.
+
+<!-- III -->
+I was about to show him the entire architecture of my revolution. But the universe, it seemed, had other plans.
+
+From the soft cushions behind us, a voice boomed, uninvited. "Chinese from Singapore are so different from Chinese from Hong Kong, bro."
+
+I recognized him instantly. He was the shadow who had been sitting with Tshepo a few nights before. He had overheard our mention of Singapore and Hong Kong, and had found his entry point, a crack in the wall of our deep conversation. I could feel the qualitative difference in our levels of discourse, a chasm he seemed determined to leap across. Still, he had spoken. I couldn't ignore him. "How so?" I asked, my tone carefully neutral.
+
+His answer was a few shallow, generic sentences, a world away from the nuanced discussion Victor and I were having. And then, seamlessly, he pivoted. The topic was no longer Singapore; it was him. He launched into a breathless monologue, a highlight reel of his global adventures, starting from his home in Tanzania in January. It was a hostile takeover of the conversation.
+
+I made a conscious effort to be polite, turning my body slightly towards him, nodding along. When he mentioned Tanzanian landmarks, Victor, a man of genuine curiosity, engaged him. For a moment, they connected over a shared geography I had never touched. I was an outsider in the conversation that had, moments ago, been my own. He mentioned a recent trip to Hat Yai, and I chimed in with my own observations, a desperate attempt to find common ground.
+
+But he wasn't looking for common ground. He was looking for an audience. He spoke of his time in Krabi, of Tshepo becoming his "good friend," and then, with a casual swagger, of how he had "fucked two bitches," one Thai, one Japanese. To share such crude details with two near-strangers was, I thought, beyond inappropriate. But it wasn't just the crassness; it was the relentless, one-way torrent of self-promotion. He had hijacked our dialogue, not with a weapon, but with the sheer, overwhelming force of his own ego.
+
+My patience snapped. The war in my head began. This wasn't a conversation; it was an invasion. A barbarian had crashed the gates of our symposium, not to learn or to share, but to plant his own flag in the middle of our discourse. I was defending not just my time, but the sanctity of reasoned, reciprocal dialogue against the brute force of a self-centered narrative.
+
+I turned away from him, my body language a cold, silent declaration of withdrawal. I faced my laptop again. I was done. Before he had arrived, I was working. Returning to that state was not the politest move, but it was a defensible one.
+
+His long monologue finally petered out into a silence thick with social awkwardness. I didn't re-engage with Victor. To do so would be to make my exclusion of the Tanzanian man—Zak, I later learned his name was—too deliberate, too cruel. He was a "bro" to everyone, his transgression born of a thoughtless extroversion, not malice. Victor seemed easy-going enough to let it slide. But I couldn't.
+
+And my small, silent act of protest put Victor in an impossible position. Zak had just finished his speech; protocol dictated a response. But I, his original conversational partner, had already checked out. To respond to Zak would be to align with the invader. To try and re-engage with me would be to openly snub Zak.
+
+He chose the only sane option. He stood up. "Keep up the good writing," he said to me, his voice warm, shaking my hand with a firm, empathetic grip. Then he turned, walked over to Zak, and shook his hand as well. A perfect diplomat. It was past midnight; no one could fault him for leaving. It was the best possible move in a game that had become unwinnable.
+
+In his graceful exit, the space for reason had collapsed. The dialogue was over. The monologue had won.
+
+<!-- IV. 1. -->
+I wrote for a while longer. Around 2 AM, as I packed up to leave, Zak and Tshepo were still on the cushions, bathed in the blue light of their phones. The situation was clear. His interruption, his monologue—it was born of thoughtlessness, not malice. To leave without a word would be a deliberate act of disrespect. So I said my goodnights, to Tshepo, and to him. "My name's Zak," he said.
+
+The man was a fascinating specimen. His intrusion had annoyed me, but I didn't dislike him. There was a guilelessness to his self-absorption. His level of self-consciousness was clearly not high. And because of that, his conversational bulldozing felt less like an attack and more like a natural phenomenon, like a river flooding its banks. He simply talked. He didn't seem to pause to consider how to enter a conversation or when. He just entered, and by the time you registered the intrusion, you were already swept away by the current of his narrative.
+
+It was easy to see, then, how he could "fuck two bitches" in Krabi. He wouldn't overthink the approach. He would just approach. He would hack into people's brains, especially the simpler, more easily influenced ones, with the sheer, overwhelming force of his own story. And a good part of his charm, I realized, came from this very lack of calculation.
+
+The next night, he saw me working again. "What are you writing?" he asked. But it was just an opening. He quickly told me he had a story of his own to write. He had written consistently for six months, an hour or two every night, but had lost it all to a cloud account issue. He was planning to start again. It was the perfect bait. I had to ask. What was this story? What was its unique value?
+
+"It's hard to describe," he said, "but it's a success story. About never giving up."
+
+"A common theme," I observed.
+
+"But my experience is unique," he insisted. He offered a sample. His father, of Indian descent, had sent him from their home in Tanzania to Pakistan for three years of university, hoping to connect him with his cultural roots. "It was an amazing story," he said. "I went from a total outsider at the bottom, to one of the most respected students." He was so confident in his narrative that he planned to pitch it to film production companies.
+
+But soon, the topic shifted from his past in Pakistan to his present journey. He had flown to Malaysia on January 2nd, on a 20-day round-trip ticket, with only about a thousand US dollars in his pocket. By framing his starting point as one of scarcity, he was subtly telegraphing the success of the journey that followed. A hotel in Malaysia offered him a job—likely a work-exchange, I thought. He realized he could keep traveling without money. He abandoned his return flight. The 20-day trip became a year-long odyssey.
+
+He learned to exploit the system. At McDonald's in Malaysia, he noticed that most customers didn't bother to scan the app for loyalty points. So he did it for them. Every transaction made by a stranger became his own. He had, he claimed, accumulated two to three thousand dollars' worth of free McDonald's meals this way—a number I highly doubted, but the principle was clear. He was leveraging the system's loopholes, turning discarded data into social capital, treating countless people to free food.
+
+He diversified his income streams. A crypto trading app offered a referral bonus. He pitched it to everyone he met. He used the profits to bet on football, claiming he won more than he lost. The money, he said, just kept growing.
+
+Perhaps sensing that exploiting loopholes and shilling crypto apps wasn't the most noble of origin stories, he added a disclaimer. "One thing I am proud of," he said, his voice sincere, "is that I have never betrayed the trust of anyone. That's why you'll always see people come back to me. They like to be with me."
+
+In Langkawi, he’d worked for accommodation, renovating a restaurant for a Nigerian man. One day, the owner, high on drugs, inexplicably kicked him out, his bags still inside. He sought help from the network he had built—probably the beneficiaries of his McDonald's largesse and crypto tips. Dozens of people on motorbikes were ready to ride with him that night to confront the owner. But he stopped them, a wise general, worried that any trouble could jeopardize his visa, which was about to expire.
+
+The final act of his Malaysian chapter was a race against time. His visa application for Thailand was rejected. His only escape route was a flight to Singapore, but he couldn't afford the ticket. In his moment of ultimate desperation, for the first and only time, he called his father for help.
+
+"And then Singapore," he said, his eyes lighting up, "this is where it gets really good." It seemed everything he had just told me was mere prologue. But it was late. I had to get my last-minute supper. As I was returning to the hostel later, I saw him heading out. I still haven't heard the Singapore chapter.
+
+But I had heard enough. His story was a string of impulsive, ill-planned decisions—the abandoned return flight, the mis-timed attempt to teach English in Thailand, the last-minute plea to his father. It confirmed my earlier impression of a man with a low level of self-consciousness, who acted first and thought later. And yet, the lesson of his story was undeniable. It was precisely this unthinking, forward-moving, system-hacking approach that had allowed him not just to survive, but to thrive. 
+
+<!-- IV. 2. -->
+I thought back to his emphasis on his three years in Pakistan. It was the key. Sent by his father to a land that was culturally his but existentially alien, he must have learned to survive. He went from a marginalized outsider to a respected student. He had learned how to climb the social ladder, and he had internalized the methodology so completely that it was now second nature, an instinct that required no conscious thought. It was this instinct that drove him to interrupt our conversation, and to preach his gospel to me tonight.
+
+I believed him when he said he had never betrayed anyone's trust. But I also knew that from our first interaction to our last, he had shown no genuine interest in me, or in Victor. It was a pattern. But in a world starved of authentic self-narrative, his version, however unpolished, however aggressively delivered, was enough to forge connections. At one point, he had nonchalantly shown me his Instagram account: 27,000 followers. "I hope to make it 30,000 by the end of the year," he'd said.
+
+And then, I finally understood the terrifying logic of his success. It was a perfect, self-perpetuating loop.
+
+His narrative had only one, relentless theme: *I am something worthy of your attention*. He preached this gospel by recounting what he had done, what he had experienced, but always without reflection, without the *why*. The logic behind his major life decisions was left vague because there probably was no logic. His success was the inevitable result of repeating this narrative until it connected with enough people, and that connection, in turn, became a crucial part of the narrative itself. He didn't need a high level of self-consciousness. He just needed to repeat the story until it worked, and then the story would grow stronger.
+
+His combination of cleverness and luck had allowed this loop to expand exponentially. He had started with $1,000 and was now a well-dressed man with an army of friends and followers. He converted no-cost economic capital (free McDonald's) into social capital, and then leveraged that social capital back into economic capital (crypto referrals, work-for-accommodation).
+
+And here was the most unsettling part: a man who contributed little to actual social production, a man who literally scraped free value from the system's glitches, could, through the mindless weaving of a self-aggrandizing narrative, become a credible, charismatic, and highly networked individual. He was sincere. He had never betrayed a trust. He was the very person our current system is designed to reward. His "story," with a little more polish, had real commercial potential.
+
+I thought of the others—the more cautious, the more self-aware, the more interpersonally sensitive. The people who wouldn't dare to promote themselves with such shameless, thoughtless abandon. They might become decent, respectable members of society, but their potential for success is capped by the commercial value of their skills. Zak's potential, on the other hand, was orders of magnitude greater.
+
+This is the culture our age encourages. The unexamined life. The shameless sales pitch. The thoughtless self-aggrandizement. The paralysis of others' critical faculties through a barrage of empty, unstructured discourse. They are the bandits of attention, operating with an extreme self-centeredness. And in a world where attention is the scarcest resource, they shine.
+
+We have no crime to charge them with. Those who are captivated by their narrative have already become their allies. The rest of us have already walked away. They have built and filtered their own domain, and they are not accountable to anyone outside of it. He didn't need to think, because the system thought for him. He just needed to narrate, and the story, a self-replicating virus of ambition and opportunity, would do the rest.
+
+<!-- V -->
+And as my internal thought engine delivered this scathing critique of his methods, a quiet, simple voice emerged from the silence.
+
+*And what about you?*
+
+I froze. I reflected on my own life, on my self-proclaimed success, and my entire defense crumbled. I would never, of course, travel with only a thousand dollars and a prayer. I was smarter than that. I had used my greatest strength—the ability to perceive the underlying logic of any system—to build an investment engine. An engine so sophisticated, so attuned to the philosophical underpinnings of the market, that it was, in my view, as if the very concept of investment had become self-conscious through me.
+
+Zak had mentioned his crypto trading, but he never knew, and never asked, about my background. And yes, what I did was on a completely different level from his scavenging of McDonald's points. But the inner voice pressed on, relentless and cold: *Is there any difference in essence?*
+
+The shock was profound. Judged by the same standard, I too was just a man exploiting the system's loopholes for free money. My exploit wasn't a fragile app; it was a robust, systematic, and meticulously planned extraction of profit from the irrational price swings born of market investors' psychological volatility—their fear and their euphoria. I took assets from the pessimistic and downtrodden at their lowest, and sold them to the optimistic at their peak. At the very least, my new friend was only collecting points that others had intended to throw away. No one was harmed. What I did was to systematically exploit the emotional vulnerabilities of others for profit.
+
+And what of his self-narrative? At most, he borrows a sliver of a few people's attention to preach his gospel. And me? I take the stories of others—Brian, Ade, Su, Film, and now Zak—often without their full knowledge, and secretly run them through my own systematic thought engine, translating their pain and struggles into what I hope is valuable literary work, an accumulation of the strategic cultural capital I need for my revolution. Once again, the difference was not one of degree, but of dimension.
+
+*Did you betray the trust of anyone?* The voice interrogated me again.
+
+Yes. Every single person I had written about in this guesthouse had been, in some way, betrayed. I knew in my heart that what I had written could not be shown to them. Even the sole exception, Tshepo, had agreed to let me write his story under the most vulnerable of circumstances, a consent that was, at best, questionably free.
+
+I had called Zak a bandit of attention. He had 27,000 followers on Instagram. But my own plans? The moment my creative fever subsided, I would launch my own "traffic war," a systematic and carefully planned strategy to hijack the world's attention. If he was a robber, then the massacre I was plotting was on a different scale entirely.
+
+I understood now. His limited success, my own success in the investment world, and my potential future success—they all operated on the same underlying logic. The only difference was that he executed it unconsciously, unsystematically, while I did so with extreme self-awareness and systematic precision. And even that self-awareness had been weaponized, becoming my greatest asset, the very engine that produced this essay. It was as if the world of investment had become self-aware through me. The civilizational system had become self-aware through me. And this entity, this being with a civilizational level of self-awareness, was still executing the same predatory logic as the man whose methods I had just so viciously condemned.
+
+The system produced Zak. It also produced me. We were of different dimensions, but of the same essence.
+
+The horror was not that I was a sinner. The horror was that I could see the code of my own sin. My entire moral operating system, laid bare before me, and I was just a ghost watching it run its predetermined, predatory script.
+
+I had no defense. My entire case had collapsed. I was utterly defeated. All I could do was retreat into the persona of a moral dwarf, and offer the only plea my inner voice had left.
+
+A single, pathetic whisper: *It is necessary.*
+
+<!-- VI -->
+The words hung in the silence of my mind, not as a justification, but as a verdict. The trial was over. There was nothing left to argue.
+
+I looked up from my laptop. The hostel common area was dark now, deserted. The intellectual fireworks of my encounter with Victor, the abrasive energy of Zak's monologue, the brutal, internal self-flagellation—it all felt like a distant dream. There was only the quiet hum of the refrigerator and the gentle rustle of leaves in the night breeze outside.
+
+The battle was over. The verdict was in.
+
+I closed the laptop. The screen went black, and for a second, I saw my own reflection—a pale, tired face staring back from the void. I thought of Zak, the opportunist, and myself, the revolutionary. Two men who had found the system's glitches. He, with his McDonald's points and crypto schemes. I, with my financial engine and narrative extractions. He, the unconscious player. I, the self-aware one.
+
+But what was the real difference? A question began to form, a final, quiet horror. What is the line between a revolutionary and an opportunist? When you use the logic of the system you claim to despise in order to achieve your grand goal, are you still a revolutionary? Or have you just become a more efficient, more philosophically-justified version of the very thing you are fighting against?
+
+I had no answer.
+
+The thought engine, which had been burning at a furious, white-hot intensity all day, finally began to cool. The silence in the room was profound. It was the sound of a war ending, not with a bang, but with a quiet, chilling acceptance.
+
+I had come on this journey to deconstruct the world. I had not expected that the final thing to be deconstructed would be myself.
+
+The revolutionary was left alone in the dark, wrestling with the terrifying possibility that the greatest system he had yet to hack was his own.
