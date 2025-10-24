@@ -4,7 +4,7 @@ title: "The Algorithm of the Human"
 short_title: "The Algorithm of the Human"
 subtitle: "The horror was not that I was a sinner. The horror was that I could see the code of my own sin."
 category: "Life"
-image: assets/images/life-036-algorithm-of-human.jpg 
+image: assets/images/autogenesis_horror_imagen.jpeg 
 ---
 
 <!-- I -->
