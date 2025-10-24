@@ -127,7 +127,7 @@ And what of his self-narrative? At most, he borrows a sliver of a few people's a
 
 *Did you betray the trust of anyone?* The voice interrogated me again.
 
-Yes. Every single person I had written about in this guesthouse had been, in some way, betrayed. I knew in my heart that what I had written could not be shown to them. Even the sole exception, Tshepo, had agreed to let me [write his story](https://sparktsang.github.io/life/2025/10/17/body-and-system.html) under the most vulnerable of circumstances, a consent that was, at best, questionably free.
+Yes. Every single person I had written about in this guesthouse had been, in some way, betrayed. I knew in my heart that what I had written could not be shown to them. Even the sole exception, [Tshepo](https://sparktsang.github.io/life/2025/10/17/body-and-system.html), had agreed to let me write his story under the most vulnerable of circumstances, a consent that was, at best, questionably free.
 
 I had called Zak a bandit of attention. He had 27,000 followers on Instagram. But my own plans? The moment my creative fever subsided, I would launch my own "traffic war", a systematic and carefully planned strategy to hijack the world's attention. If he was a robber, then the massacre I was plotting was on a different scale entirely.
 
