@@ -33,13 +33,11 @@ And then he asked the ultimate question: "So what's your conclusion?"
 
 The question was a beautiful, terrifying thing. He was asking for the answer, the grand theory. But to deliver a conclusion without the journey, without the evidence, without the painstaking construction of the argument—would it have any meaning? Our conversation had leaped over a dozen necessary steps.
 
-I hesitated, searching for the right words, for a path to lead him through the labyrinth of my thoughts. I was about to show him the entire architecture of my revolution.
+I hesitated, searching for the right words, for a path to lead him through the labyrinth of my thoughts. I was about to show him the [entire architecture of my revolution](https://sparktsang.github.io/philosophy.html).
 
 But the universe, it seemed, had other plans.
 
 <!-- III -->
-I was about to show him the entire architecture of my revolution. But the universe, it seemed, had other plans.
-
 From the soft cushions behind us, a voice boomed, uninvited. "Chinese from Singapore are so different from Chinese from Hong Kong, bro."
 
 I recognized him instantly. He was the shadow who had been sitting with Tshepo a few nights before. He had overheard our mention of Singapore and Hong Kong, and had found his entry point, a crack in the wall of our deep conversation. I could feel the qualitative difference in our levels of discourse, a chasm he seemed determined to leap across. Still, he had spoken. I couldn't ignore him. "How so?" I asked, my tone carefully neutral.
