@@ -7,8 +7,6 @@ category: "Life"
 image: assets/images/life-036-algorithm-of-human.jpg 
 ---
 
-"The Algorithm of the Human"
-
 <!-- I -->
 The common area of the Slumber Party Hostel is designed for connection. It’s a stage, really. There’s a bar for drinks, long tables for communal meals, soft cushions for late-night conversations. The air is supposed to be thick with laughter, with the easy mingling of strangers sharing stories.
 
