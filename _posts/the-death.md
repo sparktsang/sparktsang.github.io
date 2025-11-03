@@ -49,3 +49,22 @@ At nine, an IQ test confirmed what I already suspected: I was a genius. I didn't
 The universe inside my head, however, continued to expand. In my fourth year of secondary school, I independently reasoned my way to the concept of physical determinism. I wrote an essay about it, a torrent of ideas pouring out of me. But then what? Where could I publish it? Who could I even talk to about it? I didn't know the word "philosophy" existed. No one had ever told me that for centuries, the greatest minds in human history had wrestled with the very same questions of "free will" that were tormenting me. The internet was beginning to flourish, but without the right keywords, it was just a sea of noise. I didn't have the language to even begin my search.
 
 My immense dissatisfaction had no name, no voice. The entire education system had taught me how to solve equations and memorize dates, but it had never taught me the language of my own heart, my own mind. I just knew that something was deeply, fundamentally wrong. I was desperately unhappy.
+
+<!--Finale: The Lights in the Dark, and the Birth of a Walking Ghost-->
+By my sixth year of secondary school, my mind had matured enough, had absorbed enough knowledge, that I could no longer endure my father. His own sense of powerlessness, accumulated over years of unemployment, seemed to fuel his need to assert absolute authority over me. His lectures became more frequent, more intense—booming, relentless monologues that could last for two hours. There was no escape. I could blast the television at full volume, retreat to my computer and crank my headphones up until the music bled out, and still, he would not stop.
+
+Our conflicts escalated. On countless nights, I was forced into exile just to do my homework. Sometimes I would flee to the local McDonald's, a noisy haven crowded with other students. Sometimes, to a park, where I would be devoured by mosquitoes in the suffocating heat. It was the darkest period of my life. I would sit in some forgotten corner, looking out at the million points of light in the city's apartment buildings, and I knew, with a certainty that hollowed me out, that not a single one of those lights was shining for me. I wanted to die.
+
+And perhaps, in a way, I already had.
+
+I finally understood that my obsession with grades, with success, had never been for me. It was for him. And it was a currency that was worthless in his kingdom. He was never satisfied. When I was in my second year, he had promised me a computer if I came first in the entire grade. I did. He reneged, giving me some meaningless trinket I can no longer even remember. The system was rigged. The game was unwinnable.
+
+I no longer needed to please anyone. But I didn't know how to please myself. I had never once thought about what *I* wanted. I only knew that the things the world told me I should want held no value, no meaning for me. Even coming first in the grade brought no sense of accomplishment. It was a hollow victory in a war I had never chosen to fight. I had lost the orbit of my own life.
+
+I became a walking ghost. A body stripped of its ability to feel, a mind stripped of the language to express its dissent. But inside this corpse, a universe of unreleased thought was waiting, silently, for a world that did not yet exist.
+
+What else could I do but not die? I asked myself this question, over and over. Perhaps it was just a lack of courage. Or perhaps, it was something else. A dim, almost imperceptible realization that the self of today and the self of ten, twenty years from now, would be two entirely different, unrecognizable people. The me of today had no meaning, no place in the world. But the me of thirty years from now? He might be something else entirely.
+
+I had no hope, but I had a hypothesis.
+
+And that hypothesis, a single, flickering data point in a sea of darkness, was just enough to keep the ghost walking.
