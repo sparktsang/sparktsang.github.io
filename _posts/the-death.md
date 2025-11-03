@@ -31,7 +31,7 @@ Many times, listening to him, I would start to cry.
 And in that moment of shared, fragile humanity, my father had created a universe of contradiction that I, a child, could not possibly navigate. I was being forged in a crucible of double binds: be smart, but know that your success is meaningless; be strong, but watch your father weep from his own weakness. 
 
 <!--Act II: The Mother's Battlefield - The Unconscious Nuke-->
-"What are you crying for? There's nothing to cry about.＂ My mother’s voice would cut through the air, sharp and cold, when I was in those moments of tearful, identity-shattering confusion.
+"What are you crying for? There's nothing to cry about." My mother’s voice would cut through the air, sharp and cold, when I was in those moments of tearful, identity-shattering confusion.
 
 She, too, was a person who had failed the empathy test. My father and mother, I realized, were drawn to each other for a reason. Where my father's cruelty was often calculated, a tool of indoctrination, my mother's was a more chaotic, unconscious force of nature. She was a woman with zero capacity for communication and even less for emotional regulation, a co-author of the violent clashes in our home. It was a pattern of interaction that would later be passed down, like a cursed heirloom, to her relationship with me. She possessed a superpower I have never witnessed in another human being: the ability to utter a single sentence that could, with the force of a nuclear bomb, obliterate the very foundations of trust and respect.
 
