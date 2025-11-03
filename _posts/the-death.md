@@ -1,4 +1,4 @@
-I: The Death
+"Portrait of the Artist as a Young Ghost: An Autopsy of a Childhood"
 
 <!--Prologue: The Mute Genius-->
 Something has always been wrong with me.
