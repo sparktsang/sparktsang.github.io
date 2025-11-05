@@ -5,7 +5,7 @@ Prequel — [*Portrait of the Artist as a Young Ghost: An Autopsy of a Childhood
 <!--Prologue: A Ghost's Matriculation-->
 I was a walking ghost, and ghosts have no ambition. The very concept of worldly success had become alien to me; I had lost the capacity to even feel a sense of accomplishment. The grades that had once been my currency in my father's kingdom were now meaningless paper.
 
-My final two years of high school were called "pre-university," a promise of preparation for a higher realm of learning. It was a lie. It was just more of the same, a continuation of a curriculum I had no passion for. I had hoped, at least, for better teachers. I was wrong.
+My final two years of high school were called "pre-university", a promise of preparation for a higher realm of learning. It was a lie. It was just more of the same, a continuation of a curriculum I had no passion for. I had hoped, at least, for better teachers. I was wrong.
 
 My Advanced Mathematics teacher, who had been my tormentor for four years, was the most boring educator I had ever encountered. Most teachers had learned to let me sleep in class, but not him. I was his captive audience. I thought of a classmate who would ask me for help; I could explain a concept to her in three sentences that she had failed to grasp after years of his lifeless drone. *It’s not that I’m smart,* I thought with a bitter irony, *it’s that the teacher is terrible.* He had, with a slow, methodical precision, systematically murdered my childhood love for mathematics, a love so pure that I used to spend my holidays solving math problems for fun.
 
