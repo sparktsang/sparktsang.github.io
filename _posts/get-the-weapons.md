@@ -1,4 +1,4 @@
-II. The Weapons - 
+II. The Weapons
 
 <!--Prologue: A Ghost's Matriculation-->
 I was a walking ghost, and ghosts have no ambition. The entire concept of worldly success had become alien to me; I had lost the very capacity to feel a sense of accomplishment. The grades that had once been my currency in my father's kingdom were now meaningless paper.
