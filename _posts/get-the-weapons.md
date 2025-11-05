@@ -51,14 +51,14 @@ It was a broken system. So I decided to fix it.
 
 I had accumulated a certain amount of influence on the platform. I formed an alliance, a league of justice. We found another loophole in the system's code: an answer that received 51 downvotes would cost the author 100 points. We organized a collective downvoting campaign, a targeted, systematic purge of the cheaters, knocking them back down to the novice levels.
 
-Our alliance grew to over a hundred members. And to govern it, I built the system I had always dreamed of. It was my first attempt at creating a perfect institution. Decisions were not made by votes, but by reasoned argument. One person was appointed as an arbiter to judge the validity of the arguments. There was an appeal process. Only when both sides were at a complete, logical stalemate would the matter be put to a vote.
+Our alliance grew to over a hundred members. And to govern it, I built a meritocracy of reason—a prototype of the world I wished to live in. Decisions were not made by votes, but by reasoned argument. One person was appointed as an arbiter to judge the validity of the arguments. There was an appeal process. Only when both sides were at a complete, logical stalemate would the matter be put to a vote.
 
 This system was born from the very flaws I had witnessed. A simple vote is not enough. It can be ignorant, biased, or manipulated. A vote only has value if it is cast by someone who has seriously weighed all the evidence. The logic was so simple, yet I saw no parallel in the real world. Why was there no such system in our societies?
 
 In this small, digital kingdom, I was no longer just a player. I was a legislator, a king. I had forged a shield of justice from the loopholes of a broken world, and for the first time, I felt the intoxicating thrill of building a system that worked, a system that was fair. It was a taste of a power I had never known in the real world—the power not just to win the game, but to rewrite its rules.
 
 <!--Act III: The Backfire of the Weapons-->
-I was a king in the digital realm. But in the real world of university life, I was more of a ghost than ever. My newfound analytical framework, the blade of deconstruction I had so eagerly wielded online, had become a curse in the analog world.
+Every weapon cuts both ways. I was a king in the digital realm. But in the real world of university life, I was more of a ghost than ever. My newfound analytical framework, the blade of deconstruction I had so eagerly wielded online, had become a curse in the analog world.
 
 It was too powerful. I could no longer just *have* a conversation. I was perpetually deconstructing it. I would sit in a group, a silent observer, and I could see it all: the invisible threads of power, the subtle bids for validation, the polite smiles masking seething resentment. Every sentence had a subtext, every word was a move in a power struggle, an attempt to produce an effect—even if the speakers themselves were completely unaware, and would vehemently deny it if confronted. I saw my old high school classmates on campus and walked past them as if they were strangers, unable to engage in the meaningless rituals of reunion.
 
