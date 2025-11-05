@@ -7,6 +7,10 @@ category: "Life"
 image: assets/images/broken_childhood_bing.jpeg
 ---
 
+This essay is the first of a eleven-part series.
+
+---
+
 <!--Prologue: The Mute Genius-->
 Something has always been wrong with me.
 
