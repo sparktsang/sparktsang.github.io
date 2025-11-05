@@ -65,3 +65,18 @@ It was too powerful. I could no longer just *have* a conversation. I was perpetu
 I lost all interest in human interaction. It felt like watching a poorly-written play where I already knew everyone's lines and hidden motives. I tried to explain this feeling to a university counselor, but I had no words for it. The language of my alienation had not yet been invented. "But what's the problem with that?" she had asked. Her question revealed a terrifying void at the heart of the entire therapeutic tradition: if the patient himself cannot articulate what is wrong, then perhaps nothing is wrong. The very discipline that was supposed to heal the mind lacked any objective metric for what a healthy mind even was. I knew something was wrong, deeply wrong, but the world had not given me the language to name it.
 
 I understood that knowledge had its limits. I could learn everything about the world, but I still had no tools to understand my own condition. Most of the time, I simply felt numb, empty, a walking ghost still haunting the corridors of my own life, a life I had technically reclaimed but did not know how to live.
+
+<!--Finale: From Critique to Argumentation - The Ultimate Quest for a Weapon-->
+Academically, Cultural Studies was a game I could play with ease. I learned to mimic its peculiar writing style, a jargon-laden prose that performed the act of critique. Good grades came easily. But as I read deeper, a profound dissatisfaction set in. The discipline offered only diagnosis, never a prescription. It was brilliant at describing the symptoms of the system—capitalism did this, patriarchy did that—but it could never make a moral judgment. It lacked the language of "ought." It couldn't even answer its own fundamental questions: Does a universal morality exist? How would one even begin to argue for a more just framework for gender relations? I could continue to parrot its style, but I knew, with a growing certainty, that this was not what I was looking for.
+
+So, in my third year of university, I staged my own quiet rebellion. I transferred to Philosophy.
+
+Here, finally, I found more refined tools, especially the architecture of moral argumentation. I devoured Rawls' theory of justice, wrestled with trolley problems and abortion dilemmas. I was captivated by the existentialist cry that existence precedes essence. I even formed a small study group with another student to delve into the philosophy of free will, a topic not even covered in our formal curriculum.
+
+But I soon discovered that I had merely traded one prison for another. The philosophy department, too, was a flawed system. It valued exams over deep, independent research. I was forced to study the history of outdated theories, ideas whose argumentative foundations had long since crumbled. For the subjects that held no meaning for me, I did the bare minimum. I drifted, a ghost in yet another machine.
+
+Ｏutside the classroom, I was slowly, quietly, building a life. The government student loan I had taken out became my lifeline. I paid the utility bills at home, easing the financial burden on my family and, in turn, the tension with my father. I was meticulous with my finances, living frugally, and I began to experiment with investing, tasting my first small profits. That student loan, meant to be a debt, ironically became the seed capital for my future freedom.
+
+University was over. I had survived, barely. I had a degree in philosophy and a small fortune born from a student loan. I was armed to the teeth with theories of deconstruction and moral argumentation.
+
+And I was completely, utterly, unprepared for what came next.
