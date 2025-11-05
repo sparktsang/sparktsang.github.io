@@ -1,4 +1,4 @@
-Prequel — [*Portrait of the Artist as a Young Ghost: An Autopsy of a Childhood*]([https://sparktsang.github.io/life/2025/10/15/psychedelic.html](https://sparktsang.github.io/life/2025/10/25/childhood.html))
+Prequel — [*Portrait of the Artist as a Young Ghost: An Autopsy of a Childhood*](https://sparktsang.github.io/life/2025/10/25/childhood.html)
 
 ---
 
