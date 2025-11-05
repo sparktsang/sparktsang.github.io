@@ -19,7 +19,7 @@ A few years earlier, I might have thought the problem was me. But I knew better 
 
 But this defiant thought, of course, could only be kept in my heart. I had lost all desire for a future. I held the system in utter contempt. I had no desire to argue with it, and the world, it seemed, had no need for my voice. I expected nothing from the world, and nothing from myself.
 
-So I drifted. I did the bare minimum, carefully calibrating my efforts to achieve grades that were just good enough to get into a decent university—one that, ironically, was ranked in the global top 50 at the time. I randomly enrolled in Cultural Studies, a subject many considered a fallback option.
+So I drifted. I did the bare minimum, carefully calibrating my efforts to achieve grades that were just good enough to get into a decent university—one that was ranked in the global top 50. I randomly enrolled in Cultural Studies, a subject many considered a fallback option.
 
 I had no idea what Cultural Studies was.
 
