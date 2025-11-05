@@ -7,7 +7,7 @@ category: "Life"
 image: assets/images/broken_childhood_bing.jpeg
 ---
 
-This essay is the first of a eleven-part series.
+This essay is the first of an eleven-part series.
 
 ---
 
