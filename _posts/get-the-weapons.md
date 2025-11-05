@@ -75,7 +75,7 @@ Here, finally, I found more refined tools, especially the architecture of moral 
 
 But I soon discovered that I had merely traded one prison for another. The philosophy department, too, was a flawed system. It valued exams over deep, independent research. I was forced to study the history of outdated theories, ideas whose argumentative foundations had long since crumbled. For the subjects that held no meaning for me, I did the bare minimum. I drifted, a ghost in yet another machine.
 
-Ｏutside the classroom, I was slowly, quietly, building a life. The government student loan I had taken out became my lifeline. I paid the utility bills at home, easing the financial burden on my family and, in turn, the tension with my father. I was meticulous with my finances, living frugally, and I began to experiment with investing, tasting my first small profits. That student loan, meant to be a debt, ironically became the seed capital for my future freedom.
+Outside the classroom, I was slowly, quietly, building a life. The government student loan I had taken out became my lifeline. I paid the utility bills at home, easing the financial burden on my family and, in turn, the tension with my father. I was meticulous with my finances, living frugally, and I began to experiment with investing, tasting my first small profits. That student loan, meant to be a debt, ironically became the seed capital for my future freedom.
 
 University was over. I had survived, barely. I had a degree in philosophy and a small fortune born from a student loan. I was armed to the teeth with theories of deconstruction and moral argumentation.
 
