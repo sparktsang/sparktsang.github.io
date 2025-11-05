@@ -1,4 +1,7 @@
-II. The Weapons
+Prequel — [*	
+Portrait of the Artist as a Young Ghost: An Autopsy of a Childhood*]([https://sparktsang.github.io/life/2025/10/15/psychedelic.html](https://sparktsang.github.io/life/2025/10/25/childhood.html))
+
+---
 
 <!--Prologue: A Ghost's Matriculation-->
 I was a walking ghost, and ghosts have no ambition. The very concept of worldly success had become alien to me; I had lost the capacity to even feel a sense of accomplishment. The grades that had once been my currency in my father's kingdom were now meaningless paper.
