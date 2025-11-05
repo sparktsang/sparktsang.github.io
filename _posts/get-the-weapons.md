@@ -37,3 +37,22 @@ This new way of thinking—of taking a step back to analyze the logic of the sys
 In an online game I played, the entire structure was feudal. Players were vassals to other players. You could conquer vassals by force, or persuade them to defect. At higher levels, the game became a brutal grind. But I saw a loophole, a flaw in the system's code. I found a partner, another high-level player. We systematically attacked each other, "conquering" all of each other's vassals. The game's algorithm didn't immediately recalculate our power level, so for a brief window, we were two kings with no subjects, instantly demoted to the lowest rank. Down there, conquering weaker, undefended vassals was child's play. After our pillaging, we simply returned the vassals to each other, our power restored, our new subjects securely locked in. The players we had plundered had no way to retaliate.
 
 The girl who was my partner in this grand heist, with whom I had spent countless sleepless nights orchestrating these digital raids, eventually became my girlfriend. Our relationship lasted for two years. I had hacked the system, and I had been rewarded not just with power, but with a connection. For a walking ghost, it was the first taste of being alive.
+
+<!--Act II: The Shield of Justice-->
+At the same time, I found another arena for my newfound weapons: Yahoo! Answers, a platform then thriving in Hong Kong. It was a gamified system of knowledge, where points were awarded for good answers, allowing you to level up. I was baffled by the endless stream of questions whose answers were a simple search away. Even more baffling were the people who answered by copy-pasting from Wikipedia, acting as inefficient human search engines.
+
+My mind, with its built-in drive to find the optimal solution, saw its stage. I honed my skills in research, synthesis, and organization. In almost any field, even those completely new to me, I could, with a little effort, produce an answer superior to all others. My knowledge base expanded across history, film, psychology, relationships, and a dozen other practical domains.
+
+Initially, the system was frustrating. My objectively superior answers would go unnoticed, lost in a sea of mediocrity, while popularity contests and vote-trading decided the "best" answer. But I soon found like-minded individuals, a small group of serious contributors. We formed a gentleman's agreement: we would vote for each other's answers, but only if we genuinely believed it was the best. With this small, meritocratic alliance, I easily leveled up.
+
+But the system was corrupt. A faction of users exploited a loophole, creating multiple accounts to ask themselves questions and award themselves "Best Answer," artificially inflating their scores. The platform was flooded with this fraud, and my complaints to the powerless administrators went ignored.
+
+It was a broken system. So I decided to fix it.
+
+I had accumulated a certain amount of influence on the platform. I formed an alliance, a league of justice. We found another loophole in the system's code: an answer that received 51 downvotes would cost the author 100 points. We organized a collective downvoting campaign, a targeted, systematic purge of the cheaters, knocking them back down to the novice levels.
+
+Our alliance grew to over a hundred members. And to govern it, I built the system I had always dreamed of. It was my first attempt at creating a perfect institution. Decisions were not made by votes, but by reasoned argument. One person was appointed as an arbiter to judge the validity of the arguments. There was an appeal process. Only when both sides were at a complete, logical stalemate would the matter be put to a vote.
+
+This system was born from the very flaws I had witnessed. A simple vote is not enough. It can be ignorant, biased, or manipulated. A vote only has value if it is cast by someone who has seriously weighed all the evidence. The logic was so simple, yet I saw no parallel in the real world. Why was there no such system in our societies?
+
+In this small, digital kingdom, I was no longer just a player. I was a legislator, a king. I had forged a shield of justice from the loopholes of a broken world, and for the first time, I felt the intoxicating thrill of building a system that worked, a system that was fair. It was a taste of a power I had never known in the real world—the power not just to win the game, but to rewrite its rules.
