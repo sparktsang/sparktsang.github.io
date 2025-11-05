@@ -1,3 +1,5 @@
+"The Forging of the Mind: How I Learned to Bend Systems"
+
 Prequel — [*Portrait of the Artist as a Young Ghost: An Autopsy of a Childhood*](https://sparktsang.github.io/life/2025/10/25/childhood.html)
 
 ---
