@@ -79,3 +79,7 @@ What else could I do but not die? I asked myself this question, over and over. P
 I had no hope, but I had a hypothesis.
 
 And that hypothesis, a single, flickering data point in a sea of darkness, was just enough to keep the ghost walking.
+
+---
+  
+Sequel — [*The Forging of the Mind: How I Learned to Bend Systems*]
