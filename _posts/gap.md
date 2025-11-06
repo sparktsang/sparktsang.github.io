@@ -30,11 +30,11 @@ I started over, this time with more diligence. I found another firm, better-revi
 
 But the work they delivered was a world away from the slick, professional design of their own website. "This isn't it," I explained. "The feeling is all wrong." They tried to persuade me, arguing that what they had built was exactly what my "business needs" required. To break through their wall of condescending expertise, I had to resort to deception. I pretended I was part of a team, fabricated a set of meeting minutes from a fictional board meeting, and sent it to them. *This is our collective decision*, the document stated. *Your work is not up to standard.*
 
-They compromised, as the contract dictated. But the revision was a joke—a few minor color adjustments. The fundamental design, the "feeling", remained completely unchanged.
+They compromised, as the contract dictated. But the revision was a joke—a few minor colour adjustments. The fundamental design, the "feeling", remained completely unchanged.
 
 I gave up.
 
-I could not understand it. My request was simple, reasonable. Yet it was impossible to fulfill. I didn't know how to proceed, how to build this simple window. My faith in so-called "experts," in the very idea of professional competence, was completely shattered. I had paid my money, signed the contracts, followed the rules. And in return, I had received nothing but fraud and incompetence. The beautifully rational world of theory had collided with the messy, irrational world of practice, and I was the wreckage.
+I could not understand it. My request was simple, reasonable. Yet it was impossible to fulfil. I didn't know how to proceed, how to build this simple window. My faith in so-called "experts," in the very idea of professional competence, was completely shattered. I had paid my money, signed the contracts, followed the rules. And in return, I had received nothing but fraud and incompetence. The beautifully rational world of theory had collided with the messy, irrational world of practice, and I was the wreckage.
 
 <!--Act II: Solace in the Virtual Kingdom-->
 The real world had rejected me. So I retreated. I created a simple blog, a digital fortress, and vowed to build my kingdom from scratch. I would trust no one. No more paid services, no more "experts". I knew not everything in the world was a scam, but the fundamental problem remained: I had no "trustworthy mechanism" to distinguish the trustworthy from the fraudulent. It seemed to me the most important problem in the world, yet no one else seemed to have even thought of it. Was I even human? Or was I some kind of alien, just as a classmate had once mockingly called me the "Prince of Mars"?
