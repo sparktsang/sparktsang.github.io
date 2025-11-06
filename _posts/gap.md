@@ -35,3 +35,22 @@ They compromised, as the contract dictated. But the revision was a joke—a few 
 I gave up.
 
 I could not understand it. My request was simple, reasonable. Yet it was impossible to fulfill. I didn't know how to proceed, how to build this simple window. My faith in so-called "experts," in the very idea of professional competence, was completely shattered. I had paid my money, signed the contracts, followed the rules. And in return, I had received nothing but fraud and incompetence. The beautifully rational world of theory had collided with the messy, irrational world of practice, and I was the wreckage.
+
+<!--Act II: Solace in the Virtual Kingdom-->
+The real world had rejected me. So I retreated. I created a simple blog, a digital fortress, and vowed to build my kingdom from scratch. I would trust no one. No more paid services, no more "experts." I knew not everything in the world was a scam, but the fundamental problem remained: I had no "trustworthy mechanism" to distinguish the trustworthy from the fraudulent. It seemed to me the most important problem in the world, yet no one else seemed to have even thought of it. Was I even human? Or was I some kind of alien, just as a classmate had once mockingly called me the "Prince of Mars"?
+
+Without a budget, I had to rely on my wits. I found a loophole. An online newspaper published its articles around 4 AM, each with a Facebook comment plugin. I would wake up before dawn, craft a trenchant, insightful comment, and post it the moment the articles went live. First-mover advantage. A few early "likes" would trigger the algorithm, pushing my comment to the top, where it would gather more likes, more visibility. I would weave a link to my website into the comment, not as a crude advertisement, but as a subtle, relevant extension of the argument. It was a difficult intellectual challenge. And I was good at it.
+
+But it wasn't enough. The traffic was a trickle, and I lacked the business knowledge to convert it. I still didn't have the key to success.
+
+So I went where my power was absolute. I returned to the online forums, becoming a master of relationship advice. I saw the patterns, the universal logic behind every romantic problem. The answers were mass-producible. I created a grand unified theory of relationships and deployed it relentlessly, quoting myself, building a fortress of logic. I was hailed as a master. People even began to pay me for my advice.
+
+In another game, a world of feudal conquest, I learned from my mistakes. Aware of the limitations of my own abrasive leadership style, I found a weaker, more pliable leader and installed him as a puppet king. I became his Grand Vizier, the power behind the throne. Shielded from direct criticism, I was free to execute my grand strategy. I transformed a near-dead alliance into a sprawling empire of over 150 members. The early days were brutal. Fear was my primary tool. Disobey an order, and you become the prey for the entire alliance. Once order was established, the expansion was relentless. I developed a tactic we called "instant annihilation"—twenty of us would descend upon a single target simultaneously. In the final second before their castle was razed to the ground, I would send them an invitation to join us. The player who survived this trial by fire was later hailed as a war god, and became my successor when I left the game.
+
+I was focused on my part: building the system. I created a constitution based on universal principles: "an attack on one is an attack on all." I used KPIs—loot captured per week—to systematically recruit the best players. But it was not enough. The people I had personally recruited, the leaders I had promoted, they only saw my harsh, principled rule. They never appreciated the elegant, underlying system I had built. "You only see the alliance," they said, "not the people in it."
+
+Their judgment was a mortal blow. I left the game, abdicating my throne, my heart filled with a familiar, bitter sense of alienation.
+
+My fleeting successes in the digital world could not be converted into the hard currency of reality. I knew I needed to build a lasting enterprise, but I couldn't even pass the first level of the real-world game.
+
+I was a king of a virtual kingdom, a grandmaster of a game no one else was playing. And I was, once again, completely and utterly lost.
