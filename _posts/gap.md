@@ -51,6 +51,15 @@ I was focused on my part: building the system. I created a constitution based on
 
 Their judgment was a mortal blow. I left the game, abdicating my throne, my heart filled with a familiar, bitter sense of alienation.
 
-My fleeting successes in the digital world could not be converted into the hard currency of reality. I knew I needed to build a lasting enterprise, but I couldn't even pass the first level of the real-world game.
+<!--Finale: A King Without a Kingdom-->
+My fleeting successes in the digital world could not be converted into the hard currency of reality. I knew I needed to build a lasting enterprise, but I couldn't even pass the first level of the real-world game. I was a grandmaster of a game no one else was playing.
 
-I was a king of a virtual kingdom, a grandmaster of a game no one else was playing. And I was, once again, completely and utterly lost.
+I was utterly lost.
+
+The weapons I had forged in the university—the blade of deconstruction, the shield of justice, the architecture of moral argumentation—had made me a king in a kingdom of ghosts and code. But here, in the world of flesh and blood, of handshakes and gut feelings, they had only made me more of an alien. The more I understood the system, the less I knew how to live within it.
+
+I was a man with a map to a better world, a world of logic, fairness, and optimal solutions, stranded on an island of absurdity governed by fraud, incompetence, and unwritten rules.
+
+And as I stood at that dead end, a final, terrifying suspicion began to dawn on me.
+
+Perhaps the map itself was the reason I was lost.
