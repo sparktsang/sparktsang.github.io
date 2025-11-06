@@ -16,3 +16,22 @@ My mind has another ability besides finding the optimal solution: it can simulat
 The path that was so obvious and unavoidable for everyone else was, for me, an abyss of no return. To say I chose another path would be a lie.
 
 The truth is, I had no choice at all.
+
+<!--Act I: The Waterloo of Entrepreneurship-->
+But I still had to make a living. I chose the hard road: entrepreneurship. With no business knowledge, but armed with what I believed was a brilliant idea, I stepped into the brave new world of the Information Age. The gospel was simple and seductive: get a website, get traffic, build a brand, find customers. Opportunities seemed endless.
+
+My first task was to build a small window to the world for my ideas. I researched web design services and found a company whose portfolio seemed solid, a perfect fit for my modest needs. We met for two hours. I explained my vision. I paid them $1,550.
+
+A week passed in silence. I followed up. No reply. I followed up again. The answer finally came: the company had shut down two days ago. There was no mention of a refund. My subsequent inquiries vanished into a black hole. In a moment of desperation, I tried a different tactic. I sent one last message, this time adopting the tone of a triad debt collector. The money was returned to my account the same day.
+
+It was my first, bitter lesson in the real world: the language of reason was optional, but the language of power was universal.
+
+I started over, this time with more diligence. I found another firm, better-reviewed, more established. We met for three hours. We signed a multi-page contract, the kind of document a lawyer would have charged me a fortune for, but which I could now write myself. Three drafts, two revisions. This seemed legitimate.
+
+But the work they delivered was a world away from the slick, professional design of their own website. "This isn't it," I explained. "The feeling is all wrong." They tried to persuade me, arguing that what they had built was exactly what my "business needs" required. To break through their wall of condescending expertise, I had to resort to deception. I pretended I was part of a team, fabricated a set of meeting minutes from a fictional board meeting, and sent it to them. *This is our collective decision*, the document stated. *Your work is not up to standard.*
+
+They compromised, as the contract dictated. But the revision was a joke—a few minor color adjustments. The fundamental design, the "feeling," remained completely unchanged.
+
+I gave up.
+
+I could not understand it. My request was simple, reasonable. Yet it was impossible to fulfill. I didn't know how to proceed, how to build this simple window. My faith in so-called "experts," in the very idea of professional competence, was completely shattered. I had paid my money, signed the contracts, followed the rules. And in return, I had received nothing but fraud and incompetence. The beautifully rational world of theory had collided with the messy, irrational world of practice, and I was the wreckage.
