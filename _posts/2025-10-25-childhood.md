@@ -82,4 +82,4 @@ And that hypothesis, a single, flickering data point in a sea of darkness, was j
 
 ---
   
-Sequel — [*The Forging of the Mind: How I Learned to Bend Systems*]
+Sequel — [*The Forging of the Mind: How I Learned to Bend Systems*](https://sparktsang.github.io/life/2025/10/25/forging-mind.html)
