@@ -30,7 +30,7 @@ I started over, this time with more diligence. I found another firm, better-revi
 
 But the work they delivered was a world away from the slick, professional design of their own website. "This isn't it," I explained. "The feeling is all wrong." They tried to persuade me, arguing that what they had built was exactly what my "business needs" required. To break through their wall of condescending expertise, I had to resort to deception. I pretended I was part of a team, fabricated a set of meeting minutes from a fictional board meeting, and sent it to them. *This is our collective decision*, the document stated. *Your work is not up to standard.*
 
-They compromised, as the contract dictated. But the revision was a joke—a few minor color adjustments. The fundamental design, the "feeling," remained completely unchanged.
+They compromised, as the contract dictated. But the revision was a joke—a few minor color adjustments. The fundamental design, the "feeling", remained completely unchanged.
 
 I gave up.
 
