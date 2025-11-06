@@ -1,4 +1,11 @@
-"The Forging of the Mind: How I Learned to Bend Systems"
+---
+layout: post
+title: "The Forging of the Mind: How I Learned to Bend Systems"
+short_title: "The Forging of the Mind"
+subtitle: "I was a walking ghost... But inside this corpse, a universe of unreleased thought was waiting, silently, for a world that did not yet exist."
+category: "Life"
+image: assets/images/life-038-forging-of-the-mind.jpg 
+---
 
 Prequel — [*Portrait of the Artist as a Young Ghost: An Autopsy of a Childhood*](https://sparktsang.github.io/life/2025/10/25/childhood.html)
 
