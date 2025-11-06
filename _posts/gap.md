@@ -63,5 +63,3 @@ I was a man with a map to a better world, a world of logic, fairness, and optima
 As I stood at that dead end, a final, terrifying suspicion began to dawn on me.
 
 Perhaps the map itself was the reason I was lost.
-
-And yet, without it, I would have no way to begin again.
