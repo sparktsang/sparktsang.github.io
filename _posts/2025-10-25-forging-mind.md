@@ -64,10 +64,10 @@ Our alliance grew to over a hundred members. And to govern it, I built a meritoc
 
 This system was born from the very flaws I had witnessed. A simple vote is not enough. It can be ignorant, biased, or manipulated. A vote only has value if it is cast by someone who has seriously weighed all the evidence. The logic was so simple, yet I saw no parallel in the real world. Why was there no such system in our societies?
 
-In this small, digital kingdom, I was no longer just a player. I was a legislator, a king. I had forged a shield of justice from the loopholes of a broken world, and for the first time, I felt the intoxicating thrill of building a system that worked, a system that was fair. It was a taste of a power I had never known in the real world—the power not just to win the game, but to rewrite its rules.
+In this small, digital kingdom, I was no longer just a player. I was a legislator. I had forged a shield of justice from the loopholes of a broken world, and for the first time, I felt the intoxicating thrill of building a system that worked, a system that was fair. It was a taste of a power I had never known in the real world—the power not just to win the game, but to rewrite its rules.
 
 <!--Act III: The Backfire of the Weapons-->
-Every weapon cuts both ways. I was a king in the digital realm. But in the real world of university life, I was more of a ghost than ever. My newfound analytical framework, the blade of deconstruction I had so eagerly wielded online, had become a curse in the analog world.
+Every weapon cuts both ways. I was an architect in the digital realm. But in the real world of university life, I was more of a ghost than ever. My newfound analytical framework, the blade of deconstruction I had so eagerly wielded online, had become a curse in the analog world.
 
 It was too powerful. I could no longer just *have* a conversation. I was perpetually deconstructing it. I would sit in a group, a silent observer, and I could see it all: the invisible threads of power, the subtle bids for validation, the polite smiles masking seething resentment. Every sentence had a subtext, every word was a move in a power struggle, an attempt to produce an effect—even if the speakers themselves were completely unaware, and would vehemently deny it if confronted. I saw my old high school classmates on campus and walked past them as if they were strangers, unable to engage in the meaningless rituals of reunion.
 
