@@ -60,6 +60,8 @@ The weapons I had forged in the university—the blade of deconstruction, the sh
 
 I was a man with a map to a better world, a world of logic, fairness, and optimal solutions, stranded on an island of absurdity governed by fraud, incompetence, and unwritten rules.
 
-And as I stood at that dead end, a final, terrifying suspicion began to dawn on me.
+As I stood at that dead end, a final, terrifying suspicion began to dawn on me.
 
 Perhaps the map itself was the reason I was lost.
+
+And yet, without it, I would have no way to begin again.
