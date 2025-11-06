@@ -1,4 +1,4 @@
-III: The Gap - Prologue: The Graduate at the Cliff's Edge
+III: The Gap
 
 <!--Prologue: The Graduate at the Cliff's Edge-->
 I never expected that graduating from university would be the beginning of the longest, darkest valley of my life. Practical reason dictated the next step: get a job. A salary, a semblance of dignity. It was the path everyone took.
