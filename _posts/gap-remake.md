@@ -80,3 +80,18 @@ So, I fought my own war. I found a loophole, a vulnerability in the system. An o
 It was a lonely, painstaking form of guerilla marketing. I didn't know then about the sophisticated architecture of sales funnels. My knowledge of business, of web design, was still rudimentary. The traffic I generated was a mere trickle—a few dozen to a few hundred visitors a day, unstable and insignificant.
 
 I was a pioneer who had claimed a piece of land but did not yet know where to find the key to make it flourish.
+
+<!--Act II, Scene II: The Kingdom of the Forums - A Truth Unwanted-->
+While my Blogger kingdom remained a quiet frontier, I continued to reign supreme in other corners of the digital world. I became a fixture in the relationship advice forums. I saw that all the chaotic, painful stories of human connection could be distilled into a few core principles, a grand unified theory of love and loss. I mass-produced my answers, quoting myself, building an immense, internally consistent fortress of logic. I knew, with an unshakable certainty, that my analyses were the only ones with any real depth. I was hailed as a master. A small, devoted following of people who, like me, were actually trying to think, began to form. Some even offered to pay me for my advice.
+
+But this small circle of acolytes was an island in a vast ocean of noise. I soon realized that the vast majority of users didn't come to the forums to solve their problems. They came to vent. And the vast majority of responders were not there to help; they were there to dispense cheap, baseless, and utterly vulgar opinions. If I stopped posting for a few days, the tide of thoughtless drivel would inevitably drown out all traces of reason. To be heard, I had to be constantly present, fighting for the "second floor"—the first reply after the original post—lest my analysis be buried on page five.
+
+It was a Sisyphean game. I was pushing the boulder of reason up a mountain of irrationality, only to watch it roll back down again. The questions were always the same; the posters never bothered to read previous threads. More than half of them, after pouring out their hearts and asking for help, would simply disappear, never to return, never to read the solutions offered.
+
+My desire to help, my belief in the power of reason, slowly eroded, replaced by a profound, soul-crushing boredom.
+
+Even here, in a world supposedly dedicated to the free exchange of ideas, even when I possessed the "optimal solution," my contribution sank without a trace. It was just like the corporate world I had simulated in my mind: the world has no mechanism, no *consciousness*, to recognize superior value. I was a master to a few, but to the vast majority, my analysis was utterly meaningless.
+
+And that's when I understood. You cannot wake someone who is pretending to be asleep. The fundamental forces that govern humanity are not reason or the pursuit of truth; they are inertia and laziness. They had no intention of accepting a better analysis, just as the corporate world has no real intention of hiring the best person for the job. They are content with the status quo.
+
+I no longer knew who was more of a walking ghost: me, a man who had lost his sense of purpose, or the rest of the world, a world that seemed to have never even started searching for one.
