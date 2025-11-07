@@ -14,3 +14,20 @@ It was a system built on a catastrophic failure of trust. Hiring, based on the g
 Why should my value be defined by such a flawed system? Why should my tasks be assigned by people who had likely risen through this very system of subjectivity and connection, not competence? I was certain that the moment I stepped into an office, the tragedy of my school days would repeat itself on a grander, more soul-crushing scale. I would be trapped again, forced to listen to inefficient, irrational instructions from superiors I did not respect, with no power to protest or improve the system.
 
 These were heretical thoughts, the kind you keep locked away. To speak them aloud would be to declare war on society itself. You could write them in a book, of course. Authors, for some reason, are granted a special license to be heretics, to argue that drug trafficking is just or incest is permissible. But in real life, there was only silence. The world of ideas and the world of practice were two separate realities, a civilization in the final stages of a dissociative identity disorder, with no one willing to admit there was a problem.
+
+<!--Prologue, Act II: The Prophet's Vision-->
+My mind has another ability besides finding the optimal solution: it can simulate reality with the fidelity of a movie. From a few fragments of data, a few observations of the world as it is, I can extrapolate the future. I can see the inevitable trajectory. And as I stood at that precipice of graduation, I ran the simulation. And I saw my own destruction.
+
+I saw myself, in a sterile office, being efficient. I saw myself mastering the company's software, proactively developing better workflows, finding solutions to problems no one else even knew existed. And I saw myself not being rewarded, but being seen as a threat. I was not an asset; I was a tool, or worse, a monster of ambition whose competence unnerved my own superiors. I saw my ideas for improvement getting stuck in a bureaucratic quagmire, dying a slow, silent death with no rational explanation.
+
+I saw the invisible threads of office politics. I saw the incompetent rising through the ranks on a web of connections, issuing commands they didn't understand. I saw myself, once again, becoming the freak my colleagues dared not offend but would inevitably, collectively, ostracize.
+
+I saw myself suffocating.
+
+And I saw the final trap: the salary. The golden handcuffs. Once I became dependent on it to live, I would never be able to leave. I would become a prisoner of the very system I despised, forced to swallow every indignity just to maintain a standard of living.
+
+Every failure I foresaw felt like an error in the system's code, not in me.
+
+The path that was so obvious and unavoidable for everyone else was, for me, an abyss of no return. To say I chose another path would be a lie.
+
+The truth is, I had no choice at all.
