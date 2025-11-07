@@ -133,9 +133,13 @@ I quietly abdicated my throne and left the game.
 
 ---
 <!--Finale: A King Without a Kingdom-->
-My fleeting successes in the digital world could not be converted into the hard currency of reality. I knew I needed to build a lasting enterprise, but I couldn't even pass the first level of the real-world game. I was utterly lost.
+With that, my brief, fleeting successes in the digital world evaporated. They could not be converted into the hard currency of reality. I knew I needed to build a lasting enterprise, but I couldn't even pass the first level of the real-world game. I was a grandmaster of a game no one else was playing.
 
-I looked back at the wreckage of my real-world ambitions and my virtual kingdoms. My entrepreneurial ventures had crashed and burned on the shores of incompetence and fraud. My attempt to build a perfect, rational community in a game had ended in a quiet, lonely abdication, condemned by the very people I had empowered, who told me, "In the end, we follow people, not principles."
+I was utterly lost.
+
+I looked back at the wreckage of my ambitions. My entrepreneurial ventures had crashed on the shores of incompetence and fraud. My attempt to use language to enlighten had dissolved in a sea of apathy. My perfect, rational community in a game had ended in a quiet, lonely abdication, condemned by the very people I had empowered, who had told me, in essence, "We follow men, not principles."
+
+There was no longer any system I could trust—not the market, not the human heart, and not even reason's own creations. Every structure I had built to preserve trust had only accelerated its decay.
 
 Every failure had felt like an error in the system's code, a glitch in the matrix of a world that refused to operate on logic.
 
