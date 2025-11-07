@@ -45,6 +45,7 @@ I had a thousand questions for this society, but there was no channel to ask the
 
 All I could do was keep them to myself, locked away in the silent, lonely kingdom of my own mind.
 
+---
 <!--Act I: The Waterloo of Entrepreneurship-->
 But I still had to make a living. I chose the hard road: entrepreneurship. With no business knowledge, but armed with what I believed was a brilliant idea, I stepped into the brave new world of the Information Age. The gospel was simple and seductive: get a website, get traffic, build a brand, find customers. Opportunities seemed endless.
 
