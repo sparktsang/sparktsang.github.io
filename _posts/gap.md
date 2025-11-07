@@ -1,4 +1,4 @@
-"The Gap: A Chronicle of the Three Deaths of Trust"
+"The Map That Devoured Its Maker"
 
 <!--Prologue, Act I: The Philosopher's "Why?"-->
 I never expected that graduating from university would be the beginning of the longest, darkest valley of my life. Practical reason dictated the next step: get a job. A salary is dignity. It was the path everyone took.
