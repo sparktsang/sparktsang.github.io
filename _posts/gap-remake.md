@@ -115,7 +115,7 @@ But it was not enough. The very people I had personally recruited, the leaders I
 
 The War God, one of the few who showed me any sympathy, delivered the final, devastating verdict just before I left. He expressed his disappointment, a kind of tough love. My weakness, he explained, was that my own player account, my avatar, was not high-level enough. I had poured all my energy into building the kingdom, into designing the system, neglecting the petty task of grinding for personal stats. To him, my in-game prestige was tied to my avatar's power level. The fact that I had built the very empire that gave his avatar meaning was irrelevant.
 
-A profound, unshakeable sorrow washed over me. I had recruited an army of "war gods," but I was utterly alone. No one else had a systemic mindset. No one understood what I was doing.
+A profound, unshakeable sorrow washed over me. I had recruited an army of "war gods", but I was utterly alone. No one else had a systemic mindset. No one understood what I was doing.
 
 I had built a perfect kingdom, but I was a king without a single subject who understood the nature of his own crown.
 
