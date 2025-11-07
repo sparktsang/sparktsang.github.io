@@ -104,7 +104,7 @@ To be heard at all, I had to be constantly present, fighting for the "second flo
 
 My desire to help, my belief in the power of reason to enlighten, slowly eroded, replaced by a profound, soul-crushing boredom.
 
-Even here, in a world supposedly dedicated to the free exchange of ideas, even when I possessed the "optimal solution," my contribution sank without a trace. It was just like the corporate world I had simulated in my mind: the world has no mechanism, no *consciousness*, to recognize superior value.
+Even here, in a world supposedly dedicated to the free exchange of ideas, even when I possessed the "optimal solution", my contribution sank without a trace. It was just like the corporate world I had simulated in my mind: the world has no mechanism, no *consciousness*, to recognize superior value.
 
 I was a master to a few, but a ghost to the many. And that's when I understood. You cannot wake someone who is pretending to be asleep. The fundamental forces that govern humanity are not reason or the pursuit of truth; they are inertia and the desperate need for emotional validation. They had no intention of accepting a better analysis, just as the corporate world has no real intention of hiring the best person for the job. They are content with the status quo.
 
