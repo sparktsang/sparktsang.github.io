@@ -107,7 +107,7 @@ I transformed a near-dead alliance into a sprawling empire of over 150 members. 
 
 Then came the expansion. It was a relentless, terrifyingly efficient campaign. We developed a tactic we called "instant annihilation"—twenty of us would descend upon a single target simultaneously. In the final, heart-stopping second before their castle was razed to the ground, I would send them an invitation to join us. One of the players who survived this trial by fire was later hailed as our "War God", and became my successor when I eventually left the game.
 
-There was office politics, of course, but I ignored it. I was focused on my part: building the system. I wrote the constitution, based on universal principles: "an attack on one is an attack on all." The alliance, in my eyes, was a system, and the competition between alliances was a competition between systems. I used KPIs—loot captured per week—to systematically recruit the best players, sending out invitations to anyone who met the criteria and wasn't already part of a stronger empire.
+There was office politics, of course, but I ignored it. I was focused on my part: building the system. I wrote the constitution, based on universal principles: "an attack on one is an attack on all". The alliance, in my eyes, was a system, and the competition between alliances was a competition between systems. I used KPIs—loot captured per week—to systematically recruit the best players, sending out invitations to anyone who met the criteria and wasn't already part of a stronger empire.
 
 It was a perfect, rational, meritocratic machine. And it was a spectacular success.
 
