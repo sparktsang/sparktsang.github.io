@@ -31,3 +31,18 @@ Every failure I foresaw felt like an error in the system's code, not in me.
 The path that was so obvious and unavoidable for everyone else was, for me, an abyss of no return. To say I chose another path would be a lie.
 
 The truth is, I had no choice at all.
+
+<!--Prologue, Act III: The Loneliness of the Prince of Mars-->
+The vision faded, but the suffocation remained. The path that was so obvious and unavoidable for everyone else was, for me, an abyss of no return. To say I chose another path would be a lie. The truth is, I had no choice at all.
+
+And I could not understand why. Why was the system for matching human resources so utterly broken? The market judged me on my credentials and my past, proxies that could never simulate the actual value I could generate. Why wasn't there a single company whose job interview was a true test of value? An interview where they would present a real, existing workflow, a real pain point, and ask the candidate for a solution? What if a candidate with zero credentials could offer a million-dollar process improvement? Would that not be worth more than a decade of irrelevant experience?
+
+Why did companies post "job vacancies" instead of building a "talent allocation system"? Why was no one building a system to discover a person's true potential, assign them to the most suitable role, and dynamically update it based on feedback and data, finding the optimal solution for both the individual and the organization?
+
+Even if I passed the gate, even if I got the job, the system would never acknowledge the value I could create. It offered no channel for a million-dollar idea. It was a labyrinth of personal interests, of power dynamics, of networks I was not a part of. I saw a world of people going to work without creating value, their positions secure, their performance unmonitored. I saw a culture where landing a cushy, overpaid job was a point of pride, something to be boasted about. I saw a world where almost no one loved what they did.
+
+The bookstores are filled with self-help guides on how to find your passion, how to live your purpose. But I looked around and saw a civilization of people spending decades of their lives in jobs that gave them no meaning. Have they ever thought about it? Have they equipped themselves with the knowledge to find their calling?
+
+I had a thousand questions for this society, but there was no channel to ask them, no one with an obligation to answer. Again, the world of books and the world of practice were two separate realities. I was an alien. The "Prince of Mars," as a classmate had once mockingly called me. And perhaps he was right. I had all these questions, all these ideas for a better world, but they were a currency that had no value here.
+
+All I could do was keep them to myself, locked away in the silent, lonely kingdom of my own mind.
