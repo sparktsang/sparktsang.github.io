@@ -62,7 +62,7 @@ They compromised, as the contract dictated. But the revision was a joke—a few 
 
 I gave up. 
 
-I could not understand it. My request was simple, reasonable. Yet it was impossible to fulfill. I didn't know how to proceed, how to build this simple window. My faith in so-called "experts," in the very idea of professional competence, was completely shattered. This was a more insidious betrayal: the betrayal of professional trust. I had paid my money, signed the contracts, followed the rules. And in return, I had received nothing but fraud and incompetence. The beautifully rational world of theory had collided with the messy, irrational world of practice, and I was the wreckage.
+I could not understand it. My request was simple, reasonable. Yet it was impossible to fulfill. I didn't know how to proceed, how to build this simple window. My faith in so-called "experts", in the very idea of professional competence, was completely shattered. This was a more insidious betrayal: the betrayal of professional trust. I had paid my money, signed the contracts, followed the rules. And in return, I had received nothing but fraud and incompetence. The beautifully rational world of theory had collided with the messy, irrational world of practice, and I was the wreckage.
 
 The market, I was told, offered thousands of choices. I seemed to have the entire world at my fingertips. But I couldn't even pick one single, competent provider. My powerful mental simulation engine was useless. All I had to go on was their online storefront—a few promotional taglines, a curated portfolio of questionable origin, a handful of filtered customer reviews. My engine, no matter how powerful, could not predict the reality behind this tiny, deceptive window.
 
