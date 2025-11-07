@@ -91,7 +91,7 @@ But my victory was hollow. The people who responded to my manifesto, who came to
 
 My grand design for a republic of reason had become nothing more than a glorified flophouse.
 
-I had proven that I could speak the truth with power and precision. But as I looked at the transient, indifferent faces of my "citizens", I realized, with a growing, sickening unease, that if a truth spoken so clearly could not reach another mind, perhaps the problem was not the channel—but the listener. I was an alien, a Prince of Mars, stranded not just in a desert of mistrust, but in the ruins of my own failed utopia.
+I had proven that I could speak the truth with power and precision. But as I looked at the transient, indifferent faces of my "citizens", I realized, with a growing, sickening unease, that if a truth spoken so clearly could not reach another mind, perhaps the problem was not the channel—but the listener. I was an alien, stranded not just in a desert of mistrust, but in the ruins of my own failed utopia.
 
 <!--Act II, Scene II: The Kingdom of the Forums - A Truth Unwanted-->
 I continued to reign supreme in other corners of the digital world. I became a fixture in the relationship advice forums. I saw that all the chaotic, painful stories of human connection could be distilled into a few core principles, a grand unified theory of love and loss. I mass-produced my answers, quoting myself, building an immense, internally consistent fortress of logic. I knew, with an unshakable certainty, that my analyses were the only ones with any real depth. I was hailed as a master. A small, devoted following of people who, like me, were actually trying to think, began to form. Some even offered to pay me for my advice.
