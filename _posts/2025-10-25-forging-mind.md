@@ -89,3 +89,7 @@ Outside the classroom, I was slowly, quietly, building a life. The government st
 University was over. I had a degree in philosophy and a small fortune born from a student loan. I was armed to the teeth with theories of deconstruction and moral argumentation. I had survived, even though I had not yet lived. 
 
 And I was completely, utterly, unprepared for what came next.
+
+---
+
+Sequel — [*The Map That Devoured Its Maker*](https://sparktsang.github.io/life/2025/10/25/gap.html)
