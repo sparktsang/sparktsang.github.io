@@ -41,6 +41,6 @@ Even if I passed the gate, even if I got the job, the system would never acknowl
 
 The bookstores are filled with self-help guides on how to find your passion, how to live your purpose. But I looked around and saw a civilization of people spending decades of their lives in jobs that gave them no meaning. Have they ever thought about it? Have they equipped themselves with the knowledge to find their calling?
 
-I had a thousand questions for this society, but there was no channel to ask them, no one with an obligation to answer. Again, the world of books and the world of practice were two separate realities. I was an alien. The "Prince of Mars," as a classmate had once mockingly called me. And perhaps he was right. I had all these questions, all these ideas for a better world, but they were a currency that had no value here.
+I had a thousand questions for this society, but there was no channel to ask them, no one with an obligation to answer. Again, the world of books and the world of practice were two separate realities. I was an alien. The "Prince of Mars", as a classmate had once mockingly called me. And perhaps he was right. I had all these questions, all these ideas for a better world, but they were a currency that had no value here.
 
 All I could do was keep them to myself, locked away in the silent, lonely kingdom of my own mind.
