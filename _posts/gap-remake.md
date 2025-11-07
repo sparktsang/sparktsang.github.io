@@ -73,6 +73,7 @@ This is happening in the Information Age, an era that promised to empower us all
 
 And the most baffling part? No one seemed to complain. Billions of consumers, navigating this broken system every day, yet they seemed to accept it with a placid, almost cheerful resignation. The library of critique against capitalism is vast, yet I had never heard a single real person voice this fundamental complaint—not about a particular service, but about the systemic failure. My ability to see the underlying logic had once felt like a superpower. Now, it just made me feel more like an alien. Was the problem with the eight billion people on this planet, or was it just me, the Prince of Mars, shouting into the void?
 
+---
 <!--Act II, Scene I: The Blogger Kingdom - A Lonely Pioneer-->
 Defeated in the real world, I retreated to the only territory I had left: the digital frontier. I created a simple Blogger account, a humble digital plot of land, and began to build everything from scratch. My faith in paid services, in "experts", was shattered. I would pay no one to drive traffic to my site, buy no ads from the platforms I no longer trusted. It wasn't that I believed everything in the world was a scam. It was that I had no trustworthy mechanism to distinguish the trustworthy from the fraudulent. It seemed to me the most fundamental problem in the world, and yet, no one else seemed to have even thought about it. I had to accept I was an alien, alone with my impossible questions.
 
