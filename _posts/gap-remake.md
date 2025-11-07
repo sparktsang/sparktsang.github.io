@@ -137,4 +137,4 @@ I was a man armed with the tools to build a perfect system of trust, stranded in
 
 And as I stood at that dead end, a final, terrifying suspicion began to dawn on me.
 
-Perhaps the map itself was the reason I was lost. I had spent my life searching for a rational path through an irrational world. But what if that was the ultimate delusion? **What if, in a world where trust has died, to continue to be rational is not a noble act, but the most irrational act of all?**
+Perhaps the map itself was the reason I was lost. I had spent my life searching for a rational path through an irrational world. But what if that was the ultimate delusion? What if, in a world where trust has died, to continue to be rational is not a noble act, but the most irrational act of all?
