@@ -22,7 +22,7 @@ I saw myself, in a sterile office, being efficient. I saw myself mastering the c
 
 I saw the invisible threads of office politics. I saw the incompetent rising through the ranks on a web of connections, issuing commands they didn't understand. I saw myself, once again, becoming the freak my colleagues dared not offend but would inevitably, collectively, ostracize.
 
-I saw myself suffocating.
+I saw myself suffocating. I could almost feel the recycled, stale air of the office on my skin, hear the relentless, low hum of a server rack, see the flicker of a fluorescent light that no one ever bothered to fix. It was a vision not of dramatic failure, but of a slow, mundane, and utterly soul-crushing decay.
 
 And I saw the final trap: the salary. The golden handcuffs. Once I became dependent on it to live, I would never be able to leave. I would become a prisoner of the very system I despised, forced to swallow every indignity just to maintain a standard of living.
 
