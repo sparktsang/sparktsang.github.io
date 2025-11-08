@@ -34,7 +34,7 @@ Then there were the tribal lores, spoken of with the casualness of war stories. 
 
 I saw how regulations, designed to protect the consumer, were systematically neutralized. The ever-increasing complexity of forms and financial needs analyses, meant to ensure transparency, had the opposite effect. No one actually explained everything on the forms. Each team had its own unofficial guide on how to fill them out just enough to be "compliant". The ultimate goal was to get the client's signature. And if you couldn't get it? If the client trusted you enough, you could... find a way.
 
-Everything was a dance on the edge of legality. My understanding of "compliance" reached a new, almost spiritual, level. It was not about following the rules, but about mastering the art of not getting caught breaking them.
+Everything was a dance on the edge of legality. My understanding of "compliance" reached a new, almost spiritual, level. It was not about following the rules, but about mastering the art of not getting caught breaking them. Every ritual here was a simulation of trust — a performance so convincing that even the performers believed it.
 
 <!--Act III: The Birth of an Infiltrator - Finding the North Star-->
 The tribe had its training rituals. At every level, there were endless sales courses. We were given scripts, perfectly crafted, almost unnatural in their precision, and forced to practice them on each other in the office for hours on end. They called it "drilling", a term borrowed from the military. I became a tool for reciting scripts, especially in my chosen field of cold calling, repeating the same soulless monologue into the phone, day after day.
