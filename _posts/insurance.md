@@ -22,7 +22,7 @@ It was a utopia. Or rather, it was a perfect simulation of one. They weren't off
 
 In my desperation, I chose to believe the simulation.
 
-<!--Act II: An Absurdist's Field Study - Learning the Unwritten Rules-->
+<!--Act I: The Rituals of Simulation-->
 The utopia, at first, seemed real. There was a genuine sense of solidarity. Since agents worked on commission from their own clients, there was little internal conflict. Managers had a strong incentive to foster a supportive, team-based culture.
 
 But I soon discovered that even in this industry, the one that prided itself on compliance, there was an entire universe of unwritten rules that governed everything. I had not joined a business; I had been initiated into a tribe with its own bizarre and elaborate rituals.
