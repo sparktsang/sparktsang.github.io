@@ -53,7 +53,7 @@ But how many other actors in this theatre would ever dare to break character? I 
 <!--Act III: A Revolution Against the Simulation-->
 And in that moment of profound alienation, I finally saw the true nature of the machine I was in. It wasn't just a few bad actors; it was the entire play that was corrupt. The system wasn't just flawed; it was designed to be so. The whole industry was built on an irreconcilable, systemic conflict of interest.
 
-Imagine a world where medicine and pharmacy were not separate, where your doctor's only income came from the drugs he sold you. How could you ever trust his diagnosis? The insurance industry was this anachronism made real. The person making the "diagnosis" and the person earning the commission from the "prescription" were one and the same. For the first time since graduation, I felt the intoxication of moral clarity—a clarity so sharp, so absolute, it burned.
+Imagine a world where medicine and pharmacy were not separate, where your doctor's only income came from the drugs he sold you. How could you ever trust his diagnosis? The insurance industry was this anachronism made real. The person making the "diagnosis" and the person earning the commission from the "prescription" were one and the same. For the first time since graduation, I felt the intoxication of moral clarity—a clarity so sharp it burned.
 
 How could such a logically bankrupt system not only exist, but thrive? Why was no one talking about this? The answer, as it always is, was self-interest. The very people who understood this problem most deeply were also the ones who benefited from it the most.
 
