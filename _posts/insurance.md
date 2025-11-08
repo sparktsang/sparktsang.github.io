@@ -39,15 +39,15 @@ Everything was a dance on the edge of legality. My understanding of "compliance"
 <!--Act III: The Birth of an Infiltrator - Finding the North Star-->
 The tribe had its training rituals. At every level, there were endless sales courses. We were given scripts, perfectly crafted, almost unnatural in their precision, and forced to practice them on each other in the office for hours on end. They called it "drilling", a term borrowed from the military. I became a tool for reciting scripts, especially in my chosen field of cold calling, repeating the same soulless monologue into the phone, day after day.
 
-But the city dwellers of Hong Kong, bombarded by a lifetime of sales pitches, were immune to such tactics. And I soon discovered a fundamental truth: trust is the rarest of assets, especially when you are trying to sell an expensive, intangible promise to a stranger.
+But the city dwellers bombarded by a lifetime of sales pitches, were immune to such tactics. And I soon discovered a fundamental truth: trust is the rarest of assets, especially when you are trying to sell an expensive, intangible promise to a stranger.
 
 The breakthrough came not from the script, but from abandoning it. In a few rare moments, when I found myself speaking against my own financial interest—telling a prospect, "Given your situation, you probably don't actually need this type of insurance"—I would see a flicker of something extraordinary in their eyes. A look of genuine, surprised trust. It was a look that could only be earned when they realized you were no longer a salesman, but a human being telling them a difficult truth.
 
 But how many other agents would do the same? I thought of the pure term life insurance policies—an essential product for certain clients, yet one that was almost never sold. The commissions were negligible compared to the lucrative savings-linked plans. I watched as colleagues celebrated closing huge deals, their sharing sessions focusing entirely on the sales process, on the step-by-step methodology of getting the client to sign, never on whether the product was actually the best solution for that client’s needs. No one seemed to think there was a problem with this. And once again, I felt like an alien, a man from a different planet, observing the strange, illogical rituals of this tribe.
 
-And in those moments, I finally saw the true nature of the machine I was in. It wasn't just a few bad apples; it was the entire orchard that was rotten. The system wasn't just flawed; it was designed to be so. The entire industry was built on an irreconcilable, systemic conflict of interest.
+And in those moments, I finally saw the true nature of the machine I was in. It wasn't just a few bad apples; it was the entire orchard that was rotten. The system wasn't just flawed; it was designed to be so. The entire industry was built on an irreconcilable, systemic conflict of interest. 
 
-Imagine a world where medicine and pharmacy were not separate, where your doctor's only income came from the drugs he sold you. How could you ever trust his diagnosis? The insurance industry was this anachronism made real. The person making the "diagnosis" and the person earning the commission from the "prescription" were one and the same.
+Imagine a world where medicine and pharmacy were not separate, where your doctor's only income came from the drugs he sold you. How could you ever trust his diagnosis? The insurance industry was this anachronism made real. The person making the "diagnosis" and the person earning the commission from the "prescription" were one and the same. For the first time, I felt the intoxication of moral clarity — a clarity so sharp it burned.
 
 How could such a logically bankrupt system not only exist, but thrive? Why was no one talking about this? The answer, as it always is, was self-interest. The very people who understood this problem most deeply were also the ones who benefited from it the most.
 
@@ -70,4 +70,6 @@ It was a relief.
 
 I had entered what they called a utopia for entrepreneurs. I left knowing it was just a more sophisticated, more self-congratulatory prison than the ones I had refused to enter. My first revolution had failed. I had tried to change the system from within, only to realize that the system's very architecture was designed to neutralize reformers. The only way to win was not to fix the game, but to create a new one.
 
-The termination letter wasn't a mark of failure; it was a certificate of liberation. I had lost a job, but I had regained my soul. I walked out of that office not as a defeated salesman, but as a revolutionary who finally knew his enemy.
+The termination letter wasn't a mark of failure; it was a certificate of liberation. The system’s logic had won, precisely because it had none. I had lost a job, but I had regained my soul. I walked out of that office not as a defeated salesman, but as a revolutionary who finally knew his enemy.
+
+If civilization had once collapsed from a lack of trust, this was its necromancy — a world that had learned to fake it perfectly.
