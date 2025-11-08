@@ -4,7 +4,7 @@ title: "The Anachronism of the Real: A Refugee of Trust"
 short_title: "A Refugee of Trust"
 subtitle: "This wasn't a world without trust. It was a world that had learned to fake it perfectly."
 category: "Life"
-image: assets/images/life-040-refugee-of-trust.jpg 
+image: assets/images/man_in_suit_on_stage_l.jpg
 ---
 
 <!--Prologue: The Seduction of Simulated Trust-->
