@@ -50,8 +50,7 @@ It was a beautiful, terrifying moment, because in its authenticity, it revealed 
 
 But how many other actors in this theatre would ever dare to break character? I thought of the pure term life insurance policies—an essential product for certain clients, yet one that was almost never sold. The commissions were negligible compared to the lucrative savings-linked plans. It was a truth not worth telling. I watched as colleagues celebrated closing huge deals, their sharing sessions focusing entirely on their sales *performance*, on the methodology of getting the client to sign, never on whether the product was actually the best solution. No one seemed to think there was a problem with this. And once again, I felt like an alien, a man from a different planet, observing the strange, illogical rituals of this tribe that had mistaken the performance of help for the act of helping.
 
-
-
+<!--Act III: A Revolution Against the Simulation-->
 And in those moments, I finally saw the true nature of the machine I was in. It wasn't just a few bad apples; it was the entire orchard that was rotten. The system wasn't just flawed; it was designed to be so. The entire industry was built on an irreconcilable, systemic conflict of interest. 
 
 Imagine a world where medicine and pharmacy were not separate, where your doctor's only income came from the drugs he sold you. How could you ever trust his diagnosis? The insurance industry was this anachronism made real. The person making the "diagnosis" and the person earning the commission from the "prescription" were one and the same. For the first time, I felt the intoxication of moral clarity — a clarity so sharp it burned.
