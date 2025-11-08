@@ -1,7 +1,7 @@
 IV: The Fight
 
 <!--Act I: A Compromise in Despair, and the Illusion of a Utopia-->
-Four years after graduation, my grand ambitions had dissolved into a single, brutal imperative: survival. My small income streams from relationship coaching and my guerilla marketing tactics were not enough. The seed capital from my student loan, supplemented by my mother's support, was dwindling. My net worth was shrinking. I could not wait until the last minute.
+Four years after graduation, my grand ambitions had dissolved into a single, brutal imperative: survival. My small income streams from relationship coaching and my guerilla marketing tactics were not enough. The seed capital from my student loan, supplemented by my mother's support, was dwindling. My net worth was shrinking. The world had finally answered my big questions, not with wisdom, but with a countdown to hunger.
 
 And so, I surrendered. I abandoned all my grander projects and downgraded my life's objective to its most basic function. I, the man who had deconstructed the very idea of employment, was now forced to beg for a job.
 
