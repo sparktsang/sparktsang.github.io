@@ -66,20 +66,20 @@ It was a long, impossible road, and I was not foolish enough to reveal my true p
 My time in the utopia had finally found its meaning.
 
 <!--Finale: The Triumph of Simulation, and the Liberation of the Real-->
-My infiltration now had a purpose. To achieve my ultimate goal of reforming the industry, I first had to become a phenomenon within it. I had to win the trust of strangers, one by one, a Sisyphean task where the boulder of performance resets to zero at the start of each month. I knew I couldn't do it alone. I needed to build a system of trust: a transparent, fair, and professional framework for financial analysis, an automated engine that would draw clients to me. The work was arduous, the progress slow, but I did not give up.
+To achieve my ultimate goal, I first had to become a phenomenon within the simulation. I had to win the trust of strangers, one by one, a Sisyphean task where the boulder of performance resets to zero at the start of each month. I knew I couldn't do it with their tools, their scripts. I needed to build my own system of trust within theirs: a transparent, fair, and professional framework for financial analysis, an automated engine that would draw clients to me. The work was arduous, the progress slow, but I did not give up.
 
-But I had overlooked the most critical variable. The team leader. This utopia was not a system; it was a kingdom, and the king's whim was the ultimate law. When he felt the team wasn't doing enough, his solution was always the same: more management, more control.
+But I had overlooked the most critical variable. The team leader. This utopia was not a system of rules; it was a kingdom of men. The king's whim was the ultimate law. And when he felt the team wasn't performing well enough, his solution was not to improve the system, but to tighten his grip. He didn't need a rational framework; he needed to maintain the *feeling* of control, the *illusion* of progress.
 
-And so, the climate changed. The free, open atmosphere vanished, replaced by the rigid discipline of daily meetings. We were forced back to basics: write down a hundred names, detail your approach for each, report your progress case by case. The culture of a team, I learned, could be transformed overnight by the decision of a single man.
+And so, the climate changed. The free, open atmosphere vanished, replaced by the rigid discipline of daily meetings and micromanagement. We were forced back to basics: write down a hundred names, detail your approach for each, report your progress case by case. The simulation had become more important than reality. My long-term project—my "lie detector"—was an alien concept in a tribe that ran on personal relationships and charisma. It threatened the simulation. And so, it had to be starved of oxygen.
 
-My long-term projects—my cold-calling system, my transparent analytical framework—received no support. They were alien concepts in a tribe that ran on personal relationships and charisma. The entire industry, I realized, was a structural mess. There was no logic. The person who recruited you was also your trainer, their knowledge limited to their own narrow experience. Success was a lottery, dependent on which lineage you happened to be born into.
-
-The new climate was suffocating. My long-term plans felt more distant than ever. My sales performance, never stellar, worsened. The termination letter, when it finally came, was not a shock.
+The new climate was suffocating. My grand plans felt more distant than ever. My sales performance, never stellar, worsened. The termination letter, when it finally came, was not a shock.
 
 It was a relief.
 
-I had entered what they called a utopia for entrepreneurs. I left knowing it was just a more sophisticated, more self-congratulatory prison than the ones I had refused to enter. My first revolution had failed. I had tried to change the system from within, only to realize that the system's very architecture was designed to neutralize reformers. The only way to win was not to fix the game, but to create a new one.
+My first revolution had failed. I had tried to change the system from within, only to realize that the simulation's very architecture was designed to neutralize reality. The only way to win was not to fix the play, but to leave the theatre.
 
-The termination letter wasn't a mark of failure; it was a certificate of liberation. The system’s logic had won, precisely because it had none. I had lost a job, but I had regained my soul. I walked out of that office not as a defeated salesman, but as a revolutionary who finally knew his enemy.
+The termination letter wasn't a mark of failure; it was a certificate of liberation. The system’s logic had won, precisely because it had none. I had lost a job, but I had regained my contact with the real. I walked out of that office not as a defeated salesman, but as a refugee from the simulation.
 
-If civilization had once collapsed from a lack of trust, this was its necromancy — a world that had learned to fake it perfectly.
+If civilization had once collapsed from a lack of trust, this was its necromagy—a world that had learned to fake it perfectly.
+
+And I, for a brief, agonizing time, had been one of its most unwilling magicians.
