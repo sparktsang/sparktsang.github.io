@@ -65,7 +65,7 @@ It was a long, impossible road, and I was not foolish enough to reveal my true p
 
 My time in the utopia had finally found its meaning.
 
-<!--Act IV: The Iron Curtain of Men - A Revolution Doomed-->
+<!--Finale: The Triumph of Simulation, and the Liberation of the Real-->
 My infiltration now had a purpose. To achieve my ultimate goal of reforming the industry, I first had to become a phenomenon within it. I had to win the trust of strangers, one by one, a Sisyphean task where the boulder of performance resets to zero at the start of each month. I knew I couldn't do it alone. I needed to build a system of trust: a transparent, fair, and professional framework for financial analysis, an automated engine that would draw clients to me. The work was arduous, the progress slow, but I did not give up.
 
 But I had overlooked the most critical variable. The team leader. This utopia was not a system; it was a kingdom, and the king's whim was the ultimate law. When he felt the team wasn't doing enough, his solution was always the same: more management, more control.
