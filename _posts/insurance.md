@@ -1,4 +1,4 @@
-IV: The Fight
+"The Anachronism of the Real: A Refugee of Trust"
 
 <!--Prologue: The Seduction of Simulated Trust-->
 Four years after graduation, my grand ambitions had dissolved into a single, brutal imperative: survival. My small income streams were not enough. The seed capital from my student loan, supplemented by my mother's support, was dwindling. My net worth was shrinking. The world had finally answered my big questions, not with wisdom, but with a countdown to hunger.
