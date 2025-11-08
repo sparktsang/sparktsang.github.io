@@ -74,7 +74,7 @@ But I had overlooked the most critical variable. The team leader. This utopia wa
 
 And so, the climate changed. The free, open atmosphere vanished, replaced by the rigid discipline of daily meetings and micromanagement. We were forced back to basics: write down a hundred names, detail your approach for each, report your progress case by case. The simulation had become more important than reality. My long-term project—my "lie detector"—was an alien concept in a tribe that ran on personal relationships and charisma. It threatened the simulation. And so, it had to be starved of oxygen.
 
-The new climate was suffocating. My grand plans felt more distant than ever. My sales performance, never stellar, worsened. The termination letter, when it finally came, was not a shock.
+My grand plans felt more distant than ever. My sales performance, never stellar, worsened. The termination letter, when it finally came, was not a shock.
 
 It was a relief.
 
