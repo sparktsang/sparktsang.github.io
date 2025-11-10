@@ -1,4 +1,4 @@
-V: The Search
+"The Search: Portrait of the Lone Architect"
 
 <!--Act I: The Mirage - A Fleeting Solace in Pseudo-Knowledge-->
 My time in the insurance industry was over. In the final stages, a cold-call prospect, in a strange reversal of roles, had pitched me. He invited me to a free seminar by a group that called itself the "Property Owners' Club". Their business was real estate, specifically the lucrative, morally ambiguous practice of subdividing apartments into tiny, coffin-like units for rent. The returns, they claimed, were astronomical.
