@@ -54,3 +54,18 @@ With that epiphany, the fear vanished. The anxiety that had plagued me for years
 I finally saw what I should have seen all along. I could not rely on the tips of a teacher, especially a false prophet whose predictions were poison. The only thing I could trust was my own model.
 
 My faith, which had been outsourced to communities and gurus, finally came home. It was a quiet, profound, and unshakable faith in myself. I was no longer a student. I was ready to become my own master.
+
+<!--Finale: The Lone Architect - Forging a First-Principle Truth-->
+My faith in myself had returned. And with it, my own system, which had been maturing in the background, finally came into full bloom. It had started with my teacher's beautifully simple Tencent P/E model, but I now saw that Tencent was an anomaly. For other stocks, a single metric was not enough. Each company had its own unique value signature. And the very assumption that the relationship between price and value was a simple, linear one—an axiom that the entire tradition of value investing had never questioned—was flawed.
+
+I developed a unified, hybrid model, one that could be applied to any stock. It was built on a single, radical premise: that the historical price of a "good stock" must correlate with its underlying value metrics. I gradually realized that our intuitive sense of a "good stock" was nothing more than this: the degree of alignment between its price and its value. A "good stock" is a "value-generating machine," and its long-term price is determined by the output of that machine, just as a good orange is sweet, and its sweetness determines its value. The rest are just speculative instruments, oranges pumped full of artificial sweeteners. At that point, I knew my research had far surpassed the scope of my teacher, and perhaps even the great masters of value investing. It was a difficult thing to admit, to accept that I had outgrown the very prophet who had shown me the path. But there, in the clarity of Dali, I finally had the courage to believe in my own model.
+
+The work was grueling. I would spend hours manually inputting years of financial data from annual reports into my spreadsheets. When I returned to Hong Kong, I rallied my tribe—the community I had built from the ashes of the fraudulent investment course. Together, we began the monumental task of modeling every major stock on the Hong Kong exchange. For a moment, it felt like a true collaboration, a collective quest for truth.
+
+But the market was still falling. Even stocks that had reached the lower bound of their "reasonable" value according to my model continued to plunge, dragged down by the sheer gravitational force of collective fear. And one by one, my collaborators fell silent. The data stopped coming in.
+
+I quickly understood why. Their faith was not in the model; their faith was in the market. In the face of a relentless bear, my logic was no match for their fear.
+
+And in that moment, I was left utterly alone. A lone architect, standing in the foundations of a cathedral only he could see. I had finally found the path to truth, a path built not on hope or authority, but on the unshakeable bedrock of first principles.
+
+The only problem was, the path was wide enough for only one.
