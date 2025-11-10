@@ -37,3 +37,20 @@ At first, he called it a correction. I held on. I kept following. But the market
 And in that moment, I understood. His ninety-percent hit rate, his prophetic pronouncements—it was all a fair-weather phenomenon. His entire system was predicated on one, single, unstated assumption: that the market would always go up.
 
 He was a prophet whose only miracle was the ability to predict yesterday's weather. His knowledge wasn't a lie; it was just... contingent. It was a beautiful, intricate, and ultimately useless map for a territory that no longer existed.
+
+<!--Act III: The Epiphany in Dali - Rebirth in the Ruins-->
+By then, I had paid over $10,000 in tuition fees for various courses, and my investment losses had ballooned to over $20,000. I was at the lowest point of my life, my dream of freedom in tatters. I retreated to Dali, a town in China's Yunnan province, to lick my wounds.
+
+And it was there, in the depths of my despair, that I found salvation.
+
+Dali, beyond its beautiful landscapes, possessed a price level that shattered my entire conception of reality. A Buddhist temple offered an all-you-can-eat vegetarian buffet for $0.70. My guesthouse, with its unblocked Wi-Fi, floor-to-ceiling windows, and a bed of impossible comfort, cost me $2.80 a night. I did the math. For $4.20, I could live for a day. For around $1,500, I could live for an entire year. And Dali was not a lone anomaly; the world was full of such havens.
+
+In that moment, everything became clear. My entire crisis was an illusion. The world defines "financial freedom" as the point where your passive income exceeds your expenses. But if its true meaning, its core purpose, is to be free from financial worry, then the definition was wrong. Financial freedom wasn't a distant goal to be achieved; it was a simple choice to be made. Here, in this forgotten corner of the world, with what I had left, I already possessed years of financial runway.
+
+I was already free.
+
+With that epiphany, the fear vanished. The anxiety that had plagued me for years simply dissolved. I no longer had to worry about running out of time. I could come here, to this paradise of low-cost living, and work on my system every single day until I found a real solution. I couldn't believe that in all those years, I could possibly fail. In fact, I was certain that anyone, given a year of dedicated effort in such a worry-free environment, could achieve it. I just didn't understand why no one else was doing it.
+
+I finally saw what I should have seen all along. I could not rely on the tips of a teacher, especially a false prophet whose predictions were poison. The only thing I could trust was my own model.
+
+My faith, which had been outsourced to communities and gurus, finally came home. It was a quiet, profound, and unshakable faith in myself. I was no longer a student. I was ready to become my own master.
