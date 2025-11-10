@@ -34,7 +34,7 @@ And then, the market turned.
 
 At first, he called it a correction. I held on. I kept following. But the market kept falling. Another month, another disappointment. The profits evaporated. The losses mounted. After nearly six months of denial, he finally conceded. The bull was dead. It was a bear market.
 
-And in that moment of devastating clarity, I understood. His ninety-percent hit rate, his prophetic pronouncements—it was all a fair-weather phenomenon. His entire cosmology, I realized, was just a single-weather simulator. It was a flawless program for predicting a summer that had already ended. The map wasn't wrong; the territory itself had changed, and the map had no way of knowing.
+And in that moment of devastating clarity, I understood. His ninety-percent hit rate, his prophetic pronouncements—it was all a fair-weather phenomenon. His entire cosmology, I realized, was just a single-weather simulator. It was a flawless program for predicting a summer that had already ended. The map wasn't wrong; the territory itself had changed. It was too perfect to survive reality.
 
 He was a prophet whose only miracle was the ability to predict yesterday's weather. His knowledge wasn't a lie; it was just... contingent. And in a world of constant change, contingent knowledge is the most dangerous illusion of all.
 
@@ -51,7 +51,7 @@ In that moment, everything became clear. My entire crisis was an illusion, a bug
 
 Financial freedom wasn't a distant goal to be achieved; it was a simple choice to be made. Here, in this forgotten corner of the world, with what I had left, I already possessed years of financial runway.
 
-I was already free.
+I was already free. 
 
 With that epiphany, the fear vanished. The anxiety that had plagued me for years simply dissolved. I had found the ultimate system hack: to stop playing their game. I no longer had to worry about running out of time. I could come here, to this paradise of low-cost living, and work on my system every single day until I found a real solution. I couldn't believe that in all those years, I could possibly fail. In fact, I was certain that anyone, given a year of dedicated effort in such a worry-free environment, could achieve it. I just didn't understand why no one else was doing it.
 
@@ -76,4 +76,4 @@ I quickly understood why. Their faith was not in the model; their faith was in t
 
 My search was over. I had the blueprint for a reality engine. But I was left utterly alone. A lone architect, standing in the foundations of a cathedral only he could see. I had finally found the path to a truth built not on hope or authority, but on the unshakeable bedrock of first principles. It was not truth itself I had found, but the method by which it could exist.
 
-The only problem was, the path was wide enough for only one.
+The only problem was, the path was wide enough for only one—but if I could finish it, others would no longer need to walk alone.
