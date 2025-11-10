@@ -17,7 +17,7 @@ The response was overwhelming. My notes were comprehensive, accurate. Dozens of 
 
 Looking back at that chaotic period, I finally understood what I had been a part of. The Club, the cult-like seminar—they weren't businesses in the traditional sense. They weren't selling knowledge. They were selling a **simulation of success**, a **simulation of scarcity**. They were theatres of emotion, designed to make you *feel* a certain way. And I, in my desperation, had been a willing member of the audience. The victory I’d found was not in mastering their simulation, but in accidentally creating some real connection in its wreckage. I was still lost in the desert of truth, but for the first time, I had found an oasis.
 
-<!--Act II: The False Prophet - The Brilliance and Collapse of Contingent Knowledge-->
+<!--Act II: The False Prophet - The Flawed Simulator-->
 Through the network I had built, a name surfaced. A real fund manager, a man who actually knew what he was doing. His free seminar was a world away from the cultish theatrics I had grown accustomed to. He spoke with a quiet arrogance, contrasting the amateurish guesswork of retail investors with the rigorous, mathematical approach of the institutional world. The screen was filled with equations, a beautiful, intimidating language. He walked us through a case study, showing how he had calculated the true intrinsic value of a stock when it was at its lowest, just before its spectacular rise. It all made perfect, irrefutable sense.
 
 The course fee was over $1,500, but I didn't hesitate. I had just left the insurance industry. I was ready to bet everything on this new path to freedom. This wasn't just another course; it was my new career, my new life. I began to travel, at first for short stints between classes, but soon, I was spending eighty percent of my time on the road.
@@ -38,7 +38,7 @@ And in that moment, I understood. His ninety-percent hit rate, his prophetic pro
 
 He was a prophet whose only miracle was the ability to predict yesterday's weather. His knowledge wasn't a lie; it was just... contingent. Every prophet of knowledge is bound by the weather of his own time. It was a beautiful, intricate, and ultimately useless map for a territory that no longer existed.
 
-<!--Act III: The Epiphany in Dali - Rebirth in the Ruins-->
+<!The III: The Epiphany in Dali - Rebirth in the Ruins-->
 In an age where truth had become a subscription model, knowledge was no longer what you learned, but what you paid to believe.
 
 By then, I had paid over $10,000 in tuition fees for various courses, and my investment losses had ballooned to over $20,000. I was at the lowest point of my life, my dream of freedom in tatters. I retreated to Dali, a town in China's Yunnan province, to lick my wounds.
