@@ -38,22 +38,26 @@ And in that moment of devastating clarity, I understood. His ninety-percent hit 
 
 He was a prophet whose only miracle was the ability to predict yesterday's weather. His knowledge wasn't a lie; it was just... contingent. And in a world of constant change, contingent knowledge is the most dangerous illusion of all.
 
-<!--Act III: The Epiphany in Dali - Rebirth in the Ruins-->
-In an age where truth had become a subscription model, knowledge was no longer what you learned, but what you paid to believe.
+<!--Act III: The Epiphany in Dali - Exiting the Simulation-->
+In an age where truth had become a subscription model, knowledge was no longer what you learned, but what you paid to believe. 
 
 By then, I had paid over $10,000 in tuition fees for various courses, and my investment losses had ballooned to over $20,000. I was at the lowest point of my life, my dream of freedom in tatters. I retreated to Dali, a town in China's Yunnan province, to lick my wounds.
 
 And it was there, in the depths of my despair, that I found salvation.
 
-Dali, beyond its beautiful landscapes, possessed a price level that shattered my entire conception of reality. A Buddhist temple offered an all-you-can-eat vegetarian buffet for $0.70. My guesthouse, with its unblocked Wi-Fi, floor-to-ceiling windows, and a bed of impossible comfort, cost me $2.80 a night. I did the math. For $4.20, I could live for a day. For around $1,500, I could live for an entire year. And Dali was not a lone anomaly; the world was full of such havens.
+Dali, beyond its beautiful landscapes, possessed a price level that shattered my entire conception of reality. A Buddhist temple offered an all-you-can-eat vegetarian buffet for $0.70. My guesthouse, with its unblocked Wi-Fi, floor-to-ceiling windows, and a bed of impossible comfort, cost me $2.80 a night. I did the math. For less than five dollars, I could live for a day. For around $1,500, I could live for an entire year. And Dali was not a lone anomaly; the world was full of such havens.
 
-In that moment, everything became clear. My entire crisis was an illusion. The world defines "financial freedom" as the point where your passive income exceeds your expenses. But if its true meaning, its core purpose, is to be free from financial worry, then the definition was wrong. Financial freedom wasn't a distant goal to be achieved; it was a simple choice to be made. Here, in this forgotten corner of the world, with what I had left, I already possessed years of financial runway.
+In that moment, everything became clear. My entire crisis was an illusion, a bug in a simulation I had mistaken for reality. The world had sold me a definition of "financial freedom"—the point where your passive income exceeds your expenses—that was designed to be perpetually out of reach, a carrot on an infinitely long stick. But if its true meaning, its core purpose, is to be free from financial worry, then the definition was wrong.
+
+Financial freedom wasn't a distant goal to be achieved; it was a simple choice to be made. Here, in this forgotten corner of the world, with what I had left, I already possessed years of financial runway.
 
 I was already free.
 
-With that epiphany, the fear vanished. The anxiety that had plagued me for years simply dissolved. I no longer had to worry about running out of time. I could come here, to this paradise of low-cost living, and work on my system every single day until I found a real solution. I couldn't believe that in all those years, I could possibly fail. In fact, I was certain that anyone, given a year of dedicated effort in such a worry-free environment, could achieve it. I just didn't understand why no one else was doing it.
+With that epiphany, the fear vanished. The anxiety that had plagued me for years simply dissolved. I had found the ultimate system hack: to stop playing their game. I no longer had to worry about running out of time. I could come here, to this paradise of low-cost living, and work on my system every single day until I found a real solution. I couldn't believe that in all those years, I could possibly fail. In fact, I was certain that anyone, given a year of dedicated effort in such a worry-free environment, could achieve it. I just didn't understand why no one else was doing it.
 
-I finally saw what I should have seen all along. I could not rely on the tips of a teacher, especially a false prophet whose predictions were poison. The only thing I could trust was my own model.
+I finally saw what I should have seen all along. I could not rely on the contingent knowledge of a false prophet whose predictions were poison. I could not rely on the simulated success of a community built on empty promises.
+
+The only thing I could trust was my own model. My own reason.
 
 My faith, which had been outsourced to communities and gurus, finally came home. It was a quiet, profound, and unshakable faith in myself. I was no longer a student. I was ready to become my own master.
 
