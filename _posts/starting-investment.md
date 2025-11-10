@@ -9,7 +9,7 @@ I joined. There were monthly meetings, guest speakers, rounds of applause, and a
 
 In that period, I drifted through the dazzling, dizzying marketplace of knowledge. I attended dozens of free investment seminars. Each "guru" had their own secret formula, their own track record of spectacular wins, their own army of believers. It was a world of pure, intoxicating promise.
 
-One $1,000 course was particularly memorable. It had the atmosphere of a cult. They made us stand up and perform strange gestures, claiming that movement enhanced learning. They used countdown timers to create a sense of artificial urgency, sending dozens of people rushing to the back of the room to sign up, though how many were shills, one could never know. The course itself was a predictable disappointment—basic investment knowledge, repackaged as profound secrets. And at the end, of course, they tried to upsell us on an "advanced" course that had never been mentioned before.
+For a while, I mistook the accumulation of information for the pursuit of truth. One $1,000 course was particularly memorable. It had the atmosphere of a cult. They made us stand up and perform strange gestures, claiming that movement enhanced learning. They used countdown timers to create a sense of artificial urgency, sending dozens of people rushing to the back of the room to sign up, though how many were shills, one could never know. The course itself was a predictable disappointment—basic investment knowledge, repackaged as profound secrets. And at the end, of course, they tried to upsell us on an "advanced" course that had never been mentioned before.
 
 And yet, I never regretted paying for that course. The greatest asset I acquired was not from the guru, but from the community he had unwittingly gathered. They had put all 200 of us into a WeChat group, set to self-destruct in three months. I had taken meticulous notes on my tablet during the class. That night, I shared a portion of my notes in the group and offered the full version to anyone who wanted it.
 
@@ -36,9 +36,11 @@ At first, he called it a correction. I held on. I kept following. But the market
 
 And in that moment, I understood. His ninety-percent hit rate, his prophetic pronouncements—it was all a fair-weather phenomenon. His entire system was predicated on one, single, unstated assumption: that the market would always go up.
 
-He was a prophet whose only miracle was the ability to predict yesterday's weather. His knowledge wasn't a lie; it was just... contingent. It was a beautiful, intricate, and ultimately useless map for a territory that no longer existed.
+He was a prophet whose only miracle was the ability to predict yesterday's weather. His knowledge wasn't a lie; it was just... contingent. Every prophet of knowledge is bound by the weather of his own time. It was a beautiful, intricate, and ultimately useless map for a territory that no longer existed.
 
 <!--Act III: The Epiphany in Dali - Rebirth in the Ruins-->
+In an age where truth had become a subscription model, knowledge was no longer what you learned, but what you paid to believe.
+
 By then, I had paid over $10,000 in tuition fees for various courses, and my investment losses had ballooned to over $20,000. I was at the lowest point of my life, my dream of freedom in tatters. I retreated to Dali, a town in China's Yunnan province, to lick my wounds.
 
 And it was there, in the depths of my despair, that I found salvation.
@@ -66,6 +68,6 @@ But the market was still falling. Even stocks that had reached the lower bound o
 
 I quickly understood why. Their faith was not in the model; their faith was in the market. In the face of a relentless bear, my logic was no match for their fear.
 
-And in that moment, I was left utterly alone. A lone architect, standing in the foundations of a cathedral only he could see. I had finally found the path to truth, a path built not on hope or authority, but on the unshakeable bedrock of first principles.
+And in that moment, I was left utterly alone. A lone architect, standing in the foundations of a cathedral only he could see. I had finally found the path to truth, a path built not on hope or authority, but on the unshakeable bedrock of first principles. It was not truth I had found, but the method by which it could exist.
 
 The only problem was, the path was wide enough for only one.
