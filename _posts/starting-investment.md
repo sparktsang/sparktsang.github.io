@@ -1,0 +1,18 @@
+V: The Search
+
+<!--Act I: The Mirage - A Fleeting Solace in Pseudo-Knowledge-->
+My time in the insurance industry was over. In the final stages, a cold-call prospect, in a strange reversal of roles, had pitched me. He invited me to a free seminar by a group that called itself the "Property Owners' Club." Their business was real estate, specifically the lucrative, morally ambiguous practice of subdividing apartments into tiny, coffin-like units for rent. The returns, they claimed, were astronomical.
+
+I paid for their introductory course. It was, of course, just an elaborate sales funnel for their main product: a club membership costing over $2,500. The founder painted a picture of a secret society where the rich got richer together, a place where he would share all his closely guarded secrets. For a price.
+
+I joined. There were monthly meetings, guest speakers, rounds of applause, and an endless parade of success stories. Members would detail, case by case, how they had found a property, subdivided it, and reaped the rewards, their profits neatly laid out on a PowerPoint slide. For a brief time, I was a believer. I hunted for properties, parroting their scripts to real estate agents, though I never found a single viable deal. Later, they offered a hands-off investment scheme. I put in over $10,000 across two projects. I never once visited the properties. Years later, the very man who had introduced me, a "senior brother" in the club, admitted the whole thing was shaky. I managed to cash out my remaining investment, selling it to another member—a young woman to whom, I remember with a pang of guilt, I did not disclose what I knew. My profit, if any, was not enough to cover the initial membership fee.
+
+In that period, I drifted through the dazzling, dizzying marketplace of knowledge. I attended dozens of free investment seminars. Each "guru" had their own secret formula, their own track record of spectacular wins, their own army of believers. It was a world of pure, intoxicating promise.
+
+One $1,000 course was particularly memorable. It had the atmosphere of a cult. They made us stand up and perform strange gestures, claiming that movement enhanced learning. They used countdown timers to create a sense of artificial urgency, sending dozens of people rushing to the back of the room to sign up, though how many were shills, one could never know. The course itself was a predictable disappointment—basic investment knowledge, repackaged as profound secrets. And at the end, of course, they tried to upsell us on an "advanced" course that had never been mentioned before.
+
+And yet, I never regretted paying for that course. The greatest asset I acquired was not from the guru, but from the community he had unwittingly gathered. They had put all 200 of us into a WeChat group, set to self-destruct in three months. I had taken meticulous notes on my tablet during the class. That night, I shared a portion of my notes in the group and offered the full version to anyone who wanted it.
+
+The response was overwhelming. My notes were comprehensive, accurate. Dozens of people messaged me. I created a new group to house them all, a group that quickly grew to over 100 members. And in that group, in the wreckage of a fraudulent course, I found what I had been searching for. I found my tribe. Someone asked me out. Someone would inspire me to build the first prototype of my investment system. Some others would become my first paying subscribers.
+
+It was a strange, ironic kind of victory. In a world of pseudo-knowledge, I had found real connection. By giving away knowledge for free, I had received an asset of immeasurable value. I was still lost in the desert, but for the first time, I had found an oasis.
