@@ -62,7 +62,7 @@ The only thing I could trust was my own model. My own reason.
 My faith, which had been outsourced to communities and gurus, finally came home. It was a quiet, profound, and unshakable faith in myself. I was no longer a student. I was ready to become my own master.
 
 <!--Finale: The Lone Architect - Building the Reality Engine-->
-My faith, which had been outsourced to communities and gurus, finally came home. And with it, my own system, which had been maturing in the background, finally came into full bloom.
+And with it, my own system, which had been maturing in the background, finally came into full bloom.
 
 It had started with my teacher's beautifully simple Tencent forward P/E model, but I now saw that Tencent was an anomaly. For other stocks, a single metric was not enough. Each company had its own unique value signature. And the very assumption that the relationship between price and value was a simple, linear one—an axiom that the entire tradition of value investing had never questioned—was flawed. My model, born from the ashes of my faith, was different. It wasn't trying to simulate the market's behavior. It was trying to touch the bedrock of reality itself—the "value-generating machine" that is a good company. It wasn't another map; it was an attempt to understand the laws of physics that governed the territory.
 
