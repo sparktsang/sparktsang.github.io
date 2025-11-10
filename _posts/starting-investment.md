@@ -1,7 +1,7 @@
 V: The Search
 
 <!--Act I: The Mirage - A Fleeting Solace in Pseudo-Knowledge-->
-My time in the insurance industry was over. In the final stages, a cold-call prospect, in a strange reversal of roles, had pitched me. He invited me to a free seminar by a group that called itself the "Property Owners' Club." Their business was real estate, specifically the lucrative, morally ambiguous practice of subdividing apartments into tiny, coffin-like units for rent. The returns, they claimed, were astronomical.
+My time in the insurance industry was over. In the final stages, a cold-call prospect, in a strange reversal of roles, had pitched me. He invited me to a free seminar by a group that called itself the "Property Owners' Club". Their business was real estate, specifically the lucrative, morally ambiguous practice of subdividing apartments into tiny, coffin-like units for rent. The returns, they claimed, were astronomical.
 
 I paid for their introductory course. It was, of course, just an elaborate sales funnel for their main product: a club membership costing over $2,500. The founder painted a picture of a secret society where the rich got richer together, a place where he would share all his closely guarded secrets. For a price.
 
