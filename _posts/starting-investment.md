@@ -16,3 +16,24 @@ And yet, I never regretted paying for that course. The greatest asset I acquired
 The response was overwhelming. My notes were comprehensive, accurate. Dozens of people messaged me. I created a new group to house them all, a group that quickly grew to over 100 members. And in that group, in the wreckage of a fraudulent course, I found what I had been searching for. I found my tribe. Someone asked me out. Someone would inspire me to build the first prototype of my investment system. Some others would become my first paying subscribers.
 
 It was a strange, ironic kind of victory. In a world of pseudo-knowledge, I had found real connection. By giving away knowledge for free, I had received an asset of immeasurable value. I was still lost in the desert, but for the first time, I had found an oasis.
+
+<!--Act II: The False Prophet - The Brilliance and Collapse of Contingent Knowledge-->
+Through the network I had built, a name surfaced. A real fund manager, a man who actually knew what he was doing. His free seminar was a world away from the cultish theatrics I had grown accustomed to. He spoke with a quiet arrogance, contrasting the amateurish guesswork of retail investors with the rigorous, mathematical approach of the institutional world. The screen was filled with equations, a beautiful, intimidating language. He walked us through a case study, showing how he had calculated the true intrinsic value of a stock when it was at its lowest, just before its spectacular rise. It all made perfect, irrefutable sense.
+
+The course fee was over $1,500, but I didn't hesitate. I had just left the insurance industry. I was ready to bet everything on this new path to freedom. This wasn't just another course; it was my new career, my new life. I began to travel, at first for short stints between classes, but soon, I was spending eighty percent of my time on the road.
+
+I had found my prophet. He taught me about options, about implied volatility. Long call options became my weapon of choice—a tool of infinite upside and limited downside, a perfect instrument for a man betting on the future. But among all the knowledge he imparted, one single, beautifully simple mathematical model captivated my soul.
+
+He showed us the chart for Tencent. For years, its annual forward Price-to-Earnings ratio had oscillated within a predictable, almost natural range of 20 to 40. Buy at 20, sell at 40. Repeat. It was a formula. A simple, elegant formula for solving the puzzle of the market. I was ecstatic. This was it. The secret key. The one true, long-term investment strategy. There was one missing variable—the forward earnings projection—a number he taught us to crudely extrapolate. I later figured out a better way: to use the analysts' consensus, a far more reliable source. I began to spend my days and nights deepening this single homework assignment, convinced I had found the holy grail.
+
+But the teacher offered more than just knowledge. He offered daily stock tips. It was what the market demanded; most of his "students", I soon realized, were not there to learn. They were there for the tickers. I tracked his hit rate. For months, it was over ninety percent. The man was a genius. My faith was absolute. I abandoned my own burgeoning system and followed his tips blindly. In early 2018, he made a grand pronouncement: the next 18 months would be a roaring bull market.
+
+I followed him into battle. I leveraged up, buying long call options on all his recommendations. By the end of the month, my portfolio had surged by seventy percent. My destiny was finally reversing. Financial freedom was no longer a distant dream; it was within my grasp.
+
+And then, the market turned.
+
+At first, he called it a correction. I held on. I kept following. But the market kept falling. Another month, another disappointment. The profits evaporated. The losses mounted. After nearly six months of denial, he finally conceded. The bull was dead. It was a bear market.
+
+And in that moment, I understood. His ninety-percent hit rate, his prophetic pronouncements—it was all a fair-weather phenomenon. His entire system was predicated on one, single, unstated assumption: that the market would always go up.
+
+He was a prophet whose only miracle was the ability to predict yesterday's weather. His knowledge wasn't a lie; it was just... contingent. It was a beautiful, intricate, and ultimately useless map for a territory that no longer existed.
