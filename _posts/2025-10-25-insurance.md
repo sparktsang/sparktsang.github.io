@@ -95,3 +95,7 @@ The termination letter wasn't a mark of failure; it was a certificate of liberat
 If civilization had once collapsed from a lack of trust, this was its necromagy—a world that had learned to fake it perfectly. 
 
 And I, for a brief, agonizing time, had been one of its most unwilling magicians.
+
+---
+
+Sequel — [*The Search: Portrait of the Lone Architect*](https://sparktsang.github.io/life/2025/10/25/search.html)
