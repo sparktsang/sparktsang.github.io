@@ -117,9 +117,14 @@
     @keyframes blink { 50% { opacity: 0 } }
 
     /* 小螢幕調整 */
-    @media (max-width: 600px) { /* 若瀏覽器闊度≤ 600px（大部分手機），執行以下 CSS 規則*/
+    @media (max-width: 600px) {
         .info-popup {
-          top: -220px;
+          position: fixed; /* --- 覆蓋全局設定，改為釘在螢幕上 --- */
+          /* --- 使用螢幕座標系進行完美置中 --- */
+          top: 50%; 
+          left: 50%;
+          transform: translate(-50%, -50%);
+          
           width: 90vw; /* 資訊框闊度為螢幕闊度 90% */
           min-height: 280px; /* 最小高度 */
           padding: 1.25rem;    /* 內邊距 */
