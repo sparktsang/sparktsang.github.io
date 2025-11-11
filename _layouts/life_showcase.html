@@ -117,10 +117,16 @@
     @keyframes blink { 50% { opacity: 0 } }
 
     /* 小螢幕調整 */
-    @media (max-width: 600px) {
-      .info-popup { top: -220px; width: calc(100% - 40px); min-height: 200px; padding: 1rem; }
-      .info-popup .title { font-size: 1.15rem; }
-      .info-popup .subtitle { font-size: 0.95rem; }
+    @media (max-width: 600px) { /* 若瀏覽器闊度≤ 600px（大部分手機），執行以下 CSS 規則*/
+        .info-popup {
+          top: -220px;
+          width: calc(100% - 40px);
+          min-height: 280px; /* 最小高度 */
+          padding: 1.25rem;    /* 內邊距 */
+        }
+        .info-popup .date { font-size: 1.8rem; }
+        .info-popup .title { font-size: 2.8rem; } /* 標題字體大小 */
+        .info-popup .subtitle { font-size: 1.5rem; } /* 副標題字體大小 */
     }
   </style>
 </head>
