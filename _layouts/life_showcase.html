@@ -311,8 +311,8 @@
         // --- 電腦版邏輯：滑鼠懸浮 ---
         allFragments.forEach(fragment => {
           // 初始隨機偏移
-          const dx = (Math.random() - 0.5) * 80;
-          const dy = (Math.random() - 0.5) * 60;
+          const dx = (Math.random() - 0.5) * 400; // 決定配圖方塊橫向隨機位移幅度
+          const dy = (Math.random() - 0.5) * 200; // 決定配圖方塊直向隨機位移幅度
           fragment.style.setProperty('--dx', `${dx}px`);
           fragment.style.setProperty('--dy', `${dy}px`);
 
@@ -327,8 +327,8 @@
         // --- 手機版邏輯：點擊觸發 ---
         allFragments.forEach(fragment => {
           // 初始隨機偏移
-          const dx = (Math.random() - 0.5) * 20; // 手機上偏移量可以小一些
-          const dy = (Math.random() - 0.5) * 20;
+          const dx = (Math.random() - 0.5) * 80; // 手機上偏移量可以小一些
+          const dy = (Math.random() - 0.5) * 60;
           fragment.style.setProperty('--dx', `${dx}px`);
           fragment.style.setProperty('--dy', `${dy}px`);
 
