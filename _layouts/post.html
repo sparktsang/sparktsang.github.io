@@ -27,17 +27,17 @@
 		{{ content }}
 		
 		{% if page.category == "Life" %}
-		  <div class="post-nav" style="display:flex; justify-content:space-between; align-items:center; margin-top:3rem;">
+		  <div class="post-nav" style="display:flex; justify-content:space-between; align-items:center; margin-top:4rem;">
 
 		    <div class="next-post" style="text-align:right;">
 		      {% if page.previous %}
-		        <a href="{{ site.baseurl }}{{ page.previous.url }}" class="button small">← PREVIOUS</a>
+		        <a href="{{ site.baseurl }}{{ page.previous.url }}" class="button small">←</a>
 		      {% endif %}
 		    </div>
 
 			<div class="prev-post">
 		      {% if page.next %}
-		        <a href="{{ site.baseurl }}{{ page.next.url }}" class="button small">NEXT →</a>
+		        <a href="{{ site.baseurl }}{{ page.next.url }}" class="button small">→</a>
 		      {% endif %}
 		    </div>
 		
