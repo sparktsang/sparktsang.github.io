@@ -8,6 +8,23 @@
 
 {% include head.html %}
 
+<!-- ============================================= -->
+<!-- START: Custom CSS for Home Page Tiles         -->
+<!-- ============================================= -->
+<style>
+  /*
+    呢句規則嘅作用，係令到被 JavaScript 加上 .is-hovered class 嘅磚塊，
+    可以觸發同滑鼠 :hover 一樣嘅視覺效果（即係令顏色層變透明）。
+    呢個係專為手機觸控體驗而設。
+  */
+  .tiles article.is-hovered:before {
+    opacity: 0;
+  }
+</style>
+<!-- ============================================= -->
+<!-- END: Custom CSS for Home Page Tiles           -->
+<!-- ============================================= -->
+	
 <body>
 
     {% include header.html %}
