@@ -42,6 +42,38 @@
 
     </div>
 
+	<script>
+	document.addEventListener("DOMContentLoaded", () => {
+	  const isTouch = 'ontouchstart' in window || navigator.maxTouchPoints > 0;
+	  if (!isTouch) return; // 電腦版照舊，用 hover 即可
+	
+	  const tiles = document.querySelectorAll('.tiles article');
+	  tiles.forEach(tile => {
+	    const link = tile.querySelector('a');
+	    if (!link) return;
+	
+	    tile.addEventListener('click', (e) => {
+	      const active = tile.classList.contains('touch-active');
+	      // 如果已經 active，就讓它進入連結
+	      if (active) return;
+	      // 否則，阻止跳轉，只顯示 hover 效果
+	      e.preventDefault();
+	
+	      // 移除其他 active 狀態
+	      tiles.forEach(t => t.classList.remove('touch-active'));
+	      tile.classList.add('touch-active');
+	    });
+	  });
+	
+	  // 點擊空白處關閉
+	  document.addEventListener('click', (e) => {
+	    if (!e.target.closest('.tiles article')) {
+	      tiles.forEach(t => t.classList.remove('touch-active'));
+	    }
+	  });
+	});
+	</script>
+
     {% include footer.html %}
 
 </body>
