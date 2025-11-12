@@ -19,7 +19,7 @@
 			&:before {
 				background-color: transparent; /* original: background-color: _palette(fg-bold); */
 				border-radius: 100%;
-				color: _palette(bg);
+				color: #FFFFFF;
 				display: inline-block;
 				height: 2em;
 				line-height: 2em;
@@ -49,4 +49,5 @@
 		}
 
 	}
+
 
