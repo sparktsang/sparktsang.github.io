@@ -36,12 +36,6 @@
 			position: relative;
 			width: 40%;
 
-			.touch-active {　// 改手機按tiles效果
-			  transform: scale(1.02);
-			  background-color: rgba(255,255,255,0.08); // 或你原本 hover 底色
-			  transition: all 0.3s ease;
-			}
-			
 			.image {
 				display: none;
 			}
@@ -148,6 +142,13 @@
 					background-color: _palette(accent6);
 				}
 			}
+
+			.touch-active {　// 改手機按tiles效果
+			  transform: scale(1.02);
+			  background-color: rgba(255,255,255,0.08); // 或你原本 hover 底色
+			  transition: all 0.3s ease;
+			}
+			
 		}
 
 		@include breakpoint(large) {
