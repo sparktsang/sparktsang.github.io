@@ -96,7 +96,7 @@
 				}
 			}
 			
-			&.is-hovered {
+			&:is-hovered {
 				&:before {
 					opacity: 0;
 				}
