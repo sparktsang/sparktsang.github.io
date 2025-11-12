@@ -8,23 +8,6 @@
 
 {% include head.html %}
 
-<!-- ============================================= -->
-<!-- START: Custom CSS for Home Page Tiles         -->
-<!-- ============================================= -->
-<style>
-  /*
-    呢句規則嘅作用，係令到被 JavaScript 加上 .is-hovered class 嘅磚塊，
-    可以觸發同滑鼠 :hover 一樣嘅視覺效果（即係令顏色層變透明）。
-    呢個係專為手機觸控體驗而設。
-  */
-  .tiles article.is-hovered:before {
-    opacity: 0;
-  }
-</style>
-<!-- ============================================= -->
-<!-- END: Custom CSS for Home Page Tiles           -->
-<!-- ============================================= -->
-	
 <body>
 
     {% include header.html %}
@@ -61,60 +44,6 @@
 
     {% include footer.html %}
 
-<!-- ======================================================= -->
-<!-- START: Script for Home Page Tiles Touch Interaction -->
-<!-- ======================================================= -->
-<script>
-document.addEventListener('DOMContentLoaded', () => {
-
-  // 1. 偵測係咪觸控設備
-  const isTouchDevice = 'ontouchstart' in window || navigator.maxTouchPoints > 0;
-
-  // 2. 如果係觸控設備，就啟用以下邏輯
-  if (isTouchDevice) {
-    const allTiles = document.querySelectorAll('.tiles article');
-
-    allTiles.forEach(tile => {
-      tile.addEventListener('click', (event) => {
-        // 檢查呢塊磚係咪已經係「hover」狀態
-        const isAlreadyHovered = tile.classList.contains('is-hovered');
-
-        if (isAlreadyHovered) {
-          // 如果係，代表係第二次撳，就乜都唔做，由佢自然跳轉去連結
-          return;
-        } else {
-          // 如果唔係，代表係第一次撳
-          
-          // a. 最關鍵一步：阻止連結即刻跳轉
-          event.preventDefault();
-
-          // b. 將其他已經係「hover」狀態嘅磚塊變返原狀
-          allTiles.forEach(otherTile => {
-            otherTile.classList.remove('is-hovered');
-          });
-
-          // c. 將依家撳緊呢塊磚，設定為「hover」狀態
-          tile.classList.add('is-hovered');
-        }
-      });
-    });
-
-    // 3. 監聽頁面其他地方嘅點擊，用嚟取消所有磚塊嘅「hover」狀態
-    document.addEventListener('click', (event) => {
-      // 如果撳嘅地方唔係一塊磚，或者唔係磚入面嘅嘢
-      if (!event.target.closest('.tiles article')) {
-        allTiles.forEach(tile => {
-          tile.classList.remove('is-hovered');
-        });
-      }
-    });
-  }
-});
-</script>
-<!-- ======================================================= -->
-<!-- END: Script for Home Page Tiles Touch Interaction   -->
-<!-- ======================================================= -->
-	
 </body>
 
 </html>
