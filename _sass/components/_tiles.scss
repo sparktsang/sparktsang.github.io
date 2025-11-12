@@ -96,12 +96,6 @@
 				}
 			}
 			
-			&:is-hovered {
-				&:before {
-					opacity: 0;
-				}
-			}
-			
 			&.is-transitioning {
 				@include vendor('transform', 'scale(0.95)');
 				@include vendor('filter', 'blur(0.5em)');
