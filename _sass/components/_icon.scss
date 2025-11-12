@@ -17,9 +17,9 @@
 
 		&.alt {
 			&:before {
-				background-color: _palette(fg-bold);
+				background-color: transparent; /* original: background-color: _palette(fg-bold); */
 				border-radius: 100%;
-				color: _palette(bg);
+				color: rgba(255, 255, 255, 0.4); /* original: color: _palette(bg); */
 				display: inline-block;
 				height: 2em;
 				line-height: 2em;
@@ -47,4 +47,5 @@
 				}
 			}
 		}
+
 	}
