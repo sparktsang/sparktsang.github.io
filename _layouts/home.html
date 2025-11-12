@@ -44,8 +44,8 @@
 
 	<script>
 	document.addEventListener("DOMContentLoaded", () => {
-	  const isTouch = 'ontouchstart' in window || navigator.maxTouchPoints > 0;
-	  if (!isTouch) return; // 電腦版照舊，用 hover 即可
+	  const isTouchDevice = 'ontouchstart' in window || navigator.maxTouchPoints > 0;
+	  if (!isTouchDevice) return; // 電腦版照舊，用 hover 即可
 	
 	  const tiles = document.querySelectorAll('.tiles article');
 	  tiles.forEach(tile => {
