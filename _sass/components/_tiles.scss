@@ -95,6 +95,13 @@
 					opacity: 0;
 				}
 			}
+
+			&:hover,
+			&:active {
+				&:before {
+					opacity: 0;
+				}
+			}
 			
 			&.is-transitioning {
 				@include vendor('transform', 'scale(0.95)');
