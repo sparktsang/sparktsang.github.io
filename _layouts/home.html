@@ -33,41 +33,15 @@
         <!-- Two -->
         <section id="two">
             <div class="inner">
+                <!-- <header class="major">
+                    <h2>My never ending ambition</h2>
+                </header> -->
                 <p>{{ content }}</p>
             </div>
         </section>
 
     </div>
-
     {% include footer.html %}
-
-<!-- ======================================================= -->
-<!-- START: Absolute Click Interception Script             -->
-<!-- ======================================================= -->
-<script>
-document.addEventListener('DOMContentLoaded', () => {
-
-  // 1. 搵出所有磚塊上面嘅透明連結
-  const allTileLinks = document.querySelectorAll('.tiles article a.link.primary');
-
-  // 2. 為每一張連結，加上一個事件監聽器
-  allTileLinks.forEach(link => {
-    link.addEventListener('click', (event) => {
-
-      // 3. 無條件執行「作廢」命令
-      event.preventDefault();
-      
-      // (可選) 喺瀏覽器嘅開發者工具 Console 度顯示訊息，證明 code 有行到
-      console.log('Click intercepted and navigation prevented on:', link.href);
-
-    });
-  });
-
-});
-</script>
-<!-- ======================================================= -->
-<!-- END: Absolute Click Interception Script               -->
-<!-- ======================================================= -->
 
 </body>
 
