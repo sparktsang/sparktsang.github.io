@@ -41,7 +41,69 @@
         </section>
 
     </div>
+
     {% include footer.html %}
+
+<!-- ======================================================= -->
+<!-- START: Final Script for Tiles Touch Interaction       -->
+<!-- ======================================================= -->
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+
+  // 1. 偵測係咪觸控設備
+  const isTouchDevice = 'ontouchstart' in window || navigator.maxTouchPoints > 0;
+
+  // 2. 如果係觸控設備，先至啟用以下所有手機專用邏輯
+  if (isTouchDevice) {
+    const allTiles = document.querySelectorAll('.tiles article');
+
+    allTiles.forEach(tile => {
+      // 我哋要搵嘅目標，係鋪喺磚塊上面嗰張透明連結
+      const link = tile.querySelector('a.link.primary');
+
+      if (link) {
+        link.addEventListener('click', (event) => {
+          // 檢查磚塊（<article>）係咪已經被點擊過一次
+          const isActive = tile.classList.contains('tile-active');
+
+          if (isActive) {
+            // 如果已經 active，代表係第二次點擊，就乜都唔做，由佢自然跳轉
+            return;
+          } else {
+            // 如果唔係 active，代表係第一次點擊
+            
+            // a. 最關鍵一步：阻止連結即刻跳轉（作廢開門機制）
+            event.preventDefault();
+
+            // b. 將其他所有已經 active 嘅磚塊重置返
+            allTiles.forEach(otherTile => {
+              otherTile.classList.remove('tile-active');
+            });
+
+            // c. 將依家點擊緊呢塊磚，加上 .tile-active 記號
+            tile.classList.add('tile-active');
+          }
+        });
+      }
+    });
+
+    // 3. 喺頁面任何地方點擊，都會重置所有磚塊嘅狀態
+    document.addEventListener('click', (event) => {
+      // 檢查點擊嘅地方，係咪喺一塊磚塊嘅「外部」
+      // event.target.closest('.tiles article') 會搵出點擊嘅嘢係咪一塊磚，或者喺一塊磚入面
+      // 如果唔係，佢就會係 null
+      if (!event.target.closest('.tiles article')) {
+        allTiles.forEach(tile => {
+          tile.classList.remove('tile-active');
+        });
+      }
+    });
+  }
+});
+</script>
+<!-- ======================================================= -->
+<!-- END: Final Script for Tiles Touch Interaction         -->
+<!-- ======================================================= -->
 
 </body>
 
