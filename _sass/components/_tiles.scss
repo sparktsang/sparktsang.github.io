@@ -90,12 +90,6 @@
 				z-index: 1;
 			}
 
-			&:hover {
-				&:before {
-					opacity: 0;
-				}
-			}
-
 			&:hover,
 			&:active {
 				&:before {
