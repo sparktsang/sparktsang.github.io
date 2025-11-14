@@ -39,3 +39,31 @@ The response was a deafening silence.
 In that silence, I felt the full weight of the Platonic tragedy. I had escaped the cave. I had seen the sun. And I had returned, describing its brilliance in the clearest, most logical language possible.
 
 But the prisoners in the cave were not listening. They were perfectly happy with their shadows.
+
+<!--Act III: The Collapse of the Market of Trust-->
+My return to Hong Kong brought a new opportunity. The "senior brother" from the Property Owners' Club, the one who had first led me into the marketplace of knowledge, now saw value in what I was building. He was joining a team that ran investment courses, a self-proclaimed "Business School," and he wanted to bring me in. He spoke of partnerships, of teaching classes to hundreds, of a bright future. For a moment, it felt like my cathedral of reason had finally found a patron.
+
+The Business School was a higher-end version of the cultish seminars I’d attended, more polished, more professional in its packaging. It was a well-oiled machine for monetizing belief. I understood their business model instantly: they didn't lack students; they lacked instructors. They had a captive audience of believers, and they needed a rotating cast of gurus to sell new gospels to. My system, with its unique, quantifiable logic, was a perfect new product for their lineup.
+
+The negotiations began. He started with a 50/50 split, inflating his own value as a master of business and networking. I pushed back. The negotiation dragged on. In the meantime, he brought me deeper into his world, even inviting me to their Christmas party. It was pure performance, all style and no substance, with him as the master of ceremonies, expertly dangling teasers for future courses.
+
+Perhaps because the Business School saw my commercial value, his stance softened. He started asking me for investment advice, admitting his own ignorance of options. He finally agreed to a 65/35 split in my favor. It felt like a small victory in a long war. Things seemed to be on track.
+
+But in the marketplace of narratives, trust is a currency that can be devalued in an instant.
+
+The partnership unraveled in a series of small, almost banal betrayals. Just before our first small, trial seminar, he announced, last minute, that he had to give 5% of our previously agreed split to a female psychologist friend who had "helped him a lot". The logic wasn't business; it was personal obligation. I was stunned. This man, who postured as a master of commerce, lacked the most basic business ethics. The foundation of our trust began to crack.
+
+Then came his "stress tests". He started challenging the very core of my system, not with reasoned arguments, but with the thoughtless platitudes of the common man. "How can you know, the world is so big?" "You've never seen what it's like inside an investment bank." "How can you call your system world-class?" "I'm just telling you what a normal person would think."
+
+I finally understood. After all our conversations, all my painstaking explanations, he didn't believe in my system. He didn't even understand it. He just saw it as a product to be sold, a narrative to be packaged. My cathedral of reason, to him, was just another piece of merchandise.
+
+It was the ultimate humiliation.
+
+I went through with the seminar, my heart a block of ice. I delivered my sermon. And it worked. A doctor in the audience was captivated, shaking my hand with genuine excitement as he prepared to pay. I had proven my commercial value.
+
+And then, I walked away. I went back to our group chat, and with the cold, precise fury of a man who had nothing left to lose, I typed out my final message:
+
+*Your lack of respect is not contributing to the partnership and also not to your profit.*
+*I suggest you should find something you see value in to sell. Something you have real confidence in.*
+
+His psychologist friend tried to mediate. But it was over. I had tried to sell my sacred texts in the marketplace. And I had discovered that in this market, the only thing for sale was the soul of the seller. I had learned, in the most painful way possible, that in a world without a shared mechanism for verifying truth, every attempt at collaboration is just a prelude to betrayal.
