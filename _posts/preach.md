@@ -16,8 +16,6 @@ I stood alone in my creation, a moment of supreme intellectual achievement and p
 I had climbed so high that I had left humanity behind.
 
 <!--Act I: The Death of Language - A Sermon to the Deaf-->
-I had climbed so high that I had left humanity behind.
-
 But a truth kept in a cathedral is not a truth at all; it is a prayer whispered to an empty hall. It must be brought into the world. And so, I descended from my lonely summit. I began to preach.
 
 My first attempts were with fellow travelers I met on the road, souls who, like me, seemed to be searching for something. They would ask about my financial freedom, their eyes filled with a hopeful curiosity. It was a perfect opening. And yet, I would freeze.
