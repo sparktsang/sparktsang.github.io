@@ -32,7 +32,7 @@ I realized then, with a profound, almost comical sense of despair, that we didn'
 
 It was a failure of the most fundamental kind. It was the death of language itself. My truth could not be transmitted, not because it was complex, but because there was no shared vocabulary, no common ground upon which the first stone of understanding could be laid.
 
-<!--Act II: Act II: The Death of Reason - The Sleeping Believers-->
+<!--Act II: The Death of Reason - The Sleeping Believers-->
 If the problem was the listener, then I would find better listeners. My true hope lay with my "classmates," the tribe I had formed from the ashes of that fraudulent investment course. They were different. They were seekers. They had seen the value in my notes. They had paid a not-insignificant fee of nearly $2,500 to subscribe to my system. They were not just an audience; they were my first disciples.
 
 I was, for a time, filled with a naive, almost paternal excitement. I had designed the system to be impossibly user-friendly. When a value-driven stock hit its buy zone, it would light up. Simple. The system was so transparent, so devoid of the seductive narratives other gurus used, that its success would be undeniable. The results, I believed, would speak for themselves. This wasn't a gospel that required faith; it was a machine that produced proof.
