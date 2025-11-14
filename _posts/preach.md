@@ -1,4 +1,4 @@
-"VI: The Preach"
+"The Architect of the Incommensurable World"
 
 <!--Prologue: The Cathedral of Reason-->
 As I travelled, I worked. My sprawling spreadsheet, a universe of hundreds of columns, became my mobile laboratory. I was on a quest for the absolute. I developed a unified metric to measure a stock's value, a scale from one to five. I created a way to measure a stock's "value-purity". And from this, a complete philosophical methodology emerged. I had, I believed, found the first principles. A good stock is a value-generating machine; its long-term price is determined by the output of that machine. Everything else is just noise.
