@@ -1,7 +1,7 @@
 "VI: The Preach"
 
 <!--Prologue: The Cathedral of Reason-->
-As I traveled, I worked. My sprawling spreadsheet, a universe of hundreds of columns, became my mobile laboratory. I was on a quest for the absolute. I developed a unified metric to measure a stock's value, a scale from one to five. I created a way to measure a stock's "value-purity". And from this, a complete philosophical methodology emerged. I had, I believed, found the first principles. A good stock is a value-generating machine; its long-term price is determined by the output of that machine. Everything else is just noise.
+As I travelled, I worked. My sprawling spreadsheet, a universe of hundreds of columns, became my mobile laboratory. I was on a quest for the absolute. I developed a unified metric to measure a stock's value, a scale from one to five. I created a way to measure a stock's "value-purity". And from this, a complete philosophical methodology emerged. I had, I believed, found the first principles. A good stock is a value-generating machine; its long-term price is determined by the output of that machine. Everything else is just noise.
 
 I had cracked the code. I held the best answer in the world.
 
@@ -18,7 +18,7 @@ I had climbed so high that the human world no longer had a path to reach me.
 <!--Act I: The Death of Language - A Sermon to the Deaf-->
 But a truth kept in a cathedral is not a truth at all; it is a prayer whispered to an empty hall. It must be brought into the world. And so, I descended from my lonely summit. I began to preach.
 
-My first attempts were with fellow travelers I met on the road, souls who, like me, seemed to be searching for something. They would ask about my financial freedom, their eyes filled with a hopeful curiosity. It was a perfect opening. And yet, I would freeze.
+My first attempts were with fellow travellers I met on the road, souls who, like me, seemed to be searching for something. They would ask about my financial freedom, their eyes filled with a hopeful curiosity. It was a perfect opening. And yet, I would freeze.
 
 How could I explain? To tell them the truth would require me to first dismantle their entire worldview, to tell them that the very language of knowledge they spoke was flawed. It would require me to claim, with a straight face, that my system was to all others as a professor is to a primary school student. Who in their right mind would believe me?
 
@@ -35,7 +35,7 @@ We were not disagreeing on methods. We were inhabiting different ontologies.
 <!--Act II: The Death of Reason - The Sleeping Believers-->
 If the problem was the listener, then I would find better ones. My true hope lay with my "classmates", the tribe I had formed from the ashes of that fraudulent investment course. They were different. They had seen the value in my notes. Some seekers proceeded and paid a not-insignificant fee of nearly $2,500 to subscribe to my system. They were not just an audience; they were my first disciples.
 
-I was, for a time, filled with a naive, almost paternal excitement. I had designed the system to be impossibly user-friendly. When a value-driven stock hit its buy zone, it would light up. Simple. The system was so transparent, so devoid of the seductive narratives other gurus used, that its success would be undeniable. The results, I believed, would speak for themselves. This wasn't a gospel that required faith; it was a machine that produced proof.
+I was, for a time, filled with a naïve, almost paternal excitement. I had designed the system to be impossibly user-friendly. When a value-driven stock hit its buy zone, it would light up. Simple. The system was so transparent, so devoid of the seductive narratives other gurus used, that its success would be undeniable. The results, I believed, would speak for themselves. This wasn't a gospel that required faith; it was a machine that produced proof.
 
 I was wrong.
 
@@ -58,9 +58,9 @@ I had to find a different way. My return to Hong Kong brought a new opportunity,
 
 I understood their business model instantly. The Business School was a well-oiled machine for monetizing belief. They didn't lack students; they lacked instructors. They had a captive audience, and they needed a rotating cast of gurus to sell new gospels to. My system, with its unique, quantifiable logic, was a perfect new product for their lineup. This time, I thought, it would be different. This was not about enlightenment; this was business. At least, we shared a language.
 
-The negotiations began. He started with a 50/50 split, inflating his own value as a master of networking. I pushed back. Perhaps because the Business School saw my potential, his stance softened. He started asking me for investment advice. He finally agreed to a 65/35 split in my favor. It felt like a small victory. Things seemed to be on track.
+The negotiations began. He started with a 50/50 split, inflating his own value as a master of networking. I pushed back. Perhaps because the Business School saw my potential, his stance softened. He started asking me for investment advice. He finally agreed to a 65/35 split in my favour. It felt like a small victory. Things seemed to be on track.
 
-But in the marketplace of narratives, trust is a currency that can be devalued in an instant. The partnership unraveled in a series of small, almost banal betrayals. Just before our first trial seminar, he announced, last minute, that he had to give 5% of our split to a psychologist friend who had "helped him a lot". The logic wasn't business; it was personal obligation. The foundation of our trust began to crack.
+But in the marketplace of narratives, trust is a currency that can be devalued in an instant. The partnership unravelled in a series of small, almost banal betrayals. Just before our first trial seminar, he announced, last minute, that he had to give 5% of our split to a psychologist friend who had "helped him a lot". The logic wasn't business; it was personal obligation. The foundation of our trust began to crack.
 
 Then came his "stress tests". He started challenging the very core of my system, not with reasoned arguments, but with the thoughtless platitudes of the common man. "How can you know, the world is so big?" "You've never seen what it's like inside an investment bank." "How can you call your system world-class?" "I'm just telling you what a normal person would think."
 
@@ -80,7 +80,7 @@ His psychologist friend tried to mediate. But it was over. I had tried to bring 
 <!--Finale: The Birth of the Epistemic Island-->
 My time in the utopia was over. I had learned, in the most painful way possible, that in a world without a shared mechanism for verifying truth, every attempt at collaboration is just a prelude to betrayal.
 
-I thought of the unread essay, the silent subscribers, the uncomprehending travelers, the condescending business partner. A lifetime of failed transmissions. How many others throughout history have held a truth in their hands, only to find themselves screaming into a void? How many prophets have built their cathedrals of reason, only to find themselves alone inside, preaching to an empty hall?
+I thought of the unread essay, the silent subscribers, the uncomprehending travellers, the condescending business partner. A lifetime of failed transmissions. How many others throughout history have held a truth in their hands, only to find themselves screaming into a void? How many prophets have built their cathedrals of reason, only to find themselves alone inside, preaching to an empty hall?
 
 In the bright noon of the Information Age, a man with a demonstrable truth can exhaust himself and fail, while the most absurd narrative viruses go pandemic. The truth I held was so simple, its logic so evident, yet I couldn't find a single soul who truly understood. To hold a simple truth, I realized, was to stand against the gravitational field of the species.
 
