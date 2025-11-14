@@ -15,13 +15,24 @@ I stood alone in my creation, a moment of supreme intellectual achievement and p
 
 I had climbed so high that I had left humanity behind.
 
-<!--Act II: The Failure of Transmission-->
-I continued to refine my system as I traveled, my faith in its logic now absolute. But a truth kept in a laboratory is not a truth at all; it must be brought into the world. I began to preach.
+<!--Act I: The Death of Language - A Sermon to the Deaf-->
+I had climbed so high that I had left humanity behind.
 
-My first attempts were with fellow travelers I met on the road, souls who, like me, were searching for something. They would ask about my financial freedom, their eyes filled with a hopeful curiosity. But how could I explain? To tell them the truth would require me to first dismantle their entire worldview, to tell them that the very language of knowledge they spoke was flawed. To claim that my system was to all others as a professor is to a primary school student. Who in their right mind would believe me?
+But a truth kept in a cathedral is not a truth at all; it is a prayer whispered to an empty hall. It must be brought into the world. And so, I descended from my lonely summit. I began to preach.
 
-I would try. I would offer them a small piece of the puzzle, a single, elegant non-linear metric. They would express their gratitude, not realizing that a single gear is meaningless without the engine that drives it. They would ask what books had inspired me, and when I could offer almost none, I would see the suspicion in their eyes. How could a man who knew so much have read so little? While I did read a lot, I couldn't explain that the greatest value lies not in consuming a flawed knowledge system, but in having the ability to step back and question it from first principles. I realized then that we didn't even share a common language. I was speaking of architecture, and they were asking for paint samples.
+My first attempts were with fellow travelers I met on the road, souls who, like me, seemed to be searching for something. They would ask about my financial freedom, their eyes filled with a hopeful curiosity. It was a perfect opening. And yet, I would freeze.
 
+How could I explain? To tell them the truth would require me to first dismantle their entire worldview, to tell them that the very language of knowledge they spoke was flawed. It would require me to claim, with a straight face, that my system was to all others as a professor is to a primary school student. Who in their right mind would believe me?
+
+So I would try a simpler approach. I would offer them a small, digestible piece of the puzzle, a single, elegant non-linear metric from my system. They would express their gratitude, not realizing that a single gear is meaningless without the engine that drives it, that possessing a single brick tells you nothing about the architecture of the cathedral.
+
+They would ask what books I had read to gain such insight. And when I could offer almost none that they would recognize, I would see the suspicion in their eyes. *How can a man who knows so much have read so little?* I couldn't explain that the greatest value lies not in consuming a flawed knowledge system, but in having the ability to step back and question it from first principles.
+
+I realized then, with a profound, almost comical sense of despair, that we didn't even share a common language. I was speaking of architecture, and they were asking for paint samples. We were using the same English words—"value," "risk," "return"—but they were like false friends in a foreign language, words that looked the same but carried entirely different universes of meaning.
+
+It was a failure of the most fundamental kind. It was the death of language itself. My truth could not be transmitted, not because it was complex, but because there was no shared vocabulary, no common ground upon which the first stone of understanding could be laid.
+
+<!--Act II: The Death of Language - A Sermon to the Deaf-->
 My true hope lay with my "classmates", the tribe I had formed from the ashes of that fraudulent investment course. They were the ones who had seen the value in my notes. I gained about seven paying subscribers, each paying a not-insignificant fee of nearly $2,500. They were my first disciples.
 
 I was, for a time, filled with a naive, almost paternal excitement. I had designed the system to be impossibly user-friendly. When a value-driven stock hit its buy zone, it would light up. Simple. The system was so transparent that it left no room for the seductive narratives other gurus used. The results, I believed, would speak for themselves. My system would spread like a virus of reason, its success undeniable.
