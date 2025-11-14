@@ -52,23 +52,27 @@ And in that silence, I felt the full weight of the Platonic tragedy. I had escap
 But the prisoners in the cave were not listening. They were perfectly happy with their shadows.
 
 <!--Act III: The Collapse of the Market of Trust-->
-My return to Hong Kong brought a new opportunity. The "senior brother" from the Property Owners' Club, the one who had first led me into the marketplace of knowledge, now saw value in what I was building. He was joining a team that ran investment courses, a self-proclaimed "Business School," and he wanted to bring me in. He spoke of partnerships, of teaching classes to hundreds, of a bright future. For a moment, it felt like my cathedral of reason had finally found a patron.
+好的，導演。指令清晰。我們現在正式進入第六章的第三幕——**「信任市集的崩塌」**。
 
-The Business School was a higher-end version of the cultish seminars I’d attended, more polished, more professional in its packaging. It was a well-oiled machine for monetizing belief. I understood their business model instantly: they didn't lack students; they lacked instructors. They had a captive audience of believers, and they needed a rotating cast of gurus to sell new gospels to. My system, with its unique, quantifiable logic, was a perfect new product for their lineup.
+這一幕的任務，是要描寫你最沉重的一次幻滅。你的敵人，不再是無知的旅人，也不是懶惰的信徒，而是一個**精明的商人**——一個看得出你“真理”的**商業價值**，但對“真理”本身**毫無敬意**的人。這將是一場關於**“價值觀”**的終極對決。
 
-The negotiations began. He started with a 50/50 split, inflating his own value as a master of business and networking. I pushed back. The negotiation dragged on. In the meantime, he brought me deeper into his world, even inviting me to their Christmas party. It was pure performance, all style and no substance, with him as the master of ceremonies, expertly dangling teasers for future courses.
+---
 
-Perhaps because the Business School saw my commercial value, his stance softened. He started asking me for investment advice, admitting his own ignorance of options. He finally agreed to a 65/35 split in my favor. It felt like a small victory in a long war. Things seemed to be on track.
+**【Chapter VI: The Preach - Act III: The Death of Trust - Betrayal in the Marketplace】**
 
-But in the marketplace of narratives, trust is a currency that can be devalued in an instant.
+The prisoners were happy with their shadows. I had to find a different way. My return to Hong Kong brought a new opportunity, a new kind of hope. The "senior brother" from the Property Owners' Club, the one who had first led me into the marketplace of knowledge, now saw value in what I was building. He was joining a team that ran investment courses, a self-proclaimed "Business School," and he wanted to bring me in. He spoke of partnerships, of teaching classes to hundreds. For a moment, it felt like my cathedral of reason had finally found a patron.
 
-The partnership unraveled in a series of small, almost banal betrayals. Just before our first small, trial seminar, he announced, last minute, that he had to give 5% of our previously agreed split to a female psychologist friend who had "helped him a lot". The logic wasn't business; it was personal obligation. I was stunned. This man, who postured as a master of commerce, lacked the most basic business ethics. The foundation of our trust began to crack.
+I understood their business model instantly. The Business School was a well-oiled machine for monetizing belief. They didn't lack students; they lacked instructors. They had a captive audience, and they needed a rotating cast of gurus to sell new gospels to. My system, with its unique, quantifiable logic, was a perfect new product for their lineup. This time, I thought, it would be different. This was not about enlightenment; this was business. We spoke the same language.
 
-Then came his "stress tests". He started challenging the very core of my system, not with reasoned arguments, but with the thoughtless platitudes of the common man. "How can you know, the world is so big?" "You've never seen what it's like inside an investment bank." "How can you call your system world-class?" "I'm just telling you what a normal person would think."
+The negotiations began. He started with a 50/50 split, inflating his own value as a master of networking. I pushed back. Perhaps because the Business School saw my potential, his stance softened. He started asking me for investment advice. He finally agreed to a 65/35 split in my favor. It felt like a small victory. Things seemed to be on track.
 
-I finally understood. After all our conversations, all my painstaking explanations, he didn't believe in my system. He didn't even understand it. He just saw it as a product to be sold, a narrative to be packaged. My cathedral of reason, to him, was just another piece of merchandise.
+But in the marketplace of narratives, trust is a currency that can be devalued in an instant. The partnership unraveled in a series of small, almost banal betrayals. Just before our first trial seminar, he announced, last minute, that he had to give 5% of our split to a psychologist friend who had "helped him a lot." The logic wasn't business; it was personal obligation. The foundation of our trust began to crack.
 
-It was the ultimate humiliation.
+Then came his "stress tests." He started challenging the very core of my system, not with reasoned arguments, but with the thoughtless platitudes of the common man. "How can you know, the world is so big?" "You've never seen what it's like inside an investment bank." "How can you call your system world-class?" "I'm just telling you what a normal person would think."
+
+And in that moment, I finally understood. After all our conversations, he didn't believe in my system. He didn't even understand it. He had never seen the cathedral. He had only seen a quarry of marketable stones. My truth, my first-principle philosophy, the very soul of my creation—to him, it was just another product to be packaged, another narrative to be sold.
+
+It was the ultimate humiliation. Not a rejection of my ideas, but a complete and total commodification of them.
 
 I went through with the seminar, my heart a block of ice. I delivered my sermon. And it worked. A doctor in the audience was captivated, shaking my hand with genuine excitement as he prepared to pay. I had proven my commercial value.
 
@@ -77,7 +81,7 @@ And then, I walked away. I went back to our group chat, and with the cold, preci
 *Your lack of respect is not contributing to the partnership and also not to your profit.*
 *I suggest you should find something you see value in to sell. Something you have real confidence in.*
 
-His psychologist friend tried to mediate. But it was over. I had tried to sell my sacred texts in the marketplace. And I had discovered that in this market, the only thing for sale was the soul of the seller. I had learned, in the most painful way possible, that in a world without a shared mechanism for verifying truth, every attempt at collaboration is just a prelude to betrayal.
+His psychologist friend tried to mediate. But it was over. I had tried to bring my sacred texts to the marketplace, believing we could at least agree on the value of gold. But I had discovered that in this market, the only thing for sale was the soul of the seller. And mine was not on the table.
 
 <!--Finale: The Birth of an Epistemic Island-->
 My revolution had failed. I had walked away from the market of trust, my hands empty, my heart filled with a quiet, chilling clarity.
