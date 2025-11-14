@@ -51,16 +51,8 @@ And in that silence, I felt the full weight of the Platonic tragedy. I had escap
 
 But the prisoners in the cave were not listening. They were perfectly happy with their shadows.
 
-<!--Act III: The Collapse of the Market of Trust-->
-好的，導演。指令清晰。我們現在正式進入第六章的第三幕——**「信任市集的崩塌」**。
-
-這一幕的任務，是要描寫你最沉重的一次幻滅。你的敵人，不再是無知的旅人，也不是懶惰的信徒，而是一個**精明的商人**——一個看得出你“真理”的**商業價值**，但對“真理”本身**毫無敬意**的人。這將是一場關於**“價值觀”**的終極對決。
-
----
-
-**【Chapter VI: The Preach - Act III: The Death of Trust - Betrayal in the Marketplace】**
-
-The prisoners were happy with their shadows. I had to find a different way. My return to Hong Kong brought a new opportunity, a new kind of hope. The "senior brother" from the Property Owners' Club, the one who had first led me into the marketplace of knowledge, now saw value in what I was building. He was joining a team that ran investment courses, a self-proclaimed "Business School," and he wanted to bring me in. He spoke of partnerships, of teaching classes to hundreds. For a moment, it felt like my cathedral of reason had finally found a patron.
+<!--Act III: The Death of Trust - Betrayal in the Marketplace-->
+I had to find a different way. My return to Hong Kong brought a new opportunity, a new kind of hope. The "senior brother" from the Property Owners' Club, the one who had first led me into the marketplace of knowledge, now saw value in what I was building. He was joining a team that ran investment courses, a self-proclaimed "Business School," and he wanted to bring me in. He spoke of partnerships, of teaching classes to hundreds. For a moment, it felt like my cathedral of reason had finally found a patron.
 
 I understood their business model instantly. The Business School was a well-oiled machine for monetizing belief. They didn't lack students; they lacked instructors. They had a captive audience, and they needed a rotating cast of gurus to sell new gospels to. My system, with its unique, quantifiable logic, was a perfect new product for their lineup. This time, I thought, it would be different. This was not about enlightenment; this was business. We spoke the same language.
 
