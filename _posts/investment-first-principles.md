@@ -221,3 +221,33 @@ Let us pause and consider: could this entire chain of reasoning be flawed? Yes. 
 If the first condition is true, our entire understanding of the economic world must be reconsidered. If the second is true, it means we are unable to establish a causal link and thus cannot construct a perennial method. Of course, the notion that a primary determinant of asset prices exists today, unknown to us like some form of economic "dark matter," would be astonishing. In our age of information, it is highly improbable that such a factor could be known to a select few and completely hidden from the rest. Therefore, the logical conclusion is either that no one on Earth can build a perennial investment method, or that the readers of this treatise now know that it is, in fact, possible.
 
 ---
+
+### **VIII. Conclusion**
+
+Though this treatise has been lengthy, it has fulfilled the promise made at its inception. The discerning reader will be compelled to agree—or at least find themselves unable to form a rational rebuttal—that this work has indeed articulated the universal principle of perennial profit in investing, devoid of wordplay or artifice. Furthermore, they will concede that its conclusions are eminently practical, holding profound significance for any serious investor.
+
+Let us now consolidate the conclusions of the preceding argument:
+
+1.  The concept of **perennial profit** entails not only a verifiable history of aggregate gains but also a demonstrable basis for their future sustainability. (*Ref. The Logical Architecture of Perennial Profit*)
+
+2.  The true subject of perennial profit is never a person or an institution, but always a **method**. (*Ibid.*)
+
+3.  The historical verification component of a method can be addressed through **backtesting**. (*Ref. The Methodology of Perennial Profit*)
+
+4.  A backtest, regardless of its outcome, is inherently incapable of providing the demonstrable basis for **future sustainability**. (*Ibid.*)
+
+5.  To bridge the past and the future, a **causal relationship** must be established between the method and the profit. (*Ref. Investing as a Science*)
+
+6.  **Price Analysis** (i.e., technical analysis), being rooted in correlation rather than causation, is constitutionally incapable of producing a perennial method. (*Ref. Causality in Investing*)
+
+7.  A perennial method can only be constructed by first identifying that which has a causal relationship with price, and then building the method upon that **causal agent**. (*Ibid.*)
+
+8.  Since price reflects supply and demand, the causal agent can be identified by finding the sole, unilateral **determinant of price** from among the pool of quantifiable factors that plausibly affect supply and demand. (*Ref. The Science of Value*)
+
+It is evident that this inquiry into the universal principle of perennial profit has necessarily ventured into questions far beyond what most readers might have anticipated. The full scope of its implications was difficult to foresee at the outset.
+
+Following this chain of deduction, the path is clear. For any given investment asset, if we can establish a single factor—let us call it the **Price Determinant**—that has a causal relationship with its price, we can construct a method for perennial profit for that asset. If a single Price Determinant cannot be isolated, but the possibilities can be narrowed to a few candidates, one may still succeed by constructing a method based on the "greatest common divisor"—the logical conclusions shared by all the candidate hypotheses. Conversely, if we cannot identify the Price Determinant for a particular asset, then it is impossible to construct a method for perennial profit for that asset.
+
+This is the universal principle of perennial profit in investing. It is the only one.
+
+How one might construct such a method from a Price Determinant is a subject for another treatise.
