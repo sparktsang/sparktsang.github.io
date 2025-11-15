@@ -1,4 +1,12 @@
-## **The First Principles of Perennial Profit in Investing**
+---
+layout: post
+title: "The First Principles of Perennial Profit in Investing"
+category: "Knowledge"
+---
+
+This is an English translation of an article on medium written on 2019.
+
+---
 
 **Abstract**
 
