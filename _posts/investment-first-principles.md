@@ -108,3 +108,116 @@ Those familiar with the mathematics of backtesting will understand that overfitt
 Furthermore, the more variables a method incorporates, the higher the risk of overfitting. Imagine an immortal, clueless investor. Over a trillion trades, their performance is dismal. But upon granular analysis of an infinite number of variables, a pattern is "discovered": if they clip their toenails at dawn, wash their hair, perform a dozen other specific actions in sequence, and then eat a shrimp with wasabi before trading, a curated sample of one hundred such instances shows an aggregate profit. To then propose this ritual as a magical formula for success is absurd. Yet, the methods of many "professional" investors today are not substantively different; they merely substitute a sequence of arbitrary actions with a sequence of arbitrary mathematical indicators from a price chart.
 
 We can now conclude, in more technical language, that the validation of past performance must be based on a statistically significant sample size and must scrupulously avoid the phenomenon of overfitting. The underlying logic, in a word, is the avoidance of **coincidence**. A coincidence, by its very nature, is a past phenomenon that cannot be replicated in the future. It fails our second condition. Rolling a die five times and getting a six each time may be a coincidence. Rolling it ten million times and getting a six each time is evidence of a loaded die. Searching for a method that *would have* produced the desired result of all sixes is to manufacture coincidence, and it is just as useless for predicting the future.
+
+---
+
+### **IV. Perennial Profit and the Philosophy of Science**
+
+It follows logically that if we can eliminate all elements of coincidence—if we can establish that past success was not accidental but the result of a necessary relationship—then we will have satisfied the second condition for perennial profit. The problem, however, is that a backtest, by its very design, can only report what *would have happened* had a method been executed from a certain point in the past. It cannot, in itself, tell us whether the result is a coincidence. While statistical techniques exist to estimate the probability of overfitting, a low probability of coincidence is not the same as the certainty of its absence.
+
+Many investors, even "professionals," may find a sufficiently low probability of coincidence to be adequate. Let us, for the sake of argument, assume their calculations are even accurate. The fundamental issue remains: the definition of "sufficiently low" is entirely subjective. There is no objective mathematical threshold for this term. The title of this treatise is "The First Principles of Perennial Profit," not "The Principles of a High-Probability Profit." This distinction is not pedantic; it is the chasm that separates the relative from the absolute.
+
+The reader may object: "But what is truly absolute?" To pursue this question to its root would lead us deep into the philosophy of science, a diversion this practical treatise cannot afford. A simple analogy will suffice. In a meaningful sense, we all accept the fall of an apple from a tree to the earth as an absolute certainty. To argue otherwise is to challenge the very foundations of science, a task far beyond our current scope.
+
+When we explain the "absoluteness" of the falling apple, we invoke the concept of gravity. The acceptance of "an apple falls to the ground" as a scientific truth rests on a logical architecture that is strikingly parallel to the one we have constructed for perennial profit:
+
+1.  **Past events have verified the seemingly absolute nature of apples falling to the ground.**
+2.  **Future instances of apples falling can be shown to possess a basis for their reasonably repeatable trend.**
+
+This parallel is revelatory. It demonstrates that for "(A specific method) achieves perennial profit" to be elevated to the status of a scientific truth, it must be supported by the same kind of reasoning that supports the truth of a falling apple. Upon grasping this, the discerning reader may be struck by the sudden realization of just how much of the investment world is saturated with pseudoscience. While this is a critical insight, it is ancillary to our main task of establishing the universal principle itself.
+
+---
+
+### **V. Investing as a Science**
+
+I am not a physicist, and I have no intention of reinventing the wheel by expounding on the complete scientific reasoning that established the falling apple as truth. For our purpose, a single, decisive point will suffice: our acceptance of the falling apple as a truth is predicated on our profound understanding of the **causal relationship** that underlies it. We perceive a web of cause and effect in the world, and through it, we comprehend the existence of a force like gravity, which explains not only the falling apple but a multitude of other phenomena.
+
+It has now become clear. To establish "(A specific method) achieves perennial profit" as a scientific truth, we must establish a **causal relationship**.
+
+The law of universal gravitation explains both why the apple falls to the earth and why an object in deep space does not. Given that all scientific truths share a common logical architecture, there must exist a principle that explains why some investment methods achieve perennial profit and others do not. In the domain of investing, the closest analogue to the universal force of gravity is the "invisible hand" of supply and demand.
+
+Regrettably, the market order dictated by this invisible hand lacks the clarity and calculability of the physical order governed by gravity. We cannot observe and measure its effects with the same precision. For instance, while we might calculate a statistical correlation between interest rate changes and market movements, we cannot conclude that this correlation reflects a causal link without a robust, explanatory causal framework. On this very point, there are likely as many interpretations of the causal framework as there are economists.
+
+However, we need not delve into the limitations of economics as a science. Our subject is perennial profit, and our protagonist is the investment method. This is not a theoretical inquiry; it is a practical one. Perhaps it is best to treat this as a distinct, albeit related, field of study.
+
+The crucial takeaway from our discussion so far is this: the logical structure required to satisfy the second condition of perennial profit is that of **causality**. In other words, we must demonstrate a causal link between the method and the profit, not merely the correlation suggested by a backtest.
+
+The ultimate aim of investing is profit, and the ultimate state of profit is its perennial nature. Therefore, this deduction—that causality is the bedrock of any sound investment method—lays the very foundation for treating investing as a science. The discerning reader will surely grasp the profound significance of this step.
+
+---
+
+### **VI. Causality in Investing**
+
+Through a dense but momentous intellectual journey, peeling back layers of abstraction like an onion, we now approach the core: How can we establish a causal relationship between a method and its profit, thereby validating its claim to perennial success?
+
+The astute reader, having followed the trail of deductions, may feel a surge of anticipation. The universal principle is within reach. But here, our relentless logic leads us to an impasse, a seeming aporia: almost all conventional investment methods are incapable of establishing such a relationship.
+
+The reason is as simple as it is devastating. Whether a method is based on mathematical signals derived from price movements or on data extracted from financial statements, it is, in its essence, built upon **correlation**. So long as a causal link is not established *a priori*, the method remains a correlational exercise. And since correlation can never, by itself, prove causation, such methods are fundamentally severed from the causal nexus we seek.
+
+This is a startling conclusion. It means that the vast majority of methods we hear about and see practiced—most notably, the entire and immensely popular school of **Price Analysis** (what is colloquially known as "technical analysis")—are, by their very nature, constitutionally incapable of producing perennial profit.
+
+Yet, just as we reach this dead end, a new path reveals itself. The reader of the highest logical acuity will have already taken the next step with me: if methods built on correlation are doomed to fail, then we must build our method on **causation itself**.
+
+Here lies a conclusion of beautiful and subtle elegance. While we determined that the *subject* of perennial profit is a "method," we now see that a genuinely perennial method can only be constructed *from* the universal principle itself.
+
+To reach our final destination, we must now endeavor to build a method upon a causal foundation that satisfies our conditions. This is the path, forged through rigorous deduction, that will lead us to the universal principle.
+
+Where do we begin? Let us re-examine the structure of "method" and "profit." A method generates a series of investments. Profit is the aggregate result of these activities, but it originates from discrete instances of gain, each of which arises from an appreciation in the value of the invested asset. Therefore, the success of a method is ultimately rooted in the price appreciation of its chosen assets. (Let us not engage in semantic games; a short-seller is simply using one asset, like a stock, to purchase another—cash. Price is always relative.) Even if a method targets multiple assets, the profit must originate from at least one of them, allowing us to simplify our model, without loss of generality, to a method targeting a single asset.
+
+This somewhat elaborate deconstruction serves to clarify a singular point: the relationship between a method and profit *is* the relationship between the method and the price appreciation of its chosen asset. To establish a causal link between method and profit is to establish a causal link between the method and that price appreciation.
+
+This brings us to the final frontier of our inquiry. Since our method must be built from the universal principle, and we need to establish a causal link between this yet-unspecified method and asset price growth, our task becomes one of identification. We must find **that which has a causal relationship with the asset's price growth**, and build our method upon it.
+
+The method thus constructed will, by definition, be causally linked to price appreciation, and therefore, to profit.
+
+After this long intellectual campaign, the core question is distilled to its purest form:
+
+**What is it that has a causal relationship with the price of an investment asset?**
+
+---
+### **VII. The Science of Value**
+
+The answer to our core question has, in a sense, been known to us all along. Economics has already provided the answer: the price of anything is determined by supply and demand. To reject this is to reject the entire edifice of economic science. It seems we have our causal agent. Can we now construct our method?
+
+The difficulty is that knowing the answer is "supply and demand" does not immediately tell us how to build an investment method. Why is this so?
+
+Let us revisit the operational structure of a method. A method capable of generating a series of investment activities, and therefore of being backtested, must consist of a sequence of buy and sell actions. In its simplest form, this is a repeating cycle of Buy-Sell, Buy-Sell. Such a method therefore requires a complete description of the conditions for buying and selling, and these conditions must be based on **quantifiable indicators**.
+
+In theory, supply and demand are quantifiable; one can even draw supply and demand curves. But a robust method cannot be built upon the abstract mathematics of a textbook theory. It requires real-world, observable data. Fortunately, such data exists. For any significant resource, while we may not have the full supply curve, we have data on annual production. While we may not have the full demand curve, we have data on annual consumption.
+
+At this point, a sharp reader may raise a powerful objection: Does the current price not already reflect *all* available information about supply and demand? Is the prevailing market price not the very equilibrium point of these forces? If everything is already in the price, how can an analysis of supply and demand yield any profit?
+
+This assumption—that the price reflects everything—is the foundational axiom of the Price Analysis school. The imaginative reader may also have deduced that the supply and demand data mentioned above is the traditional domain of what is called "fundamental analysis." This ambiguous term, like "technical analysis," is a poor translation and is better rectified as **Value Analysis**. (Indeed, the English terms themselves ought to be corrected to "Value Analysis" and "Price Analysis.") We can now see with greater clarity that this dichotomy is a universal feature of the investment world, not confined merely to stocks. The most perceptive readers may now experience a moment of epiphany: the search for a universal principle of perennial profit, through layers of logical deduction, has led us directly to the heart of the age-old debate between these two rival schools of thought. A tale more dramatic than fiction, perhaps?
+
+The axiom of the Price Analysis school is correct, as far as it goes. For any liquid asset, the current price reflects the current state of supply and demand. A core tenet of traditional Value Analysis, however, is that "price does not reflect intrinsic value." Unfortunately, in the world of science, a vague claim of "intrinsic value" is untenable. It is an imaginary construct—unmeasurable and therefore unfalsifiable, much like positing a demon inside a wristwatch.
+
+However, within our new framework, where a method must be built upon the causal driver of supply and demand, we can reformulate the claim of Value Analysis into a scientifically rigorous statement: **Price reflects the *current* state of supply and demand, but this state may deviate from the state that *ought to exist* according to the underlying causal network. The price that would prevail in this "ought to exist" state is the asset's true Value.**
+
+What does "ought to exist" mean? It is analogous to saying an apple *ought to* fall to the ground; if, due to some unusual circumstance, it flies upwards, the force of gravity acting upon it has not changed. The only correct interpretation is that "ought to exist" must be understood within a causal context. It is the outcome that *should* result from the web of causal forces acting upon a thing.
+
+Supply and demand are themselves outcomes of a deeper causal network. Only by understanding this network can we determine what the state of supply and demand *ought to be*, and whether the current state deviates from it.
+
+This means our task is to identify the factors that **determine** the supply and demand for an investment asset. We have already established that price reflects supply and demand, and that our method must use quantifiable data. Therefore, our mission is to find the **quantifiable data factors that are causally linked to supply and demand, and which thereby determine the asset's price.**
+
+What factors fit this description? The specific factors may vary for different assets, and we do not yet know them. But we know *what they must be like*. They must be tangible, real-world data with a plausible potential to influence supply or demand—not abstract lines drawn by mathematical formulas on a price chart. Since price is the ultimate quantification of supply and demand, our logic is now complete. We can now exhaustively list all potential causal factors, examine whether any single one of them has a **unilateral and determining** relationship with price, and if so, establish causality.
+
+In the world of equities, for instance, the universe of potential causal factors for supply and demand includes a company's earnings, net assets, sales revenue, and dividend payouts. We do not know, *a priori*, which of these factors, if any, actually determines the stock price. Nor do we know if the true determinant is a single factor or a composite of several. But we now know this with certainty: the true causal determinant must be found within this domain of tangible, supply-and-demand-related data. Any factor that lacks a plausible connection to supply and demand need not be given a moment's consideration. This insight alone radically narrows our field of inquiry.
+
+The concept of a "unilateral and determining" relationship with price requires precise definition. It does not imply that no other factors have any effect whatsoever. Rather, it means that when we isolate this single factor and observe it in relation to price, the relationship is so strong that the factor, by itself, is sufficient to explain the price's movement. Its changes determine the changes in price. The discovery of such a **sole unilateral determinant** from the pool of all plausible factors would be sufficient to establish a causal link for the purpose of our thesis.
+
+Why is this unilateral nature so critical? Because for any other factor that lacks this power, while we cannot rule out some distant causal connection, we have no reliable means of isolating its specific impact from the noise of all other influencing variables. We therefore cannot establish its causality with the required degree of certainty. Is the existence of such a singular determinant guaranteed for any given asset? No. It is entirely possible that for certain assets, no such factor can be found. In such cases, our conclusion is simple: a method for achieving perennial profit for that specific asset cannot be constructed. However, if we can discover such a factor for *any* asset, we can build a perennial method upon it.
+
+What if our investigation reveals multiple factors, each appearing to have a unilateral and determining relationship with price? For example, factor A appears to determine price when viewed in isolation, but so does factor B. Such a scenario would strongly suggest that factors A and B are themselves highly correlated, perhaps even causally linked. One possibility is that A determines both B and the price, making B a mere secondary effect. Another is that A (along with other minor variables) determines B, and B in turn determines the price, making A a remote cause.
+
+This presents a more complex analytical challenge. We would need to employ sophisticated mathematical techniques to measure whether A, B, or a specific combination of A and B is the true determinant. Even then, such methods can only reveal the strength of a correlation. The conclusion would remain probabilistic, not absolute.
+
+Does this complexity mean our search for causality is ultimately futile? Not necessarily. In such a case, we would have successfully established that *at least one* of the three hypotheses (A determines price; B determines price; a composite of A and B determines price) must be true. This gives us three distinct causal hypotheses. If we construct three separate investment methods based on each of these hypotheses, and find that they all lead to an identical set of investment conclusions—or if we can identify a "greatest common divisor" method that is the logical outcome of all three—we will have succeeded in building a method for perennial profit.
+
+Let us pause and consider: could this entire chain of reasoning be flawed? Yes. An exhaustive list of conditions for its failure would be:
+
+1.  **The foundational axioms of economics are wrong.**
+2.  **Our exhaustive list of potential supply-and-demand factors is incomplete. The true determinant of price lies outside our current knowledge.**
+
+If the first condition is true, our entire understanding of the economic world must be reconsidered. If the second is true, it means we are unable to establish a causal link and thus cannot construct a perennial method. Of course, the notion that a primary determinant of asset prices exists today, unknown to us like some form of economic "dark matter," would be astonishing. In our age of information, it is highly improbable that such a factor could be known to a select few and completely hidden from the rest. Therefore, the logical conclusion is either that no one on Earth can build a perennial investment method, or that the readers of this treatise now know that it is, in fact, possible.
+
+---
