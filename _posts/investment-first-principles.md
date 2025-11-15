@@ -1,4 +1,4 @@
-### **The First Principles of Perennial Profit in Investing**
+## **The First Principles of Perennial Profit in Investing**
 
 **Abstract**
 
@@ -12,7 +12,7 @@ Given the nature of this approach, its conclusions bear the weight of logical ne
 
 ---
 
-**Table of Contents**
+### **Table of Contents**
 
 I. Prolegomena: On First Terms
 
@@ -75,3 +75,36 @@ Setting aside cases of false claims, how are we to interpret the second scenario
 If this were the case, then regrettably, by our own rigorous definition, this individual has *not* achieved perennial profit. We can only observe that they have fulfilled the first condition: a verifiable record of past profit. We have utterly failed to establish the second: a demonstrable basis for concluding that this success is sustainable. To borrow from Bertrand Russell's classic illustration, this individual is like the inductivist turkey, observing the sun rise every morning and concluding it will rise again tomorrow, blissfully unaware of the impending Thanksgiving Day. For the person who uses "no method," we lack any logical framework to project their past performance into the future.
 
 Therefore, it is logically impossible for an individual to achieve perennial profit *without a method*. It follows that whether the nominal agent of success is an institution or an individual, the true, operational subject of perennial profit can only be a **method**. If it appears to be a collection of methods, it is because at least one among them is the active ingredient. Just as a medicine may contain only one effective compound, or two compounds that must work in synergy (which simply defines the "method" as their combination), so too is the engine of profit a singular, coherent process.
+
+---
+
+### **III. The Methodology of Perennial Profit**
+
+Our analysis has led us to a critical conclusion: the operational subject of perennial profit is a **method**. This method must satisfy two conditions:
+
+1.  It must be verifiable as having generated aggregate profit over a series of past investment activities.
+2.  It must possess a demonstrable basis for the reasonable expectation of a sustainable trend of profitability in a similar series of future activities.
+
+Perennial profit can be viewed as an achieved outcome or as a yet-unrealized goal. For an individual who has not yet achieved this state but aspires to it, they must find a way to satisfy these two conditions in the future. How, then, can one generate a future series of investment activities that, when retrospectively examined, will prove to have been profitable?
+
+Here we arrive at a fascinating turn. The question, as phrased, assumes the subject is a person. But we have already deduced that the true subject is a method. And while a person cannot travel back in time to generate a profitable history, a *method* can. We need only hypothetically deploy the method at a point in the past and simulate its prescribed actions up to the present day, observing whether the resulting series of activities would have yielded an aggregate profit.
+
+The reader may scoff: "This is merely backtesting!" Indeed, any moderately sophisticated investor would be familiar with the term. But let us not be hasty. What we have done is establish, through pure logical deduction, that backtesting is a *necessary condition* for any claim to perennial profit. This is a non-trivial insight. I have yet to encounter a treatise that proves this necessity from first principles. Those who conduct backtests may now understand, on a foundational level, their inherent superiority over the vast majority who do not. This conclusion should be a cause for intellectual invigoration, not dismissal.
+
+Yet, we have only satisfied the first condition. A method may pass a backtest with flying colors, but this is a statement about the past. How does one "demonstrate a basis for a sustainable trend of profitability" in the future? The common refrain, "past performance is no guarantee of future results," serves as a potent rebuttal to even the most impressive historical track record. No one can predict the future with a degree of certainty that compels universal assent from all rational minds.
+
+This is precisely where the profound significance of our inquiry lies, yet the logical structure of the problem is remarkably simple. Let us first understand why a method validated by a backtest may fail in the future. An exhaustive list of technical reasons would include:
+
+1.  **Insufficient Sample Size:** The statistical scope of the backtest is too narrow, casting doubt on its historical validity in the first place.
+2.  **Overfitting:** The method has been curve-fitted to the historical data, meaning the "signals" it identifies are predominantly noise, and the positive result is a mere coincidence.
+
+These technical terms mask a simple logical principle. Consider a novice who, without any analysis, makes three consecutive profitable trades. We rightly dismiss this as insignificant. Why?
+
+1.  The number of instances is too small to reveal the true nature of their "intuitive" process.
+2.  The outcome could easily be a statistical artifact. Assuming a 50/50 chance of profit or loss, the probability of three consecutive wins is 1 in 8—hardly miraculous.
+
+Those familiar with the mathematics of backtesting will understand that overfitting produces results with a far higher probability of being coincidental than natural chance. It is akin to finding, on a planet of a trillion blindfolded dart-throwers, one who has hit the bullseye one hundred times in a row, and then holding this individual up as proof of the superiority of blind intuition.
+
+Furthermore, the more variables a method incorporates, the higher the risk of overfitting. Imagine an immortal, clueless investor. Over a trillion trades, their performance is dismal. But upon granular analysis of an infinite number of variables, a pattern is "discovered": if they clip their toenails at dawn, wash their hair, perform a dozen other specific actions in sequence, and then eat a shrimp with wasabi before trading, a curated sample of one hundred such instances shows an aggregate profit. To then propose this ritual as a magical formula for success is absurd. Yet, the methods of many "professional" investors today are not substantively different; they merely substitute a sequence of arbitrary actions with a sequence of arbitrary mathematical indicators from a price chart.
+
+We can now conclude, in more technical language, that the validation of past performance must be based on a statistically significant sample size and must scrupulously avoid the phenomenon of overfitting. The underlying logic, in a word, is the avoidance of **coincidence**. A coincidence, by its very nature, is a past phenomenon that cannot be replicated in the future. It fails our second condition. Rolling a die five times and getting a six each time may be a coincidence. Rolling it ten million times and getting a six each time is evidence of a loaded die. Searching for a method that *would have* produced the desired result of all sixes is to manufacture coincidence, and it is just as useless for predicting the future.
