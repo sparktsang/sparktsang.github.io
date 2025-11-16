@@ -5,7 +5,7 @@ From the wreckage of a fraudulent investment course, amidst the hundred-plus mem
 
 I met the first, and to this day, the last, benefactor of my life.
 
-He seemed to see right through me. He understood my journey, my relentless quest for independence and intellectual autonomy. He asked profound, probing questions about my past, and for some reason I still don't fully understand, I opened up to this stranger in a way I never had before. I spoke of my teenage existential crisis, the conflicts with my father, my search for meaning in philosophy, even my failed attempt at a "co-living revolution".
+He seemed to see right through me. He understood my journey, my relentless quest for independence and intellectual autonomy. He asked profound, probing questions about my past, and for some reason I still don't fully understand, I opened up to this stranger in a way I never had before. I spoke of my teenage existential crisis, the conflicts with my father, my search for meaning in philosophy, even my attempt at a "co-living revolution".
 
 In return, he spoke of his world. He was a venture capitalist, with an attorney's background and vast connections. He talked about the power of credibility, how the right person could make people invest with a single word. I later found a public file on him online; he was a top-tier player who had handled billion-dollar acquisitions, a master of the intersecting worlds of law, finance, and commerce.
 
