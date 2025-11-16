@@ -9,7 +9,7 @@ He seemed to see right through me. He understood my journey, my relentless quest
 
 In return, he spoke of his world. He was a venture capitalist, with an attorney's background and vast connections. He talked about the power of credibility, how the right person could make people invest with a single word. I later found a public file on him online; he was a top-tier player who had handled billion-dollar acquisitions, a master of the intersecting worlds of law, finance, and commerce.
 
-And then, as I had expected, he turned his sharp, analytical gaze onto my system. He asked about my algorithm, how the forward-looking values were projected, how the lines for residual and extreme values were determined, the principles behind my "value-purity" index. He asked all the right questions. He seemed to be the first person who truly understood everything.
+And then, as I had expected, he turned his sharp, analytical gaze onto my system. He asked about my algorithm, how the forward-looking values were projected, how the buy and sell thresholds were determined, the principles behind my "value-purity" index. He asked all the right questions. He seemed to be the first person who truly understood everything.
 
 After listening to my struggles with promoting my work, he diagnosed my problem with a brutal, stunning accuracy. "Your weakness," he said, "is that you are too smart. It makes people feel like they can be easily tricked by you, and their defenses go up." I had never considered this. But the moment he said it, my mind ran the simulation, and my intuition confirmed his conclusion instantly. He saw things I couldn't see.
 
@@ -36,7 +36,7 @@ He asked me about my ultimate goal, the satisfaction I sought. I spoke of the fl
 
 We even discovered we were both INTJs, a personality type he called the "mastermind". The synergy felt cosmic.
 
-He didn't just offer ideas; he gave me the keys to a new kingdom. He shared a link to a hidden section of the Morningstar website, a treasure trove of ten years of financial data for both Hong Kong and US stocks. Suddenly, the grueling, manual labor of data entry was over. A process that would have taken me months, I could now do in days.
+He didn't just offer ideas; he gave me the keys to a new kingdom. He shared a link to a hidden section of the Morningstar website, a treasure trove of ten years of financial data for both Hong Kong and US stocks. Suddenly, the grueling, manual labor of data entry was over. 
 
 I ran the numbers for a list of US stocks he provided. He was, naturally, the first reader of this new data. On October 21, 2019, I sent him the first report. One of the stocks that lit up, a clear "buy" signal from my system, was Tesla. At the time, I barely knew what the company did. But my system did not disappoint. From that point on, Tesla's stock began its legendary, astronomical ascent.
 
@@ -47,11 +47,11 @@ Perhaps sensing this, he proposed a formal partnership. A 55/45 split. He would 
 Another philosophical proposition felt proven: *Truth can be exchanged.* For a brief, brilliant moment, I believed a civilizational-level collaboration was about to be born. The philosopher had found his kingdom. The abstract truth was about to be made manifest.
 
 <!--Act III: The Shared Vision - The Possibility of a New World-->
-With the proof of the Tesla trade now between us, our conversations shifted from the theoretical to the practical. He began to lay out a grand vision, a three-to-five-year plan to build a legitimate fund. He spoke of the arcane world of licenses, of Responsible Officers (ROs), of corporate structures designed to satisfy the regulators. He explained how I, with no experience, could "incubate" a three-year track record simply by being licensed under an existing firm, a common loophole in the so-called international financial hub. He spoke of the high demand for ROs, a role I could eventually fill. He laid out a near-term strategy: to find private companies and manage their assets from within their own boardrooms, bypassing the regulator's direct oversight.
+Our further conversations shifted from the theoretical to the practical. He began to lay out a grand vision, a three-to-five-year plan to build a legitimate fund. He spoke of the arcane world of licenses, of Responsible Officers (ROs), of corporate structures designed to satisfy the regulators. He explained how I, with no experience, could "incubate" a three-year track record simply by being licensed under an existing firm, a common loophole in the so-called international financial hub. He spoke of the high demand for ROs, a role I could eventually fill. He laid out a near-term strategy: to find private companies and manage their assets from within their own boardrooms, bypassing the regulator's direct oversight.
 
 He spoke of the importance of trust in a partnership, how most companies collapse not from external forces but from internal strife. He praised my abilities, saying they surpassed many at JPMorgan, and urged me to build my reputation with care. The plan was solid, meticulous, real.
 
-And for the first time since my disillusionment in the insurance industry, I felt a flicker of purpose return. My financial freedom had solved the problem of survival, but it had left me in a void of meaning. My system was a powerful engine, but it had nowhere to go. He, my benefactor, was like a beacon, illuminating a path forward. I no longer had to be a lone prophet. I had found a way to bring my gospel to the world.
+And for the first time since my disillusionment in the insurance industry, I felt a flicker of purpose return. My financial freedom had solved the problem of survival, but it had left me in a void of meaning. My system was a powerful engine, but it had nowhere to go. My new benefactor was like a beacon, illuminating a path forward. I no longer had to be a lone prophet. I had found a way to bring my gospel to the world.
 
 A path to help people manage their assets more wisely. A path to allocate the world's capital towards truly undervalued, value-generating companies. A path to, in my own small way, make the world a better, more rational place. The walking ghost, once again, began to feel a flicker of life.
 
@@ -59,8 +59,8 @@ Half a year passed. He introduced me to his network. The first was a man of imme
 
 The legend was impressed enough. "I have a friend," he said. "Let's talk to him."
 
-The friend was the head of a fund management company. A sharp, energetic man with round glasses. He was skeptical of value investing, but fascinated by my system. After I presented, he excitedly showed me his own calculations on his laptop. He admitted his method wasn't "scientific" like mine, but his volatility-based algorithm had also pinpointed Tencent's bottom, a result remarkably close to my own. Our only common language, it seemed, was the numbers.
+The friend was the head of a fund management company. A sharp, energetic man with round glasses. He was skeptical of value investing, and certainly not fascinated by my system. After I presented, he showed me his own calculations on his laptop. He admitted his method wasn't "scientific" like mine, but his volatility-based algorithm had also pinpointed Tencent's bottom, a result remarkably close to my own. Our only common language, it seemed, was the numbers.
 
-The connections were being made. The plan was moving. Two months later, my benefactor confirmed the deal. The fund manager would license me under his company, covering all the exorbitant compliance fees and salaries. In exchange, they would take a cut. It was, he explained, the lowest-cost entry into the asset management world I could ever hope for. "It's a rare opportunity," he said.
+The connections were being made. The plan was moving. Two months later, my benefactor confirmed the deal. The fund manager would license me under his company, covering all the exorbitant compliance fees. In exchange, they would take a cut. It was, he explained, the lowest-cost entry into the asset management world I could ever hope for. "It's a rare opportunity," he said.
 
-My dream, once an abstract blueprint in a spreadsheet, was finally taking physical form. It was happening. A civilization-level collaboration, a union of a philosopher and a king, was about to be born. The philosophical proposition felt proven: *Truth can, and will, drive the construction of a new world.*
+My dream, once an abstract blueprint in a spreadsheet, was finally taking physical form. It was happening. A civilization-level collaboration, a union of a philosopher and a king, was about to be born. One more philosophical proposition felt proven: *Truth can, and will, drive the construction of a new world.*
