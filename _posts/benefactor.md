@@ -120,7 +120,7 @@ I understood. He had not betrayed me. He was simply being true to himself. The d
 
 For a truth to be accepted, it must align with one's life-model. Otherwise, understanding is useless. Because understanding is not belief, and belief is not action.
 
-And the final, cruelest piece of evidence was this: this man, the one who understood my system better than anyone on the planet, who had received years of my data for free as a "partner", had never, not once, invested a single dollar of his own money based on my signals. He had understood, appreciated, supported, connected, collaborated, and had all the tools and results at his disposal.
+The final, cruelest piece of evidence was this: this man, the one who understood my system better than anyone on the planet, who had received years of my data for free as a "partner", had never, not once, invested a single dollar of his own money based on my signals. He had understood, appreciated, supported, connected, collaborated, and had all the tools and results at his disposal.
 
 And he had never acted.
 
