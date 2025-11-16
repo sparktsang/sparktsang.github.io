@@ -106,21 +106,21 @@ And in that, I began to see a crack in the foundation of our partnership. It was
 <!--Act VI: The Collapse - The Untransferable Truth-->
 Half a year later, during one of our casual, friendly meetings, he dropped the bombshell. He was, he mentioned offhandedly, researching QQQ, the Nasdaq-100 ETF. "It's an unbeatable underlying asset for futures trading," he said. I asked him how it compared to my system. "For one to three years," he conceded, "your system is probably stronger. But over ten years? QQQ is stronger."
 
-A chill went down my spine. It was a single sentence, but it revealed everything. He was still searching. He was still looking for *other things*. He had never truly understood that my system wasn't just another method; it was a foundational critique of all other methods. He was the only person who had read my "Universal Laws of Investment Success" and called it "inspiring," yet he had missed its entire point.
+A chill went down my spine. It was a single sentence, but it revealed everything. He was still searching. He was still looking for *other things*. He had never truly understood that my system wasn't just another method; it was a foundational critique of all other methods. He was the only person who had read my "The First Principles of Perennial Profit in Investing" and called it "inspiring", yet he had missed its entire point.
 
-I don't remember what I said next. I probably tried to re-explain the first principles, the bedrock of causality my entire cathedral was built upon. He seemed to soften, but then he raised the wall again. My system still needed to "evolve," he said, to a state of such absolute reliability that it was "irrefutable," capable of absorbing all Black Swans and White Swans. It was an impossible standard, a goalpost he could forever move.
+I don't remember what I said next. I probably tried to re-explain the first principles, the bedrock of causality my entire cathedral was built upon. He seemed to soften, but then he raised the wall again. My system still needed to "evolve", he said, to a state of such absolute reliability that it was "irrefutable," capable of absorbing all Black Swans and White Swans. It was an impossible standard, a goalpost he could forever move.
 
 And then, for a long time, nothing. He emigrated to Canada. Our frequent meetings became a phone call once a year. My "Investment Manager" license became a joke, its only function to be kept alive by watching a few compliance videos online each year so I could download the certificate.
 
-Four years passed. We met again when he was back in Hong Kong. He brought up the grand plan again—the limited partnership fund, the next phase. But it was just a ghost, an echo of a conversation from a different lifetime. "It's a possibility," he emphasized, "not a plan." He spoke of his family, of being semi-retired, of his long-term goal to lighten his burdens.
+Four years passed. We met again when he was back in Hong Kong. He brought up the grand plan again—the limited partnership fund, the next phase. But it was just a ghost, an echo of a conversation from a different lifetime. "It's a possibility," he emphasized, "not a plan." Then, he spoke of his family, of being semi-retired, of his long-term goal to lighten his burdens.
 
-And in that moment, I was finally, completely, liberated from hope.
+I was finally, completely, liberated from hope.
 
 I understood. He had not betrayed me. He was simply being true to himself. The difference between us was never the small variations that he, as an INTJ, worried about. It was a fundamental, unbridgeable chasm between our entire life-models. His model was to live a happy life and reduce his burdens. My model was to build a truth engine and improve the rules of the civilizational game, to carve out a territory I could belong to in a world where I felt like an alien.
 
 For a truth to be accepted, it must align with one's life-model. Otherwise, understanding is useless. Because understanding is not belief, and belief is not action.
 
-And the final, cruelest piece of evidence was this: this man, the one who understood my system better than anyone on the planet, who had received years of my data for free as a "partner," had never, not once, invested a single dollar of his own money based on my signals. He had understood, appreciated, supported, connected, collaborated, and had all the tools and results at his disposal.
+And the final, cruelest piece of evidence was this: this man, the one who understood my system better than anyone on the planet, who had received years of my data for free as a "partner", had never, not once, invested a single dollar of his own money based on my signals. He had understood, appreciated, supported, connected, collaborated, and had all the tools and results at his disposal.
 
 And he had never acted.
 
