@@ -7,7 +7,7 @@ He appeared not in a temple or a university, but in the most unlikely of places:
 
 I met the first, and to this day, the last, benefactor of my life.
 
-He seemed to see right through me, not just the persona of the traveller, but the entire architecture of my alienation. He understood my relentless quest for independence and intellectual autonomy. He asked profound, probing questions about my past, and for some reason I still don't fully understand, I opened up to this stranger in a way I never had before. I spoke of my teenage existential crisis, the conflicts with my father, my search for meaning in philosophy, even my failed attempt at a "co-living revolution."
+He seemed to see right through me, not just the persona of the traveller, but the entire architecture of my alienation. He understood my relentless quest for independence and intellectual autonomy. He asked profound, probing questions about my past, and for some reason I still don't fully understand, I opened up to this stranger in a way I never had before. I spoke of my teenage existential crisis, the conflicts with my father, my search for meaning in philosophy, even my failed attempt at a "co-living revolution".
 
 In return, he spoke of his world, a world of billion-dollar acquisitions and the absolute power of credibility. Then, as I had expected, he turned his sharp, analytical gaze onto my system. He didn't just ask what it did; he asked how it was built. He asked about my algorithm, my value projections, my buy-and-sell thresholds, the first principles behind my "value-purity" index. He asked all the right questions. He seemed to be the first person who truly understood.
 
@@ -28,7 +28,7 @@ He, in turn, was fascinated by my creation. He understood why it was so appealin
 
 Then he gave me the key. It was a link to a hidden section of the Morningstar website, a treasure trove of ten years of financial data. Suddenly, the gruelling, manual labour of data entry that had consumed my life was over. But what it really ended was my illusion that truth needed only effort. I learned then that it also needed *access*. And a key.
 
-We spoke of our ultimate goals. I spoke of my infinite ambition to fix the unjust rules of the world. He spoke of his desire for happiness, for making others happy. We even discovered we were both INTJs, a personality type he called the "mastermind." The synergy felt cosmic.
+We spoke of our ultimate goals. I spoke of my infinite ambition to fix the unjust rules of the world. He spoke of his desire for happiness, for making others happy. We even discovered we were both INTJs, a personality type he called the "mastermind". The synergy felt cosmic.
 
 I ran the numbers for a list of US stocks he provided. He was, naturally, the first reader. On October 21, 2019, I sent him the first report. One of the stocks that lit up, a clear "buy" signal from my system, was Tesla. At the time, I barely knew what the company did. But my system did not disappoint. From that point on, Tesla's stock began its legendary, astronomical ascent.
 
@@ -37,7 +37,7 @@ The proof was undeniable. The engine worked. It was not just a theory; it was a 
 <!--Act I, Wave II: The Hope of the Institution-->
 Perhaps sensing the undeniable power of the Tesla trade, he proposed a formal partnership. He would handle the world of men—the business development, the clients, the legal structures. All I had to do was continue to perfect the engine. For a brief, brilliant moment, I believed a civilizational-level collaboration was about to be born. The philosopher had found his king. The abstract truth was about to be given a body.
 
-Our conversations shifted from the theoretical to the practical, from the "what" to the "how." He began to lay out a grand vision, a three-to-five-year plan to build a legitimate fund. He spoke of the arcane world of licenses, of Responsible Officers, of corporate structures designed to satisfy the regulators. He explained how I, with no experience, could "incubate" a three-year track record simply by being licensed under an existing firm. It was another loophole, another hidden key, but this one unlocked not a website, but the very gates of the institutional world. He praised my abilities, saying they surpassed many at JPMorgan. The plan was solid, meticulous, real.
+Our conversations shifted from the theoretical to the practical, from the "what" to the "how". He began to lay out a grand vision, a three-to-five-year plan to build a legitimate fund. He spoke of the arcane world of licenses, of Responsible Officers, of corporate structures designed to satisfy the regulators. He explained how I, with no experience, could "incubate" a three-year track record simply by being licensed under an existing firm. It was another loophole, another hidden key, but this one unlocked not a website, but the very gates of the institutional world. He praised my abilities, saying they surpassed many at JPMorgan. The plan was solid, meticulous, real.
 
 And for the first time since my disillusionment in the insurance industry, I felt a flicker of purpose return. My financial freedom had solved the problem of survival, but it had left me in a void of meaning. My engine was powerful, but it was an engine without a vehicle. He was a beacon, illuminating a path forward. I no longer had to be a lone prophet shouting into the fog. I had found a way to bring my gospel into the cathedral. The walking ghost, once again, began to feel the phantom limb of life.
 
@@ -60,7 +60,7 @@ With a single click, the engine would roar to life, scraping all necessary data 
 
 I had finally built it. My Financial Engine. And in its creation, I understood. It was no longer just a tool I had made. It was a metaphysical engine: a machine that distilled order from the chaos of the world. And in building it, it had also rebuilt me. It was the first system I built that felt like it was building *me* back.
 
-With this new, god-like power, I could go deeper. I began a systematic study of the twenty percent of cases where my model had "failed." I discovered new, universal patterns, new laws that explained these exceptions, laws that were, in themselves, derivable from first principles. I had built more than just a system. I had built an engine capable of *discovering new truths*.
+With this new, god-like power, I could go deeper. I began a systematic study of the twenty percent of cases where my model had "failed". I discovered new, universal patterns, new laws that explained these exceptions, laws that were, in themselves, derivable from first principles. I had built more than just a system. I had built an engine capable of *discovering new truths*.
 
 A final, intoxicating philosophical proposition felt proven, not just in theory, but in cold, hard code: *Truth can be systematized, engineered, and infinitely extended.*
 
@@ -79,7 +79,7 @@ The words hung in the air. I asked him how it compared to my system.
 
 "For one to three years," he conceded, "your system is probably stronger. But over ten years? QQQ is stronger."
 
-A profound chill went down my spine, a coldness that had nothing to do with the air conditioning. It was a single sentence, but it was a confession. After all our conversations, after all the evidences, *he was still searching*. He was still looking for *other things*. He had never truly understood that my system wasn't just another method to be compared against an ETF; it was a foundational critique of all other methods. He was the only person who had read my essay on first principles and called it "inspiring," yet he had missed its entire point.
+A profound chill went down my spine, a coldness that had nothing to do with the air conditioning. It was a single sentence, but it was a confession. After all our conversations, after all the evidences, *he was still searching*. He was still looking for *other things*. He had never truly understood that my system wasn't just another method to be compared against an ETF; it was a foundational critique of all other methods. He was the only person who had read my essay on first principles and called it "inspiring", yet he had missed its entire point.
 
 I had believed that a truth, once demonstrated, would inevitably lead to belief. But I was wrong. He had understood the blueprint of the cathedral. He had even admired its architecture. He had just never intended to pray in it. The first, deepest collapse had happened. **Understanding is not belief.**
 
@@ -90,7 +90,7 @@ I don't remember what I said next. I probably tried, once again, to re-explain t
 
 But then, he raised the wall again, and this time, it was not a wall of skepticism, but a wall of impeccable morality.
 
-My system still needed to "evolve," he said, to a state of such absolute reliability that it was "irrefutable," capable of absorbing all Black Swans and White Swans. "It's one thing to lose my own money," he went on, his voice now imbued with a solemn, paternal gravity. "But if I introduce this to someone else, I must be absolutely certain they won't lose."
+My system still needed to "evolve", he said, to a state of such absolute reliability that it was "irrefutable", capable of absorbing all Black Swans and White Swans. "It's one thing to lose my own money," he went on, his voice now imbued with a solemn, paternal gravity. "But if I introduce this to someone else, I must be absolutely certain they won't lose."
 
 And in that moment, I saw it. I saw the genius, the airtight perfection of his defence. He had discovered a moral argument that could never lose: **the infinite regress of safety**. The bar for "certainty" would forever be raised, always just beyond the reach of any possible evidence. It was an impossible standard, a goalpost he could move indefinitely to justify his own inaction.
 
@@ -115,7 +115,7 @@ I finally saw it. **We had never shared a future, only a conversation.**
 
 And here lies the ultimate tragedy of knowledge in our time. For a truth to be accepted, it must align with one's life-model. Otherwise, even the most perfect understanding is useless. The final collapse was not of action, nor of belief. It was a collapse of *being*.
 
-And then came the final, cruellest piece of evidence, the one that confirmed everything. He, the man who understood my system better than anyone on the planet, who had received years of my data for free as a "partner," had never, not once, invested a single dollar of his own money based on my signals. He had understood. He had appreciated. He had even helped. But he had never acted.
+And then came the final, cruellest piece of evidence, the one that confirmed everything. He, the man who understood my system better than anyone on the planet, who had received years of my data for free as a "partner", had never, not once, invested a single dollar of his own money based on my signals. He had understood. He had appreciated. He had even helped. But he had never acted.
 
 He had understood everything—except the one thing that mattered: that truth cannot be transferred. It can only be rebuilt. And he had no reason to rebuild his world.
 
@@ -145,7 +145,7 @@ And in that final, devastating proof, a theorem for our civilization revealed it
 
 Truth is not rejected; it simply fails to find a compatible host. It does not need an audience. It needs a builder—someone whose world is broken enough, hungry enough, hollow enough, that rebuilding becomes the only path of least resistance left.
 
-And I remembered him, standing before the legend, telling him that he wished to "build a bridge for me, step by step." He, the great connector of heaven and earth.
+And I remembered him, standing before the legend, telling him that he wished to "build a bridge for me, step by step". He, the great connector of heaven and earth.
 
 Understanding, I realized then, is a window. Action is a bridge. For years, we had stood together at the same window, looking out at the same breath-taking vision of what could be. I had spent all my energy drawing the blueprint of the bridge, showing him how solid its foundations were, how elegant its arches. I believed he was building it with me.
 
