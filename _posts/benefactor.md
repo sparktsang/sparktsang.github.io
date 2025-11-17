@@ -145,10 +145,12 @@ And in that final, devastating proof, a theorem for our civilization revealed it
 
 Truth is not rejected; it simply fails to find a compatible host. It does not need an audience. It needs a builder—someone whose world is broken enough, hungry enough, hollow enough, that rebuilding becomes the only path of least resistance left.
 
-And I remembered him, standing before the legend, telling him that he wished to "build a bridge for me, step by step". He, the great connector of heaven and earth.
+I remembered him, standing before the legend, telling him that he wished to "build a bridge for me, step by step". He, the great connector of heaven and earth.
 
 Understanding, I realized then, is a window. Action is a bridge. For years, we had stood together at the same window, looking out at the same breath-taking vision of what could be. I had spent all my energy drawing the blueprint of the bridge, showing him how solid its foundations were, how elegant its arches. I believed he was building it with me.
 
-But in the end, I understood. He had only ever intended to admire the view. He had promised me a bridge. But he lived in a world where stepping onto it was not only unnecessary—it was structurally impossible.
+And in the end, I understood. He had only ever intended to admire the view. 
+
+He had promised me a bridge. But he lived in a world where stepping onto it was not only unnecessary—it was structurally impossible.
 
 And so the bridge remained on my side of the window. A design waiting for a builder. A truth waiting for a world.
