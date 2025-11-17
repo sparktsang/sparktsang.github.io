@@ -28,22 +28,30 @@
 				
 		{% if page.category == "Life" %}
 		
-		  {%- comment -%}
-		  <!-- 取得上一篇真正屬於 Life 的文章 -->
-		  {%- endcomment -%}
-		  {% assign prev_real = page.previous %}
-		  {% while prev_real and prev_real.category != "Life" %}
-		    {% assign prev_real = prev_real.previous %}
-		  {% endwhile %}
-		
-		  {%- comment -%}
-		  <!-- 取得下一篇真正屬於 Life 的文章 -->
-		  {%- endcomment -%}
-		  {% assign next_real = page.next %}
-		  {% while next_real and next_real.category != "Life" %}
-		    {% assign next_real = next_real.next %}
-		  {% endwhile %}
-		
+			{% assign prev_real = nil %}
+			{% assign ptr = page.previous %}
+			
+			{% for i in (1..50) %}
+			  {% if ptr and ptr.category == "Life" %}
+				{% assign prev_real = ptr %}
+				{% break %}
+			  {% elsif ptr %}
+				{% assign ptr = ptr.previous %}
+			  {% endif %}
+			{% endfor %}
+
+			{% assign next_real = nil %}
+			{% assign ptr2 = page.next %}
+			
+			{% for i in (1..50) %}
+			  {% if ptr2 and ptr2.category == "Life" %}
+			    {% assign next_real = ptr2 %}
+			    {% break %}
+			  {% elsif ptr2 %}
+			    {% assign ptr2 = ptr2.next %}
+			  {% endif %}
+			{% endfor %}
+
 		  <div class="post-nav" style="display:flex; justify-content:space-between; align-items:center; margin-top:10rem;">
 		
 		    <div class="next-post" style="text-align:right;">
@@ -65,7 +73,6 @@
 		  </div>
 		
 		{% endif %}
-
 
 		{% if page.title == "Philosophy" %}		
 		  <div class="sort-toggle" style="text-align:center; margin-top:10rem;">
