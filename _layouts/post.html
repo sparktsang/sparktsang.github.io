@@ -25,19 +25,36 @@
 		</header>
 		{% if page.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></span>{% endif %}
 		{{ content }}
-		
+				
 		{% if page.category == "Life" %}
+		
+		  {%- comment -%}
+		  取得上一篇真正屬於 Life 的文章
+		  {%- endcomment -%}
+		  {% assign prev_real = page.previous %}
+		  {% while prev_real and prev_real.category != "Life" %}
+		    {% assign prev_real = prev_real.previous %}
+		  {% endwhile %}
+		
+		  {%- comment -%}
+		  取得下一篇真正屬於 Life 的文章
+		  {%- endcomment -%}
+		  {% assign next_real = page.next %}
+		  {% while next_real and next_real.category != "Life" %}
+		    {% assign next_real = next_real.next %}
+		  {% endwhile %}
+		
 		  <div class="post-nav" style="display:flex; justify-content:space-between; align-items:center; margin-top:10rem;">
-
+		
 		    <div class="next-post" style="text-align:right;">
-		      {% if page.previous %}
-		        <a href="{{ site.baseurl }}{{ page.previous.url }}" class="button small">←</a>
+		      {% if prev_real %}
+		        <a href="{{ prev_real.url }}" class="button small">←</a>
 		      {% endif %}
 		    </div>
-
-			<div class="prev-post">
-		      {% if page.next %}
-		        <a href="{{ site.baseurl }}{{ page.next.url }}" class="button small">→</a>
+		
+		    <div class="prev-post">
+		      {% if next_real %}
+		        <a href="{{ next_real.url }}" class="button small">→</a>
 		      {% endif %}
 		    </div>
 		
@@ -46,7 +63,9 @@
 		  <div class="sort-toggle" style="text-align:center; margin-top:2rem;">
 		    <a href="{{ site.baseurl }}/life.html" class="button">BACK TO LIFE</a>
 		  </div>
+		
 		{% endif %}
+
 
 		{% if page.title == "Philosophy" %}		
 		  <div class="sort-toggle" style="text-align:center; margin-top:10rem;">
