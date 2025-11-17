@@ -153,4 +153,4 @@ And in the end, I understood. He had only ever intended to admire the view.
 
 He had promised me a bridge. But he lived in a world where stepping onto it was not only unnecessary—it was structurally impossible.
 
-And so the bridge remained on my side of the window. A design waiting for a builder. A truth waiting for a world.
+So the bridge remained on my side of the window. A design waiting for a builder. A truth waiting for a world.
