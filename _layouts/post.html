@@ -29,7 +29,7 @@
 		{% if page.category == "Life" %}
 		
 		  {%- comment -%}
-		  取得上一篇真正屬於 Life 的文章
+		  <!-- 取得上一篇真正屬於 Life 的文章 -->
 		  {%- endcomment -%}
 		  {% assign prev_real = page.previous %}
 		  {% while prev_real and prev_real.category != "Life" %}
@@ -37,7 +37,7 @@
 		  {% endwhile %}
 		
 		  {%- comment -%}
-		  取得下一篇真正屬於 Life 的文章
+		  <!-- 取得下一篇真正屬於 Life 的文章 -->
 		  {%- endcomment -%}
 		  {% assign next_real = page.next %}
 		  {% while next_real and next_real.category != "Life" %}
