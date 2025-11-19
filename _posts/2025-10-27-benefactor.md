@@ -109,7 +109,7 @@ But then, he raised the wall again, and this time, it was not a wall of skeptici
 
 My system still needed to "evolve", he said, to a state of absolute reliability—*irrefutable*, immune to every Black Swan and every predictable White Swan alike. "It's one thing to lose my own money," he went on, his voice now imbued with a solemn, paternal gravity. "But if I introduce this to someone else, I must be absolutely certain they won't lose."
 
-And in that moment, I saw it. I saw the genius, the airtight perfection of his defence. He had discovered a moral argument that could never lose: **the infinite regress of safety**. The bar for "certainty" would forever be raised, always just beyond the reach of any possible evidence. It was an impossible standard, a goalpost he could move indefinitely to justify his own inaction. It was safety as an asymptote: forever approached, never reached.
+And in that moment, I saw it. I saw the genius, the airtight perfection of his defence. He had discovered a moral argument that could never lose: *the infinite regress of safety*. The bar for "certainty" would forever be raised, always just beyond the reach of any possible evidence. It was an impossible standard, a goalpost he could move indefinitely to justify his own inaction. It was safety as an asymptote: forever approached, never reached.
 
 His argument wasn't about protecting his clients; it was about protecting himself. Not from financial risk, but from the terrifying burden of responsibility.
 
@@ -128,7 +128,7 @@ And in that moment, I was finally, completely, liberated from the tyranny of hop
 
 I understood. He had not betrayed me. He was simply being true to himself. The difference between us was never the small variations that he, as an INTJ, worried about. It was a fundamental, unbridgeable chasm between our entire life-models. His model was to curate happiness, to reduce burdens, to live a good life within the existing world. My model was to build a truth engine, to rewrite the rules of the civilizational game, to carve out a territory I could belong to in a world where I felt like an alien.
 
-I finally saw it. **We had never shared a future; we had only shared language.**
+I finally saw it. We had never shared a future; we had only shared language.
 
 And here lies the ultimate tragedy of knowledge in our time. For a truth to be accepted, it must align with one's life-model. A model is not a belief—it is the gravitational field of a life, bending every decision back into its orbit. Otherwise, even the most perfect understanding is useless. The final collapse was not of action, nor of belief. It was a collapse of *being*.
 
