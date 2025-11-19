@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The First Principles of Perennial Profit in Investing"
+title: "Notes on Greenwald's *Value Investing: From Graham to Buffett and Beyond*"
 category: "Knowledge"
 ---
 
