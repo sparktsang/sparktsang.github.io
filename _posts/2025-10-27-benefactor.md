@@ -172,4 +172,8 @@ And in the end, I understood. He had only ever intended to admire the horizon.
 
 He had promised me a bridge. But he lived in a world where stepping onto it was not only unnecessary—it was structurally forbidden.
 
-So the bridge remained on my side of the window—unstepped, suspended. A design waiting for a builder. A truth waiting for a world. And on the far side of the window, the structure held—silent as gravity.
+So the bridge remained on my side of the window—unstepped, suspended. A design waiting for a builder. A truth waiting for a world. And on the far side of the window, the structure held—silent as gravity.---
+
+---
+
+Sequel — Coming soon
