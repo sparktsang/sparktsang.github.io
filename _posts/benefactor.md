@@ -1,4 +1,4 @@
-"VII. Benefactor"
+"The Bridge Never Crossed: A Requiem for Transferable Truth"
 
 <!--Prologue: An Impossible Encounter-->
 From the ruins of a world that had deceived me, one man emerged.
