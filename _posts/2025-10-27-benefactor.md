@@ -14,7 +14,7 @@ Prequel — [*The Epistemic Island: A Language with No Other Speaker*](https://s
 <!--Prologue: An Impossible Encounter-->
 From the ruins of a world that had deceived me, one man emerged.
 
-He appeared not in a temple or a university, but in the most unlikely of places: the group I had built from the ruin of a fraudulent investment course. He introduced himself as having seventeen years in the capital market, a man of private equity and venture capital. He wanted to "exchange views for mutual benefit." His true intention was uncertain, but I agreed to meet.
+He appeared not in a temple or a university, but in the most unlikely of places: the group I had built from the ruin of a fraudulent investment course. He introduced himself as having seventeen years in the capital market, a man of private equity and venture capital. He wanted to "exchange views for mutual benefit". His true intention was uncertain, but I agreed to meet.
 
 I met the first, and to this day, the last, benefactor of my life.
 
