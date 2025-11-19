@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Notes on *Value Investing: From Graham to Buffett and Beyond*
+title: "Notes on Value Investing: From Graham to Buffett and Beyond"
 category: "Knowledge"
 ---
 
