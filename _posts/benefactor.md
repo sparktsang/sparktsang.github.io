@@ -1,4 +1,11 @@
-"The Bridge Never Crossed: A Requiem for Transferable Truth"
+---
+layout: post
+title: "The Bridge Never Crossed: A Requiem for Transferable Truth"
+short_title: "The Bridge Never Crossed"
+subtitle: "Truth does not travel. It only reveals the fault lines of the worlds it touches."
+category: "Life"
+image: assets/images/life-043-bridge-never-crossed.jpg 
+---
 
 <!--Prologue: An Impossible Encounter-->
 From the ruins of a world that had deceived me, one man emerged.
