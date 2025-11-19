@@ -1,14 +1,12 @@
 ---
 layout: post
-title: "Notes on Greenwald's *Value Investing: From Graham to Buffett and Beyond*"
+title: Notes on *Value Investing: From Graham to Buffett and Beyond*
 category: "Knowledge"
 ---
 
 This is an English translation of [a reading summary](https://sparktsang.medium.com/greenwald-21%E4%B8%96%E7%B4%80%E5%83%B9%E5%80%BC%E6%8A%95%E8%B3%87-%E7%AD%86%E8%A8%98-414bb1657ced).
 
 ---
-
-### **Notes on Greenwald's *Value Investing: From Graham to Buffett and Beyond***
 
 **Foreword**
 
