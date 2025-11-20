@@ -37,7 +37,7 @@ Hope, a feeling I had long thought extinct, was born. I did not yet know that un
 <!--Act I, Wave I: The Hope of Intellect-->
 Our first meeting grew into a series of intense, exhilarating exchanges. We were two systems, two minds, decoding each other in real time. He laid his world bare for me—his criteria for global stock selection, his emphasis on companies with deep moats. His insights were a catalyst. I realized my system, built on universal first principles, was never meant for a single market. Its true arena was the world.
 
-He, in turn, was fascinated by my creation. He understood why it was so appealing to him. His own faith was in value investing, but he saw that my system was something new: an attempt to give value investing the first-principle, philosophical foundation it had always lacked. 
+He, in turn, was fascinated by my creation. I understood why it was so appealing to him. His own faith was in value investing, but he saw that my system was something new: an attempt to give value investing the first-principle, philosophical foundation it had always lacked. 
 
 Then he gave me the key. It was a link to a hidden section of the Morningstar website, a treasure trove of ten years of financial data. Suddenly, the gruelling, manual labour of data entry that had consumed my life was over. But what it really ended was my illusion that truth needed only effort. I learned then that it also needed *access*—and a key. 
 
