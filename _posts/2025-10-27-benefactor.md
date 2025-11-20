@@ -88,7 +88,7 @@ With my engine built, a machine capable of discovering new truths, I was filled 
 
 So I waited. For over half a year, our grand vision remained a blueprint. Nothing happened. He would offer me small gestures—a business card with the hollow title 'Investment Manager', a quietly worsened profit-sharing plan—tokens engineered not to build momentum, but to prevent collapse. He would meet with me, scrutinizing my system like a coroner, asking the same sharp, technical questions he had asked months before, as if he were encountering my creation for the first time, every time.
 
-And in his repetitive questioning, in his constant stalling, I began to see the first, terrifying crack in the foundation of our partnership. t wasn’t a failure of comprehension; it was a failure of absorption. The equations lived in his mind, but not in his model. A cold, quiet dread began to set in. Our shared vision was stalling.
+And in his repetitive questioning, in his constant stalling, I began to see the first, terrifying crack in the foundation of our partnership. It wasn’t a failure of comprehension; it was a failure of absorption. The equations lived in his mind, but not in his model. A cold, quiet dread began to set in. Our shared vision was stalling.
 
 Then, during one of our casual meetings, he dropped the bombshell. He was, he mentioned offhandedly, researching QQQ, the Nasdaq-100 ETF. "It's an unbeatable underlying asset," he said.
 
