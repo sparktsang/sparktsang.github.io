@@ -89,7 +89,7 @@ My grand plans felt more distant than ever. My sales performance, never stellar,
 
 It was a relief.
 
-My first revolution had failed. I had tried to change the system from within, only to realize that the simulation's very architecture was designed to neutralize reality. The only way to win was not to fix the play, but to leave the theatre.
+My revolution had failed. I had tried to change the system from within, only to realize that the simulation's very architecture was designed to neutralize reality. The only way to win was not to fix the play, but to leave the theatre.
 
 The termination letter wasn't a mark of failure; it was a certificate of liberation. The system’s logic had won, precisely because it had none. I had lost a job, but I had regained my contact with the real. I walked out of that office not as a defeated salesman, but as a refugee from the simulation.
 
