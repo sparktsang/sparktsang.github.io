@@ -157,7 +157,7 @@ And so I learned the final rule: truth does not fail—it simply fails to find a
 <!--Finale: The Untransferable Truth-->
 And from that realization, something inside me shifted. My heartbreak did not burst; it evaporated—quietly, cleanly—leaving behind a colder clarity that felt less like sorrow and more like an autopsy on the architecture of a life-model.
 
-It was never a failure of intellect, nor of sincerity. It was a structural inevitability. He had not betrayed me; he had simply followed the gradient of his world.
+It was never a failure of intellect, nor of sincerity. It was a *structural inevitability*. He had not betrayed me; he had simply followed the gradient of his world.
 
 He had mastered the game of this world not by defying it, but by flowing effortlessly along the channels carved by institutions. His entire life was a river, its course shaped by the bedrock of licenses, credibility, billion-dollar deals, and networks of influence. Success, for him, was not a belief system; it was terrain.
 
