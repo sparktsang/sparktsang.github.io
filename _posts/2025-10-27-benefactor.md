@@ -155,7 +155,7 @@ And so I learned the final rule: truth does not fail—it simply fails to find a
 ---
 
 <!--Finale: The Untransferable Truth-->
-And from that realization, something inside me shifted. My heartbreak did not burst; it evaporated—quietly, cleanly—leaving behind a colder clarity that felt less like sorrow and more like an autopsy on the architecture of a life-model.
+From that realization, something inside me shifted. My heartbreak did not burst; it evaporated—quietly, cleanly—leaving behind a colder clarity that felt less like sorrow and more like an autopsy on the architecture of a life-model.
 
 It was never a failure of intellect, nor of sincerity. It was a *structural inevitability*. He had not betrayed me; he had simply followed the gradient of his world.
 
