@@ -120,7 +120,7 @@ He had refused to make the leap. **Belief is not action.**
 My engine could explain the world. But it could not move a man who did not wish to leave his own.
 
 <!--Act II, Turning Point III: The Collapse of Being-->
-And then, for a long time, nothing. He emigrated to Canada. Our frequent meetings became a phone call once a year. My "Investment Manager" license became a joke, its only function to be kept alive by watching a few compliance videos online so I could download the certificate. The cathedral stood complete—and yet no footstep ever crossed its threshold.
+And then, for a long time, nothing. He emigrated to Canada. Our frequent meetings became a phone call once a year. My "Investment Manager" license became a joke, its only function to be kept alive by watching a few compliance videos online so I could download the certificates. The cathedral stood complete—and yet no footstep ever crossed its threshold.
 
 Four years passed. We met again when he was back in Hong Kong. He brought up the grand plan again—the limited partnership fund, the next phase. But it was just a ghost, an echo of a conversation from a different lifetime. "It's a possibility," he emphasized, "not a plan." Then, he spoke of his family, of being semi-retired, of his long-term goal to lighten his burdens.
 
