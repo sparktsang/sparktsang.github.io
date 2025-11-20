@@ -9,6 +9,7 @@ This article is an English **adaptation** of [my reading notes on Harari's *Homo
 ---
 
 **Central Thesis: Narrative is System**
+
 The core argument weaving through Yuval Noah Harari's *Homo Deus* can be distilled into a single, powerful axiom: **Narrative is System.** The history of humanity is the history of competing narratives. The narratives that win—be they about gods, nations, human rights, or data—do not merely describe reality; they create it by becoming the foundational logic for our societal systems, our moral codes, and our collective goals. These notes trace this thesis through Harari's deconstruction of our past, present, and possible futures.
 
 ---
