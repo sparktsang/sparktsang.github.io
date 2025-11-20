@@ -32,6 +32,8 @@ I felt, for the first time, seen. Truly seen. Later I would understand: what he 
 
 Hope, a feeling I had long thought extinct, was born. I did not yet know that understanding is only the first illusion of connection.
 
+---
+
 <!--Act I, Wave I: The Hope of Intellect-->
 Our first meeting grew into a series of intense, exhilarating exchanges. We were two systems, two minds, decoding each other in real time. He laid his world bare for me—his criteria for global stock selection, his emphasis on companies with deep moats. His insights were a catalyst. I realized my system, built on universal first principles, was never meant for a single market. Its true arena was the world.
 
@@ -43,9 +45,11 @@ We spoke of our ultimate goals. I spoke of my infinite ambition to fix the unjus
 
 I ran the numbers for a list of US stocks he provided. He was, naturally, the first reader. On October 21, 2019, I sent him the first report. One of the stocks that lit up, a clear "buy" signal from my system, was Tesla. At the time, I barely knew what the company did. But my system did. From that point on, Tesla's stock began its legendary, astronomical ascent.
 
-The proof was undeniable. The engine worked. It was not just a theory; it was a force of nature. It was the first time my truth had made itself manifest in the real world, a beautiful, irrefutable signal in the noise. A second philosophical proposition felt proven: *Truth can not only be understood, it can be exchanged and verified.*
+The proof was undeniable. The engine worked. It was not just a theory; it was a force of nature. It was the first time my truth had made itself manifest on the world's greatest stage, a beautiful, irrefutable signal in the noise. A second philosophical proposition felt proven: *Truth can not only be understood, it can be exchanged and verified.*
 
-And yet, I mistook verification for alignment.
+I did not yet know that I was mistaking verification for alignment.
+
+---
 
 <!--Act I, Wave II: The Hope of the Institution-->
 Perhaps sensing the undeniable power behind the Tesla signal, he proposed a formal partnership. He would handle the world of men—the business development, the clients, the legal structures. All I had to do was continue to perfect the engine. For a brief, brilliant moment, I believed a civilizational-level collaboration was about to be born. 
@@ -62,12 +66,14 @@ My dream, once an abstract blueprint in a spreadsheet, was finally taking physic
 
 What I did not yet see was that institutions require believers, not builders.
 
+---
+
 <!--Act I, Wave III: The Hope of Capability-->
 Our plan to institutionalize truth was taking shape. And driven by this newfound sense of purpose, I poured all my energy into perfecting my weapon.
 
 My unified template in a spreadsheet had reached its breaking point. It was a clunky, inefficient machine, a relic from an earlier stage of my evolution. Inspired by the programmers in my online community, I took the leap. I gave myself one week. I taught myself Python.
 
-And in that week, my entire universe was reborn.
+And in that week, my entire universe found its language.
 
 Over the next two months, I rebuilt my system from the ground up, not in the rigid cells of a spreadsheet, but in the fluid, infinite language of code. The difference was not between a kilometre and a light-year; it was between walking and teleportation itself. All the complex calculations I had dreamed of, the ones that would have crashed my old system, were now effortlessly solved. My entire mathematical and philosophical cosmos was finally liberated from its physical prison.
 
@@ -82,6 +88,8 @@ A final, intoxicating philosophical proposition felt proven, not just in theory,
 In that moment of creation, I felt like I was finally standing on the unshakeable bedrock of first principles, an architect who had not just designed a cathedral, but had discovered the very laws of physics that allowed it to stand. The symphony was complete. The only tragic note was a quiet, persistent thought, a whisper in the grandeur: I was the only one in the world who could hear the music. 
 
 What I had not yet learned was that extension does not guarantee transmission.
+
+---
 
 <!--Act II, Turning Point I: The Collapse of Belief-->
 With my engine built, a machine capable of discovering new truths, I was filled with a burning, god-like ambition. I wanted to move faster, to bring my cathedral to the world. Because for the first time, the engine was no longer a private revelation—it was a civilizational artefact waiting for its inevitable audience. I proposed different routes to my benefactor: a mass-market subscription model, a large-scale promotional campaign. He shot them all down. "You'd die," he said, his voice carrying the weight of industry experience. "The financial circle is small. One bad word, and you're finished." The only way, he insisted, was the slow, steady, *institutional* path of asset management.
@@ -102,6 +110,8 @@ I had believed that a truth, once demonstrated, would inevitably lead to belief.
 
 I thought we were building the same bridge. But his foundations were laid in a different world.
 
+---
+
 <!--Act II, Turning Point II: The Collapse of Action-->
 I don't remember what I said next. I probably tried, once again, to re-explain the first principles, the bedrock of causality upon which my entire cathedral was built. He seemed to soften, his intellectual curiosity momentarily rekindled by the elegance of the logic. For a fleeting moment, I mistook curiosity for commitment.
 
@@ -118,6 +128,8 @@ I had believed that he was a man who, once convinced by the truth, would have th
 He had refused to make the leap. **Belief is not action.**
 
 My engine could explain the world. But it could not move a man who did not wish to leave his own.
+
+---
 
 <!--Act II, Turning Point III: The Collapse of Being-->
 And then, for a long time, nothing. He emigrated to Canada. Our frequent meetings became a phone call once a year. My "Investment Manager" license became a joke, its only function to be kept alive by watching a few compliance videos online so I could download the certificates. The cathedral stood complete—and yet no footstep ever crossed its threshold.
@@ -139,6 +151,8 @@ He had understood everything—except the one thing that mattered: that truth ca
 He was the only person who could read my map perfectly. And he was also the one who taught me, with his gentle, unwavering inaction, that a map is useless to a man whose destination is already behind him. His world had no void for truth to fill. 
 
 And so I learned the final rule: truth does not fail—it simply fails to find a world shaped to receive it.
+
+---
 
 <!--Finale: The Untransferable Truth-->
 And from that realization, something inside me shifted. My heartbreak did not burst; it evaporated—quietly, cleanly—leaving behind a colder clarity that felt less like sorrow and more like an autopsy on the architecture of a life-model.
