@@ -11,7 +11,7 @@ After my encounter with [Sandeep](https://sparktsang.github.io/life/2025/09/22/t
 
 But for my birthday, I made an exception. I booked a private double room in a three-star hotel for three nights. It wasn’t about comfort for comfort’s sake. It was about solitude, a space to reflect. And I had a mission: for one day only, I was going to fire the accountant in my head.
 
-This internal accountant is the great paradox of my financial freedom. Won through years of disciplined investing, my freedom is paradoxically guarded by a relentless inner voice that treats every expenditure as an investment, demanding a rigorous justification of its return. Today, he was on vacation. My only rule was to spend freely, to seek maximum satisfaction, as long as it wasn't absurdly ridiculous.
+This internal accountant is the great paradox of [my financial freedom](https://sparktsang.github.io/life/2025/10/27/benefactor.html). Won through years of disciplined investing, my freedom is paradoxically guarded by a relentless inner voice that treats every expenditure as an investment, demanding a rigorous justification of its return. Today, he was on vacation. My only rule was to spend freely, to seek maximum satisfaction, as long as it wasn't absurdly ridiculous.
 
 The day began at an empty hotel. When I arrived the day before, the grand lobby was deserted, a note on the reception desk providing only a phone number. My Thai SIM, I discovered with a small miracle, could actually make calls. A man who lived next door soon appeared, flip-flops shuffling, to check me in. He led me to a flawless room with a small balcony overlooking a sea of trees at the edge of town. My grand experiment in luxury had begun.
 
