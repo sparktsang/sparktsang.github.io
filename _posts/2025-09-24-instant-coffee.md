@@ -7,7 +7,7 @@ category: "Life"
 image: assets/images/instant_coffee_imagen.jpeg
 ---
 
-It began, as so many things do, with a television. In my [empty hotel in Chumphon](https://sparktsang.github.io/life/2025/09/23/01-accountant-holiday.html)—a magnificent, three-star ghost ship where I was the solitary passenger—I found myself watching Thai TV ads. It was a nostalgic experience, a glimpse into a dying medium from a bygone era. A slickly produced commercial for something called "Super" instant coffee played on a loop, featuring a handsome, doe-eyed celebrity whispering the brand name in an ecstatic moan: *"Supeeeer~"*
+It began, as so many things do, with a television. In my [empty hotel in Chumphon](https://sparktsang.github.io/life/2025/09/23/01-accountant-holiday.html)—a magnificent ghost ship where I was the solitary passenger—I found myself watching Thai TV ads. It was a nostalgic experience, a glimpse into a dying medium from a bygone era. A slickly produced commercial for something called "Super" instant coffee played on a loop, featuring a handsome, doe-eyed celebrity whispering the brand name in an ecstatic moan: *"Supeeeer~"*
 
 The next day, in a local supermarket, I saw it. An entire promotional shelf, a monolith dedicated solely to this "Super" coffee. It was cheaper than the other brands. I picked up a bag, a casual act of consumer curiosity. And in that moment, I discovered something so simple, so obvious, that I was instantly consumed by a profound sense of shame for never having thought of it before.
 
