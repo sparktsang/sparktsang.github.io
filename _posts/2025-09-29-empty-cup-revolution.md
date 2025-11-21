@@ -7,7 +7,7 @@ category: "Life"
 image: assets/images/empty_cup_imagen.jpeg
 ---
 
-Ao Nang, Krabi, is a global capital for backpackers. The evidence is overwhelming; a quick search for the cheapest accommodation in Southern Thailand will inevitably lead you here, where a dorm bed in the off-season can dip to a fiercely competitive 100 baht. The 7-Eleven stores near the beach are a perfect reflection of this ecosystem. The clientele is a fifty-fifty split between locals and foreigners, and the tourists, with their holiday budgets, easily outspend everyone.
+Ao Nang, Krabi, is a global capital for backpackers. The evidence is overwhelming; a quick search for the cheapest accommodation in Southern Thailand will inevitably lead you here, where a dorm bed in the off-season can dip to a fiercely competitive 120 baht. The 7-Eleven stores near the beach are a perfect reflection of this ecosystem. The clientele is a fifty-fifty split between locals and foreigners, and the tourists, with their holiday budgets, easily outspend everyone.
 
 Logically, these stores would be prime locations for bilingual staff. While most convenience store transactions are simple—grab item, pay at counter—a little bit of communication could surely boost sales. But logic has its limits. In reality, not a single 7-Eleven employee here speaks English. The ones who do have been siphoned off by the more lucrative tourism industry. More importantly, 7-Eleven operates on a system of national standardization. Tweaking hiring policies for the handful of tourist-heavy zones is an unnecessary complication in their vast, nationwide machine.
 
