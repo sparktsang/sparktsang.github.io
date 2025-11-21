@@ -19,7 +19,7 @@ I found a 5-star rated craft burger joint on the map. The owner greeted me warml
 
 He was curious about Hong Kong, a city of soaring towers and human tides. I told him a garden restaurant like his would be an impossibility there. "That's probably why you're here," he mused, before lamenting the quiet boredom of country life. We found a common ground in the universal push-and-pull between the city and the countryside. I ordered a double bacon cheeseburger with french fries. It was magnificent, and criminally cheap at 175 baht.
 
-My thirst led me to a Taiwanese bubble tea shop. No pearls, but I took it anyway. It was gone in a few gulps. I ended up where I always do, at a 7-Eleven, for their award-winning, perfectly proportioned 20-baht Thai tea. My stomach was full. My quest to spend money was already hitting a wall.
+My thirst led me to a Taiwanese bubble tea shop. No pearls, but I took it anyway. It was gone in a few gulps. I ended up where I always do, at a 7-Eleven, for their award-winning, perfectly proportioned [20-baht Thai tea](https://sparktsang.github.io/life/2025/09/29/empty-cup-revolution.html). My stomach was full. My quest to spend money was already hitting a wall.
 
 What next? The town had a single cinema. I found a Japanese film I wanted to see, but the ticketing machine displayed a puzzle. Today’s screening was in Thai; tomorrow’s was in Japanese with English subtitles. A smiling employee came to help. "Today, speak Thai?" I asked. "Tomorrow, speak Japanese, English subtitle?" She confirmed my understanding. But it felt wrong. Why the difference? "Why?" I asked.
 
