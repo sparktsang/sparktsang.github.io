@@ -78,7 +78,7 @@ Still reeling from the revelation, I was pulled forward by the gravitational for
 
 "How?"
 
-He explained that his ultimate goal was to grow his own psychedelics, to control every stage of production from spore to consumption, to achieve the optimal state for consciousness expansion. This, he acknowledged, required a financial foundation. He mentioned, with a sincere, envy-free admiration, my own financial engine, something he was now working to build for himself.
+He explained that his ultimate goal was to grow his own psychedelics, to control every stage of production from spore to consumption, to achieve the optimal state for consciousness expansion. This, he acknowledged, required a financial foundation. He mentioned, with a sincere, envy-free admiration, my own [financial engine](https://sparktsang.github.io/life/2025/10/27/benefactor.html), something he was now working to build for himself.
 
 "And how does expanding your consciousness," I asked, trying to connect the dots, "relate to the mission of your bloodline?"
 
