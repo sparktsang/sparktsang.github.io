@@ -90,7 +90,7 @@ The world, he explained, consists of many realms. He needed to enter his lineage
 
 "A gatekeeper?" I offered.
 
-"Exactly," he said, completely unaware of the loaded meaning that word held in [my own revolutionary philosophy](https://sparktsang.github.io/philosophy.html). "A *proper* gatekeeper." Expanding his consciousness, it turned out, was the key to earning his entry visa.
+"Exactly," he said, completely unaware of the loaded meaning that word held in my own [revolutionary philosophy](https://sparktsang.github.io/philosophy.html). "A *proper* gatekeeper." Expanding his consciousness, it turned out, was the key to earning his entry visa.
 
 He then looped back to the concept of dreams. Dreaming, he explained, is also a journey to a realm, just a low-level one that everyone can access. The realms are hierarchical, differentiated by dimensions. The dreamspace is the fourth dimension. There is a fifth, a sixth, and so on. Only by expanding one's consciousness can one ascend to these higher dimensions and achieve true alignment.
 
