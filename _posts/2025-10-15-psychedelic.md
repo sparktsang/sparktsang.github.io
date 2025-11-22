@@ -30,7 +30,7 @@ And so I asked. And he answered, unveiling concept after concept I had never hea
 
 He spoke of his enlightenment, a process that had revealed his true place in the universe, a revelation so powerful it had forced him to do one thing: "unlearn everything".
 
-The phrase hit me like a jolt of recognition. *Unlearn everything.* A cultural studies professor of mine used to say the same thing. For him, it was a call to deconstruct the systems we inhabit, to dismantle the very education that shapes us. Was Ade a fellow revolutionary? Had I, by some cosmic coincidence, stumbled upon a kindred spirit in this sleepy Thai town, another soul dedicated to dismantling the architecture of our world? Eagerly, I waited for him to unveil this grand mission.
+The phrase hit me like a jolt of recognition. *Unlearn everything.* A cultural studies professor of mine used to say the [same thing](https://sparktsang.github.io/life/2025/10/25/forging-mind.html). For him, it was a call to deconstruct the systems we inhabit, to dismantle the very education that shapes us. Was Ade a fellow revolutionary? Had I, by some cosmic coincidence, stumbled upon a kindred spirit in this sleepy Thai town, another soul dedicated to dismantling the architecture of our world? Eagerly, I waited for him to unveil this grand mission.
 
 And then he spoke of his bloodline. He was not, he explained, an isolated being, but a single, vital link in a vast "physical lineage", stretching back through the mists of time, generation by generation. He had discovered the grand mission of his entire bloodline. He even mentioned there is another "spiritual lineage", equally significant. 
 
@@ -50,10 +50,10 @@ Finally, I found my voice. "What was it like?"
 
 He looked at me, not as a teacher to a student, but as a traveler describing a foreign land. "That," he said, "is what the whole journey has given me. The answers. I found them, step by step."
 
-And this time, without me having to ask, he kept talking, ready to explain exactly what those steps were.
+This time, without me having to ask, he kept talking, ready to explain exactly what those steps were.
 
 
-He began to explain what those "steps" were. And as he spoke, I felt myself drifting, lost in a vast, uncharted ocean of information. In the space of just a few minutes, he threw out a constellation of concepts, names, and sources, all completely new to me, all impossible to process in real time. He mentioned a Netflix documentary, *Fantastic Fungi*, quoting its director. He cited historical figures I'd never heard of. But through the deluge of data, one astonishing claim pierced through the noise, lodging itself in my memory. He spoke of Srinivasa Ramanujan, the only Asian among the world's top ten mathematicians, who attributed his breakthroughs to visions received during a lifetime of meditation.
+As he spoke, I felt myself drifting, lost in a vast, uncharted ocean of information. In the space of just a few minutes, he threw out a constellation of concepts, names, and sources, all completely new to me, all impossible to process in real time. He mentioned a Netflix documentary, *Fantastic Fungi*, quoting its director. He cited historical figures I'd never heard of. But through the deluge of data, one astonishing claim pierced through the noise, lodging itself in my memory. He spoke of Srinivasa Ramanujan, the only Asian among the world's top ten mathematicians, who attributed his breakthroughs to visions received during a lifetime of meditation.
 
 "Seven grams of psychedelics," Ade stated, his voice filled with the certainty of a prophet, "can give you the equivalent of Ramanujan's entire lifetime of meditation. Extremely concentrated."
 
