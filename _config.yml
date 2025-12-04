@@ -16,6 +16,7 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
+  github: https://github.com/sparktsang
   envelope: mailto:cashtsang@gmail.com
   Facebook: https://www.facebook.com/spark.cs.tsang
   WhatsApp: https://wa.me/85260814453
