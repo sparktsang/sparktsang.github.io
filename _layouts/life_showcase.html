@@ -149,14 +149,16 @@
     <section>
       {% assign life_posts = site.posts | where: "category", "Life" | reverse %}
       {% for post in life_posts %}
-        <article class="post-fragment" style="background-image: url('{{ site.baseurl }}/{{ post.image }}');">
-          <a href="{{ post.url | relative_url }}" class="click-area" aria-label="{{ post.title }}"></a>
-          <div class="info-popup"
-               {% if post.order != 0 and post.order != 99999 %}data-date="{{ post.date | date: "%Y-%m-%d" }}"{% endif %}
-               data-title="{{ post.short_title | default: post.title }}"
-               data-subtitle="{{ post.subtitle }}">
-          </div>
-        </article>
+        {% if post.image %}
+          <article class="post-fragment" style="background-image: url('{{ site.baseurl }}/{{ post.image }}');">
+            <a href="{{ post.url | relative_url }}" class="click-area" aria-label="{{ post.title }}"></a>
+            <div class="info-popup"
+                 {% if post.order != 0 and post.order != 99999 %}data-date="{{ post.date | date: "%Y-%m-%d" }}"{% endif %}
+                 data-title="{{ post.short_title | default: post.title }}"
+                 data-subtitle="{{ post.subtitle }}">
+            </div>
+          </article>
+        {% endif %}
       {% endfor %}
     </section>
   </div>
