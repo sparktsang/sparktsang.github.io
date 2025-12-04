@@ -149,6 +149,7 @@
     <section>
       {% assign life_posts = site.posts | where: "category", "Life" | reverse %}
       {% for post in life_posts %}
+        {% if post.archive != true %}
         <article class="post-fragment" style="background-image: url('{{ site.baseurl }}/{{ post.image }}');">
           <a href="{{ post.url | relative_url }}" class="click-area" aria-label="{{ post.title }}"></a>
           <div class="info-popup"
@@ -157,6 +158,7 @@
                data-subtitle="{{ post.subtitle }}">
           </div>
         </article>
+        {% endif %}
       {% endfor %}
     </section>
   </div>
