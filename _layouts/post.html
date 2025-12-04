@@ -32,7 +32,7 @@
 			{% assign ptr = page.previous %}
 			
 			{% for i in (1..50) %}
-			  {% if ptr and ptr.category == "Life" %}
+			  {% if ptr and ptr.category == "Life" and ptr.archive != true %}
 				{% assign prev_real = ptr %}
 				{% break %}
 			  {% elsif ptr %}
@@ -44,7 +44,7 @@
 			{% assign ptr2 = page.next %}
 			
 			{% for i in (1..50) %}
-			  {% if ptr2 and ptr2.category == "Life" %}
+			  {% if ptr2 and ptr2.category == "Life" and ptr2.archive != true %}
 			    {% assign next_real = ptr2 %}
 			    {% break %}
 			  {% elsif ptr2 %}
