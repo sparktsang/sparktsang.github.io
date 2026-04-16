@@ -40,7 +40,8 @@ The world did not merely fail Amina. It failed the very condition for truth to e
 A1. Knowledge is only possible if we know what we know.  
 A2. Justice is only possible if we know what is just.  
 A3. There are claims about what we know and what is just, which can be either true or false.  
-> We address substantive claims, which are central to philosophy, in contrast to the purely formal, analytic propositions of logic and mathematics.  
+> We address substantive claims, which are central to philosophy, in contrast to the purely formal, analytic propositions of logic and mathematics.
+
 A4. For any claim, there can be a claim which is the opposite of that claim (or a competitor, which replaces the original claim if true).  
 A5. To establish a claim to be true is to justify it. (Definition)   
 A6. No matter what we claim, as a rational being notices, it is possible that the next rational being can refute our justification, or even justify an opposite claim (or a competitor of that claim).  
