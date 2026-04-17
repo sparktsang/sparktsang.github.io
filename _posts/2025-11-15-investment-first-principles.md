@@ -8,6 +8,18 @@ This is an English translation of [an article posted on Medium written on 2019](
 
 ---
 
+*Before proceeding to the abstract, consider your current position in the market:*
+
+*Right now, millions of brilliant minds are executing investment strategies meticulously backtested across decades of data. Yet, the vast majority will inevitably be wiped out. Why? Because they are blind to the fatal chasm between **correlation** and **causation**.*
+
+*They are like an immortal, clueless investor who clips his toenails, washes his hair, and eats wasabi shrimp before every trade, then uses a "curated backtest" of 100 lucky outcomes to declare he has found a magical formula. They are Bertrand Russell’s turkey, calculating the flawless historical probability of tomorrow's feeding, blissfully oblivious to the approaching Thanksgiving.*
+
+*If your investment method relies on historical patterns rather than an absolute, verifiable causal agent, you do not possess a method; you are simply waiting for the butcher.*
+
+*What follows is not another trading strategy. It is an axiomatic, deductive proof of the **only** physical law that allows an investor to escape the slaughterhouse of coincidence and achieve perennial profit. If you are prepared to discard the superstition of price charts and face the rigorous science of causality, proceed to the Abstract.*
+
+---
+
 **Abstract**
 
 The pursuit of perennial profit is the shared, yet elusive, goal of investors worldwide. While the market arena is crowded with those who act on emotion or chance, a dedicated few endeavor to develop a systematic approach to this challenge. A plethora of theories describing various investment methods exists, and frameworks for validating such methods are occasionally employed by the so-called professionals.
