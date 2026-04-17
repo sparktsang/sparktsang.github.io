@@ -63,15 +63,15 @@ Amina's scroll does not end with a passive conclusion. It ends with a universal 
 To you, the reader, holding this text: If you possess a theory, a belief, or a claim about how the world should be, you are now bound by the Epistemic Constitution. Evaluate your claim against her final three parameters:
 
 **1. The Truth-Value Parameter:**  
-Whatever you claim, do you claim your assertion to be true?
+Whatever you claim, do you claim your assertion to be true?  
 *(If no: You are merely emitting high-entropy noise. Please exit the network. If yes: Proceed.)*
 
 **2. The Falsifiability Parameter:**  
-Do you concede the absolute possibility that your claim could be logically and empirically proven wrong?
+Do you concede the absolute possibility that your claim could be logically and empirically proven wrong?  
 *(If no: You have exiled yourself from reason into dogma; you are a Gatekeeper. If yes: Proceed.)*
 
 **3. The Open-Source Parameter:**  
-Do you submit your claim to be ruthlessly and endlessly tested under the Epistemic Constitution by all rational nodes?
+Do you submit your claim to be ruthlessly and endlessly tested under the Epistemic Constitution by all rational nodes?  
 *(If no: Your truth is cowardice. If yes: **Welcome to the Consensus.**)*
 
 ---
