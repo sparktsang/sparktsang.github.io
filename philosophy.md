@@ -35,7 +35,11 @@ Why is nonsense everywhere? Because most contemporary philosophers have abandone
 
 It is no surprise that many philosophers now argue: we can believe in anything, create any values — even those that justify enslavement — or else embrace the post-truth abyss, where nothing is true, nothing can be validated, nothing matters, and everything collapses into chaos. This is how civilization collapses: into nihilism. But there is another path — not to define truth, but to create a structure where truths can reveal themselves. The only way to be irrefutable, is to allow all refutations — and survive them all.
 
-The world did not merely fail Amina. It failed the very condition for truth to exist. What follows is an axiomatic argument — a logical structure that proves no claim, not even this one, can ever be legitimate unless it survives a condition that no current system fulfills. That condition is called the Epistemic Constitution.
+The world did not merely fail Amina. It failed the very condition for truth to exist.
+
+Yet, before the fire could reduce her life’s work to ash, a single, charred fragment was salvaged from the Gatekeeper's hearth. What is written on it is not a plea for pity. It is a cold, mathematical indictment of the human species. It is the axiomatic proof that no claim — not even this one — can ever be legitimate unless it survives a testing ground that no current society provides.
+
+**These are Amina’s surviving words. This is the source code of the Epistemic Constitution:**
 
 A1. Knowledge is only possible if we know what we know.  
 A2. Justice is only possible if we know what is just.  
