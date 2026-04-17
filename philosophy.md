@@ -58,10 +58,21 @@ A12. We know nothing before the epistemic constitution, including what is just, 
 A13. Knowledge is only possible with the constitution.  
 A14. Justice is only possible with the constitution. 
 
-For all kinds of theories:
-1. Whatever you claim, do you claim your claim to be true? If not, you are just making some noise. Please proceed if yes. 
-2. Do you accept that your claim could be established to be wrong? If not, you make yourself an outsider of philosophical discussion. Please proceed if yes. 
-3. Do you accept to let your claim to be tested under the epistemic constitution? If not, again you are an outsider of philosophical discussion. If yes, you are welcome. 
+Amina's scroll does not end with a passive conclusion. It ends with a universal diagnostic test — a firewall through which every rational being must pass.
+
+To you, the reader, holding this text: If you possess a theory, a belief, or a claim about how the world should be, you are now bound by the Epistemic Constitution. Evaluate your claim against her final three parameters:
+
+**1. The Truth-Value Parameter:**
+Whatever you claim, do you claim your assertion to be true?
+*(If no: You are merely emitting high-entropy noise. Please exit the network. If yes: Proceed.)*
+
+**2. The Falsifiability Parameter:**
+Do you concede the absolute possibility that your claim could be logically and empirically proven wrong?
+*(If no: You have exiled yourself from reason into dogma; you are a Gatekeeper. If yes: Proceed.)*
+
+**3. The Open-Source Parameter:**
+Do you submit your claim to be ruthlessly and endlessly tested under the Epistemic Constitution by all rational nodes?
+*(If no: Your truth is cowardice. If yes: **Welcome to the Consensus.**)*
 
 ---
 
