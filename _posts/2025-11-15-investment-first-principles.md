@@ -81,11 +81,13 @@ Therefore, perennial profit logically entails two distinct components:
 
 The stipulation of "similar" activities is crucial. If there is no logical continuity between the activities of the past (1) and those of the future (2), the temporal chain of "perennial profit" is broken. The very concept implies a consistent underlying logic that bridges yesterday and tomorrow.
 
-Our next inquiry is to identify the *subject* of this perennial profit. Who, or what, is the agent of this success? This question is paramount, for without knowing what it is that truly profits, we cannot fully grasp the nature of the outcome.
+Our next inquiry is to identify the *subject* of this perennial profit. When we observe perennial profit, who—or what—actually claims the victory? This question is paramount, for without knowing what it is that truly profits, we cannot fully grasp the nature of the outcome.
 
-The subject could be an institution, an individual, or a method. An institution, however, relies on individuals or methods for its execution. Thus, the ultimate subject is reducible to a collection of individuals and methods, or perhaps a single one of each. And if it is a collection, at least one of its constituent individuals or methods must be the source of the perennial profit for the whole to succeed. Our analysis can therefore be narrowed to the individual and the method.
+We are easily seduced by the monolithic facade of financial institutions. Yet, an institution is merely a legal ghost; it cannot think, nor can it pull a trigger. Strip away the marble pillars and the corporate charters, and the monolith instantly dissolves into its only active components: flesh-and-blood individuals executing specific methods.
 
-Consider an individual who achieves perennial profit. Two possibilities exist:
+Even if this execution takes the form of a vast collective, it remains a statistical optical illusion. If a firm wins consistently, there must be at least a single, beating heart within the bureaucracy—one prime individual or one core algorithm—generating the true yield, even while carrying the dead weight of the rest. To isolate the absolute engine of wealth, we must ruthlessly cut away this institutional fat. The suspects in our interrogation are immediately reduced to two: the naked individual, and the cold method.
+
+Further, consider an individual who achieves perennial profit. Two possibilities exist:
 
 1.  The individual employs a method, or a collection of methods, to achieve this result. If a collection, then at least one of its constituent methods must be the effective source of profit.
 2.  The individual employs no method at all.
