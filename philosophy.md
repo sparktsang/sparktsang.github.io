@@ -4,6 +4,7 @@ title: Philosophy
 description: 'THE CONSTITUTION: How the World Should Be.'
 image: assets/images/refused_letter_bing.jpeg
 nav-menu: true
+weight: 2
 ---
 
 # The Constitution
