@@ -190,4 +190,4 @@ So the bridge remained on my side of the window—unstepped, suspended. A design
 
 ---
 
-Sequel — In progress. Coming soon.
+Sequel — *To be continuted*
