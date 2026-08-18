@@ -5,6 +5,7 @@ short_title: "The Accountant's Holiday"
 subtitle: "Expensive things are rarely good, and the best things are almost always cheap."
 category: "Life"
 image: assets/images/hotel_king_bing.jpeg
+date: 2025-09-23 12:00:00
 ---
 
 After my encounter with [Sandeep](https://sparktsang.github.io/life/2025/09/22/three-walls.html), I journeyed north to Chumphon, a sleepy town untouched by the ravenous appetite of mass tourism. It was, I decided, the perfect place to spend my birthday. For years, my travels have been defined by a certain asceticism—staying in dorm rooms, seeking out the cheapest local food. It’s a small rebellion against the sterile, industrialized hospitality complex, a way to find stories and connections.
