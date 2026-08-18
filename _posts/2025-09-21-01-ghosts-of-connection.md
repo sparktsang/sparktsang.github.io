@@ -5,6 +5,7 @@ short_title: "The Ghosts of Connection"
 subtitle: "I had come seeking connection and realized something far more interesting: a thousand beautiful, lonely phantoms, all dancing together in the dark."
 category: "Life"
 image: assets/images/full_moon_ghost_bing.jpeg
+date: 2025-09-21 12:00:00
 ---
 
 Some places are built on a promise. Koh Pha Ngan sells one: connection—nature, freedom, a thousand strangers dancing under a full moon. But promises are often powerful fictions we agree to live by. But I learned that promises are often just powerful fictions we all agree to believe in. And sometimes, the most profound connections are found in the silences between the noise.
