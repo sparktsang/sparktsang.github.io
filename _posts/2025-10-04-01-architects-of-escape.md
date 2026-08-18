@@ -5,6 +5,7 @@ short_title: "The Architects of Escape"
 subtitle: "Four disparate souls—it felt, for just a moment, like the world could be changed by four people, a few conversations, and a storm."
 category: "Life"
 image: assets/images/four_energy_spirals_bing.jpeg
+date: 2025-10-04 12:00:00
 ---
 
 Human connection is a strange and unpredictable thing. It can be loud and performative, a spectacle of shared laughter in a party hostel. Or it can be quiet, unfolding slowly in the hushed space of a guesthouse lobby, sparked by nothing more than a shared moment of stillness.
