@@ -8,11 +8,11 @@ image: assets/images/echo_chamber_l.jpg
 date: 2025-10-07 12:00:00
 ---
 
-After writing the story of [my encounter with Sandeep](https://sparktsang.github.io/life/2025/09/22/three-walls.html), the Indian programmer, I felt a sense of completion. I had taken a fleeting human connection and forged it into something lasting, a digital monument to our brief conversation about the architecture of freedom. A natural, almost instinctual, thought followed: I should share it with him.
+After writing the story of [my encounter with Sandeep]({% post_url 2025-09-22-three-walls %}), the Indian programmer, I felt a sense of completion. I had taken a fleeting human connection and forged it into something lasting, a digital monument to our brief conversation about the architecture of freedom. A natural, almost instinctual, thought followed: I should share it with him.
 
 It felt like the right thing to do, an act of respect. Our exchange had been one of ideas, a meeting of minds. To immortalize that dialogue in an essay was, I felt, a tribute to his intelligence. I drafted a message in my head, framing the piece not as a simple record, but as a testament to our shared moment in time, a philosophical exploration inspired by our talk.
 
-But as my finger hovered over the "send" button, a different face flashed in my mind: [Neung](https://sparktsang.github.io/life/2025/09/16/man-from-nowhere.html). The kind, troubled, unemployed man I had met in Surat Thani, who had so generously shared his world with me. I had written about him, too, crafting his story of struggle and dignity into what I felt was a moving portrait of resilience.
+But as my finger hovered over the "send" button, a different face flashed in my mind: [Neung]({% post_url 2025-09-16-man-from-nowhere %}). The kind, troubled, unemployed man I had met in Surat Thani, who had so generously shared his world with me. I had written about him, too, crafting his story of struggle and dignity into what I felt was a moving portrait of resilience.
 
 Should I send it to him as well?
 
