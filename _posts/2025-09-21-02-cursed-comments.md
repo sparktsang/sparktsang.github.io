@@ -5,6 +5,7 @@ short_title: "The Cursed Comments"
 subtitle: "This is the prison of our age: to be trapped in a system you can no longer trust, but cannot afford to leave."
 category: "Life"
 image: assets/images/review_horror_bing.jpeg
+date: 2025-09-21 13:00:00
 ---
 
 On my last night in [Koh Pha Ngan](https://sparktsang.github.io/life/2025/09/21/01-ghosts-of-connection.html), technology was my saviour. The island's culinary landscape is a minefield of tourist-priced mediocrity, but the digital oracle of Google Maps, guided by the statistical wisdom of the crowd, led me to a 4.9-star gem hidden in a food court. It was a Ukrainian stall selling something called Chebureks, and their tagline, "criminally delicious," was an understatement. It was a triumph of data, a testament to the power of technology to elevate our travel experiences. I went to bed that night with a full stomach and a deep sense of gratitude for the digital tools that empower the modern wanderer.
