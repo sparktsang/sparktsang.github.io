@@ -5,6 +5,7 @@ short_title: "The Phantom Lock"
 subtitle: "A system that projects an image of rigid security while operating on a foundation of flexible, unspoken trust."
 category: "Life"
 image: assets/images/hostel_lock_bing.jpeg
+date: 2025-09-18 12:00:00
 ---
 
 A guesthouse, I'm learning, is a fascinating microcosm of the world. It’s a temporary home for a transient tribe, each member living out their own quiet drama. My last night in Surat Thani, a simple locked door became the stage for a comedy of errors that revealed more about travel in the digital age than any guidebook ever could.
