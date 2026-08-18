@@ -12,7 +12,7 @@ After writing the story of [my encounter with Sandeep](https://sparktsang.github
 
 It felt like the right thing to do, an act of respect. Our exchange had been one of ideas, a meeting of minds. To immortalize that dialogue in an essay was, I felt, a tribute to his intelligence. I drafted a message in my head, framing the piece not as a simple record, but as a testament to our shared moment in time, a philosophical exploration inspired by our talk.
 
-But as my finger hovered over the "send" button, a different face flashed in my mind: [Neung](https://sparktsang.github.io/life/2025/09/16/02-man-from-nowhere.html). The kind, troubled, unemployed man I had met in Surat Thani, who had so generously shared his world with me. I had written about him, too, crafting his story of struggle and dignity into what I felt was a moving portrait of resilience.
+But as my finger hovered over the "send" button, a different face flashed in my mind: [Neung](https://sparktsang.github.io/life/2025/09/16/man-from-nowhere.html). The kind, troubled, unemployed man I had met in Surat Thani, who had so generously shared his world with me. I had written about him, too, crafting his story of struggle and dignity into what I felt was a moving portrait of resilience.
 
 Should I send it to him as well?
 
