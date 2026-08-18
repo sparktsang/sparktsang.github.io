@@ -5,6 +5,7 @@ short_title: "The 150-Baht Principle"
 subtitle: "Every baht we spend, every price we accept, is a vote. My walk was a silent protest."
 category: "Life"
 image: assets/images/walk_ko_pha_ngan_imagen.jpeg
+date: 2025-09-18 14:00:00
 ---
 
 There is a moment upon arriving in any new place when the abstract idea of a journey slams into the hard wall of reality. For me, on the island of Koh Pha Ngan, that moment came in the form of a souped-up, military-navy Songthaew and two words whispered like a secret code: "Taxi, taxi."
