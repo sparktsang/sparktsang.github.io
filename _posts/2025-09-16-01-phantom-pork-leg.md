@@ -5,7 +5,7 @@ short_title: "The Phantom Pork Leg"
 subtitle: "The customer isn't always right, and the most valuable thing you can pack for any journey is a little bit of humility."
 category: "Life"
 image: assets/images/pork_leg_bing.jpeg
-date: 2025-09-16 01:00:00 +0800
+date: 2025-09-16 01:00:00
 ---
 
 There are moments in travel that are more educational than any museum, more revealing than any guidebook. They often happen in the most mundane of places. For me, today's lesson took place at a sleepy, roadside pork leg stall in Surat Thani, under the heavy heat of a 1:30 PM sun.
