@@ -7,7 +7,7 @@ category: "Life"
 image: assets/images/silent_wall_bing.jpeg
 ---
 
-After [a chaotic few days on Koh Pha Ngan](https://sparktsang.github.io/life/2025/09/21/01-ghosts-of-connection.html), I returned to the relative calm of Surat Thani, checking back into the same guesthouse. As I walked up to the third floor, a familiar sight greeted me: in the bottom bunk to my right was the same Indian man I had seen before my island detour. I gave him a nod of recognition. This time, a connection was made.
+After [a chaotic few days on Koh Pha Ngan](https://sparktsang.github.io/life/2025/09/21/ghosts-of-connection.html), I returned to the relative calm of Surat Thani, checking back into the same guesthouse. As I walked up to the third floor, a familiar sight greeted me: in the bottom bunk to my right was the same Indian man I had seen before my island detour. I gave him a nod of recognition. This time, a connection was made.
 
 His name was Sandeep, a programmer. As I settled in, he was sitting outside. He caught my eye. "Excuse me," he said, and for a tense second, I wasn't sure what to expect. "Where are you going?" I told him I was headed to the night market. "Can I come?" he asked. And just like that, we became travel companions for the evening.
 
