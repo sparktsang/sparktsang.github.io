@@ -29,7 +29,7 @@ And he, in turn, had become its unwitting brand ambassador. He was showing the v
 
 The experience was a virus. He had likely been infected by a similar post, and now, he had become a vector, ready to infect others.
 
-After my "nice", I offered a counternarrative. "I could never pay that," I said. "Every time I think of spending that much, I remember [a 65-baht meal](https://sparktsang.github.io/life/2025/09/23/01-accountant-holiday.html) I had that was pure culinary bliss. This 800-baht experience couldn't possibly compare, so the spending feels unjustified."
+After my "nice", I offered a counternarrative. "I could never pay that," I said. "Every time I think of spending that much, I remember [a 65-baht meal](https://sparktsang.github.io/life/2025/09/23/accountant-holiday.html) I had that was pure culinary bliss. This 800-baht experience couldn't possibly compare, so the spending feels unjustified."
 
 He looked at me, a little coolly. "You always compare," he said. His tone wasn’t hostile, just tired—like a man defending the right not to think.
 
