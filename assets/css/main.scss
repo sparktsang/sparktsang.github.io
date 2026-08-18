@@ -78,3 +78,10 @@
 	@import 'layout/footer';
 	@import 'layout/wrapper';
 	@import 'layout/menu';
+
+.index_text {
+    font-size: 0.8em;
+    list-style: none;
+    padding-left: 0;
+	color: rgba(150, 150, 150, 0.8);
+}
