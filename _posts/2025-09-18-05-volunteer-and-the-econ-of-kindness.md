@@ -5,6 +5,7 @@ short_title: "The Economics of Kindness"
 subtitle: "If kindness can survive even within a transaction, perhaps it’s not the world that needs more deals, but a world that knows when to stop counting."
 category: "Life"
 image: assets/images/volunteer_bing.jpeg
+date: 2025-09-18 16:00:00
 ---
 
 After being banished from [the kingdom of the 83-baht-3-night guesthouse](https://sparktsang.github.io/life/2025/09/18/04-king-of-castle.html), I found myself back on the dark, rain-slicked streets of Koh Pha Ngan. My next move was a retreat. I booked the second-cheapest dorm on the island, a place called Kiko's Hostel, located halfway back to the ferry terminal I had just spent forty minutes walking from.
