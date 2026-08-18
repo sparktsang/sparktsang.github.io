@@ -5,6 +5,7 @@ short_title: "The Final Exam on the Riverbank"
 subtitle: "A system that prioritizes the form of education over its function."
 category: "Life"
 image: assets/images/exam_river_imagen.png
+date: 2025-09-16 14:00:00
 ---
 
 There's a universal truth to travel: just when you think you've settled into a rhythm, the universe throws a delightful curveball. My final hour with [Neung](https://sparktsang.github.io/life/2025/09/16/02-man-from-nowhere.html), my newfound guide and friend in Surat Thani, was a perfect example. We were walking along the Tapi River, our deep conversation about life and politics winding down as the sun set. Suddenly, we were ambushed.
