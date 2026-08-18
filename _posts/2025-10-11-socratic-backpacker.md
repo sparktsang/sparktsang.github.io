@@ -21,7 +21,7 @@ As I spoke about my method—taking a step back, questioning the logic of everyt
  
 "He's my favorite philosopher," I said, a grin spreading across my face. We both burst into laughter, two strangers in a Thai guesthouse suddenly united by a 2,400-year-old Greek man. He moved to the chair beside me. The conversation had begun. 
  
-I used [the story of the schoolgirl in the Chumphon library](https://sparktsang.github.io/life/2025/09/23/02-library.html) to illustrate my point. She hogged the only fan to scroll on her phone, I explained, when she could have gone to an air-conditioned 7-Eleven. Why? Because as a local schoolgirl, her presence there would be judged, while I, a foreigner, could sit there all day without issue. 
+I used [the story of the schoolgirl in the Chumphon library](https://sparktsang.github.io/life/2025/09/23/library.html) to illustrate my point. She hogged the only fan to scroll on her phone, I explained, when she could have gone to an air-conditioned 7-Eleven. Why? Because as a local schoolgirl, her presence there would be judged, while I, a foreigner, could sit there all day without issue. 
  
 He paused, then asked, his own mind clearly working at high speed, "But how can you be sure of her intention? You could be wrong about what others are thinking." 
  
