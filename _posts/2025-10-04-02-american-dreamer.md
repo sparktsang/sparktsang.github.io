@@ -5,6 +5,7 @@ short_title: "The American Dreamer"
 subtitle: "He had brought his textbook solutions to a place that runs on local wisdom, and the result was this strange, flawed, yet somehow functional hybrid."
 category: "Life"
 image: assets/images/black_paint_bing.jpeg
+date: 2025-10-04 13:00:00
 ---
 
 My check-in at the Hangout guesthouse began with a piece of paper. It was an Arrival Card, a formality most Thai hostels have long since abandoned. The few that still use them are usually content with a name and a scribble for a signature. But this one was different. Andrew, the American owner, had meticulously marked most fields with a hand-drawn asterisk. Mandatory.
