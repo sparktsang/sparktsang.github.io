@@ -9,3 +9,10 @@ show_tile: false
 ---
 
 The project is civilization itself. The work begins now.
+
+{% comment %}
+Built from years of reading. Explore the [Library →][lib]
+{: .index_text}
+
+[lib]: {{ "/library" | absolute_url }}
+{% endcomment %}
