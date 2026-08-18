@@ -5,6 +5,7 @@ short_title: "The Echo Chamber"
 subtitle: "A call for liberation intended for the masses becomes an intellectual feast for the elite."
 category: "Life"
 image: assets/images/echo_chamber_l.jpg
+date: 2025-10-07 12:00:00
 ---
 
 After writing the story of [my encounter with Sandeep](https://sparktsang.github.io/life/2025/09/22/three-walls.html), the Indian programmer, I felt a sense of completion. I had taken a fleeting human connection and forged it into something lasting, a digital monument to our brief conversation about the architecture of freedom. A natural, almost instinctual, thought followed: I should share it with him.
