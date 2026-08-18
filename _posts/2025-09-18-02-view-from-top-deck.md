@@ -5,6 +5,7 @@ short_title: "The View from the Top Deck"
 subtitle: "The magic was real. You just had to be willing to climb the stairs to find it."
 category: "Life"
 image: assets/images/top_deck_bing.jpeg
+date: 2025-09-18 13:00:00
 ---
 
 There’s a strange paradox to the ferries that ply the Gulf of Thailand. Onboard, you are surrounded by one of the most beautiful seascapes in the world, yet the primary goal of the interior design seems to be to make you forget you’re at sea at all.
