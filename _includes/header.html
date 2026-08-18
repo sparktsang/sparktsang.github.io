@@ -17,6 +17,7 @@
 		        <li><a href="{{ "" | absolute_url }}">{{ page.title }}</a></li>
 	    	{% endif %}
 		{% endfor %}
+		<li><a href="{{ "/life/2025/10/25/childhood.html" | absolute_url }}">AUTOBIOGRAPHY</a></li>
 		{% for page in site.html_pages %}
 		    {% if page.layout != "home" and page.nav-menu == true %}
 		        <li><a href="{% if page.redirect_to %}{{ page.redirect_to }}{% else %}{{ page.url | absolute_url }}{% endif %}">{{ page.title }}</a></li>
