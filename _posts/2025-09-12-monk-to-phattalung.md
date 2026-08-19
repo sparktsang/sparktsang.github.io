@@ -7,7 +7,7 @@ category: "Life"
 image: assets/images/amulet_imagen.png
 ---
 
-Rejection leaves a bitter taste. [Being turned away at a border]({% post_url 2025-09-11-emperor-of-nowhere %}), especially for something as trivial as a decade-old water stain on a passport, feels deeply personal. My grand plan to conquer Malaysia’s east coast had ended before it began, culminating in a frantic, last-minute escape back to the Thai city of Hat Yai. My travel partner was now in another country, and I was alone, back at square one, my meticulously laid plans in ashes.
+Rejection leaves a bitter taste. [Being turned away at a border][border], especially for something as trivial as a decade-old water stain on a passport, feels deeply personal. My grand plan to conquer Malaysia’s east coast had ended before it began, culminating in a frantic, last-minute escape back to the Thai city of Hat Yai. My travel partner was now in another country, and I was alone, back at square one, my meticulously laid plans in ashes.
 
 Defeated but not destroyed, I needed a new direction. My friend had often spoken wistfully of the places he’d missed due to his visa deadline: the towns of Trang and Phatthalung. With time now an infinite resource, I decided to pick up the thread he’d left behind. I booked a cheap room in Phatthalung, a town I knew nothing about, simply because it was the nearest southern city reachable by train. It wasn't a plan; it was a retreat.
 
@@ -36,3 +36,5 @@ It was a staggering realization. The very day I was rejected and "un-traveled," 
 I carefully attached the amulet to my silver chain, its cool weight a comforting presence against my skin. The sting of rejection at the border began to fade, replaced by a profound sense of gratitude. My meticulously planned itinerary had been shattered, yes. But in its place, something far more valuable had emerged. A story. A connection. A small, silver token of grace, given freely on a slow train to nowhere special.
 
 My journey to Malaysia had failed, but my journey in Thailand had just acquired a soul.
+
+[border]: {% post_url 2025-09-11-emperor-of-nowhere %}
