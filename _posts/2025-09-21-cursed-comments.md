@@ -8,7 +8,7 @@ image: assets/images/review_horror_bing.jpeg
 date: 2025-09-21 13:00:00
 ---
 
-On my last night in [Koh Pha Ngan]({% post_url 2025-09-21-ghosts-of-connection %}), technology was my saviour. The island's culinary landscape is a minefield of tourist-priced mediocrity, but the digital oracle of Google Maps, guided by the statistical wisdom of the crowd, led me to a 4.9-star gem hidden in a food court. It was a Ukrainian stall selling something called Chebureks, and their tagline, "criminally delicious," was an understatement. It was a triumph of data, a testament to the power of technology to elevate our travel experiences. I went to bed that night with a full stomach and a deep sense of gratitude for the digital tools that empower the modern wanderer.
+On my last night in [Koh Pha Ngan][ghost]{:target="_blank"}, technology was my saviour. The island's culinary landscape is a minefield of tourist-priced mediocrity, but the digital oracle of Google Maps, guided by the statistical wisdom of the crowd, led me to a 4.9-star gem hidden in a food court. It was a Ukrainian stall selling something called Chebureks, and their tagline, "criminally delicious," was an understatement. It was a triumph of data, a testament to the power of technology to elevate our travel experiences. I went to bed that night with a full stomach and a deep sense of gratitude for the digital tools that empower the modern wanderer.
 
 That gratitude, I would soon discover, was profoundly misplaced.
 
@@ -39,3 +39,5 @@ I opened an incognito browser tab and navigated to the same page. He was right. 
 I soon discovered the common denominator: every review written with the help of an AI had been shadow-banned. It wasn't the censorship that terrified me—that's a debatable policy. It was the deception. The system hadn't told me. It had built a personalized phantom reality for me, letting me believe my voice mattered, while ensuring it was never actually heard. I wondered how many hundreds, or thousands, of other users were shouting into the same silent, personalized void, completely unaware.
 
 My faith in contributing to the great digital commons was shattered. And yet, here I was, utterly dependent on that very system, that flawed and biased collection of data, just to find a decent lunch. This is the prison of our age: to be trapped in a system you can no longer trust, but cannot afford to leave.
+
+[ghost]: {% post_url 2025-09-21-ghosts-of-connection %}

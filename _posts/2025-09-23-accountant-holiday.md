@@ -8,11 +8,11 @@ image: assets/images/hotel_king_bing.jpeg
 date: 2025-09-23 12:00:00
 ---
 
-After my encounter with [Sandeep]({% post_url 2025-09-22-three-walls %}), I journeyed north to Chumphon, a sleepy town untouched by the ravenous appetite of mass tourism. It was, I decided, the perfect place to spend my birthday. For years, my travels have been defined by a certain asceticism—staying in dorm rooms, seeking out the cheapest local food. It’s a small rebellion against the sterile, industrialized hospitality complex, a way to find stories and connections.
+After my encounter with [Sandeep][walls]{:target="_blank"}, I journeyed north to Chumphon, a sleepy town untouched by the ravenous appetite of mass tourism. It was, I decided, the perfect place to spend my birthday. For years, my travels have been defined by a certain asceticism—staying in dorm rooms, seeking out the cheapest local food. It’s a small rebellion against the sterile, industrialized hospitality complex, a way to find stories and connections.
 
 But for my birthday, I made an exception. I booked a private double room in a three-star hotel for three nights. It wasn’t about comfort for comfort’s sake. It was about solitude, a space to reflect. And I had a mission: for one day only, I was going to fire the accountant in my head.
 
-This internal accountant is the great paradox of [my financial freedom]({% post_url 2025-10-27-benefactor %}). Won through years of disciplined investing, my freedom is paradoxically guarded by a relentless inner voice that treats every expenditure as an investment, demanding a rigorous justification of its return. Today, he was on vacation. My only rule was to spend freely, to seek maximum satisfaction, as long as it wasn't absurdly ridiculous.
+This internal accountant is the great paradox of [my financial freedom][benefact]{:target="_blank"}. Won through years of disciplined investing, my freedom is paradoxically guarded by a relentless inner voice that treats every expenditure as an investment, demanding a rigorous justification of its return. Today, he was on vacation. My only rule was to spend freely, to seek maximum satisfaction, as long as it wasn't absurdly ridiculous.
 
 The day began at an empty hotel. When I arrived the day before, the grand lobby was deserted, a note on the reception desk providing only a phone number. My Thai SIM, I discovered with a small miracle, could actually make calls. A man who lived next door soon appeared, flip-flops shuffling, to check me in. He led me to a flawless room with a small balcony overlooking a sea of trees at the edge of town. My grand experiment in luxury had begun.
 
@@ -20,7 +20,7 @@ I found a 5-star rated craft burger joint on the map. The owner greeted me warml
 
 He was curious about Hong Kong, a city of soaring towers and human tides. I told him a garden restaurant like his would be an impossibility there. "That's probably why you're here," he mused, before lamenting the quiet boredom of country life. We found a common ground in the universal push-and-pull between the city and the countryside. I ordered a double bacon cheeseburger with french fries. It was magnificent, and criminally cheap at 175 baht.
 
-My thirst led me to a Taiwanese bubble tea shop. No pearls, but I took it anyway. It was gone in a few gulps. I ended up where I always do, at a 7-Eleven, for their award-winning, perfectly proportioned [20-baht Thai tea]({% post_url 2025-09-29-empty-cup-revolution %}). My stomach was full. My quest to spend money was already hitting a wall.
+My thirst led me to a Taiwanese bubble tea shop. No pearls, but I took it anyway. It was gone in a few gulps. I ended up where I always do, at a 7-Eleven, for their award-winning, perfectly proportioned [20-baht Thai tea][cup]{:target="_blank"}. My stomach was full. My quest to spend money was already hitting a wall.
 
 What next? The town had a single cinema. I found a Japanese film I wanted to see, but the ticketing machine displayed a puzzle. Today’s screening was in Thai; tomorrow’s was in Japanese with English subtitles. A smiling employee came to help. "Today, speak Thai?" I asked. "Tomorrow, speak Japanese, English subtitle?" She confirmed my understanding. But it felt wrong. Why the difference? "Why?" I asked.
 
@@ -41,3 +41,7 @@ Tomorrow, the accountant would be back at his desk. He would surely laugh at my 
 I had lost my faith in consumption. I didn't know where to go next. And when I don’t know where to go, the accountant has a simple, foolproof rule: choose the cheapest.
 
 My desire to spend was extinguished. I decided to return to the place with the cheapest dorm beds in all of Southern Thailand—back to Ao Nang, Krabi, the very place I had started with my friend. It wasn't a defeat. It was a homecoming, a return from a chaotic experiment in freedom to a world of value that I understood.
+
+[walls]: {% post_url 2025-09-22-three-walls %}
+[benefact]: {% post_url 2025-10-27-benefactor %}
+[cup]: {% post_url 2025-09-29-empty-cup-revolution %}

@@ -8,11 +8,11 @@ image: assets/images/echo_chamber_l.jpg
 date: 2025-10-07 12:00:00
 ---
 
-After writing the story of [my encounter with Sandeep]({% post_url 2025-09-22-three-walls %}), the Indian programmer, I felt a sense of completion. I had taken a fleeting human connection and forged it into something lasting, a digital monument to our brief conversation about the architecture of freedom. A natural, almost instinctual, thought followed: I should share it with him.
+After writing the story of [my encounter with Sandeep][walls]{:target="_blank"}, the Indian programmer, I felt a sense of completion. I had taken a fleeting human connection and forged it into something lasting, a digital monument to our brief conversation about the architecture of freedom. A natural, almost instinctual, thought followed: I should share it with him.
 
 It felt like the right thing to do, an act of respect. Our exchange had been one of ideas, a meeting of minds. To immortalize that dialogue in an essay was, I felt, a tribute to his intelligence. I drafted a message in my head, framing the piece not as a simple record, but as a testament to our shared moment in time, a philosophical exploration inspired by our talk.
 
-But as my finger hovered over the "send" button, a different face flashed in my mind: [Neung]({% post_url 2025-09-16-man-from-nowhere %}). The kind, troubled, unemployed man I had met in Surat Thani, who had so generously shared his world with me. I had written about him, too, crafting his story of struggle and dignity into what I felt was a moving portrait of resilience.
+But as my finger hovered over the "send" button, a different face flashed in my mind: [Neung][neung]{:target="_blank"}. The kind, troubled, unemployed man I had met in Surat Thani, who had so generously shared his world with me. I had written about him, too, crafting his story of struggle and dignity into what I felt was a moving portrait of resilience.
 
 Should I send it to him as well?
 
@@ -30,7 +30,7 @@ The silence was deafening. It wasn't anger or rejection; it was something far mo
 
 And in that moment of silence, the entire architecture of my project collapsed. I finally saw the tragic, inverted pyramid I had built.
 
-At the bottom, the very foundation, are the people I most want to reach, the people my [revolutionary ideas](https://sparktsang.github.io/philosophy.html) are supposed to liberate. People like Neung. Their reaction? Incomprehension, maybe even resentment. My words are a foreign language discussing problems they feel in their bones but cannot articulate in my theoretical terms.
+At the bottom, the very foundation, are the people I most want to reach, the people my [revolutionary ideas][phi]{:target="_blank"} are supposed to liberate. People like Neung. Their reaction? Incomprehension, maybe even resentment. My words are a foreign language discussing problems they feel in their bones but cannot articulate in my theoretical terms.
 
 In the middle are people like Sandeep. They are educated enough to understand the critique, yet so enmeshed in the system's daily struggles that my grand theories are a painful reminder of their own powerlessness. My writing isn't a call to arms for them; it's just a more eloquent description of their prison cell. Their response is a heavy, complicated silence.
 
@@ -38,10 +38,16 @@ And at the very top, the smallest, most powerful tip of the pyramid, are the peo
 
 This is the echo chamber dilemma of a revolution. A call for liberation intended for the masses becomes an intellectual feast for the elite. The language of the problem, spoken in the raw dialect of suffering, is not the same as the language of the solution, written in the polished prose of critical theory.
 
-The real challenge, I now understand, is not to write a more profound critique of the system. It’s not to find more stories of struggle and injustice. The real, near-impossible challenge is this: how do you write [a story](https://sparktsang.github.io/works.html) that even Neung, after reading it, would look up and say, "Yes. That is the world I want to live in"?
+The real challenge, I now understand, is not to write a more profound critique of the system. It’s not to find more stories of struggle and injustice. The real, near-impossible challenge is this: how do you write [a story][epic]{:target="_blank"} that even Neung, after reading it, would look up and say, "Yes. That is the world I want to live in"?
 
 I don't have the answer. And in that humbling silence, the true journey begins.
 
 ---
 
-See also: [*The Vulture and the Witness*](https://sparktsang.github.io/life/2025/10/21/vulture-and-witness.html)
+See also: [*The Vulture and the Witness*][vul]
+
+[walls]: {% post_url 2025-09-22-three-walls %}
+[neung]: {% post_url 2025-09-16-man-from-nowhere %}
+[phi]: https://sparktsang.github.io/philosophy.html
+[epic]: https://sparktsang.github.io/works.html
+[vul]: {% post_url 2025-10-21-vulture-and-witness %}

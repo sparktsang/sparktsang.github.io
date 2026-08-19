@@ -7,7 +7,7 @@ category: "Life"
 image: assets/images/instant_coffee_imagen.jpeg
 ---
 
-It began, as so many things do, with a television. In my [empty hotel in Chumphon]({% post_url 2025-09-23-accountant-holiday %})—a magnificent ghost ship where I was the solitary passenger—I found myself watching Thai TV ads. It was a nostalgic experience, a glimpse into a dying medium from a bygone era. A slickly produced commercial for something called "Super" instant coffee played on a loop, featuring a handsome, doe-eyed celebrity whispering the brand name in an ecstatic moan: *"Supeeeer~"*
+It began, as so many things do, with a television. In my [empty hotel in Chumphon][bday]{:target="_blank"}—a magnificent ghost ship where I was the solitary passenger—I found myself watching Thai TV ads. It was a nostalgic experience, a glimpse into a dying medium from a bygone era. A slickly produced commercial for something called "Super" instant coffee played on a loop, featuring a handsome, doe-eyed celebrity whispering the brand name in an ecstatic moan: *"Supeeeer~"*
 
 The next day, in a local supermarket, I saw it. An entire promotional shelf, a monolith dedicated solely to this "Super" coffee. It was cheaper than the other brands. I picked up a bag, a casual act of consumer curiosity. And in that moment, I discovered something so simple, so obvious, that I was instantly consumed by a profound sense of shame for never having thought of it before.
 
@@ -42,3 +42,5 @@ Why had no one ever spoken of this? Why must a consumer solve hundreds of math p
 And perhaps this is the system's ultimate triumph: to trap us in an illusion of choice, to make us believe we are informed, rational actors, when we are merely grabbing the shiniest box off the shelf. The best value, the highest quality—these things are buried, lost in an ocean of noise. If reason and value were allowed to win too easily, the entire system, which thrives on rewarding marketing over quality, would collapse.
 
 But this thought, this chain of reasoning, was already irrelevant. Because everyone already thinks they know the truth. Or at least, they have a truth of their own. And in a world like that, what is the real truth worth?
+
+[bday]: {% post_url 2025-09-23-accountant-holiday %}
