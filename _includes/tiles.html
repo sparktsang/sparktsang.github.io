@@ -1,7 +1,8 @@
 {% if 'posts' == site.tiles-source %}
     {% assign tiles = site.posts %}
 {% elsif 'pages' == site.tiles-source %}
-    {% assign tiles = site.html_pages | where_exp: "item", "item.show_tile != false and item.category != 'Library'" %}
+    {% assign all_tiles = site.html_pages | where_exp: "item", "item.show_tile != false" %}
+    {% assign tiles = all_tiles | where_exp: "item", "item.category != 'Library'" %}
 {% endif %}
 {% assign tiles = tiles | sort: "weight" %}
 <section id="one" class="tiles">
