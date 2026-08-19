@@ -8,7 +8,7 @@ image: assets/images/exam_river_imagen.png
 date: 2025-09-16 14:00:00
 ---
 
-There's a universal truth to travel: just when you think you've settled into a rhythm, the universe throws a delightful curveball. My final hour with [Neung][neung], my newfound guide and friend in Surat Thani, was a perfect example. We were walking along the Tapi River, our deep conversation about life and politics winding down as the sun set. Suddenly, we were ambushed.
+There's a universal truth to travel: just when you think you've settled into a rhythm, the universe throws a delightful curveball. My final hour with [Neung][neung]{:target="_blank"}, my newfound guide and friend in Surat Thani, was a perfect example. We were walking along the Tapi River, our deep conversation about life and politics winding down as the sun set. Suddenly, we were ambushed.
 
 The ambush party consisted of six teenagers in school uniforms—two boys and four girls. They approached Neung with a nervous energy, chattering away in rapid-fire Thai. Neung’s face lit up; he seemed thrilled to be at the center of this unexpected commotion. He turned to me, his eyes gleaming with the importance of his announcement. "They need an English teacher," he said. "For thirty minutes."
 

@@ -8,7 +8,7 @@ image: assets/images/volunteer_bing.jpeg
 date: 2025-09-18 16:00:00
 ---
 
-After being banished from [the kingdom of the 83-baht-3-night guesthouse]({% post_url 2025-09-18-king-of-castle %}), I found myself back on the dark, rain-slicked streets of Koh Pha Ngan. My next move was a retreat. I booked the second-cheapest dorm on the island, a place called Kiko's Hostel, located halfway back to the ferry terminal I had just spent forty minutes walking from.
+After being banished from [the kingdom of the 83-baht-3-night guesthouse][castle]{:target="_blank"}, I found myself back on the dark, rain-slicked streets of Koh Pha Ngan. My next move was a retreat. I booked the second-cheapest dorm on the island, a place called Kiko's Hostel, located halfway back to the ferry terminal I had just spent forty minutes walking from.
 
 By the time I arrived, night had fallen. The new hostel was much smaller, more intimate. To the right of the entrance was a simple desk that seemed to be the reception. To the left, a man was quietly working on a computer at a long table. In front of the desk, a young Western woman sat cross-legged on a large cushion, typing away on a tablet with a keyboard attached. She looked up as I entered and greeted me with a warm, genuine smile.
 
@@ -38,3 +38,5 @@ Once, in many societies, welcoming a traveler from afar was a duty, an honor. It
 But as I settled into my bunk, I was sure of one thing. The next step in human civilization has to be to move beyond this cold, Hobbesian calculus. Even knowing it was a work-exchange, the kindness this volunteer had shown me felt like a small act of rebellion against that world. In the surplus of her sincerity, in the warmth that spilled over the edges of her "deal," I felt a flicker of hope that perhaps, we can.
 
 If kindness can survive even within a transaction, perhaps it’s not the world that needs more deals, but a world that knows when to stop counting.
+
+[castle]: {% post_url 2025-09-18-king-of-castle %}
