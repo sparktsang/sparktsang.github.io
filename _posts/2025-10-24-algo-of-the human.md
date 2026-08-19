@@ -33,7 +33,7 @@ And then he asked the ultimate question: "So what's your conclusion?"
 
 The question was a beautiful, terrifying thing. He was asking for the answer, the grand theory. But to deliver a conclusion without the journey, without the evidence, without the painstaking construction of the argument—would it have any meaning? Our conversation had leaped over a dozen necessary steps.
 
-I hesitated, searching for the right words, for a path to lead him through the labyrinth of my thoughts. I was about to show him the [entire architecture of my revolution](https://sparktsang.github.io/philosophy.html).
+I hesitated, searching for the right words, for a path to lead him through the labyrinth of my thoughts. I was about to show him the [entire architecture of my revolution][phi]{:target="_blank"}.
 
 But the universe, it seemed, had other plans.
 
@@ -121,11 +121,11 @@ Zak had mentioned his crypto trading, but he never knew, and never asked, about 
 
 The shock was profound. Judged by the same standard, I too was just a man exploiting the system's loopholes for free money. My exploit wasn't a fragile app; it was a robust, systematic, and meticulously planned extraction of profit from the irrational price swings born of market investors' psychological volatility—their fear and their euphoria. I took assets from the pessimistic and downtrodden at their lowest, and sold them to the optimistic at their peak. At the very least, my new friend was only collecting points that others had intended to throw away. No one was harmed. What I did was to systematically exploit the emotional vulnerabilities of others for profit.
 
-And what of his self-narrative? At most, he borrows a sliver of a few people's attention to preach his gospel. And me? I take the stories of others—[Brian](https://sparktsang.github.io/life/2025/10/12/shrimp-gospel.html), [Ade](https://sparktsang.github.io/life/2025/10/15/psychedelic.html), [Su](https://sparktsang.github.io/life/2025/10/19/small-tyranny.html), [Film](https://sparktsang.github.io/life/2025/10/21/vulture-and-witness.html), and now Zak—without their knowledge, and secretly run them through my own systematic thought engine, translating their pain and struggles into what I hope is valuable literary work, an accumulation of the strategic cultural capital I need for my revolution. Once again, the difference was not one of degree, but of dimension.
+And what of his self-narrative? At most, he borrows a sliver of a few people's attention to preach his gospel. And me? I take the stories of others—[Brian][brian]{:target="_blank"}, [Ade][psy]{:target="_blank"}, [Su][tyr]{:target="_blank"}, [Film][vul]{:target="_blank"}, and now Zak—without their knowledge, and secretly run them through my own systematic thought engine, translating their pain and struggles into what I hope is valuable literary work, an accumulation of the strategic cultural capital I need for my revolution. Once again, the difference was not one of degree, but of dimension.
 
 *Did you betray the trust of anyone?* The voice interrogated me again.
 
-Yes. Every single person I had written about in this guesthouse had been, in some way, betrayed. I knew in my heart that what I had written could not be shown to them. Even the sole exception, [Tshepo](https://sparktsang.github.io/life/2025/10/17/body-and-system.html), had agreed to let me write his story under the most vulnerable of circumstances, a consent that was, at best, questionably free.
+Yes. Every single person I had written about in this guesthouse had been, in some way, betrayed. I knew in my heart that what I had written could not be shown to them. Even the sole exception, [Tshepo][tsh]{:target="_blank"}, had agreed to let me write his story under the most vulnerable of circumstances, a consent that was, at best, questionably free.
 
 I had called Zak a bandit of attention. He had 27,000 followers on Instagram. But my own plans? The moment my creative fever subsided, I would launch my own "traffic war", a systematic and carefully planned strategy to hijack the world's attention. If he was a robber, then the massacre I was plotting was on a different scale entirely.
 
@@ -157,3 +157,10 @@ The thought engine, which had been burning at a furious, white-hot intensity all
 I had come on this journey to deconstruct the world. I had not expected that the final thing to be deconstructed would be myself.
 
 The revolutionary was left alone in the dark, wrestling with the terrifying possibility that the greatest system he had yet to hack was his own.
+
+[phi]: https://sparktsang.github.io/philosophy.html
+[brian]: {% post_url 2025-10-12-shrimp-gospel %}
+[psy]: {% post_url 2025-10-15-psychedelic %}
+[tyr]: {% post_url 2025-10-19-small-tyranny %}
+[vul]: {% post_url 2025-10-21-vulture-and-witness %}
+[tsh]: {% post_url 2025-10-17-body-and-system %}

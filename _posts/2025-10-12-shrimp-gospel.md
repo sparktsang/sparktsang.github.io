@@ -29,11 +29,11 @@ And he, in turn, had become its unwitting brand ambassador. He was showing the v
 
 The experience was a virus. He had likely been infected by a similar post, and now, he had become a vector, ready to infect others.
 
-After my "nice", I offered a counternarrative. "I could never pay that," I said. "Every time I think of spending that much, I remember [a 65-baht meal](https://sparktsang.github.io/life/2025/09/23/accountant-holiday.html) I had that was pure culinary bliss. This 800-baht experience couldn't possibly compare, so the spending feels unjustified."
+After my "nice", I offered a counternarrative. "I could never pay that," I said. "Every time I think of spending that much, I remember [a 65-baht meal][bday]{:target="_blank"} I had that was pure culinary bliss. This 800-baht experience couldn't possibly compare, so the spending feels unjustified."
 
 He looked at me, a little coolly. "You always compare," he said. His tone wasn’t hostile, just tired—like a man defending the right not to think.
 
-The words stung. *Shouldn't I?* I thought. Isn't comparison the very foundation of reflection, of a [life examined](https://sparktsang.github.io/life/2025/10/11/socratic-backpacker.html)? If we don't compare, how do we know if a system is worth participating in? More than that, it felt like a matter of justice. If a small vendor provides a sublime experience for 65 baht, and another provides a mediocre one for 800, doesn't the small vendor deserve my money more? By not comparing, we reward the marketer, not the craftsman.
+The words stung. *Shouldn't I?* I thought. Isn't comparison the very foundation of reflection, of a [life examined][soc]{:target="_blank"}? If we don't compare, how do we know if a system is worth participating in? More than that, it felt like a matter of justice. If a small vendor provides a sublime experience for 65 baht, and another provides a mediocre one for 800, doesn't the small vendor deserve my money more? By not comparing, we reward the marketer, not the craftsman.
 
 Of course, I said none of this. It was too much for a casual dorm room chat. I just mentioned that it felt unfair.
 
@@ -43,4 +43,8 @@ The conversation died. I was left with the sting of his words. *You always compa
 
 And so the system self-replicates, auto-generates, and endlessly reinforces itself. Truth, fairness, quality, dignity—they become secondary, perhaps even irrelevant.
 
-Just like this essay, I thought. It will never go viral. It has no beautiful images to share. It will stand, instead, in some quiet, [eternal archive](https://sparktsang.github.io/life.html), a silent witness to the world as it is. And maybe that's why I still write—to leave behind proofs that someone, somewhere, still compared.
+Just like this essay, I thought. It will never go viral. It has no beautiful images to share. It will stand, instead, in some quiet, [eternal archive][life]{:target="_blank"}, a silent witness to the world as it is. And maybe that's why I still write—to leave behind proofs that someone, somewhere, still compared.
+
+[bday]: {% post_url 2025-09-23-accountant-holiday %}
+[soc]: {% post_url 2025-10-11-socratic-backpacker %}
+[life]: https://sparktsang.github.io/life.html

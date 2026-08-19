@@ -7,13 +7,13 @@ category: "Life"
 image: assets/images/small_tyranny_coffee_bing.jpg
 ---
 
-I wake up. A deep, twelve-hour slumber, a necessary system reboot after the immense mental exertion of the past two days. Last night, I finally finished it—the agonizingly heartfelt story of [Tshepo](https://sparktsang.github.io/life/2025/10/17/body-and-system.html)—and published it to my website, a digital island still awaiting its first visitor. The sleep was good, a deep dive aided by exhaustion and new earplugs. I only remember waking once. The sun is streaming into the dorm. Today, I think, today belongs to me. Today is for the beach, for the simple, uncomplicated pleasure of the view.
+I wake up. A deep, twelve-hour slumber, a necessary system reboot after the immense mental exertion of the past two days. Last night, I finally finished it—the agonizingly heartfelt story of [Tshepo][tsh]{:target="_blank"}—and published it to my website, a digital island still awaiting its first visitor. The sleep was good, a deep dive aided by exhaustion and new earplugs. I only remember waking once. The sun is streaming into the dorm. Today, I think, today belongs to me. Today is for the beach, for the simple, uncomplicated pleasure of the view.
 
 But the world begins its small intrusions. The light above the sink in my dorm’s bathroom is too dim to shave properly. I drape a towel around my neck and head out into the common area, towards the brighter lights of the public restroom.
 
-First, a ritual. The water. I walk to the bar, where the electric kettle, my hard-won prize from [earlier battles](https://sparktsang.github.io/life/2025/10/12/utopia-of-unruly.html), now sits in its designated spot, at least during the daytime. I fill it from the water dispenser four or five meters away—a short but tedious commute, a back-and-forth journey for a simple cup of coffee. I set it to boil. By the time I’m done washing up, the water will be ready. No more waiting.
+First, a ritual. The water. I walk to the bar, where the electric kettle, my hard-won prize from [earlier battles][uto]{:target="_blank"}, now sits in its designated spot, at least during the daytime. I fill it from the water dispenser four or five meters away—a short but tedious commute, a back-and-forth journey for a simple cup of coffee. I set it to boil. By the time I’m done washing up, the water will be ready. No more waiting.
 
-Carrying the kettle, I pass Su, one of the managers. She's busy, and perhaps seeing me with a towel around my neck, she doesn't engage. I used to think she was the owner. I’ve since learned the real boss is called [Film](https://sparktsang.github.io/life/2025/10/21/vulture-and-witness.html), a striking figure with a deep voice and feminine makeup, whom I’d met on my first scouting visit. Film had been away working at a guesthouse in Koh Pha Ngan when I checked in, and Su had come over from another hostel to fill in. Now Film is back, but Su remains. She wants a review. Not for the hostel, I've realized, but for herself. Yesterday, she saw me at the reception, noting my extended stay. She'd smiled and reminded me about the review. "When I check out," I’d smiled back. That’s when she mentioned her name, "Su," pointing at herself, her meaning unmistakable: *mention me*. I understood perfectly.
+Carrying the kettle, I pass Su, one of the managers. She's busy, and perhaps seeing me with a towel around my neck, she doesn't engage. I used to think she was the owner. I’ve since learned the real boss is called [Film][vul]{:target="_blank"}, a striking figure with a deep voice and feminine makeup, whom I’d met on my first scouting visit. Film had been away working at a guesthouse in Koh Pha Ngan when I checked in, and Su had come over from another hostel to fill in. Now Film is back, but Su remains. She wants a review. Not for the hostel, I've realized, but for herself. Yesterday, she saw me at the reception, noting my extended stay. She'd smiled and reminded me about the review. "When I check out," I’d smiled back. That’s when she mentioned her name, "Su," pointing at herself, her meaning unmistakable: *mention me*. I understood perfectly.
 
 I place the kettle on the counter to boil and head to the restroom. When I emerge and walk back to my dorm to change, I feel a few drops of rain on my skin. The two-or-three-meter open-air gap between the common area and the dorm rooms has become a curtain of fine mist. I get dressed and come back out, my mind set on that first cup of coffee.
 
@@ -47,7 +47,7 @@ I see him out of the corner of my eye. Tshepo. He’s walking back to the dorm, 
 
 The hunger grows stronger, a dull ache in my stomach. And with it, a sudden, brutal realization. Tshepo. In all my spiraling thoughts about the awkwardness between us, I haven’t once wondered: has he eaten today?
 
-I take a deep breath, the air thick with my own hypocrisy. I, a man who fantasizes about a [new system of global governance](https://sparktsang.github.io/philosophy.html) built on collective reason, can’t even manage the chaotic mess of my own thoughts. I, a man so fragile that a change in the weather can derail my entire day, so paralyzed by a few insignificant anxieties that I cannot even move to feed myself.
+I take a deep breath, the air thick with my own hypocrisy. I, a man who fantasizes about a [new system of global governance][phi]{:target="_blank"} built on collective reason, can’t even manage the chaotic mess of my own thoughts. I, a man so fragile that a change in the weather can derail my entire day, so paralyzed by a few insignificant anxieties that I cannot even move to feed myself.
 
 And in that moment of self-reproach, the weight of his reality crushes the flimsy architecture of my own self-pity.
 
@@ -57,3 +57,8 @@ Are other modern people like this? I scour the annals of human literature in my 
 I have spent my entire life searching for freedom. And in many ways, I have succeeded. Financial freedom, geographical freedom, temporal freedom, physical freedom. But is my mind free? Or is the ghost of modernity, this relentless spectre of obligation and anxiety, still shadowing my every move? It is this ghost that dictates, in this very moment, that I must navigate the impending awkwardness with Tshepo, that I must bear the weight of repaying the favour of a hot water kettle, that I am bound by the "duty" to polish this endlessly tarnishing silver chain.
 
 How can a man so fragile, so imprisoned by the petty tyrannies of his own thoughts, ever hope to free himself, let alone help free anyone else?
+
+[tsh]: {% post_url 2025-10-17-body-and-system %}
+[uto]: {% post_url 2025-10-12-utopia-of-unruly %}
+[vul]: {% post_url 2025-10-21-vulture-and-witness %}
+[phi]: https://sparktsang.github.io/philosophy.html

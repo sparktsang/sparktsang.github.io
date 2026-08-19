@@ -7,13 +7,13 @@ category: "Life"
 image: assets/images/two_deities_imagen.jpeg
 ---
 
-Prequel — [*The Sunlit Cage: On the Tyranny of the Inner Voice*](https://sparktsang.github.io/life/2025/10/16/tyranny-of-inner-voice.html)
+Prequel — [*The Sunlit Cage: On the Tyranny of the Inner Voice*][inner]{:target="_blank"}
 
 ---
 
 After our second conversation, the one about the alkaline gospel and the parasites of the mind, I knew I had to go deeper. "We need to talk more about your philosophy," I had told Ade, "I'm fascinated." He had smiled, a genuine, open smile, and readily agreed.
 
-But for three days, the universe conspired against us. He was resting, or he was out. I was consumed by the final, agonizing stages of writing [Tshepo's story](https://sparktsang.github.io/life/2025/10/17/body-and-system.html). Our appointment with the cosmos was postponed.
+But for three days, the universe conspired against us. He was resting, or he was out. I was consumed by the final, agonizing stages of writing [Tshepo's story][tsh]{:target="_blank"}. Our appointment with the cosmos was postponed.
 
 The thought of our last exchange lingered, a low-frequency hum of unease in my mind. It wasn't just his talk of psychedelics. It was his cosmic philosophy. He had spoken of "alphas" who rule the world, an indisputable law of nature, he'd said, a cosmic food chain. He'd even cited Genghis Khan—or rather, Kublai Khan, a historical detail lost on him—whose twice-failed invasion of Japan was not due to typhoons, but to the intervention of a more powerful alpha, a lone, unknown figure in one of Japan's thousands of temples who had bent the laws of nature to his will.
 
@@ -37,7 +37,7 @@ I wanted to understand his cosmos, to map the architecture of his belief. I don'
 
 "You're right," I added, feeling the familiar thrill of intellectual alignment. "The discourse *is* the institution. The narrative is the system that rules the world." For a moment, we were on the same page, two analysts deconstructing the machinery of power. He cited Russia's invasion of Ukraine, Israel's claims to its land—all driven by national narratives. America's hegemony, he added, wasn't due to its superior narrative, but because it had "cut off everyone else's legs."
 
-I wanted to build on this common ground, to move from the political to the philosophical. "There's a writer you should read," I said. "Harari." He, the diligent student of the cosmos, immediately took out his phone to note it down. I gave him the briefest summary of Harari's thesis: that [all of human history is a story of fictions](https://sparktsang.github.io/knowledge/2025/11/19/reading-homo-deus.html)—religion, nations, money—grand narratives created to enable mass cooperation. From the age of myth, where power resided with the gods, to the age of humanism, where power shifted to man, spawning different versions of itself: communism, liberal democracy, Nazism.
+I wanted to build on this common ground, to move from the political to the philosophical. "There's a writer you should read," I said. "Harari." He, the diligent student of the cosmos, immediately took out his phone to note it down. I gave him the briefest summary of Harari's thesis: that [all of human history is a story of fictions][deus]{:target="_blank"}—religion, nations, money—grand narratives created to enable mass cooperation. From the age of myth, where power resided with the gods, to the age of humanism, where power shifted to man, spawning different versions of itself: communism, liberal democracy, Nazism.
 
 "But Harari is worried," I continued, "that humanism is now fading. He predicts the next grand narrative will be 'Dataism.' The new locus of value won't be humanity, but information. We, as individuals, will be reduced to mere data points in a vast information-processing system."
 
@@ -150,7 +150,7 @@ The shock was visceral, far beyond a simple chill. But as the initial wave of te
 
 In the face of his self-made divinity, my entire intellectual framework, my revolution of reason, had been utterly crushed. And the greatest irony? At times during our debate, his passion for "reason" had seemed to burn even brighter than my own. This is what left me with the deepest sense of loss. I understood that our conversation was not just a dialogue between two travelers. It was a miniature, prophetic preview of an epic civilizational paradigm war yet to come.
 
-[My framework, my dream of a world governed by reasoned, collective debate](https://sparktsang.github.io/philosophy.html), would not be defeated by force. It would be *appropriated*. It would be consumed by a new kind of power—one that passionately champions the language of reason, only to place itself forever outside of reason's reach. They will not argue against your framework; they will offer a grander narrative, a more potent virus, that explains why your framework, while "cute," is ultimately irrelevant in the face of their higher truth. And they will do so while calling themselves the true rationalists. Ade was not an anomaly. He was the prototype.
+[My framework, my dream of a world governed by reasoned, collective debate][phi]{:target="_blank"}, would not be defeated by force. It would be *appropriated*. It would be consumed by a new kind of power—one that passionately champions the language of reason, only to place itself forever outside of reason's reach. They will not argue against your framework; they will offer a grander narrative, a more potent virus, that explains why your framework, while "cute," is ultimately irrelevant in the face of their higher truth. And they will do so while calling themselves the true rationalists. Ade was not an anomaly. He was the prototype.
 
 And perhaps this is the greatest irony of our age. I had just witnessed a preview of the coming war: a war not against ignorance, but against a new kind of knowledge.
 
@@ -159,3 +159,8 @@ A war where reason itself would be used as the most effective weapon against rea
 ---
 
 This essay is the last of a three-part series.
+
+[inner]: {% post_url 2025-10-16-cage %}
+[tsh]: {% post_url 2025-10-17-body-and-system %}
+[deus]: {% post_url 2025-11-19-reading-homo-deus %}
+[phi]: https://sparktsang.github.io/philosophy.html

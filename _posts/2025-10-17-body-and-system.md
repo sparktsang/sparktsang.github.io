@@ -166,7 +166,7 @@ And finally, all the strange pieces of the puzzle I had been collecting for nine
 He was no longer just broke. He was trapped. His body, once his greatest asset, was now his greatest liability—a vessel that required feeding, a stationary target in a world that had left him with nowhere else to go.
 
 
-His story ran as a silent, searing parallel to my own. I, too, knew the sting of exclusion, the cold shoulder of the inner circle, the arbitrary judgment of gatekeepers. I knew what it felt like to have your fate decided in a black box, without reason or appeal. It was that very experience that had driven me to abandon the world of employment, to burn my ships and seek a true, sovereign freedom. I had, by some miracle of luck and relentless effort, succeeded. He had not. We were mirror images, fractured by the cruel lottery of circumstance. I had hacked the system from the inside to [buy my freedom](https://sparktsang.github.io/life/2025/10/27/benefactor.html). He had been thrown out of the system, his freedom taken from him.
+His story ran as a silent, searing parallel to my own. I, too, knew the sting of exclusion, the cold shoulder of the inner circle, the arbitrary judgment of gatekeepers. I knew what it felt like to have your fate decided in a black box, without reason or appeal. It was that very experience that had driven me to abandon the world of employment, to burn my ships and seek a true, sovereign freedom. I had, by some miracle of luck and relentless effort, succeeded. He had not. We were mirror images, fractured by the cruel lottery of circumstance. I had hacked the system from the inside to [buy my freedom][benefact]{:target="_blank"}. He had been thrown out of the system, his freedom taken from him.
 
 The Exploiter in my head, a voice I thought I had vanquished, made one last, seductive appearance. *"One hundred baht for his story,"* he whispered. *"It's a perfect transaction. We get the material, he gets another meal. A win-win."*
 
@@ -174,7 +174,7 @@ I recoiled in disgust, but the thought lingered, ugly and persistent.
 
 I had to do something. But in the chasm of power between us, even the act of helping was a minefield. "I have some ideas," I began, carefully, "I'm not sure if they can help, but maybe we can brainstorm together? If you want to hear them?" I was trying to frame my advice not as charity, but as a collaboration between equals, a desperate attempt to preserve his dignity.
 
-He agreed, this time with a flicker of genuine interest. I asked him how he applied for jobs now. He said he had a collection of files on a Google Drive. "A professional portfolio website," I suggested, "could be ten times more powerful than a folder of files." He agreed completely. I then showed him [my own site](https://sparktsang.github.io/), guiding him through the process of building one for free, how AI could write the code and generate the images.
+He agreed, this time with a flicker of genuine interest. I asked him how he applied for jobs now. He said he had a collection of files on a Google Drive. "A professional portfolio website," I suggested, "could be ten times more powerful than a folder of files." He agreed completely. I then showed him [my own site][site]{:target="_blank"}, guiding him through the process of building one for free, how AI could write the code and generate the images.
 
 I tried to think of what else I could offer. And I came up empty. My vast arsenal of knowledge, my hard-won freedom, and all I could offer a man on the brink was... a website. A digital business card. The feeling of inadequacy was immense. Was this truly the best I could do? Was knowledge, in the face of such raw, immediate need, even useful?
 
@@ -196,4 +196,8 @@ To this day, I still don't know the answer. And maybe that’s the answer—that
 
 ---
 
-See also: [*The Vulture and the Witness*](https://sparktsang.github.io/life/2025/10/21/vulture-and-witness.html)
+See also: [*The Vulture and the Witness*][vul]{:target="_blank"}
+
+[benefact]: {% post_url 2025-10-27-benefactor %}
+[site]: {{ "" | absolute_url }}
+[vul]: {% post_url 2025-10-21-vulture-and-witness %}

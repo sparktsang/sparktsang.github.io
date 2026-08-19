@@ -49,4 +49,6 @@ It is a miracle of humanity. And once you know it exists, you realize it can exi
 
 ---
 
-See also: [*The Tyranny of Small Things*](https://sparktsang.github.io/life/2025/10/19/small-tyranny.html)
+See also: [*The Tyranny of Small Things*][tyr]
+
+[tyr]: {% post_url 2025-10-19-small-tyranny %}

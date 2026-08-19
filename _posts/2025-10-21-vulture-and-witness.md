@@ -9,7 +9,7 @@ image: assets/images/vulture_meat_imagen.jpeg
 
 In the ecosystem of a long-term hostel stay, you learn to read the micro-climates. And the climate around Film, the guesthouse manager, had changed.
 
-Film was a rare and wonderful presence. I had met him on my first scouting visit to this place, Slumber Party Hostel Krabi, and he had shown me around with a professional but warm energy. He was away in Koh Pha Ngan when I checked in, but when he returned, he remembered me. From then on, our interactions, though always brief, were filled with a genuine warmth and an easy smile. He was the kind of person who made a place feel like a home. When I once mentioned the [surly attitude of his bar staff](https://sparktsang.github.io/life/2025/10/12/utopia-of-unruly.html), he promised to speak to them, telling them I was a long-term guest who deserved respect. Another time, he had excitedly shared his plans for the upcoming high season, his eyes gleaming as he spoke of parties and renovations, his passion so infectious that even I, a traveler who actively avoids parties, felt a flicker of his joy.
+Film was a rare and wonderful presence. I had met him on my first scouting visit to this place, Slumber Party Hostel Krabi, and he had shown me around with a professional but warm energy. He was away in Koh Pha Ngan when I checked in, but when he returned, he remembered me. From then on, our interactions, though always brief, were filled with a genuine warmth and an easy smile. He was the kind of person who made a place feel like a home. When I once mentioned the [surly attitude of his bar staff][uto]{:target="_blank"}, he promised to speak to them, telling them I was a long-term guest who deserved respect. Another time, he had excitedly shared his plans for the upcoming high season, his eyes gleaming as he spoke of parties and renovations, his passion so infectious that even I, a traveler who actively avoids parties, felt a flicker of his joy.
 
 But for the last few days, that warmth had vanished. A subtle chill had set in.
 
@@ -42,7 +42,7 @@ As I approached, he quickly looked down, pretending to be intensely busy with so
 
 A siren went off in my head, a full-blown emotional alert. *He heard everything.* My privacy, Tshepo's privacy—gone. But a second voice, the Writer, instantly took control. *Stop. Shut down all irrelevant thoughts. Focus. You have a mountain of fresh material. Every second you waste on anxiety, a memory decays. The decay is exponential. We are in a race against time.*
 
-And so, I had pushed the thought away, locked it in a box, and spent the next two days writing [Tshepo's story](https://sparktsang.github.io/life/2025/10/17/body-and-system.html).
+And so, I had pushed the thought away, locked it in a box, and spent the next two days writing [Tshepo's story][tsh]{:target="_blank"}.
 
 But now, sitting here in the chill of Film's new formality, the box bursts open. The memory of that moment plays on a loop. It has to be the reason. It's the only explanation that fits.
 
@@ -88,11 +88,11 @@ And I, the relentless interrogator of systems and souls, had no words left. I wa
 
 I was falling, trapped in the gravitational pull of his narrative, a story in which I was the villain. And the most terrifying part? I had no defence.
 
-My mind scrambled to formulate a rebuttal. I wanted to grab Film, to sit him down and make him understand. I wanted to walk him through the moral war that had raged in my head before I even bought that damn noodle cup—the Skeptic, the Pragmatist, the monstrous Exploiter, and the final, quiet victory of the Empath. I wanted to show him the agonizing labour of the past two days, the spiritual and mental torment of trying to do justice to Tshepo's story. I wanted to make him feel the weight of [my own self-doubt, the awkwardness](https://sparktsang.github.io/life/2025/10/19/small-tyranny.html) that now haunted my every interaction. I wanted to present my evidence, to make my case.
+My mind scrambled to formulate a rebuttal. I wanted to grab Film, to sit him down and make him understand. I wanted to walk him through the moral war that had raged in my head before I even bought that damn noodle cup—the Skeptic, the Pragmatist, the monstrous Exploiter, and the final, quiet victory of the Empath. I wanted to show him the agonizing labour of the past two days, the spiritual and mental torment of trying to do justice to Tshepo's story. I wanted to make him feel the weight of [my own self-doubt, the awkwardness][tyr]{:target="_blank"} that now haunted my every interaction. I wanted to present my evidence, to make my case.
 
 But I couldn't. I had been banished. Not from the hostel, but from the realm of his trust. There was no court in which I could file my appeal, no chamber in which I could present my testimony. His judgment was final, rendered in a black box I had no access to. My voice, my reasons, my entire world of intentions—they were irrelevant.
 
-And in that moment of profound powerlessness, I understood the true nature of [human connection](https://sparktsang.github.io/life/2025/10/13/letter-autopsy.html), or the lack thereof. We are a species of black boxes, of isolated islands of consciousness. We each operate our own sovereign legal system, with its own laws, its own trials, its own final verdicts. We believe our own narratives to be just, our own reasons to be true. There is no extradition treaty between our minds, no right to cross-examination, no obligation to explain. There are only eight billion solitary courtrooms, each handing down its own unappealable judgments.
+And in that moment of profound powerlessness, I understood the true nature of [human connection][letter]{:target="_blank"}, or the lack thereof. We are a species of black boxes, of isolated islands of consciousness. We each operate our own sovereign legal system, with its own laws, its own trials, its own final verdicts. We believe our own narratives to be just, our own reasons to be true. There is no extradition treaty between our minds, no right to cross-examination, no obligation to explain. There are only eight billion solitary courtrooms, each handing down its own unappealable judgments.
 
 And I, just like Tshepo, was now on the outside of a wall I couldn't see, unable to even file a complaint.
 
@@ -101,3 +101,8 @@ The initial sting of Film's silent verdict began to fade, replaced by a deeper, 
 I had given Tshepo a voice in my story, but in the process, had I stolen his personhood in real life?
 
 This is the writer's curse: to see the world in stories, and in doing so, risk turning the people you care about into ghosts that haunt your pages. I wanted to tell the truth. But what if the very act of telling it, of framing it, of turning a soul into a narrative, was the most profound lie of all?
+
+[uto]: {% post_url 2025-10-12-utopia-of-unruly %}
+[tsh]: {% post_url 2025-10-17-body-and-system %}
+[tyr]: {% post_url 2025-10-19-small-tyranny %}
+[letter]: {% post_url 2025-10-13-letter-autopsy %}

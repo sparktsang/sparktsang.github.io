@@ -23,14 +23,14 @@ I sensed the word "journey" held a deeper meaning for him. "What's the ultimate 
 
 "Some meditation," he said. "And some Socratic interrogation."
 
-[*Another Socratic dialogue.*](https://sparktsang.github.io/life/2025/10/11/socratic-backpacker.html) A jolt of excitement ran through me. Another truth-seeker, another soul unafraid of questions. By invoking that name, he had given me an express pass into the depths of his mind. No question now would be too abrupt.
+[*Another Socratic dialogue.*][soc]{:target="_blank"} A jolt of excitement ran through me. Another truth-seeker, another soul unafraid of questions. By invoking that name, he had given me an express pass into the depths of his mind. No question now would be too abrupt.
 
 And so I asked. And he answered, unveiling concept after concept I had never heard before. I, the relentless questioner, became an ignorant student, willingly absorbing the wisdom of a giant. As he spoke, the question marks above my head multiplied.
 
 
 He spoke of his enlightenment, a process that had revealed his true place in the universe, a revelation so powerful it had forced him to do one thing: "unlearn everything".
 
-The phrase hit me like a jolt of recognition. *Unlearn everything.* A cultural studies professor of mine used to say the [same thing](https://sparktsang.github.io/life/2025/10/25/forging-mind.html). For him, it was a call to deconstruct the systems we inhabit, to dismantle the very education that shapes us. Was Ade a fellow revolutionary? Had I, by some cosmic coincidence, stumbled upon a kindred spirit in this sleepy Thai town, another soul dedicated to dismantling the architecture of our world? Eagerly, I waited for him to unveil this grand mission.
+The phrase hit me like a jolt of recognition. *Unlearn everything.* A cultural studies professor of mine used to say the [same thing][forging]{:target="_blank"}. For him, it was a call to deconstruct the systems we inhabit, to dismantle the very education that shapes us. Was Ade a fellow revolutionary? Had I, by some cosmic coincidence, stumbled upon a kindred spirit in this sleepy Thai town, another soul dedicated to dismantling the architecture of our world? Eagerly, I waited for him to unveil this grand mission.
 
 And then he spoke of his bloodline. He was not, he explained, an isolated being, but a single, vital link in a vast "physical lineage", stretching back through the mists of time, generation by generation. He had discovered the grand mission of his entire bloodline. He even mentioned there is another "spiritual lineage", equally significant. 
 
@@ -78,7 +78,7 @@ Still reeling from the revelation, I was pulled forward by the gravitational for
 
 "How?"
 
-He explained that his ultimate goal was to grow his own psychedelics, to control every stage of production from spore to consumption, to achieve the optimal state for consciousness expansion. This, he acknowledged, required a financial foundation. He mentioned, with a sincere, envy-free admiration, my own [financial engine](https://sparktsang.github.io/life/2025/10/27/benefactor.html), something he was now working to build for himself.
+He explained that his ultimate goal was to grow his own psychedelics, to control every stage of production from spore to consumption, to achieve the optimal state for consciousness expansion. This, he acknowledged, required a financial foundation. He mentioned, with a sincere, envy-free admiration, my own [financial engine][benefact]{:target="_blank"}, something he was now working to build for himself.
 
 "And how does expanding your consciousness," I asked, trying to connect the dots, "relate to the mission of your bloodline?"
 
@@ -90,7 +90,7 @@ The world, he explained, consists of many realms. He needed to enter his lineage
 
 "A gatekeeper?" I offered.
 
-"Exactly," he said, completely unaware of the loaded meaning that word held in my own [revolutionary philosophy](https://sparktsang.github.io/philosophy.html). "A *proper* gatekeeper." Expanding his consciousness, it turned out, was the key to earning his entry visa.
+"Exactly," he said, completely unaware of the loaded meaning that word held in my own [revolutionary philosophy][phi]{:target="_blank"}. "A *proper* gatekeeper." Expanding his consciousness, it turned out, was the key to earning his entry visa.
 
 He then looped back to the concept of dreams. Dreaming, he explained, is also a journey to a realm, just a low-level one that everyone can access. The realms are hierarchical, differentiated by dimensions. The dreamspace is the fourth dimension. There is a fifth, a sixth, and so on. Only by expanding one's consciousness can one ascend to these higher dimensions and achieve true alignment.
 
@@ -177,4 +177,10 @@ Perhaps the world no longer needs to oppress anyone. It only needs to persuade u
 
 ---
   
-Sequel — [*The Sunlit Cage: On the Tyranny of the Inner Voice*](https://sparktsang.github.io/life/2025/10/16/tyranny-of-inner-voice.html)
+Sequel — [*The Sunlit Cage: On the Tyranny of the Inner Voice*][inner]
+
+[soc]: {% post_url 2025-10-11-socratic-backpacker %}
+[forging]: {% post_url 2025-10-25-forging-mind %}
+[benefact]: {% post_url 2025-10-27-benefactor %}
+[phi]: https://sparktsang.github.io/philosophy.html
+[inner]: {% post_url 2025-10-16-cage %}
