@@ -7,7 +7,7 @@ category: "Life"
 image: assets/images/benefactor_bing.jpg
 ---
 
-Prequel — [*The Epistemic Island: A Language with No Other Speaker*](https://sparktsang.github.io/life/2025/10/26/preach.html)
+Prequel — [*The Epistemic Island: A Language with No Other Speaker*][preach]
 
 ---
 
@@ -18,7 +18,7 @@ He appeared not in a temple or a university, but in the most unlikely of places:
 
 I met the first, and to this day, the last, benefactor of my life.
 
-He seemed to see right through me—not just the persona of the traveller, but the structure beneath my alienation. He understood my relentless quest for independence and intellectual autonomy. He asked profound, probing questions about my past, and for some reason I still don't fully understand, I opened up to this stranger in a way I never had before. It was not trust. It was recognition—rare, disarming, and impossible to resist. I spoke of [my teenage existential crisis](https://sparktsang.github.io/life/2025/10/25/childhood.html), the conflicts with my father, [my search for meaning in philosophy](https://sparktsang.github.io/life/2025/10/25/forging-mind.html)—even [my failed attempt at a "co-living revolution"](https://sparktsang.github.io/life/2025/10/25/gap.html).
+He seemed to see right through me—not just the persona of the traveller, but the structure beneath my alienation. He understood my relentless quest for independence and intellectual autonomy. He asked profound, probing questions about my past, and for some reason I still don't fully understand, I opened up to this stranger in a way I never had before. It was not trust. It was recognition—rare, disarming, and impossible to resist. I spoke of [my teenage existential crisis][childhood]{:target="_blank"}, the conflicts with my father, [my search for meaning in philosophy][forging]{:target="_blank"}—even [my failed attempt at a "co-living revolution"][gap]{:target="_blank"}.
 
 In return, he spoke of his world, a world of billion-dollar acquisitions and the absolute power of credibility. Then, as I had expected, he turned his sharp, analytical gaze onto my system. He didn't just ask what it did; he asked how it was built. He asked about my algorithm, my value projections, my buy-and-sell thresholds, the first principles behind my "value-purity" index. 
 
@@ -191,3 +191,8 @@ So the bridge remained on my side of the window—unstepped, suspended. A design
 ---
 
 Sequel — *To be continuted*
+
+[preach]: {% post_url 2025-10-26-preach %}
+[childhood]: {% post_url 2025-10-25-childhood %}
+[forging]: {% post_url 2025-10-25-forging-mind %}
+[gap]: {% post_url 2025-10-25-gap %}

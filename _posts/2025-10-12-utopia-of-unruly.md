@@ -49,6 +49,6 @@ It is a miracle of humanity. And once you know it exists, you realize it can exi
 
 ---
 
-See also: [*The Tyranny of Small Things*][tyr]
+See also: [*The Tyranny of Small Things*][tyr]{:target="_blank"}
 
 [tyr]: {% post_url 2025-10-19-small-tyranny %}

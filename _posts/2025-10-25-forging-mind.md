@@ -7,7 +7,7 @@ category: "Life"
 image: assets/images/forging_weapons_l.jpg
 ---
 
-Prequel — [*Portrait of the Artist as a Young Ghost: An Autopsy of a Childhood*](https://sparktsang.github.io/life/2025/10/25/childhood.html)
+Prequel — [*Portrait of the Artist as a Young Ghost: An Autopsy of a Childhood*][childhood]
 
 ---
 
@@ -92,4 +92,7 @@ And I was completely, utterly, unprepared for what came next.
 
 ---
 
-Sequel — [*The Map That Devoured Its Maker*](https://sparktsang.github.io/life/2025/10/25/gap.html)
+Sequel — [*The Map That Devoured Its Maker*][gap]
+
+[childhood]: {% post_url 2025-10-25-childhood %}
+[gap]: {% post_url 2025-10-25-gap %}

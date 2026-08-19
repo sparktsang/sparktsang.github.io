@@ -7,7 +7,7 @@ category: "Life"
 image: assets/images/man_in_suit_on_stage_l.jpg
 ---
 
-Prequel — [*The Map That Devoured Its Maker*](https://sparktsang.github.io/life/2025/10/25/gap.html)
+Prequel — [*The Map That Devoured Its Maker*][gap]
 
 ---
 <!--Prologue: The Seduction of Simulated Trust-->
@@ -99,4 +99,7 @@ And I, for a brief, agonizing time, had been one of its most unwilling magicians
 
 ---
 
-Sequel — [*The Search: Portrait of the Lone Architect*](https://sparktsang.github.io/life/2025/10/25/search.html)
+Sequel — [*The Search: Portrait of the Lone Architect*][search]
+
+[gap]: {% post_url 2025-10-25-gap %}
+[search]: {% post_url 2025-10-25-search %}
