@@ -34,20 +34,13 @@ Given the nature of this approach, its conclusions bear the weight of logical ne
 
 ### **Table of Contents**
 
-I. Prolegomena: On First Terms
-
-II. The Logical Architecture of Perennial Profit
-
-III. The Methodology of Perennial Profit
-
-IV. Perennial Profit and the Philosophy of Science
-
-V. Investing as a Science
-
-VI. Causality in Investing
-
-VII. The Science of Value
-
+I. Prolegomena: On First Terms  
+II. The Logical Architecture of Perennial Profit  
+III. The Methodology of Perennial Profit  
+IV. Perennial Profit and the Philosophy of Science  
+V. Investing as a Science  
+VI. Causality in Investing  
+VII. The Science of Value  
 VIII. Conclusion
 
 ---
