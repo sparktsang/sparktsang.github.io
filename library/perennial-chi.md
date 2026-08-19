@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The First Principles of Perennial Profit in Investing"
+title: "投資長勝的普世法則"
 category: "Library"
 permalink: /library/perennial/chi
 language: chi
