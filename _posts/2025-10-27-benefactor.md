@@ -194,5 +194,5 @@ Sequel — *To be continuted*
 
 [preach]: {% post_url 2025-10-26-preach %}
 [childhood]: {% post_url 2025-10-25-childhood %}
-[forging]: {% post_url 2025-10-25-forging-mind %}
+[forging]: {% post_url 2025-10-25-forging %}
 [gap]: {% post_url 2025-10-25-gap %}

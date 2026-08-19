@@ -180,7 +180,7 @@ Perhaps the world no longer needs to oppress anyone. It only needs to persuade u
 Sequel — [*The Sunlit Cage: On the Tyranny of the Inner Voice*][inner]
 
 [soc]: {% post_url 2025-10-11-socratic-backpacker %}
-[forging]: {% post_url 2025-10-25-forging-mind %}
+[forging]: {% post_url 2025-10-25-forging %}
 [benefact]: {% post_url 2025-10-27-benefactor %}
 [phi]: https://sparktsang.github.io/philosophy.html
 [inner]: {% post_url 2025-10-16-cage %}

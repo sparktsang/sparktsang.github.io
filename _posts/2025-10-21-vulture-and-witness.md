@@ -105,4 +105,4 @@ This is the writer's curse: to see the world in stories, and in doing so, risk t
 [uto]: {% post_url 2025-10-12-utopia-of-unruly %}
 [tsh]: {% post_url 2025-10-17-body-and-system %}
 [tyr]: {% post_url 2025-10-19-small-tyranny %}
-[letter]: {% post_url 2025-10-13-letter-autopsy %}
+[letter]: {% post_url 2025-10-13-letter %}
