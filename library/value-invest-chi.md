@@ -8,6 +8,8 @@ language: chi
 
 English translation [here](/library/value-invest){:target="_blank"}. 
 
+---
+
 ### 前言
 
 Graham 葛拉漢與 Todd 陶德 1934 年出版證券分析，開創價值投資領域，1949 年在 the intelligent investor 有進一步論述
