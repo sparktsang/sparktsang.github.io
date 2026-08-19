@@ -78,7 +78,7 @@ Still reeling from the revelation, I was pulled forward by the gravitational for
 
 "How?"
 
-He explained that his ultimate goal was to grow his own psychedelics, to control every stage of production from spore to consumption, to achieve the optimal state for consciousness expansion. This, he acknowledged, required a financial foundation. He mentioned, with a sincere, envy-free admiration, my own [financial engine][benefact]{:target="_blank"}, something he was now working to build for himself.
+He explained that his ultimate goal was to grow his own psychedelics, to control every stage of production from spore to consumption, to achieve the optimal state for consciousness expansion. This, he acknowledged, required a financial foundation. He mentioned, with a sincere, envy-free admiration, my own [financial engine][perennial]{:target="_blank"}, something he was now working to build for himself.
 
 "And how does expanding your consciousness," I asked, trying to connect the dots, "relate to the mission of your bloodline?"
 
@@ -181,6 +181,6 @@ Sequel — [*The Sunlit Cage: On the Tyranny of the Inner Voice*][inner]
 
 [soc]: {% post_url 2025-10-11-socratic-backpacker %}
 [forging]: {% post_url 2025-10-25-forging %}
-[benefact]: {% post_url 2025-10-27-benefactor %}
+[perennial]: /library/perennial
 [phi]: {{ '/philosophy' | relative_url }}
 [inner]: {% post_url 2025-10-16-cage %}

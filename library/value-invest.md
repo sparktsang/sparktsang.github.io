@@ -134,3 +134,10 @@ Original version [here](/library/value-invest/chi){:target="_blank"}.
 *   "Buy what's broken." Seeks out unpopular and out-of-favor stocks.
 
 *Finished reading on March 18, 2020*
+
+---
+
+See also:
+
+* [*The First Principles of Perennial Profit in Investing*](/library/perennial){:target="_blank"}
+* [My investment journey as part of my autobiography]({% post_url 2025-10-25-search %}){:target="_blank"}

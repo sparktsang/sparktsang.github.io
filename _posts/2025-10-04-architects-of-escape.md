@@ -26,7 +26,7 @@ Then, his friends appeared. It turned out we were all sharing the same dorm, tho
 
 His face lit up at our shared language. We spoke of Socrates, of his revolutionary act of questioning everything, of building arguments from a place of acknowledged ignorance. I explained how my own project was Socratic in spirit: [a system where all arguments could be heard][phi]{:target="_blank"}, not to see who was loudest, but to collectively find the best conclusion. He shared his own insights, how he tries not to judge people in the first ten seconds. He was 21, an engineering student on a six-month exchange at a university in Bangkok, using his long weekends to explore Thailand. He spoke of his dream to launch a start-up after graduation, maybe building automated farming robots to fight world hunger. "Millions of people are still starving," he said with a conviction that touched me. "It shouldn't be happening." 
 
-As Arthur and I geeked out, Pierre was chatting with Cyprien. Soon, the conversation turned to my [investment system][benefact]{:target="_blank"}, the very engine of my freedom. All three of them listened as I explained its philosophy, my critique of survivorship bias in fund management, my system’s foundation in causality rather than mere correlation. Pierre, older and more experienced, seemed to grasp the concepts most intuitively, even helping to explain a point to Cyprien. But it was the younger two who were most captivated.
+As Arthur and I geeked out, Pierre was chatting with Cyprien. Soon, the conversation turned to my [investment system][perennial]{:target="_blank"}, the very engine of my freedom. All three of them listened as I explained its philosophy, my critique of survivorship bias in fund management, my system’s foundation in causality rather than mere correlation. Pierre, older and more experienced, seemed to grasp the concepts most intuitively, even helping to explain a point to Cyprien. But it was the younger two who were most captivated.
 
 After my passionate explanation, Pierre looked at me, his gaze steady, and asked a simple, devastating question: "Do you trust this?"
 
@@ -55,4 +55,4 @@ But the more I try, the more I see that we are all carrying our own shattered be
 My revolution is an attempt to rebuild that trust. Not a blind, religious faith, but a belief that we can still reason with each other, that we can weave a better world from the threads of our shared understanding. For a brief moment, on a rainy night in a hostel lobby in Krabi, four disparate souls—a romantic battling oblivion, an idealist battling chaos, an explorer battling apathy, and a revolutionary battling injustice—it felt, for just a moment, like the world could be changed by four people, a few conversations, and a storm.
 
 [phi]: {{ '/philosophy' | relative_url }}
-[benefact]: {% post_url 2025-10-27-benefactor %}
+[perennial]: /library/perennial

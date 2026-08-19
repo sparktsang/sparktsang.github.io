@@ -4,7 +4,7 @@ title: "The First Principles of Perennial Profit in Investing"
 category: "Library"
 ---
 
-This is an English translation of [an article posted on Medium written on 2019](/library/perennial/chi){:target="_blank"}.
+This is an English translation of [an article I wrote on 2019](/library/perennial/chi){:target="_blank"}.
 
 ---
 
@@ -266,3 +266,10 @@ Following this chain of deduction, the path is clear. For any given investment a
 This is the universal principle of perennial profit in investing. It is the only one.
 
 How one might construct such a method from a Price Determinant is a subject for another treatise.
+
+---
+
+See also:
+
+* [My investment journey as part of my autobiography]({% post_url 2025-10-25-search %}){:target="_blank"}
+* [*Notes on Value Investing: From Graham to Buffett and Beyond*](/library/value-invest){:target="_blank"}
