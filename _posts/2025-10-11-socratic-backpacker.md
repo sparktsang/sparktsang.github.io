@@ -45,7 +45,7 @@ He listened with a kind of solemn reverence. "I agree," he said.
  
 "What's your next big step?" he asked. 
  
-I explained that my ideas, as they were, could only reach people like him—those who were already inclined to think deeply. To start a revolution, I needed the masses. "I'm writing [an epic][works]{:target="_blank"}," I said, "a story that is also a blueprint. A sandbox simulation of how this new world could be built, packaged in a narrative that anyone can understand, a spark that can start a fire." 
+I explained that my ideas, as they were, could only reach people like him—those who were already inclined to think deeply. To start a revolution, I needed the masses. "I'm writing [an epic][epic]{:target="_blank"}," I said, "a story that is also a blueprint. A sandbox simulation of how this new world could be built, packaged in a narrative that anyone can understand, a spark that can start a fire." 
  
 "And the next small step?" 
  
@@ -60,5 +60,5 @@ He smiled, and added the final, perfect grace note. "Like attracts like."
 [brian]: {% post_url 2025-10-12-shrimp-gospel %}
 [menu]: {% post_url 2025-10-05-unwritten-menu %}
 [lib]: {% post_url 2025-09-23-library %}
-[phi]: https://sparktsang.github.io/philosophy.html
-[works]: https://sparktsang.github.io/works.html
+[phi]: {{ '/philosophy' | relative_url }}
+[epic]: {{ '/works' | relative_url }}

@@ -61,4 +61,4 @@ How can a man so fragile, so imprisoned by the petty tyrannies of his own though
 [tsh]: {% post_url 2025-10-17-body-and-system %}
 [uto]: {% post_url 2025-10-12-utopia-of-unruly %}
 [vul]: {% post_url 2025-10-21-vulture-and-witness %}
-[phi]: https://sparktsang.github.io/philosophy.html
+[phi]: {{ '/philosophy' | relative_url }}

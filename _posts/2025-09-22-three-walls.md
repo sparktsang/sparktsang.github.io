@@ -37,5 +37,5 @@ And yet, I also saw something else. The most formidable walls in the world are n
 
 [ghost]: {% post_url 2025-09-21-ghosts-of-connection %}
 [cup]: {% post_url 2025-09-29-empty-cup %}
-[phi]: https://sparktsang.github.io/philosophy.html
+[phi]: {{ '/philosophy' | relative_url }}
 [benefact]: {% post_url 2025-10-27-benefactor %}

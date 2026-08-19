@@ -54,5 +54,5 @@ But the more I try, the more I see that we are all carrying our own shattered be
 
 My revolution is an attempt to rebuild that trust. Not a blind, religious faith, but a belief that we can still reason with each other, that we can weave a better world from the threads of our shared understanding. For a brief moment, on a rainy night in a hostel lobby in Krabi, four disparate souls—a romantic battling oblivion, an idealist battling chaos, an explorer battling apathy, and a revolutionary battling injustice—it felt, for just a moment, like the world could be changed by four people, a few conversations, and a storm.
 
-[phi]: https://sparktsang.github.io/philosophy.html
+[phi]: {{ '/philosophy' | relative_url }}
 [benefact]: {% post_url 2025-10-27-benefactor %}

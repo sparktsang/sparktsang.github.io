@@ -48,6 +48,6 @@ See also: [*The Vulture and the Witness*][vul]
 
 [walls]: {% post_url 2025-09-22-three-walls %}
 [neung]: {% post_url 2025-09-16-man-from-nowhere %}
-[phi]: https://sparktsang.github.io/philosophy.html
-[epic]: https://sparktsang.github.io/works.html
+[phi]: {{ '/philosophy' | relative_url }}
+[epic]: {{ '/works' | relative_url }}
 [vul]: {% post_url 2025-10-21-vulture-and-witness %}

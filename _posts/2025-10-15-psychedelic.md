@@ -182,5 +182,5 @@ Sequel — [*The Sunlit Cage: On the Tyranny of the Inner Voice*][inner]
 [soc]: {% post_url 2025-10-11-socratic-backpacker %}
 [forging]: {% post_url 2025-10-25-forging %}
 [benefact]: {% post_url 2025-10-27-benefactor %}
-[phi]: https://sparktsang.github.io/philosophy.html
+[phi]: {{ '/philosophy' | relative_url }}
 [inner]: {% post_url 2025-10-16-cage %}

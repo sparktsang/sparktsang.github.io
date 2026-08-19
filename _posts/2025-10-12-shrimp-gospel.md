@@ -47,4 +47,4 @@ Just like this essay, I thought. It will never go viral. It has no beautiful ima
 
 [bday]: {% post_url 2025-09-23-bday %}
 [soc]: {% post_url 2025-10-11-socratic-backpacker %}
-[life]: https://sparktsang.github.io/life.html
+[life]: {{ '/life' | relative_url }}

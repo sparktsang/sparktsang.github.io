@@ -35,3 +35,5 @@ exclude:
 
 plugins:
 - jekyll-sitemap
+
+permalink: /:categories/:slug/

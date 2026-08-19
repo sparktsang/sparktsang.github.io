@@ -163,4 +163,4 @@ This essay is the last of a three-part series.
 [inner]: {% post_url 2025-10-16-cage %}
 [tsh]: {% post_url 2025-10-17-body-and-system %}
 [deus]: {% post_url 2025-11-19-deus %}
-[phi]: https://sparktsang.github.io/philosophy.html
+[phi]: {{ '/philosophy' | relative_url }}
