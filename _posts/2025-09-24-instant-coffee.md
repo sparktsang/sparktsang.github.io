@@ -43,4 +43,4 @@ And perhaps this is the system's ultimate triumph: to trap us in an illusion of 
 
 But this thought, this chain of reasoning, was already irrelevant. Because everyone already thinks they know the truth. Or at least, they have a truth of their own. And in a world like that, what is the real truth worth?
 
-[bday]: {% post_url 2025-09-23-accountant-holiday %}
+[bday]: {% post_url 2025-09-23-bday %}

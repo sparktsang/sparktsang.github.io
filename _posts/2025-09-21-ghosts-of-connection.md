@@ -30,4 +30,4 @@ His concern was genuine. It was, I realized, the secret ingredient. The hostel w
 
 The Full Moon Party, they say, is one of the world's great raves. But like money, or nations, or corporations, it's a fiction that only becomes real when enough people agree to believe in it. It’s a powerful tool for mobilizing human action. I didn't participate. And as I left the island, walking towards the pier with my 200-baht deposit back in my pocket, I felt no regret at all. I had come seeking connection and realized something far more interesting: a thousand beautiful, lonely phantoms, all dancing together in the dark.
 
-[volunteer]: {% post_url 2025-09-18-volunteer-and-the-econ-of-kindness %}
+[volunteer]: {% post_url 2025-09-18-volunteer %}
