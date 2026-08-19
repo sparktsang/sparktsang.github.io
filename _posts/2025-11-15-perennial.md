@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The First Principles of Perennial Profit in Investing"
-category: "Knowledge"
+category: "Library"
 ---
 
 This is an English translation of [an article posted on Medium written on 2019](https://medium.com/%E6%8A%95%E8%B3%87%E7%A7%91%E5%AD%B8/%E6%8A%95%E8%B3%87%E9%95%B7%E5%8B%9D%E7%9A%84%E6%99%AE%E4%B8%96%E6%B3%95%E5%89%87-aecdc14ae623){:target="_blank"}.
