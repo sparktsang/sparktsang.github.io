@@ -3,6 +3,7 @@ layout: post
 title: Philosophy
 description: 'THE CONSTITUTION: How the World Should Be.'
 image: assets/images/refused_letter_bing.jpeg
+show_tile: true
 nav-menu: true
 weight: 2
 ---
