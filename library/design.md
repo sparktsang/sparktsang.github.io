@@ -12838,7 +12838,7 @@ You can paste this directly in. No risk.
 
 ## ⭐ **Find the previous Life post**
 ```liquid
-{% assign prev_real = nil %}
+{% raw %}{% assign prev_real = nil %}
 {% assign ptr = page.previous %}
 
 {% for i in (1..50) %}
@@ -12848,14 +12848,14 @@ You can paste this directly in. No risk.
   {% elsif ptr %}
     {% assign ptr = ptr.previous %}
   {% endif %}
-{% endfor %}
+{% endfor %}{% endraw %}
 ```
 
 ---
 
 ## ⭐ **Find the next Life post**
 ```liquid
-{% assign next_real = nil %}
+{% raw %}{% assign next_real = nil %}
 {% assign ptr2 = page.next %}
 
 {% for i in (1..50) %}
@@ -12865,7 +12865,7 @@ You can paste this directly in. No risk.
   {% elsif ptr2 %}
     {% assign ptr2 = ptr2.next %}
   {% endif %}
-{% endfor %}
+{% endfor %}{% endraw %}
 ```
 
 ---
@@ -12873,7 +12873,7 @@ You can paste this directly in. No risk.
 # ⭐ **Navigation buttons (same as before)**
 
 ```liquid
-<div class="post-nav" style="display:flex; justify-content:space-between; align-items:center; margin-top:10rem;">
+{% raw %}<div class="post-nav" style="display:flex; justify-content:space-between; align-items:center; margin-top:10rem;">
 
   <div class="next-post" style="text-align:right;">
     {% if prev_real %}
@@ -12891,7 +12891,7 @@ You can paste this directly in. No risk.
 
 <div class="sort-toggle" style="text-align:center; margin-top:2rem;">
   <a href="{{ site.baseurl }}/life.html" class="button">BACK TO LIFE</a>
-</div>
+</div>{% endraw %}
 ```
 
 ---
@@ -12941,7 +12941,7 @@ Another thing to consider is the three buttons below the articles on the current
 We deleted `all_post` above, and the design principle was "curator authority," "focused guidance," and so on. By the same philosophy, should we apply it to these buttons as well? Like museums, or even IKEA, where they only direct you in one direction?
 
 
-	{% if page.category == "Life" %}
+	{% raw %}{% if page.category == "Life" %}
 	  <div class="post-nav" style="display:flex; justify-content:space-between; align-items:center; margin-top:3rem;">
 
 	    <div class="next-post" style="text-align:right;">
@@ -12961,7 +12961,7 @@ We deleted `all_post` above, and the design principle was "curator authority," "
 	  <div class="sort-toggle" style="text-align:center; margin-top:2rem;">
 	    <a href="{{ site.baseurl }}/life.html" class="button">BACK TO LIFE</a>
 	  </div>
-	{% endif %}
+	{% endif %}{% endraw %}
 
 <hr class="custom-hr">
 
@@ -12997,7 +12997,7 @@ And the `← PREVIOUS` and `NEXT →` buttons are precisely the last remnants of
 
 **Change the original code:**
 ```html
-		{% if page.category == "Life" %}
+		{% raw %}{% if page.category == "Life" %}
 		  <div class="post-nav" style="display:flex; justify-content:space-between; align-items:center; margin-top:3rem;">
 
 		    <div class="next-post" style="text-align:right;">
@@ -13017,7 +13017,7 @@ And the `← PREVIOUS` and `NEXT →` buttons are precisely the last remnants of
 		  <div class="sort-toggle" style="text-align:center; margin-top:2rem;">
 		    <a href="{{ site.baseurl }}/life.html" class="button">BACK TO LIFE</a>
 		  </div>
-		{% endif %}
+		{% endif %}{% endraw %}
 ```
 
 **into this more pure version, more consistent with your philosophy:**
@@ -13088,16 +13088,16 @@ We can reimagine them as more subtle elements that integrate more naturally into
 
 **Change it from:**
 ```html
-		{% if page.category == "Life" %}
+		{% raw %}{% if page.category == "Life" %}
 		  <div class="sort-toggle" style="text-align:center; margin-top:4rem;">
 		    <a href="{{ site.baseurl }}/life.html" class="button">BACK TO LIFE</a>
 		  </div>
-		{% endif %}
+		{% endif %}{% endraw %}
 ```
 
 **to this version:**
 ```html
-		{% if page.category == "Life" %}
+		{% raw %}{% if page.category == "Life" %}
 		  <div class="post-navigation-suite" style="text-align:center; margin-top:4rem;">
 		    
 		    <!-- BACK TO LIFE remains the main character -->
@@ -13131,7 +13131,7 @@ We can reimagine them as more subtle elements that integrate more naturally into
 		    </div>
 
 		  </div>
-		{% endif %}
+		{% endif %}{% endraw %}
 ```
 
 ### The philosophy of this new design is:
@@ -13155,7 +13155,7 @@ It solves the usability problem you raised without sacrificing the artistic atmo
 If we go with the compromise, the original design is already pretty good. I've made more space and used only arrows; the current code for that part is as follows.
 
 
-		{% if page.category == "Life" %}
+		{% raw %}{% if page.category == "Life" %}
 		  <div class="post-nav" style="display:flex; justify-content:space-between; align-items:center; margin-top:10rem;">
 
 		    <div class="next-post" style="text-align:right;">
@@ -13175,7 +13175,7 @@ If we go with the compromise, the original design is already pretty good. I've m
 		  <div class="sort-toggle" style="text-align:center; margin-top:2rem;">
 		    <a href="{{ site.baseurl }}/life.html" class="button">BACK TO LIFE</a>
 		  </div>
-		{% endif %}
+		{% endif %}{% endraw %}
 
 However, I found an issue. I'm forcing dark mode in Chrome, so the design I see is different from what most people do. The first image is viewed in a normal browser. The second one is how I usually view it with Chrome forced dark mode. Clearly the latter's two buttons are more subdued. The border in the former is too thick and really hinders readability.
 
@@ -13381,7 +13381,7 @@ Now we only need to add our newly created class to those two arrow buttons.
 
 **Change the original code:**
 ```html
-		{% if page.category == "Life" %}
+		{% raw %}{% if page.category == "Life" %}
 		  <div class="post-nav" style="display:flex; justify-content:space-between; align-items:center; margin-top:10rem;">
 
 		    <div class="next-post" style="text-align:right;">
@@ -13401,12 +13401,12 @@ Now we only need to add our newly created class to those two arrow buttons.
 		  <div class="sort-toggle" style="text-align:center; margin-top:2rem;">
 		    <a href="{{ site.baseurl }}/life.html" class="button">BACK TO LIFE</a>
 		  </div>
-		{% endif %}
+		{% endif %}{% endraw %}
 ```
 
 **Modify it to the following version (note the change to `class`):**
 ```html
-		{% if page.category == "Life" %}
+		{% raw %}{% if page.category == "Life" %}
 		  <div class="post-nav" style="display:flex; justify-content:space-between; align-items:center; margin-top:10rem;">
 
 		    <div class="next-post" style="text-align:right;">
@@ -13428,7 +13428,7 @@ Now we only need to add our newly created class to those two arrow buttons.
 		  <div class="sort-toggle" style="text-align:center; margin-top:2rem;">
 		    <a href="{{ site.baseurl }}/life.html" class="button">BACK TO LIFE</a>
 		  </div>
-		{% endif %}
+		{% endif %}{% endraw %}
 ```
 
 After completing these two steps, your `←` and `→` buttons should look just as understated and elegant in a normal browser as they did in forced dark mode, while the `BACK TO LIFE` button will remain completely unaffected. Problem solved perfectly.

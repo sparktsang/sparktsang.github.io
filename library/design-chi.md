@@ -12838,7 +12838,7 @@ GitHub Pages: jekyll v3.10.0
 
 ## ⭐ **尋找上一個 Life post**
 ```liquid
-{% assign prev_real = nil %}
+{% raw %}{% assign prev_real = nil %}
 {% assign ptr = page.previous %}
 
 {% for i in (1..50) %}
@@ -12848,14 +12848,14 @@ GitHub Pages: jekyll v3.10.0
   {% elsif ptr %}
     {% assign ptr = ptr.previous %}
   {% endif %}
-{% endfor %}
+{% endfor %}{% endraw %}
 ```
 
 ---
 
 ## ⭐ **尋找下一個 Life post**
 ```liquid
-{% assign next_real = nil %}
+{% raw %}{% assign next_real = nil %}
 {% assign ptr2 = page.next %}
 
 {% for i in (1..50) %}
@@ -12865,7 +12865,7 @@ GitHub Pages: jekyll v3.10.0
   {% elsif ptr2 %}
     {% assign ptr2 = ptr2.next %}
   {% endif %}
-{% endfor %}
+{% endfor %}{% endraw %}
 ```
 
 ---
@@ -12873,7 +12873,7 @@ GitHub Pages: jekyll v3.10.0
 # ⭐ **導航按鈕（跟你之前一樣）**
 
 ```liquid
-<div class="post-nav" style="display:flex; justify-content:space-between; align-items:center; margin-top:10rem;">
+{% raw %}<div class="post-nav" style="display:flex; justify-content:space-between; align-items:center; margin-top:10rem;">
 
   <div class="next-post" style="text-align:right;">
     {% if prev_real %}
@@ -12891,7 +12891,7 @@ GitHub Pages: jekyll v3.10.0
 
 <div class="sort-toggle" style="text-align:center; margin-top:2rem;">
   <a href="{{ site.baseurl }}/life.html" class="button">BACK TO LIFE</a>
-</div>
+</div>{% endraw %}
 ```
 
 ---
@@ -12941,7 +12941,7 @@ GitHub Pages: jekyll v3.10.0
 我哋上面刪除咗all_post，設計決策原理就係「策展人權威」、「聚焦引導」等等。同樣哲學，係咪應apply埋落去呢幾粒掣上？就好似博物館、乃至IKEA，只會叫你去一個方向？
 
 
-		{% if page.category == "Life" %}
+		{% raw %}{% if page.category == "Life" %}
 		  <div class="post-nav" style="display:flex; justify-content:space-between; align-items:center; margin-top:3rem;">
 
 		    <div class="next-post" style="text-align:right;">
@@ -12961,7 +12961,7 @@ GitHub Pages: jekyll v3.10.0
 		  <div class="sort-toggle" style="text-align:center; margin-top:2rem;">
 		    <a href="{{ site.baseurl }}/life.html" class="button">BACK TO LIFE</a>
 		  </div>
-		{% endif %}
+		{% endif %}{% endraw %}
 
 <hr class="custom-hr">
 
@@ -12997,7 +12997,7 @@ GitHub Pages: jekyll v3.10.0
 
 **將原本嘅代碼：**
 ```html
-		{% if page.category == "Life" %}
+		{% raw %}{% if page.category == "Life" %}
 		  <div class="post-nav" style="display:flex; justify-content:space-between; align-items:center; margin-top:3rem;">
 
 		    <div class="next-post" style="text-align:right;">
@@ -13017,7 +13017,7 @@ GitHub Pages: jekyll v3.10.0
 		  <div class="sort-toggle" style="text-align:center; margin-top:2rem;">
 		    <a href="{{ site.baseurl }}/life.html" class="button">BACK TO LIFE</a>
 		  </div>
-		{% endif %}
+		{% endif %}{% endraw %}
 ```
 
 **修改成以下呢個更純粹、更符合你哲學嘅版本：**
@@ -13088,16 +13088,16 @@ GitHub Pages: jekyll v3.10.0
 
 **將佢由：**
 ```html
-		{% if page.category == "Life" %}
+		{% raw %}{% if page.category == "Life" %}
 		  <div class="sort-toggle" style="text-align:center; margin-top:4rem;">
 		    <a href="{{ site.baseurl }}/life.html" class="button">BACK TO LIFE</a>
 		  </div>
-		{% endif %}
+		{% endif %}{% endraw %}
 ```
 
 **升級成以下呢個版本：**
 ```html
-		{% if page.category == "Life" %}
+		{% raw %}{% if page.category == "Life" %}
 		  <div class="post-navigation-suite" style="text-align:center; margin-top:4rem;">
 		    
 		    <!-- BACK TO LIFE 按鈕依然係主角 -->
@@ -13131,7 +13131,7 @@ GitHub Pages: jekyll v3.10.0
 		    </div>
 
 		  </div>
-		{% endif %}
+		{% endif %}{% endraw %}
 ```
 
 ### 呢個新設計嘅哲學係：
@@ -13155,7 +13155,7 @@ GitHub Pages: jekyll v3.10.0
 如果用折衷方案，原本設計已經幾好。我已整咗更大空間，同埋只用箭咀，目前該部份代碼如下。
 
 
-		{% if page.category == "Life" %}
+		{% raw %}{% if page.category == "Life" %}
 		  <div class="post-nav" style="display:flex; justify-content:space-between; align-items:center; margin-top:10rem;">
 
 		    <div class="next-post" style="text-align:right;">
@@ -13175,7 +13175,7 @@ GitHub Pages: jekyll v3.10.0
 		  <div class="sort-toggle" style="text-align:center; margin-top:2rem;">
 		    <a href="{{ site.baseurl }}/life.html" class="button">BACK TO LIFE</a>
 		  </div>
-		{% endif %}
+		{% endif %}{% endraw %}
 
 不過我發現一個問題。我喺Chrome強制dark mode，所以睇到嘅設計同一般人睇到唔同。第一張圖係用正常瀏覽器睇。第二張圖係我平時用Chrome強制dark mode睇。顯然後者兩個掣更低調。前者個框線太粗，好妨礙閱讀。
 
@@ -13381,7 +13381,7 @@ GitHub Pages: jekyll v3.10.0
 
 **將原本嘅代碼：**
 ```html
-		{% if page.category == "Life" %}
+		{% raw %}{% if page.category == "Life" %}
 		  <div class="post-nav" style="display:flex; justify-content:space-between; align-items:center; margin-top:10rem;">
 
 		    <div class="next-post" style="text-align:right;">
@@ -13401,12 +13401,12 @@ GitHub Pages: jekyll v3.10.0
 		  <div class="sort-toggle" style="text-align:center; margin-top:2rem;">
 		    <a href="{{ site.baseurl }}/life.html" class="button">BACK TO LIFE</a>
 		  </div>
-		{% endif %}
+		{% endif %}{% endraw %}
 ```
 
 **修改成以下版本（留意 `class` 嘅改動）：**
 ```html
-		{% if page.category == "Life" %}
+		{% raw %}{% if page.category == "Life" %}
 		  <div class="post-nav" style="display:flex; justify-content:space-between; align-items:center; margin-top:10rem;">
 
 		    <div class="next-post" style="text-align:right;">
@@ -13428,7 +13428,7 @@ GitHub Pages: jekyll v3.10.0
 		  <div class="sort-toggle" style="text-align:center; margin-top:2rem;">
 		    <a href="{{ site.baseurl }}/life.html" class="button">BACK TO LIFE</a>
 		  </div>
-		{% endif %}
+		{% endif %}{% endraw %}
 ```
 
 做完呢兩步之後，你嘅 `←` 同 `→` 掣喺正常瀏覽器下，睇起嚟就會同你喺強制 dark mode 入面見到嘅效果一樣咁低調、優雅，而 `BACK TO LIFE` 掣會完全唔受影響。完美解決問題。
