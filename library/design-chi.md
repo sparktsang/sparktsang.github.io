@@ -283,17 +283,23 @@ forty呢個主題五個layout都冇個啱用，即係表示個主題其實唔係
 
 <hr class="custom-hr">
 
-［附圖 1］
+<div style="display: flex !important">
 
-<hr class="custom-hr">
+  <div style="flex-grow: 1 !important;">
 
-我睇完一堆，發現佢哋個風格都唔同。又諗返我當初揀Forty，就係欣賞個風格。但佢冇又blog layout。
+    <p>我睇完一堆，發現佢哋個風格都唔同。又諗返我當初揀Forty，就係欣賞個風格。但佢冇又blog layout。</p>
 
-而我想要嗰種layout，其實已經喺Forty主題個首頁可見端倪。我想個blog好似首頁咁，一個post係一塊嘢，有配色有底圖，一般係配色主導，滑鼠拉過去就顯示底圖，上面寫日期、標題、副標題。
+    <p>而我想要嗰種layout，其實已經喺Forty主題個首頁可見端倪。我想個blog好似首頁咁，一個post係一塊嘢，有配色有底圖，一般係配色主導，滑鼠拉過去就顯示底圖，上面寫日期、標題、副標題。</p>
 
-至於每塊嘢要點，未決定點取捨。全部一樣形式一個尺寸會單寡，但每度都customize又複雜。我諗緊好似碎片，散落於頁面咁嘅風格，甚至每次load啲碎片形式都唔同。
+    <p>至於每塊嘢要點，未決定點取捨。全部一樣形式一個尺寸會單寡，但每度都customize又複雜。我諗緊好似碎片，散落於頁面咁嘅風格，甚至每次load啲碎片形式都唔同。</p>
 
-我想要嘅嘢，難唔難搞？
+    <p>我想要嘅嘢，難唔難搞？</p>
+  </div>
+
+  <div style="width: 25% !important; margin-left: 20px !important;">
+    <img src="/assets/images/design_fig_1.png" style="width: 70% !important; height: auto !important; display: block !important;">
+  </div>
+</div>
 
 <hr class="custom-hr">
 
@@ -460,13 +466,19 @@ description: "分享所有關於...嘅文章"
 
 <hr class="custom-hr">
 
-［附圖 2］
+<div style="display: flex !important">
 
-<hr class="custom-hr">
+  <div style="flex-grow: 1 !important;">
 
-唔使難度評估，我識複製貼上，上載改文件，問AI問題，跟指令，已經搞掂咗我自己個首頁個設計如圖。你係咪可以每個步驟清楚教我，同我將上面實現出嚟先？
+    <p>唔使難度評估，我識複製貼上，上載改文件，問AI問題，跟指令，已經搞掂咗我自己個首頁個設計如圖。你係咪可以每個步驟清楚教我，同我將上面實現出嚟先？</p>
 
-補充少少資料，我個「blog」將會係喺「Life」呢個主題下面，裡面會有一篇篇表面為遊記，實為社會紀實文學嘅嘢。
+    <p>補充少少資料，我個「blog」將會係喺「Life」呢個主題下面，裡面會有一篇篇表面為遊記，實為社會紀實文學嘅嘢。</p>
+  </div>
+
+  <div style="width: 25% !important; margin-left: 20px !important;">
+    <img src="/assets/images/design_fig_2.png" style="width: 70% !important; height: auto !important; display: block !important;">
+  </div>
+</div>
 
 <hr class="custom-hr">
 
@@ -799,9 +811,13 @@ description: "分享所有關於...嘅文章"
 
 <hr class="custom-hr">
 
-［附圖 3］
-
-<hr class="custom-hr">
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+  <img src="/assets/images/design_fig_3.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+  <img src="/assets/images/design_fig_4.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+  <img src="/assets/images/design_fig_5.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+  <img src="/assets/images/design_fig_6.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+</div>
+<br>
 
 真係「完美」到想喊出嚟……你睇下！前兩張係依家你嘅指導下，Life個樣。後兩張係我自己個首頁個樣。
 
@@ -963,9 +979,11 @@ banner就跟首頁，啲字嘅色又唔跟首頁？
 
 <hr class="custom-hr">
 
-［附圖 4］
-
-<hr class="custom-hr">
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+  <img src="/assets/images/design_fig_7.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+  <img src="/assets/images/design_fig_8.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+</div>
+<br>
 
 你睇下，似咩樣呢？你究竟搞唔搞得掂？使唔使砍掉重練？
 
@@ -1134,9 +1152,12 @@ Life個banner跟返啱嘅圖，但佢個黃色係點走出嚟？
 
 <hr class="custom-hr">
 
-［附圖 5］
-
-<hr class="custom-hr">
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+  <img src="/assets/images/design_fig_9.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+  <img src="/assets/images/design_fig_10.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+  <img src="/assets/images/design_fig_11.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+</div>
+<br>
 
 未指向啲圖，係完全睇唔到啲字。指落一張圖，先至出白色字，但仍然難睇。進步只屬微幅。
 

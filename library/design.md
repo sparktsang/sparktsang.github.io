@@ -283,17 +283,23 @@ In summary, your judgment is completely correct. Rather than "fighting against" 
 
 <hr class="custom-hr">
 
-［附圖 1］
+<div style="display: flex !important">
 
-<hr class="custom-hr">
+  <div style="flex-grow: 1 !important;">
 
-I looked through a bunch of them and realized that their styles are all different. Then I thought back to why I chose Forty in the first place: I liked its style. But it doesn't have a proper blog layout.
+    <p>I looked through a bunch of them and realized that their styles are all different. Then I thought back to why I chose Forty in the first place: I liked its style. But it doesn't have a proper blog layout.</p>
 
-And the kind of layout I want is actually already hinted at on Forty theme's homepage. I want the blog to work like the homepage: each post is a visual tile, with its own color and background image. Normally the color dominates, and when you hover over it, the background image appears. It should show the date, title, and subtitle on top.
+    <p>And the kind of layout I want is actually already hinted at on Forty theme's homepage. I want the blog to work like the homepage: each post is a visual tile, with its own color and background image. Normally the color dominates, and when you hover over it, the background image appears. It should show the date, title, and subtitle on top.</p>
 
-I haven't decided yet exactly how to handle the details on each tile. If every tile has exactly the same format and size, it could feel monotonous, but customizing every single one would make things complicated. I'm thinking about something more like fragments scattered across the page, perhaps with the form of the fragments changing every time the page loads.
+    <p>I haven't decided yet exactly how to handle the details on each tile. If every tile has exactly the same format and size, it could feel monotonous, but customizing every single one would make things complicated. I'm thinking about something more like fragments scattered across the page, perhaps with the form of the fragments changing every time the page loads.</p>
 
-How difficult would it be to build what I want?
+    <p>How difficult would it be to build what I want?</p>
+  </div>
+
+  <div style="width: 40% !important; margin-left: 20px !important;">
+    <img src="/assets/images/design_fig_1.png" style="width: 100% !important; height: auto !important; display: block !important;">
+  </div>
+</div>
 
 <hr class="custom-hr">
 
@@ -460,13 +466,19 @@ You don't need to put any content here, because all the logic is already handled
 
 <hr class="custom-hr">
 
-［附圖 2］
+<div style="display: flex !important">
 
-<hr class="custom-hr">
+  <div style="flex-grow: 1 !important;">
 
-Skip the difficulty assessment. I know how to copy and paste, upload edited files, ask AI questions, and follow instructions. I've already managed to get the design of my own homepage working like this, as shown in the image. Can you teach me each step clearly and help me implement everything above first?
+    <p>Skip the difficulty assessment. I know how to copy and paste, upload edited files, ask AI questions, and follow instructions. I've already managed to get the design of my own homepage working like this, as shown in the image. Can you teach me each step clearly and help me implement everything above first?</p>
 
-One more detail: this "blog" will sit under the "Life" section of the site, and the individual pieces will appear on the surface to be travel writing, but are actually social documentary literature underneath.
+    <p>One more detail: this "blog" will sit under the "Life" section of the site, and the individual pieces will appear on the surface to be travel writing, but are actually social documentary literature underneath.</p>
+  </div>
+
+  <div style="width: 40% !important; margin-left: 20px !important;">
+    <img src="/assets/images/design_fig_2.png" style="width: 60% !important; height: auto !important; display: block !important;">
+  </div>
+</div>
 
 <hr class="custom-hr">
 
@@ -799,9 +811,13 @@ With this final version of `life_index.html`, you can achieve exactly the effect
 
 <hr class="custom-hr">
 
-［附圖 3］
-
-<hr class="custom-hr">
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+  <img src="/assets/images/design_fig_3.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+  <img src="/assets/images/design_fig_4.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+  <img src="/assets/images/design_fig_5.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+  <img src="/assets/images/design_fig_6.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+</div>
+<br>
 
 It's so "perfect" I could cry... Look at this! The first two screenshots are what Life looks like now under your guidance. The last two are what my own homepage looks like.
 
@@ -963,9 +979,11 @@ I sincerely apologize again for the trouble caused earlier. I hope this fix rest
 
 <hr class="custom-hr">
 
-［附圖 4］
-
-<hr class="custom-hr">
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+  <img src="/assets/images/design_fig_7.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+  <img src="/assets/images/design_fig_8.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+</div>
+<br>
 
 Look at this. What does this even resemble? Can you actually handle this?
 
@@ -1134,9 +1152,12 @@ I'm confident this approach can completely solve all the issues you're currently
 
 <hr class="custom-hr">
 
-［附圖 5］
-
-<hr class="custom-hr">
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+  <img src="/assets/images/design_fig_9.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+  <img src="/assets/images/design_fig_10.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+  <img src="/assets/images/design_fig_11.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+</div>
+<br>
 
 Without pointing at the images, you can't see the text at all. Once you hover over an image, the white text appears, but it's still hard to read. The improvement is minimal at best.
 
