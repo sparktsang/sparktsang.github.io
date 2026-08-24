@@ -12688,7 +12688,7 @@ page.next       # 上一篇（舊）
 把 navigation 所在部分整段替換成：
 
 ```liquid
-{% if page.category == "Life" %}
+{% raw %}{% if page.category == "Life" %}
 
   {%- comment -%}
   取得上一篇真正屬於 Life 的文章
@@ -12726,7 +12726,7 @@ page.next       # 上一篇（舊）
     <a href="{{ site.baseurl }}/life.html" class="button">BACK TO LIFE</a>
   </div>
 
-{% endif %}
+{% endif %}{% endraw %}
 ```
 
 ---
