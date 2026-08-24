@@ -24,7 +24,7 @@ This blood-and-tears chronicle, left completely uncut and stripped of all sugarc
 If you are tired of cookie-cutter websites and want to know what it takes to tame AI into creating an artwork that *overrides everything*, take your time and devour this sprawling raw archive.
 
 <hr class="custom-hr">
-[The following begins the process of taming the Gemini model in AI Studio, back when prompts were free and unlimited]
+##### [The following begins the process of taming the Gemini model in AI Studio, back when prompts were free and unlimited] {#start}
 {: style="text-align: center;"}
 <hr class="custom-hr">
 

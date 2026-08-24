@@ -81,10 +81,12 @@
 		{% endif %}
 		
 		{% if page.title == "Works" or page.category == "Library" %}
+			{% if page.show_library != false %}
 		  <div class="sort-toggle" style="text-align:center; margin-top:2rem;">
 			<br><br><br><br><br>
 		    <a href="{{ site.baseurl }}/" class="button">BACK TO HOME</a>
 		  </div>
+		  {% endif %}
 		{% endif %}
 	</div>
 </section>

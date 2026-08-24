@@ -24,7 +24,7 @@ In Cantonese. English translation [here][english]{:target="_blank"}.
 如果你受夠咗嗰啲倒模咁嘅網頁，想知點樣騎乘馴服 AI 去實現你心目中嗰種「凌駕一切」嘅藝術作品，咁呢十一萬字嘅 raw data，你慢慢噒。
 
 <hr class="custom-hr">
-［以下啟動對 AI Studio 嘅 Gemini 模型嘅馴化過程，當時發問免費無限額］
+##### ［以下啟動對 AI Studio 嘅 Gemini 模型嘅馴化過程，當時發問免費無限額］ {#start}
 {: style="text-align: center;"}
 <hr class="custom-hr">
 
