@@ -283,23 +283,18 @@ forty呢個主題五個layout都冇個啱用，即係表示個主題其實唔係
 
 <hr class="custom-hr">
 
-<div style="display: flex !important">
-
-  <div style="flex-grow: 1 !important;">
-
-    <p>我睇完一堆，發現佢哋個風格都唔同。又諗返我當初揀Forty，就係欣賞個風格。但佢冇又blog layout。</p>
-
-    <p>而我想要嗰種layout，其實已經喺Forty主題個首頁可見端倪。我想個blog好似首頁咁，一個post係一塊嘢，有配色有底圖，一般係配色主導，滑鼠拉過去就顯示底圖，上面寫日期、標題、副標題。</p>
-
-    <p>至於每塊嘢要點，未決定點取捨。全部一樣形式一個尺寸會單寡，但每度都customize又複雜。我諗緊好似碎片，散落於頁面咁嘅風格，甚至每次load啲碎片形式都唔同。</p>
-
-    <p>我想要嘅嘢，難唔難搞？</p>
-  </div>
-
-  <div style="width: 25% !important; margin-left: 20px !important;">
-    <img src="/assets/images/design_fig_1.png" style="width: 70% !important; height: auto !important; display: block !important;">
-  </div>
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+  <img src="/assets/images/design_fig_1.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
 </div>
+<br>
+
+我睇完一堆，發現佢哋個風格都唔同。又諗返我當初揀Forty，就係欣賞個風格。但佢冇又blog layout。
+
+而我想要嗰種layout，其實已經喺Forty主題個首頁可見端倪。我想個blog好似首頁咁，一個post係一塊嘢，有配色有底圖，一般係配色主導，滑鼠拉過去就顯示底圖，上面寫日期、標題、副標題。
+
+至於每塊嘢要點，未決定點取捨。全部一樣形式一個尺寸會單寡，但每度都customize又複雜。我諗緊好似碎片，散落於頁面咁嘅風格，甚至每次load啲碎片形式都唔同。
+
+我想要嘅嘢，難唔難搞？
 
 <hr class="custom-hr">
 
@@ -466,19 +461,14 @@ description: "分享所有關於...嘅文章"
 
 <hr class="custom-hr">
 
-<div style="display: flex !important">
-
-  <div style="flex-grow: 1 !important;">
-
-    <p>唔使難度評估，我識複製貼上，上載改文件，問AI問題，跟指令，已經搞掂咗我自己個首頁個設計如圖。你係咪可以每個步驟清楚教我，同我將上面實現出嚟先？</p>
-
-    <p>補充少少資料，我個「blog」將會係喺「Life」呢個主題下面，裡面會有一篇篇表面為遊記，實為社會紀實文學嘅嘢。</p>
-  </div>
-
-  <div style="width: 25% !important; margin-left: 20px !important;">
-    <img src="/assets/images/design_fig_2.png" style="width: 70% !important; height: auto !important; display: block !important;">
-  </div>
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+  <img src="/assets/images/design_fig_2.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
 </div>
+<br>
+
+唔使難度評估，我識複製貼上，上載改文件，問AI問題，跟指令，已經搞掂咗我自己個首頁個設計如圖。你係咪可以每個步驟清楚教我，同我將上面實現出嚟先？
+
+補充少少資料，我個「blog」將會係喺「Life」呢個主題下面，裡面會有一篇篇表面為遊記，實為社會紀實文學嘅嘢。
 
 <hr class="custom-hr">
 
@@ -1363,9 +1353,11 @@ Life個banner跟返啱嘅圖，但佢個黃色係點走出嚟？
 
 <hr class="custom-hr">
 
-［附圖 6］
-
-<hr class="custom-hr">
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+  <img src="/assets/images/design_fig_12.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+  <img src="/assets/images/design_fig_13.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+</div>
+<br>
 
 未肯定是否見得人，但起碼睇落似返個地基。
 
@@ -1559,9 +1551,11 @@ Life個banner跟返啱嘅圖，但佢個黃色係點走出嚟？
 
 <hr class="custom-hr">
 
-［附圖 7］
-
-<hr class="custom-hr">
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+  <img src="/assets/images/design_fig_14.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+  <img src="/assets/images/design_fig_15.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+</div>
+<br>
 
 你應該誤會咗，講得碎片，啲標題同副標題就唔會塞得入，你依家唔係碎片，係巨型磚頭。
 
@@ -1797,9 +1791,10 @@ image: "assets/images/life-banner.jpg"
 
 <hr class="custom-hr">
 
-［附圖 8］
-
-<hr class="custom-hr">
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+  <img src="/assets/images/design_fig_16.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+</div>
+<br>
 
 我嘅構想係咪超出咗你嘅實踐能力？
 
@@ -2019,9 +2014,10 @@ Life冇咗，呢頁係乜都唔知。連banner都冇咗，我話我想banner嘅�
 
 <hr class="custom-hr">
 
-［附圖 9］
-
-<hr class="custom-hr">
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+  <img src="/assets/images/design_fig_17.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+</div>
+<br>
 
 睇下你嘅作品。
 

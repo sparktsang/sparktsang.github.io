@@ -283,23 +283,18 @@ In summary, your judgment is completely correct. Rather than "fighting against" 
 
 <hr class="custom-hr">
 
-<div style="display: flex !important">
-
-  <div style="flex-grow: 1 !important;">
-
-    <p>I looked through a bunch of them and realized that their styles are all different. Then I thought back to why I chose Forty in the first place: I liked its style. But it doesn't have a proper blog layout.</p>
-
-    <p>And the kind of layout I want is actually already hinted at on Forty theme's homepage. I want the blog to work like the homepage: each post is a visual tile, with its own color and background image. Normally the color dominates, and when you hover over it, the background image appears. It should show the date, title, and subtitle on top.</p>
-
-    <p>I haven't decided yet exactly how to handle the details on each tile. If every tile has exactly the same format and size, it could feel monotonous, but customizing every single one would make things complicated. I'm thinking about something more like fragments scattered across the page, perhaps with the form of the fragments changing every time the page loads.</p>
-
-    <p>How difficult would it be to build what I want?</p>
-  </div>
-
-  <div style="width: 40% !important; margin-left: 20px !important;">
-    <img src="/assets/images/design_fig_1.png" style="width: 100% !important; height: auto !important; display: block !important;">
-  </div>
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+  <img src="/assets/images/design_fig_1.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
 </div>
+<br>
+
+I looked through a bunch of them and realized that their styles are all different. Then I thought back to why I chose Forty in the first place: I liked its style. But it doesn't have a proper blog layout.
+
+And the kind of layout I want is actually already hinted at on Forty theme's homepage. I want the blog to work like the homepage: each post is a visual tile, with its own color and background image. Normally the color dominates, and when you hover over it, the background image appears. It should show the date, title, and subtitle on top.
+
+I haven't decided yet exactly how to handle the details on each tile. If every tile has exactly the same format and size, it could feel monotonous, but customizing every single one would make things complicated. I'm thinking about something more like fragments scattered across the page, perhaps with the form of the fragments changing every time the page loads.
+
+How difficult would it be to build what I want?
 
 <hr class="custom-hr">
 
@@ -466,19 +461,14 @@ You don't need to put any content here, because all the logic is already handled
 
 <hr class="custom-hr">
 
-<div style="display: flex !important">
-
-  <div style="flex-grow: 1 !important;">
-
-    <p>Skip the difficulty assessment. I know how to copy and paste, upload edited files, ask AI questions, and follow instructions. I've already managed to get the design of my own homepage working like this, as shown in the image. Can you teach me each step clearly and help me implement everything above first?</p>
-
-    <p>One more detail: this "blog" will sit under the "Life" section of the site, and the individual pieces will appear on the surface to be travel writing, but are actually social documentary literature underneath.</p>
-  </div>
-
-  <div style="width: 40% !important; margin-left: 20px !important;">
-    <img src="/assets/images/design_fig_2.png" style="width: 60% !important; height: auto !important; display: block !important;">
-  </div>
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+  <img src="/assets/images/design_fig_2.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
 </div>
+<br>
+
+Skip the difficulty assessment. I know how to copy and paste, upload edited files, ask AI questions, and follow instructions. I've already managed to get the design of my own homepage working like this, as shown in the image. Can you teach me each step clearly and help me implement everything above first?
+
+One more detail: this "blog" will sit under the "Life" section of the site, and the individual pieces will appear on the surface to be travel writing, but are actually social documentary literature underneath.
 
 <hr class="custom-hr">
 
@@ -1363,9 +1353,11 @@ I'm asking you to give it one more chance and try this completely new approach. 
 
 <hr class="custom-hr">
 
-［附圖 6］
-
-<hr class="custom-hr">
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+  <img src="/assets/images/design_fig_12.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+  <img src="/assets/images/design_fig_13.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+</div>
+<br>
 
 I'm not sure whether this is presentable yet, but at least it looks like an actual foundation now.
 
@@ -1559,9 +1551,11 @@ This version is built entirely around your design blueprint. It should finally d
 
 <hr class="custom-hr">
 
-［附圖 7］
-
-<hr class="custom-hr">
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+  <img src="/assets/images/design_fig_14.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+  <img src="/assets/images/design_fig_15.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+</div>
+<br>
 
 I think you may have misunderstood. When I say "fragments", I don't mean the titles and subtitles are going to fit inside them. What you've made isn't fragmented at all - they're giant blocks.
 
@@ -1797,9 +1791,10 @@ This is the solution that finally starts moving toward the kind of top-level des
 
 <hr class="custom-hr">
 
-［附圖 8］
-
-<hr class="custom-hr">
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+  <img src="/assets/images/design_fig_16.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+</div>
+<br>
 
 Has my concept gone beyond your ability to actually implement?
 
@@ -2019,9 +2014,10 @@ This version was built from your clear feedback and a thorough reflection on the
 
 <hr class="custom-hr">
 
-［附圖 9］
-
-<hr class="custom-hr">
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+  <img src="/assets/images/design_fig_17.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+</div>
+<br>
 
 Look at what you've made.
 
