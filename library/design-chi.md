@@ -12688,7 +12688,7 @@ page.next       # 上一篇（舊）
 把 navigation 所在部分整段替換成：
 
 ```liquid
-{% raw %}{% if page.category == "Life" %}
+{% if page.category == "Life" %}
 
   {%- comment -%}
   取得上一篇真正屬於 Life 的文章
@@ -12726,7 +12726,7 @@ page.next       # 上一篇（舊）
     <a href="{{ site.baseurl }}/life.html" class="button">BACK TO LIFE</a>
   </div>
 
-{% endif %}{% endraw %}
+{% endif %}
 ```
 
 ---
@@ -12795,13 +12795,13 @@ post E (Life)
 
 個update失敗咗。搞咩？
 
-{% raw %}`Error:  Logging at level: debug Configuration file: /github/workspace/./_config.yml GitHub Pages: github-pages v232 GitHub Pages: jekyll v3.10.0 Theme: jekyll-theme-primer Theme source: /usr/local/bundle/gems/jekyll-theme-primer-0.6.0 Requiring: jekyll-github-metadata Requiring: jekyll-seo-tag Requiring: jekyll-coffeescript Requiring: jekyll-commonmark-ghpages Requiring: jekyll-gist Requiring: jekyll-github-metadata Requiring: jekyll-paginate Requiring: jekyll-relative-links Requiring: jekyll-optional-front-matter Requiring: jekyll-readme-index Requiring: jekyll-default-layout Requiring: jekyll-titles-from-headings GitHub Metadata: Initializing... Source: /github/workspace/. Destination: /github/workspace/./_site Incremental build: disabled. Enable with --incremental Generating... EntryFilter: excluded /CONTRIBUTING.md EntryFilter: excluded /LICENSE.md EntryFilter: excluded /forty_jekyll_theme.gemspec Reading: _posts/2025-09-06-prologue.md Reading: _posts/2025-09-07-phuket-ghost-bus.md Reading: _posts/2025-09-11-emperor-of-nowhere.md Reading: _posts/2025-09-12-monk-to-phattalung.md Reading: _posts/2025-09-16-01-phantom-pork-leg.md Reading: _posts/2025-09-16-02-man-from-nowhere.md Reading: _posts/2025-09-16-03-final-exam-on-riverbank.md Reading: _posts/2025-09-18-01-phantom-lock.md Reading: _posts/2025-09-18-02-view-from-top-deck.md Reading: _posts/2025-09-18-03-the-150-baht-principle.md Reading: _posts/2025-09-18-04-king-of-castle.md Reading: _posts/2025-09-18-05-volunteer-and-the-econ-of-kindness.md Reading: _posts/2025-09-21-01-ghosts-of-connection.md Reading: _posts/2025-09-21-02-cursed-comments.md Reading: _posts/2025-09-22-three-walls.md Reading: _posts/2025-09-23-01-accountant-holiday.md Reading: _posts/2025-09-23-02-library.md Reading: _posts/2025-09-24-instant-coffee.md Reading: _posts/2025-09-29-empty-cup-revolution.md Reading: _posts/2025-10-01-half-empty-plate.md Reading: _posts/2025-10-04-01-architects-of-escape.md Reading: _posts/2025-10-04-02-american-dreamer.md Reading: _posts/2025-10-05-unwritten-menu.md Reading: _posts/2025-10-07-01-echo-chamber.md Reading: _posts/2025-10-07-02-four-word-spell.md Reading: _posts/2025-10-10-ho-fah.md Reading: _posts/2025-10-11-socratic-backpacker.md Reading: _posts/2025-10-12-shrimp-gospel.md Reading: _posts/2025-10-12-utopia-of-unruly.md Reading: _posts/2025-10-13-letter-autopsy.md Reading: _posts/2025-10-15-psychedelic.md Reading: _posts/2025-10-16-tyranny-of-inner-voice.md Reading: _posts/2025-10-17-body-and-system.md Reading: _posts/2025-10-19-small-tyranny.md Reading: _posts/2025-10-20-educate-god.md Reading: _posts/2025-10-21-vulture-and-witness.md Reading: _posts/2025-10-22-cost-of-fire.md Reading: _posts/2025-10-23-dorm-war.md Reading: _posts/2025-10-24-algo-of-the human.md Reading: _posts/2025-10-25-childhood.md Reading: _posts/2025-10-25-forging-mind.md Reading: _posts/2025-10-25-gap.md Reading: _posts/2025-10-25-insurance.md Reading: _posts/2025-10-25-search.md Reading: _posts/2025-10-26-preach.md Reading: _posts/2025-11-15-investment-first-principles.md Reading: _posts/2099-12-31-epilogue.md Generating: JekyllOptionalFrontMatter::Generator finished in 4.6407e-05 seconds. Generating: JekyllReadmeIndex::Generator finished in 5.5313e-05 seconds. Generating: Jekyll::Paginate::Pagination finished in 3.456e-06 seconds. Generating: JekyllRelativeLinks::Generator finished in 0.000139942 seconds. Generating: JekyllDefaultLayout::Generator finished in 0.001855344 seconds. Generating: JekyllTitlesFromHeadings::Generator finished in 1.6441e-05 seconds. Rendering: _posts/2025-09-06-prologue.md Pre-Render Hooks: _posts/2025-09-06-prologue.md Rendering Markup: _posts/2025-09-06-prologue.md Requiring: kramdown-parser-gfm Rendering Layout: _posts/2025-09-06-prologue.md Layout source: site github-pages 232 | Error: Liquid syntax error (line 35): Unknown tag 'while'`{% endraw %}
+`Error:  Logging at level: debug Configuration file: /github/workspace/./_config.yml GitHub Pages: github-pages v232 GitHub Pages: jekyll v3.10.0 Theme: jekyll-theme-primer Theme source: /usr/local/bundle/gems/jekyll-theme-primer-0.6.0 Requiring: jekyll-github-metadata Requiring: jekyll-seo-tag Requiring: jekyll-coffeescript Requiring: jekyll-commonmark-ghpages Requiring: jekyll-gist Requiring: jekyll-github-metadata Requiring: jekyll-paginate Requiring: jekyll-relative-links Requiring: jekyll-optional-front-matter Requiring: jekyll-readme-index Requiring: jekyll-default-layout Requiring: jekyll-titles-from-headings GitHub Metadata: Initializing... Source: /github/workspace/. Destination: /github/workspace/./_site Incremental build: disabled. Enable with --incremental Generating... EntryFilter: excluded /CONTRIBUTING.md EntryFilter: excluded /LICENSE.md EntryFilter: excluded /forty_jekyll_theme.gemspec Reading: _posts/2025-09-06-prologue.md Reading: _posts/2025-09-07-phuket-ghost-bus.md Reading: _posts/2025-09-11-emperor-of-nowhere.md Reading: _posts/2025-09-12-monk-to-phattalung.md Reading: _posts/2025-09-16-01-phantom-pork-leg.md Reading: _posts/2025-09-16-02-man-from-nowhere.md Reading: _posts/2025-09-16-03-final-exam-on-riverbank.md Reading: _posts/2025-09-18-01-phantom-lock.md Reading: _posts/2025-09-18-02-view-from-top-deck.md Reading: _posts/2025-09-18-03-the-150-baht-principle.md Reading: _posts/2025-09-18-04-king-of-castle.md Reading: _posts/2025-09-18-05-volunteer-and-the-econ-of-kindness.md Reading: _posts/2025-09-21-01-ghosts-of-connection.md Reading: _posts/2025-09-21-02-cursed-comments.md Reading: _posts/2025-09-22-three-walls.md Reading: _posts/2025-09-23-01-accountant-holiday.md Reading: _posts/2025-09-23-02-library.md Reading: _posts/2025-09-24-instant-coffee.md Reading: _posts/2025-09-29-empty-cup-revolution.md Reading: _posts/2025-10-01-half-empty-plate.md Reading: _posts/2025-10-04-01-architects-of-escape.md Reading: _posts/2025-10-04-02-american-dreamer.md Reading: _posts/2025-10-05-unwritten-menu.md Reading: _posts/2025-10-07-01-echo-chamber.md Reading: _posts/2025-10-07-02-four-word-spell.md Reading: _posts/2025-10-10-ho-fah.md Reading: _posts/2025-10-11-socratic-backpacker.md Reading: _posts/2025-10-12-shrimp-gospel.md Reading: _posts/2025-10-12-utopia-of-unruly.md Reading: _posts/2025-10-13-letter-autopsy.md Reading: _posts/2025-10-15-psychedelic.md Reading: _posts/2025-10-16-tyranny-of-inner-voice.md Reading: _posts/2025-10-17-body-and-system.md Reading: _posts/2025-10-19-small-tyranny.md Reading: _posts/2025-10-20-educate-god.md Reading: _posts/2025-10-21-vulture-and-witness.md Reading: _posts/2025-10-22-cost-of-fire.md Reading: _posts/2025-10-23-dorm-war.md Reading: _posts/2025-10-24-algo-of-the human.md Reading: _posts/2025-10-25-childhood.md Reading: _posts/2025-10-25-forging-mind.md Reading: _posts/2025-10-25-gap.md Reading: _posts/2025-10-25-insurance.md Reading: _posts/2025-10-25-search.md Reading: _posts/2025-10-26-preach.md Reading: _posts/2025-11-15-investment-first-principles.md Reading: _posts/2099-12-31-epilogue.md Generating: JekyllOptionalFrontMatter::Generator finished in 4.6407e-05 seconds. Generating: JekyllReadmeIndex::Generator finished in 5.5313e-05 seconds. Generating: Jekyll::Paginate::Pagination finished in 3.456e-06 seconds. Generating: JekyllRelativeLinks::Generator finished in 0.000139942 seconds. Generating: JekyllDefaultLayout::Generator finished in 0.001855344 seconds. Generating: JekyllTitlesFromHeadings::Generator finished in 1.6441e-05 seconds. Rendering: _posts/2025-09-06-prologue.md Pre-Render Hooks: _posts/2025-09-06-prologue.md Rendering Markup: _posts/2025-09-06-prologue.md Requiring: kramdown-parser-gfm Rendering Layout: _posts/2025-09-06-prologue.md Layout source: site github-pages 232 | Error: Liquid syntax error (line 35): Unknown tag 'while'`
 
 <hr class="custom-hr">
 
 好，我完全明白發生咩事，而且我可以**100% 確定問題嘅根源：**
 
-# ❌ **GitHub Pages（Jekyll v3.10）唔支援 {% raw %}`{% while %}`{% endraw %}**
+# ❌ **GitHub Pages（Jekyll v3.10）唔支援 `{% while %}`**
 
 你用嘅係 GitHub Pages 官方內置 Jekyll，版本係：
 
@@ -12838,7 +12838,6 @@ GitHub Pages: jekyll v3.10.0
 
 ## ⭐ **尋找上一個 Life post**
 ```liquid
-{% raw %}
 {% assign prev_real = nil %}
 {% assign ptr = page.previous %}
 
@@ -12850,14 +12849,12 @@ GitHub Pages: jekyll v3.10.0
     {% assign ptr = ptr.previous %}
   {% endif %}
 {% endfor %}
-{% endraw %}
 ```
 
 ---
 
 ## ⭐ **尋找下一個 Life post**
 ```liquid
-{% raw %}
 {% assign next_real = nil %}
 {% assign ptr2 = page.next %}
 
@@ -12869,7 +12866,6 @@ GitHub Pages: jekyll v3.10.0
     {% assign ptr2 = ptr2.next %}
   {% endif %}
 {% endfor %}
-{% endraw %}
 ```
 
 ---
@@ -12877,7 +12873,7 @@ GitHub Pages: jekyll v3.10.0
 # ⭐ **導航按鈕（跟你之前一樣）**
 
 ```liquid
-{% raw %}<div class="post-nav" style="display:flex; justify-content:space-between; align-items:center; margin-top:10rem;">
+<div class="post-nav" style="display:flex; justify-content:space-between; align-items:center; margin-top:10rem;">
 
   <div class="next-post" style="text-align:right;">
     {% if prev_real %}
@@ -12895,7 +12891,7 @@ GitHub Pages: jekyll v3.10.0
 
 <div class="sort-toggle" style="text-align:center; margin-top:2rem;">
   <a href="{{ site.baseurl }}/life.html" class="button">BACK TO LIFE</a>
-</div>{% endraw %}
+</div>
 ```
 
 ---
@@ -12945,7 +12941,7 @@ GitHub Pages: jekyll v3.10.0
 我哋上面刪除咗all_post，設計決策原理就係「策展人權威」、「聚焦引導」等等。同樣哲學，係咪應apply埋落去呢幾粒掣上？就好似博物館、乃至IKEA，只會叫你去一個方向？
 
 
-		{% raw %}{% if page.category == "Life" %}
+		{% if page.category == "Life" %}
 		  <div class="post-nav" style="display:flex; justify-content:space-between; align-items:center; margin-top:3rem;">
 
 		    <div class="next-post" style="text-align:right;">
@@ -12965,7 +12961,7 @@ GitHub Pages: jekyll v3.10.0
 		  <div class="sort-toggle" style="text-align:center; margin-top:2rem;">
 		    <a href="{{ site.baseurl }}/life.html" class="button">BACK TO LIFE</a>
 		  </div>
-		{% endif %}{% endraw %}
+		{% endif %}
 
 <hr class="custom-hr">
 
@@ -13001,7 +12997,7 @@ GitHub Pages: jekyll v3.10.0
 
 **將原本嘅代碼：**
 ```html
-		{% raw %}{% if page.category == "Life" %}
+		{% if page.category == "Life" %}
 		  <div class="post-nav" style="display:flex; justify-content:space-between; align-items:center; margin-top:3rem;">
 
 		    <div class="next-post" style="text-align:right;">
@@ -13021,7 +13017,7 @@ GitHub Pages: jekyll v3.10.0
 		  <div class="sort-toggle" style="text-align:center; margin-top:2rem;">
 		    <a href="{{ site.baseurl }}/life.html" class="button">BACK TO LIFE</a>
 		  </div>
-		{% endif %}{% endraw %}
+		{% endif %}
 ```
 
 **修改成以下呢個更純粹、更符合你哲學嘅版本：**
@@ -13092,16 +13088,16 @@ GitHub Pages: jekyll v3.10.0
 
 **將佢由：**
 ```html
-		{% raw %}{% if page.category == "Life" %}
+		{% if page.category == "Life" %}
 		  <div class="sort-toggle" style="text-align:center; margin-top:4rem;">
 		    <a href="{{ site.baseurl }}/life.html" class="button">BACK TO LIFE</a>
 		  </div>
-		{% endif %}{% endraw %}
+		{% endif %}
 ```
 
 **升級成以下呢個版本：**
 ```html
-		{% raw %}{% if page.category == "Life" %}
+		{% if page.category == "Life" %}
 		  <div class="post-navigation-suite" style="text-align:center; margin-top:4rem;">
 		    
 		    <!-- BACK TO LIFE 按鈕依然係主角 -->
@@ -13135,7 +13131,7 @@ GitHub Pages: jekyll v3.10.0
 		    </div>
 
 		  </div>
-		{% endif %}{% endraw %}
+		{% endif %}
 ```
 
 ### 呢個新設計嘅哲學係：
@@ -13159,7 +13155,7 @@ GitHub Pages: jekyll v3.10.0
 如果用折衷方案，原本設計已經幾好。我已整咗更大空間，同埋只用箭咀，目前該部份代碼如下。
 
 
-		{% raw %}{% if page.category == "Life" %}
+		{% if page.category == "Life" %}
 		  <div class="post-nav" style="display:flex; justify-content:space-between; align-items:center; margin-top:10rem;">
 
 		    <div class="next-post" style="text-align:right;">
@@ -13179,7 +13175,7 @@ GitHub Pages: jekyll v3.10.0
 		  <div class="sort-toggle" style="text-align:center; margin-top:2rem;">
 		    <a href="{{ site.baseurl }}/life.html" class="button">BACK TO LIFE</a>
 		  </div>
-		{% endif %}{% endraw %}
+		{% endif %}
 
 不過我發現一個問題。我喺Chrome強制dark mode，所以睇到嘅設計同一般人睇到唔同。第一張圖係用正常瀏覽器睇。第二張圖係我平時用Chrome強制dark mode睇。顯然後者兩個掣更低調。前者個框線太粗，好妨礙閱讀。
 
@@ -13385,7 +13381,7 @@ GitHub Pages: jekyll v3.10.0
 
 **將原本嘅代碼：**
 ```html
-		{% raw %}{% if page.category == "Life" %}
+		{% if page.category == "Life" %}
 		  <div class="post-nav" style="display:flex; justify-content:space-between; align-items:center; margin-top:10rem;">
 
 		    <div class="next-post" style="text-align:right;">
@@ -13405,12 +13401,12 @@ GitHub Pages: jekyll v3.10.0
 		  <div class="sort-toggle" style="text-align:center; margin-top:2rem;">
 		    <a href="{{ site.baseurl }}/life.html" class="button">BACK TO LIFE</a>
 		  </div>
-		{% endif %}{% endraw %}
+		{% endif %}
 ```
 
 **修改成以下版本（留意 `class` 嘅改動）：**
 ```html
-		{% raw %}{% if page.category == "Life" %}
+		{% if page.category == "Life" %}
 		  <div class="post-nav" style="display:flex; justify-content:space-between; align-items:center; margin-top:10rem;">
 
 		    <div class="next-post" style="text-align:right;">
@@ -13432,7 +13428,7 @@ GitHub Pages: jekyll v3.10.0
 		  <div class="sort-toggle" style="text-align:center; margin-top:2rem;">
 		    <a href="{{ site.baseurl }}/life.html" class="button">BACK TO LIFE</a>
 		  </div>
-		{% endif %}{% endraw %}
+		{% endif %}
 ```
 
 做完呢兩步之後，你嘅 `←` 同 `→` 掣喺正常瀏覽器下，睇起嚟就會同你喺強制 dark mode 入面見到嘅效果一樣咁低調、優雅，而 `BACK TO LIFE` 掣會完全唔受影響。完美解決問題。

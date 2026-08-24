@@ -12688,7 +12688,7 @@ And it works almost exactly like your original; the only difference is that page
 Replace the entire section containing the navigation with:
 
 ```liquid
-{% raw %}{% if page.category == "Life" %}
+{% if page.category == "Life" %}
 
   {%- comment -%}
   Get the previous article that actually belongs to Life
@@ -12726,7 +12726,7 @@ Replace the entire section containing the navigation with:
     <a href="{{ site.baseurl }}/life.html" class="button">BACK TO LIFE</a>
   </div>
 
-{% endif %}{% endraw %}
+{% endif %}
 ```
 
 ---
@@ -12795,13 +12795,13 @@ Want to do that?
 
 The update failed. What the hell?
 
-{% raw %}`Error:  Logging at level: debug Configuration file: /github/workspace/./_config.yml GitHub Pages: github-pages v232 GitHub Pages: jekyll v3.10.0 Theme: jekyll-theme-primer Theme source: /usr/local/bundle/gems/jekyll-theme-primer-0.6.0 Requiring: jekyll-github-metadata Requiring: jekyll-seo-tag Requiring: jekyll-coffeescript Requiring: jekyll-commonmark-ghpages Requiring: jekyll-gist Requiring: jekyll-github-metadata Requiring: jekyll-paginate Requiring: jekyll-relative-links Requiring: jekyll-optional-front-matter Requiring: jekyll-readme-index Requiring: jekyll-default-layout Requiring: jekyll-titles-from-headings Generating... EntryFilter: excluded /CONTRIBUTING.md EntryFilter: excluded /LICENSE.md EntryFilter: excluded /forty_jekyll_theme.gemspec Reading: _posts/2025-09-06-prologue.md Reading: _posts/2025-09-07-phuket-ghost-bus.md Reading: _posts/2025-09-11-emperor-of-nowhere.md Reading: _posts/2025-09-12-monk-to-phattalung.md Reading: _posts/2025-09-16-01-phantom-pork-leg.md Reading: _posts/2025-09-16-02-man-from-nowhere.md Reading: _posts/2025-09-16-03-final-exam-on-riverbank.md Reading: _posts/2025-09-18-01-phantom-lock.md Reading: _posts/2025-09-18-02-view-from-top-deck.md Reading: _posts/2025-09-18-03-the-150-baht-principle.md Reading: _posts/2025-09-18-04-king-of-castle.md Reading: _posts/2025-09-18-05-volunteer-and-the-econ-of-kindness.md Reading: _posts/2025-09-21-01-ghosts-of-connection.md Reading: _posts/2025-09-21-02-cursed-comments.md Reading: _posts/2025-09-22-three-walls.md Reading: _posts/2025-09-23-01-accountant-holiday.md Reading: _posts/2025-09-23-02-library.md Reading: _posts/2025-09-24-instant-coffee.md Reading: _posts/2025-09-29-empty-cup-revolution.md Reading: _posts/2025-10-01-half-empty-plate.md Reading: _posts/2025-10-04-01-architects-of-escape.md Reading: _posts/2025-10-04-02-american-dreamer.md Reading: _posts/2025-10-05-unwritten-menu.md Reading: _posts/2025-10-07-01-echo-chamber.md Reading: _posts/2025-10-07-02-four-word-spell.md Reading: _posts/2025-10-10-ho-fah.md Reading: _posts/2025-10-11-socratic-backpacker.md Reading: _posts/2025-10-12-shrimp-gospel.md Reading: _posts/2025-10-12-utopia-of-unruly.md Reading: _posts/2025-10-13-letter-autopsy.md Reading: _posts/2025-10-15-psychedelic.md Reading: _posts/2025-10-16-tyranny-of-inner-voice.md Reading: _posts/2025-10-17-body-and-system.md Reading: _posts/2025-10-19-small-tyranny.md Reading: _posts/2025-10-20-educate-god.md Reading: _posts/2025-10-21-vulture-and-witness.md Reading: _posts/2025-10-22-cost-of-fire.md Reading: _posts/2025-10-23-dorm-war.md Reading: _posts/2025-10-24-algo-of-the human.md Reading: _posts/2025-10-25-childhood.md Reading: _posts/2025-10-25-forging-mind.md Reading: _posts/2025-10-25-gap.md Reading: _posts/2025-10-25-insurance.md Reading: _posts/2025-10-25-search.md Reading: _posts/2025-10-26-preach.md Reading: _posts/2025-11-15-investment-first-principles.md Reading: _posts/2099-12-31-epilogue.md Generating: JekyllOptionalFrontMatter::Generator finished in 4.6407e-05 seconds. Generating: JekyllReadmeIndex::Generator finished in 5.5313e-05 seconds. Generating: Jekyll::Paginate::Pagination finished in 3.456e-06 seconds. Generating: JekyllRelativeLinks::Generator finished in 0.000139942 seconds. Generating: JekyllDefaultLayout::Generator finished in 0.001855344 seconds. Generating: JekyllTitlesFromHeadings::Generator finished in 1.6441e-05 seconds. Rendering: _posts/2025-09-06-prologue.md Pre-Render Hooks: _posts/2025-09-06-prologue.md Rendering Markup: _posts/2025-09-06-prologue.md Requiring: kramdown-parser-gfm Rendering Layout: _posts/2025-09-06-prologue.md Layout source: site github-pages 232 | Error: Liquid syntax error (line 35): Unknown tag 'while'`{% endraw %}
+`Error:  Logging at level: debug Configuration file: /github/workspace/./_config.yml GitHub Pages: github-pages v232 GitHub Pages: jekyll v3.10.0 Theme: jekyll-theme-primer Theme source: /usr/local/bundle/gems/jekyll-theme-primer-0.6.0 Requiring: jekyll-github-metadata Requiring: jekyll-seo-tag Requiring: jekyll-coffeescript Requiring: jekyll-commonmark-ghpages Requiring: jekyll-gist Requiring: jekyll-github-metadata Requiring: jekyll-paginate Requiring: jekyll-relative-links Requiring: jekyll-optional-front-matter Requiring: jekyll-readme-index Requiring: jekyll-default-layout Requiring: jekyll-titles-from-headings Generating... EntryFilter: excluded /CONTRIBUTING.md EntryFilter: excluded /LICENSE.md EntryFilter: excluded /forty_jekyll_theme.gemspec Reading: _posts/2025-09-06-prologue.md Reading: _posts/2025-09-07-phuket-ghost-bus.md Reading: _posts/2025-09-11-emperor-of-nowhere.md Reading: _posts/2025-09-12-monk-to-phattalung.md Reading: _posts/2025-09-16-01-phantom-pork-leg.md Reading: _posts/2025-09-16-02-man-from-nowhere.md Reading: _posts/2025-09-16-03-final-exam-on-riverbank.md Reading: _posts/2025-09-18-01-phantom-lock.md Reading: _posts/2025-09-18-02-view-from-top-deck.md Reading: _posts/2025-09-18-03-the-150-baht-principle.md Reading: _posts/2025-09-18-04-king-of-castle.md Reading: _posts/2025-09-18-05-volunteer-and-the-econ-of-kindness.md Reading: _posts/2025-09-21-01-ghosts-of-connection.md Reading: _posts/2025-09-21-02-cursed-comments.md Reading: _posts/2025-09-22-three-walls.md Reading: _posts/2025-09-23-01-accountant-holiday.md Reading: _posts/2025-09-23-02-library.md Reading: _posts/2025-09-24-instant-coffee.md Reading: _posts/2025-09-29-empty-cup-revolution.md Reading: _posts/2025-10-01-half-empty-plate.md Reading: _posts/2025-10-04-01-architects-of-escape.md Reading: _posts/2025-10-04-02-american-dreamer.md Reading: _posts/2025-10-05-unwritten-menu.md Reading: _posts/2025-10-07-01-echo-chamber.md Reading: _posts/2025-10-07-02-four-word-spell.md Reading: _posts/2025-10-10-ho-fah.md Reading: _posts/2025-10-11-socratic-backpacker.md Reading: _posts/2025-10-12-shrimp-gospel.md Reading: _posts/2025-10-12-utopia-of-unruly.md Reading: _posts/2025-10-13-letter-autopsy.md Reading: _posts/2025-10-15-psychedelic.md Reading: _posts/2025-10-16-tyranny-of-inner-voice.md Reading: _posts/2025-10-17-body-and-system.md Reading: _posts/2025-10-19-small-tyranny.md Reading: _posts/2025-10-20-educate-god.md Reading: _posts/2025-10-21-vulture-and-witness.md Reading: _posts/2025-10-22-cost-of-fire.md Reading: _posts/2025-10-23-dorm-war.md Reading: _posts/2025-10-24-algo-of-the human.md Reading: _posts/2025-10-25-childhood.md Reading: _posts/2025-10-25-forging-mind.md Reading: _posts/2025-10-25-gap.md Reading: _posts/2025-10-25-insurance.md Reading: _posts/2025-10-25-search.md Reading: _posts/2025-10-26-preach.md Reading: _posts/2025-11-15-investment-first-principles.md Reading: _posts/2099-12-31-epilogue.md Generating: JekyllOptionalFrontMatter::Generator finished in 4.6407e-05 seconds. Generating: JekyllReadmeIndex::Generator finished in 5.5313e-05 seconds. Generating: Jekyll::Paginate::Pagination finished in 3.456e-06 seconds. Generating: JekyllRelativeLinks::Generator finished in 0.000139942 seconds. Generating: JekyllDefaultLayout::Generator finished in 0.001855344 seconds. Generating: JekyllTitlesFromHeadings::Generator finished in 1.6441e-05 seconds. Rendering: _posts/2025-09-06-prologue.md Pre-Render Hooks: _posts/2025-09-06-prologue.md Rendering Markup: _posts/2025-09-06-prologue.md Requiring: kramdown-parser-gfm Rendering Layout: _posts/2025-09-06-prologue.md Layout source: site github-pages 232 | Error: Liquid syntax error (line 35): Unknown tag 'while'`
 
 <hr class="custom-hr">
 
 Alright, I completely understand what happened, and I can **100% confirm the root cause:**
 
-# ❌ **GitHub Pages (Jekyll v3.10) doesn't support {% raw %}`{% while %}`{% endraw %}**
+# ❌ **GitHub Pages (Jekyll v3.10) doesn't support `{% while %}`**
 
 You're using Jekyll that comes bundled with the official GitHub Pages setup, and the version is:
 
@@ -12838,7 +12838,6 @@ You can paste this directly in. No risk.
 
 ## ⭐ **Find the previous Life post**
 ```liquid
-{% raw %}
 {% assign prev_real = nil %}
 {% assign ptr = page.previous %}
 
@@ -12850,14 +12849,12 @@ You can paste this directly in. No risk.
     {% assign ptr = ptr.previous %}
   {% endif %}
 {% endfor %}
-{% endraw %}
 ```
 
 ---
 
 ## ⭐ **Find the next Life post**
 ```liquid
-{% raw %}
 {% assign next_real = nil %}
 {% assign ptr2 = page.next %}
 
@@ -12869,7 +12866,6 @@ You can paste this directly in. No risk.
     {% assign ptr2 = ptr2.next %}
   {% endif %}
 {% endfor %}
-{% endraw %}
 ```
 
 ---
@@ -12877,7 +12873,7 @@ You can paste this directly in. No risk.
 # ⭐ **Navigation buttons (same as before)**
 
 ```liquid
-{% raw %}<div class="post-nav" style="display:flex; justify-content:space-between; align-items:center; margin-top:10rem;">
+<div class="post-nav" style="display:flex; justify-content:space-between; align-items:center; margin-top:10rem;">
 
   <div class="next-post" style="text-align:right;">
     {% if prev_real %}
@@ -12895,7 +12891,7 @@ You can paste this directly in. No risk.
 
 <div class="sort-toggle" style="text-align:center; margin-top:2rem;">
   <a href="{{ site.baseurl }}/life.html" class="button">BACK TO LIFE</a>
-</div>{% endraw %}
+</div>
 ```
 
 ---
@@ -12945,7 +12941,7 @@ Another thing to consider is the three buttons below the articles on the current
 We deleted `all_post` above, and the design principle was "curator authority," "focused guidance," and so on. By the same philosophy, should we apply it to these buttons as well? Like museums, or even IKEA, where they only direct you in one direction?
 
 
-	{% raw %}{% if page.category == "Life" %}
+	{% if page.category == "Life" %}
 	  <div class="post-nav" style="display:flex; justify-content:space-between; align-items:center; margin-top:3rem;">
 
 	    <div class="next-post" style="text-align:right;">
@@ -12965,7 +12961,7 @@ We deleted `all_post` above, and the design principle was "curator authority," "
 	  <div class="sort-toggle" style="text-align:center; margin-top:2rem;">
 	    <a href="{{ site.baseurl }}/life.html" class="button">BACK TO LIFE</a>
 	  </div>
-	{% endif %}{% endraw %}
+	{% endif %}
 
 <hr class="custom-hr">
 
@@ -13001,7 +12997,7 @@ And the `← PREVIOUS` and `NEXT →` buttons are precisely the last remnants of
 
 **Change the original code:**
 ```html
-		{% raw %}{% if page.category == "Life" %}
+		{% if page.category == "Life" %}
 		  <div class="post-nav" style="display:flex; justify-content:space-between; align-items:center; margin-top:3rem;">
 
 		    <div class="next-post" style="text-align:right;">
@@ -13021,7 +13017,7 @@ And the `← PREVIOUS` and `NEXT →` buttons are precisely the last remnants of
 		  <div class="sort-toggle" style="text-align:center; margin-top:2rem;">
 		    <a href="{{ site.baseurl }}/life.html" class="button">BACK TO LIFE</a>
 		  </div>
-		{% endif %}{% endraw %}
+		{% endif %}
 ```
 
 **into this more pure version, more consistent with your philosophy:**
@@ -13092,16 +13088,16 @@ We can reimagine them as more subtle elements that integrate more naturally into
 
 **Change it from:**
 ```html
-		{% raw %}{% if page.category == "Life" %}
+		{% if page.category == "Life" %}
 		  <div class="sort-toggle" style="text-align:center; margin-top:4rem;">
 		    <a href="{{ site.baseurl }}/life.html" class="button">BACK TO LIFE</a>
 		  </div>
-		{% endif %}{% endraw %}
+		{% endif %}
 ```
 
 **to this version:**
 ```html
-		{% raw %}{% if page.category == "Life" %}
+		{% if page.category == "Life" %}
 		  <div class="post-navigation-suite" style="text-align:center; margin-top:4rem;">
 		    
 		    <!-- BACK TO LIFE remains the main character -->
@@ -13135,7 +13131,7 @@ We can reimagine them as more subtle elements that integrate more naturally into
 		    </div>
 
 		  </div>
-		{% endif %}{% endraw %}
+		{% endif %}
 ```
 
 ### The philosophy of this new design is:
@@ -13159,7 +13155,7 @@ It solves the usability problem you raised without sacrificing the artistic atmo
 If we go with the compromise, the original design is already pretty good. I've made more space and used only arrows; the current code for that part is as follows.
 
 
-		{% raw %}{% if page.category == "Life" %}
+		{% if page.category == "Life" %}
 		  <div class="post-nav" style="display:flex; justify-content:space-between; align-items:center; margin-top:10rem;">
 
 		    <div class="next-post" style="text-align:right;">
@@ -13179,7 +13175,7 @@ If we go with the compromise, the original design is already pretty good. I've m
 		  <div class="sort-toggle" style="text-align:center; margin-top:2rem;">
 		    <a href="{{ site.baseurl }}/life.html" class="button">BACK TO LIFE</a>
 		  </div>
-		{% endif %}{% endraw %}
+		{% endif %}
 
 However, I found an issue. I'm forcing dark mode in Chrome, so the design I see is different from what most people do. The first image is viewed in a normal browser. The second one is how I usually view it with Chrome forced dark mode. Clearly the latter's two buttons are more subdued. The border in the former is too thick and really hinders readability.
 
@@ -13385,7 +13381,7 @@ Now we only need to add our newly created class to those two arrow buttons.
 
 **Change the original code:**
 ```html
-		{% raw %}{% if page.category == "Life" %}
+		{% if page.category == "Life" %}
 		  <div class="post-nav" style="display:flex; justify-content:space-between; align-items:center; margin-top:10rem;">
 
 		    <div class="next-post" style="text-align:right;">
@@ -13405,12 +13401,12 @@ Now we only need to add our newly created class to those two arrow buttons.
 		  <div class="sort-toggle" style="text-align:center; margin-top:2rem;">
 		    <a href="{{ site.baseurl }}/life.html" class="button">BACK TO LIFE</a>
 		  </div>
-		{% endif %}{% endraw %}
+		{% endif %}
 ```
 
 **Modify it to the following version (note the change to `class`):**
 ```html
-		{% raw %}{% if page.category == "Life" %}
+		{% if page.category == "Life" %}
 		  <div class="post-nav" style="display:flex; justify-content:space-between; align-items:center; margin-top:10rem;">
 
 		    <div class="next-post" style="text-align:right;">
@@ -13432,7 +13428,7 @@ Now we only need to add our newly created class to those two arrow buttons.
 		  <div class="sort-toggle" style="text-align:center; margin-top:2rem;">
 		    <a href="{{ site.baseurl }}/life.html" class="button">BACK TO LIFE</a>
 		  </div>
-		{% endif %}{% endraw %}
+		{% endif %}
 ```
 
 After completing these two steps, your `←` and `→` buttons should look just as understated and elegant in a normal browser as they did in forced dark mode, while the `BACK TO LIFE` button will remain completely unaffected. Problem solved perfectly.
