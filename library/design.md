@@ -12801,7 +12801,7 @@ The update failed. What the hell?
 
 Alright, I completely understand what happened, and I can **100% confirm the root cause:**
 
-# ❌ **GitHub Pages (Jekyll v3.10) doesn't support `{% while %}`**
+# ❌ **GitHub Pages (Jekyll v3.10) doesn't support {% raw %}`{% while %}`{% endraw %}**
 
 You're using Jekyll that comes bundled with the official GitHub Pages setup, and the version is:
 

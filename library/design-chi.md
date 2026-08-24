@@ -12801,7 +12801,7 @@ post E (Life)
 
 好，我完全明白發生咩事，而且我可以**100% 確定問題嘅根源：**
 
-# ❌ **GitHub Pages（Jekyll v3.10）唔支援 `{% while %}`**
+# ❌ **GitHub Pages（Jekyll v3.10）唔支援 {% raw %}`{% while %}`{% endraw %}**
 
 你用嘅係 GitHub Pages 官方內置 Jekyll，版本係：
 
