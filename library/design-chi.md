@@ -12838,7 +12838,8 @@ GitHub Pages: jekyll v3.10.0
 
 ## ⭐ **尋找上一個 Life post**
 ```liquid
-{% raw %}{% assign prev_real = nil %}
+{% raw %}
+{% assign prev_real = nil %}
 {% assign ptr = page.previous %}
 
 {% for i in (1..50) %}
@@ -12848,14 +12849,16 @@ GitHub Pages: jekyll v3.10.0
   {% elsif ptr %}
     {% assign ptr = ptr.previous %}
   {% endif %}
-{% endfor %}{% endraw %}
+{% endfor %}
+{% endraw %}
 ```
 
 ---
 
 ## ⭐ **尋找下一個 Life post**
 ```liquid
-{% raw %}{% assign next_real = nil %}
+{% raw %}
+{% assign next_real = nil %}
 {% assign ptr2 = page.next %}
 
 {% for i in (1..50) %}
@@ -12865,7 +12868,8 @@ GitHub Pages: jekyll v3.10.0
   {% elsif ptr2 %}
     {% assign ptr2 = ptr2.next %}
   {% endif %}
-{% endfor %}{% endraw %}
+{% endfor %}
+{% endraw %}
 ```
 
 ---

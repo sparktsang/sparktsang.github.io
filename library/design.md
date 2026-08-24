@@ -12838,7 +12838,8 @@ You can paste this directly in. No risk.
 
 ## ⭐ **Find the previous Life post**
 ```liquid
-{% raw %}{% assign prev_real = nil %}
+{% raw %}
+{% assign prev_real = nil %}
 {% assign ptr = page.previous %}
 
 {% for i in (1..50) %}
@@ -12848,14 +12849,16 @@ You can paste this directly in. No risk.
   {% elsif ptr %}
     {% assign ptr = ptr.previous %}
   {% endif %}
-{% endfor %}{% endraw %}
+{% endfor %}
+{% endraw %}
 ```
 
 ---
 
 ## ⭐ **Find the next Life post**
 ```liquid
-{% raw %}{% assign next_real = nil %}
+{% raw %}
+{% assign next_real = nil %}
 {% assign ptr2 = page.next %}
 
 {% for i in (1..50) %}
@@ -12865,7 +12868,8 @@ You can paste this directly in. No risk.
   {% elsif ptr2 %}
     {% assign ptr2 = ptr2.next %}
   {% endif %}
-{% endfor %}{% endraw %}
+{% endfor %}
+{% endraw %}
 ```
 
 ---
