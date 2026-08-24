@@ -7,7 +7,7 @@ language: chi
 render_with_liquid: false
 ---
 
-In Cantonese. English translation [here][english]{:target="_blank"}.
+In Cantonese. English translation [**here**][english]{:target="_blank"}.
 
 ---
 
