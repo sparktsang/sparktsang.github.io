@@ -2,7 +2,7 @@
 layout: post
 title: "《21世紀價值投資》閱讀筆記"
 category: "Library"
-permalink: /library/value-invest/chi
+permalink: /library/value-invest/chi/
 language: chi
 ---
 

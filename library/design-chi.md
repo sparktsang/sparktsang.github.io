@@ -2,7 +2,7 @@
 layout: post
 title: "凌駕代碼：馴服 AI 鑄造策展神壇的十一萬字實錄"
 category: "Library"
-permalink: /library/design/chi
+permalink: /library/design/chi/
 language: chi
 render_with_liquid: false
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: "《人類大命運：從智人到神人》閱讀筆記"
 category: "Library"
-permalink: /library/deus/chi
+permalink: /library/deus/chi/
 language: chi
 ---
 
