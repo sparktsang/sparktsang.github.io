@@ -35,5 +35,6 @@ exclude:
 
 plugins:
 - jekyll-sitemap
+- jekyll-redirect-from
 
 permalink: /:categories/:slug/

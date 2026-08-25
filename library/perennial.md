@@ -2,6 +2,8 @@
 layout: post
 title: "The First Principles of Perennial Profit in Investing"
 category: "Library"
+redirect_from:
+  - /knowledge/2025/11/15/investment-first-principles.html
 ---
 
 This is an English translation of [an article I wrote on 2019](/library/perennial/chi){:target="_blank"}.

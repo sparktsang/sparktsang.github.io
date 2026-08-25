@@ -2,6 +2,8 @@
 layout: post
 title: "Notes on Harari's Homo Deus"
 category: "Library"
+redirect_from:
+  - /knowledge/2025/11/19/reading-homo-deus.html
 ---
 
 This is an English **adaptation** of [my notes](/library/deus/chi){:target="_blank"}, restructured and synthesized to highlight the book's central thesis: **that narrative creates system.**
