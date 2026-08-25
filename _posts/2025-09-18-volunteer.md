@@ -39,4 +39,4 @@ But as I settled into my bunk, I was sure of one thing. The next step in human c
 
 If kindness can survive even within a transaction, perhaps it’s not the world that needs more deals, but a world that knows when to stop counting.
 
-[castle]: {% post_url 2025-09-18-king-of-castle %}
+[castle]: {% post_url 2025-09-18-castle %}

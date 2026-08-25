@@ -34,4 +34,4 @@ The pattern is uncanny, and it holds true here in provincial Thailand. English p
 
 They didn't learn any English from me that day, and I learned very little Thai. But in that strange, funny, and deeply human exchange, we learned something else. We learned that communication is a stubborn thing. Even when language fails, a shared goal, a little bit of patience, and a whole lot of smiling can somehow, miraculously, get the job done.
 
-[neung]: {% post_url 2025-09-16-man-from-nowhere %}
+[neung]: {% post_url 2025-09-16-neung %}
