@@ -36,6 +36,8 @@ If you are tired of cookie-cutter websites and want to know what it takes to tam
 
 <hr class="custom-hr">
 
+［Five attachments: post.html, allposts.html, home.html, landing.html, page.html］
+
 There are five layouts in a Jekyll theme. I've pasted all of them in the attachment. What's the difference between them? What is each one used for?
 
 <hr class="custom-hr">
@@ -2413,7 +2415,11 @@ This option carries the lowest risk, because we're only making a minimal, target
 — Last updated: Sep 29, 2025 —
 {: style="text-align: center;"}
 
-<hr class="custom-hr">
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+  <img src="/assets/images/design_fig_18a.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+  <img src="/assets/images/design_fig_18.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+</div>
+<br>
 
 The image shows the resulting effect. You've got a few things wrong, so let's solve them one at a time.
 
@@ -2485,11 +2491,14 @@ Which style feels closer to what you had in mind?
 
 <hr class="custom-hr">
 
-［附件 A］
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+  <img src="/assets/images/design_fig_19.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+</div>
+<br>
 
-<hr class="custom-hr">
+［Attachment: life_showcase.html］
 
-The attached files contain the HTML I'm currently using, along with the resulting appearance. The original background color issue came from the CSS file, and I've now overridden it successfully. (The fragment demo images are all still very "normal" and clash with the rest of the website; they're only being used for testing. I believe I mentioned earlier that the actual images representing the articles will be custom-generated with AI to match the site's overall artistic style.)
+The attached file contains the HTML I'm currently using, along with the resulting appearance. The original background color issue came from the CSS file, and I've now overridden it successfully. (The fragment demo images are all still very "normal" and clash with the rest of the website; they're only being used for testing. I believe I mentioned earlier that the actual images representing the articles will be custom-generated with AI to match the site's overall artistic style.)
 
 How does the current color scheme look? Would another background color work better? Or would it be better to extend the Life Banner image across the entire page?
 
@@ -2584,9 +2593,10 @@ Try it and see which one better carries the weight of your "Life" theme.
 
 <hr class="custom-hr">
 
-［附圖 10］
-
-<hr class="custom-hr">
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+  <img src="/assets/images/design_fig_20.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+</div>
+<br>
 
 After extending it across the entire page, the result looks like the attached image. Does this immersive feeling have enough weight to carry the subject? Please analyze it in depth from an artistic perspective.
 
@@ -2652,9 +2662,12 @@ It can carry the full weight of your theme precisely because it becomes part of 
 
 <hr class="custom-hr">
 
-［附件 B］
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+  <img src="/assets/images/design_fig_21.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+</div>
+<br>
 
-<hr class="custom-hr">
+［Attachment: life_showcase.html］
 
 Excellent. I'm now working on how the article data is displayed in each article block. The design has always been that when the mouse moves over it, the date, title, and subtitle are displayed. I added some animation, and now it rapidly types the information out above the block.
 
@@ -2819,9 +2832,10 @@ After completing these two modifications, you should get the effect you want: an
 
 <hr class="custom-hr">
 
-［附圖 11］
-
-<hr class="custom-hr">
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+  <img src="/assets/images/design_fig_22.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+</div>
+<br>
 
 After you modified the sprite popup, it extends to the right with the block's left edge as its axis, typing outward, and the text is still covering the image.
 
@@ -3527,9 +3541,10 @@ After making this change, your info box will work perfectly. No matter how many 
 
 <hr class="custom-hr">
 
-［附圖 12］
-
-<hr class="custom-hr">
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+  <img src="/assets/images/design_fig_23.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+</div>
+<br>
 
 But solving the old problem created a new one. Originally, the text was inside the information box, but with your method, it flies out, starts colonizing new territory, and expands beyond the edge of the screen, as shown in the image.
 
@@ -3681,6 +3696,12 @@ This approach cleanly separates "structure", "data", and "behavior", making the 
 {: style="text-align: center;"}
 
 <hr class="custom-hr">
+
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+  <img src="/assets/images/design_fig_24.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+  <img src="/assets/images/design_fig_25.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+</div>
+<br>
 
 The html layout currently produces the webpage effect shown in those two screenshots. It is in a blog format for showcasing articles, with each article displayed as a square. But the other aspects are not what I want.
 
@@ -3977,6 +3998,11 @@ I've fixed up `life_showcase.html` for you and corrected the four issues you men
 Want me to **add a JavaScript "truly random offset" version** so the scattered arrangement is different every time the page reloads (instead of the fixed nth-child pattern)?
 
 <hr class="custom-hr">
+
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+  <img src="/assets/images/design_fig_26.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+</div>
+<br>
 
 The image is shown at 50% scale so I can show you the effect. I'll give you a look at the result. If you put it back to normal size, the boxes are still giant bricks.
 
@@ -4349,6 +4375,11 @@ Want me to add **direction detection for the info box** (for example, pop upward
 
 <hr class="custom-hr">
 
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+  <img src="/assets/images/design_fig_27.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+</div>
+<br>
+
 The effect is shown in the attached image. How is the artistic feel? Would a second color be better? Or would extending the banner image across the entire layout work better?
 
 <hr class="custom-hr">
@@ -4400,6 +4431,8 @@ Want me to **make two versions of the CSS demo**:
 Then you can switch between them and compare them visually?
 
 <hr class="custom-hr">
+
+［Attachment：_banner.scss］
 
 Please rewrite the document so that the banner image retains its existing filter and extends across the entire page. But note that we may also need to override other files. The attachment is the banner CSS; please take a look and see whether it's relevant.
 
@@ -4599,6 +4632,11 @@ I rewrote it as a "full-page extension" version while keeping the overlay:
 Do you want me to also add **automatic detection of the popup's direction** (i.e. if a fragment is near the bottom of the page, pop it upward; if it's on the right, pop it to the left)? That would completely solve the "info box going off-screen" problem.
 
 <hr class="custom-hr">
+
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+  <img src="/assets/images/design_fig_28.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+</div>
+<br>
 
 Failed. The image does extend across the entire page, but the overlay is gone, as you can see in the attached image. It seems you couldn't read the Banner file I uploaded above. Here is the full `_banner.scss`.
 
@@ -5022,6 +5060,11 @@ Do you want me to also add "automatic popup direction detection"? For example, e
 
 <hr class="custom-hr">
 
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+  <img src="/assets/images/design_fig_29.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+</div>
+<br>
+
 The result looks quite good. Now let's go back to the original problem with the article info box.
 
 It's still appearing as a box below. It has absolutely no aesthetic appeal and isn't clear.
@@ -5251,6 +5294,11 @@ I've integrated the CSS + JS animation (pure native, no external dependencies):
 Want me to add a **random popup position** as well (sometimes floating upward, sometimes to the left/right), so the "elf" feels even more like it's genuinely popping out at random?
 
 <hr class="custom-hr">
+
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+  <img src="/assets/images/design_fig_30.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+</div>
+<br>
 
 It has improved, yes. It's now an animated typing effect that floats upward. The actual result is shown in the attached image.
 
@@ -8141,9 +8189,11 @@ You've already taken the hardest step, which was realizing the old path doesn't 
 
 <hr class="custom-hr">
 
-［附圖 13］
-
-<hr class="custom-hr">
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+  <img src="/assets/images/design_fig_31.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+  <img src="/assets/images/design_fig_32.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+</div>
+<br>
 
 Of course I need to take a deep breath. Your answer shows that you haven't even been able to figure out what my site actually looks like.
 
@@ -8909,9 +8959,11 @@ Below is the complete consolidated file, which you can directly replace your exi
 
 <hr class="custom-hr">
 
-［附圖 14］
-
-<hr class="custom-hr">
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+  <img src="/assets/images/design_fig_33.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+  <img src="/assets/images/design_fig_34.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+</div>
+<br>
 
 Okay, the result is already presentable. But there are still a few small issues.
 
@@ -9022,9 +9074,10 @@ After replacing this function, when you hover over a tile near the top of the pa
 
 <hr class="custom-hr">
 
-［附圖 15］
-
-<hr class="custom-hr">
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+  <img src="/assets/images/design_fig_35.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+</div>
+<br>
 
 Failed. When the image tile is slightly lower on the page, the info box still displays with no problem at all. But when the image tile is slightly higher on the page, this time the info box is not below it, but above it, causing the date to disappear, as shown in the image. It still doesn't know how to occupy the most advantageous position on the page.
 
@@ -9122,9 +9175,10 @@ I apologize again for the buggy code I provided earlier, and thank you for your 
 
 <hr class="custom-hr">
 
-［附圖 16］
-
-<hr class="custom-hr">
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+  <img src="/assets/images/design_fig_36.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+</div>
+<br>
 
 After repeated testing, I found that you seem not to have taken the header into account. If there were no header, or if the box could overlap the header (which it currently cannot), the info box should just barely fit and display in full, without the date disappearing.
 
@@ -9365,9 +9419,10 @@ Problem solved.
 
 <hr class="custom-hr">
 
-［附圖 17］
-
-<hr class="custom-hr">
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+  <img src="/assets/images/design_fig_37.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+</div>
+<br>
 
 Couldn't fix it, so let's set this little underline issue aside for now. Let's look at something more obvious: when I zoom the page out on a computer, as soon as I reduce it to 50%, the second image block suddenly seems to turn into a negative image, but I can still see the hand and passport and recognize that it's the same picture. When I zoom back in, it returns to normal. Only that image does this.
 
@@ -9774,9 +9829,7 @@ Done. Once you save and push this file, you'll find that the "About Me" link app
 
 <hr class="custom-hr">
 
-［附件 C］
-
-<hr class="custom-hr">
+［Attachment: tiles.html］
 
 I've already thought about what you're thinking of. It's wrong.
 
@@ -10948,9 +11001,10 @@ After making this change, your website will immediately take on a completely dif
 
 <hr class="custom-hr">
 
-［附圖 18］
-
-<hr class="custom-hr">
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+  <img src="/assets/images/design_fig_38.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+</div>
+<br>
 
 Pretty good. I've now set `grid-gap: 15em`, which gives it plenty of room to breathe.
 
@@ -11034,9 +11088,10 @@ This change is like taking an actor who originally only dared to dance in tiny s
 
 <hr class="custom-hr">
 
-［附圖 19］
-
-<hr class="custom-hr">
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+  <img src="/assets/images/design_fig_39.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+</div>
+<br>
 
 The effect is already quite good. There's just one thing left for the mobile version. On the desktop version, when you point the mouse at an image tile, a reasonably large information box pops up. But on mobile, this information box looks too small.
 
@@ -11119,9 +11174,10 @@ This is an artistic tuning process, so there's no absolute "correct answer". Fee
 
 <hr class="custom-hr">
 
-［附圖 20］
-
-<hr class="custom-hr">
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+  <img src="/assets/images/design_fig_40.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+</div>
+<br>
 
 Not working. The box is constrained in width and has turned into a monster. Do I need to adjust the `width: calc(...)` line too?
 
@@ -11195,9 +11251,10 @@ After this final change, your "monster" will become a well-proportioned work of 
 
 <hr class="custom-hr">
 
-［附圖 21］
-
-<hr class="custom-hr">
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+  <img src="/assets/images/design_fig_41.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+</div>
+<br>
 
 Let me ask a website layout strategy question. After changing it to 80vw, I got a fairly ideal result. The attached image is at 25%; at normal size on the same screen, I don't see two complete image tiles displayed simultaneously, unless by chance, given that their vertical positions are random. The focusing effect is fully there.
 
@@ -11665,6 +11722,8 @@ After this modification, your 404 page is no longer an isolated error page, but 
 {: style="text-align: center;"}
 
 <hr class="custom-hr">
+
+［Attachment: life_showcase.html］
 
 A simple question: does the layout in the attachment determine the order in which the posts on the page are displayed? What's the logic?
 
@@ -12171,6 +12230,11 @@ If you want, I can:
 Do you want me to immediately produce a complete working `allpost.html` (including the buttons, JS, and minor CSS tweaks) for you to replace directly?
 
 <hr class="custom-hr">
+
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+  <img src="/assets/images/design_fig_45.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+</div>
+<br>
 
 The attached image shows the result, and this ultra-minimalist style is exactly perfect.
 
@@ -13165,9 +13229,11 @@ It solves the usability problem you raised without sacrificing the artistic atmo
 
 <hr class="custom-hr">
 
-［附圖 22］
-
-<hr class="custom-hr">
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+  <img src="/assets/images/design_fig_42.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+  <img src="/assets/images/design_fig_43.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+</div>
+<br>
 
 If we go with the compromise, the original design is already pretty good. I've made more space and used only arrows; the current code for that part is as follows.
 
@@ -13452,9 +13518,10 @@ After completing these two steps, your `←` and `→` buttons should look just 
 
 <hr class="custom-hr">
 
-［附圖 23］
-
-<hr class="custom-hr">
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+  <img src="/assets/images/design_fig_44.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+</div>
+<br>
 
 I just changed the `box-shadow` and `color` lines in `_button.scss` and that did the trick. Now all the buttons have a unified artistic style. Here's how it looks in a normal browser now.
 

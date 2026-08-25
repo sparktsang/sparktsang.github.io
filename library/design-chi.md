@@ -36,6 +36,8 @@ In Cantonese. English translation [**here**][english]{:target="_blank"}.
 
 <hr class="custom-hr">
 
+［五項附件：post.html、allposts.html、home.html、landing.html、page.html］
+
 有個Jekyll theme有五個layout，我貼晒喺附件。佢哋之間有啲乜嘢唔同呢？各自喺咩情況下用嘅呢？
 
 <hr class="custom-hr">
@@ -2415,6 +2417,12 @@ Life冇咗，呢頁係乜都唔知。連banner都冇咗，我話我想banner嘅�
 
 <hr class="custom-hr">
 
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+  <img src="/assets/images/design_fig_18a.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+  <img src="/assets/images/design_fig_18.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+</div>
+<br>
+
 圖中係出嚟個效果。你有啲位搞錯咗，我哋逐樣解決比較好。
 
 方塊嘅尺寸等等我哋唔講住。依家先探討一樣嘢：Life個banner下面，裝一個個文章方塊嘅版面，應該用咩底色？依家佢同最頂個header同色，是否理想？
@@ -2485,9 +2493,12 @@ Life冇咗，呢頁係乜都唔知。連banner都冇咗，我話我想banner嘅�
 
 <hr class="custom-hr">
 
-［附件 A］
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+  <img src="/assets/images/design_fig_19.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+</div>
+<br>
 
-<hr class="custom-hr">
+［附件：life_showcase.html］
 
 附件係我依家用緊嘅html，同埋個效果。原來底色問題來自css檔，我已寫到override咗佢。（依家啲碎片示範圖全部都好「正常」，同個網本身充斥違和感，嗰啲只係用嚟測試，之前應該講過真正嘅代表文章嘅圖會搵AI度身訂造，符合返成個網嘅藝術風格）。
 
@@ -2584,9 +2595,10 @@ body {
 
 <hr class="custom-hr">
 
-［附圖 10］
-
-<hr class="custom-hr">
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+  <img src="/assets/images/design_fig_20.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+</div>
+<br>
 
 延伸全頁後，效果係有如附圖咁樣。呢個immersive嘅感覺，承唔承載到個重量？請以藝術角度詳析。
 
@@ -2652,9 +2664,12 @@ body {
 
 <hr class="custom-hr">
 
-［附件 B］
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+  <img src="/assets/images/design_fig_21.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+</div>
+<br>
 
-<hr class="custom-hr">
+［附件：life_showcase.html］
 
 極好。依家我處理緊每個文章方塊如何顯示文章資料。個設計一直係滑鼠移向佢，先顯示日期、標題、副題三樣嘢。我加咗啲動畫，佢依家會喺方塊上面快速打啲資料出嚟。
 
@@ -2819,9 +2834,10 @@ document.querySelectorAll('.post-fragment').forEach(fragment => {
 
 <hr class="custom-hr">
 
-［附圖 11］
-
-<hr class="custom-hr">
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+  <img src="/assets/images/design_fig_22.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+</div>
+<br>
 
 跟你改精靈popup之後，佢會以方塊左線為軸，向右咁延伸打字，啲字仍然覆蓋住張圖。
 
@@ -3527,9 +3543,10 @@ document.querySelectorAll('.post-fragment').forEach(fragment => {
 
 <hr class="custom-hr">
 
-［附圖 12］
-
-<hr class="custom-hr">
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+  <img src="/assets/images/design_fig_23.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+</div>
+<br>
 
 但解決咗舊問題，又產生新問題。原本啲文字係喺個資訊框裡面，用咗你個方法，佢就飛出去，自己開疆拓土，拓到去畫面外面，如附圖。
 
@@ -3681,6 +3698,12 @@ document.querySelectorAll('.post-fragment').forEach(fragment => {
 {: style="text-align: center;"}
 
 <hr class="custom-hr">
+
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+  <img src="/assets/images/design_fig_24.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+  <img src="/assets/images/design_fig_25.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+</div>
+<br>
 
 html個layout嘅效果，出嚟就係嗰兩張截圖顯示嘅網頁。佢係一個網誌形式，用嚟showcase文章，每個文章嘅展示方式係一個正方形。但其他嘢唔係我想要嘅效果。
 
@@ -3977,6 +4000,11 @@ CSS 部分：
 要唔要我再幫你 **加一版 JavaScript「真隨機 offset」**，令每次 reload 都有唔同散落效果（而唔只係 nth-child 固定 pattern）？
 
 <hr class="custom-hr">
+
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+  <img src="/assets/images/design_fig_26.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+</div>
+<br>
 
 圖中係用50%大細，一圖畀你睇效果。如果放返正常尺寸，啲方塊仍然係巨磚。
 
@@ -4349,6 +4377,11 @@ document.querySelectorAll('.post-fragment').forEach(el => {
 
 <hr class="custom-hr">
 
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+  <img src="/assets/images/design_fig_27.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+</div>
+<br>
+
 效果如附圖。藝術感如何？用第二隻色會否更好？或者將banner個圖延伸到成個版面又會否更好？
 
 <hr class="custom-hr">
@@ -4400,6 +4433,8 @@ document.querySelectorAll('.post-fragment').forEach(el => {
 你可以即刻換一換測試，肉眼對比下邊個更有藝術感。
 
 <hr class="custom-hr">
+
+［附件：_banner.scss］
 
 請重寫文件，令banner幅圖保留現有濾鏡同延伸全版。但留意可能要override埋其他文件。附件係banner份css，請睇睇關唔關事。
 
@@ -4599,6 +4634,11 @@ document.querySelectorAll('.post-fragment').forEach(el => {
 要唔要我再幫你加埋 **自動判斷 popup 彈出方向**（即：如果碎片喺頁面底，就向上彈；喺右邊，就向左彈）？咁就完全解決「資訊框出界」嘅問題。
 
 <hr class="custom-hr">
+
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+  <img src="/assets/images/design_fig_28.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+</div>
+<br>
 
 失敗。幅圖確實延伸全頁，但濾鏡冇，見附圖。你上面好似讀唔到我傳個banner檔。個_banner.scss全文如下。 
 
@@ -5022,6 +5062,11 @@ body::before {
 
 <hr class="custom-hr">
 
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+  <img src="/assets/images/design_fig_29.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+</div>
+<br>
+
 出嚟效果相當好。依家我哋返返去文章資訊框嘅原初問題。
 
 佢仍然係向下顯示出一個框。毫無美感，亦欠清晰。
@@ -5251,6 +5296,11 @@ body::before {
 要唔要我再幫你加一個 **隨機 popup 方位**（有時向上、有時向左/右漂浮），令「精靈」更似真係亂咁走出嚟？
 
 <hr class="custom-hr">
+
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+  <img src="/assets/images/design_fig_30.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+</div>
+<br>
 
 係有改進嘅，佢依家係動畫打字，喺上面漂出嚟。實際效果如附圖。
 
@@ -8141,9 +8191,11 @@ if (maxY <= areaTop) {
 
 <hr class="custom-hr">
 
-［附圖 13］
-
-<hr class="custom-hr">
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+  <img src="/assets/images/design_fig_31.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+  <img src="/assets/images/design_fig_32.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+</div>
+<br>
 
 我當然要深呼吸，你嘅回答顯示你連我個網係點都未睇得出。
 
@@ -8909,9 +8961,11 @@ if (isTouchDevice) {
 
 <hr class="custom-hr">
 
-［附圖 14］
-
-<hr class="custom-hr">
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+  <img src="/assets/images/design_fig_33.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+  <img src="/assets/images/design_fig_34.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+</div>
+<br>
 
 好，成果見得人。但仍有幾個小問題。
 
@@ -9022,9 +9076,10 @@ if (fragmentRect.top < popupRect.height) { // 如果方塊頂部距離畫面頂�
 
 <hr class="custom-hr">
 
-［附圖 15］
-
-<hr class="custom-hr">
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+  <img src="/assets/images/design_fig_35.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+</div>
+<br>
 
 失敗。當配圖方塊喺版面稍下位置，個資訊框顯示仍然全無問題。但當配圖方塊喺版面稍上位置，今次個資訊框就唔喺下面，而係喺上面，導致個日期無咗，如圖。佢仍然唔識佔據版面最有利位置。
 
@@ -9122,9 +9177,10 @@ if (fragmentRect.top < popupRect.height) { // 如果方塊頂部距離畫面頂�
 
 <hr class="custom-hr">
 
-［附圖 16］
-
-<hr class="custom-hr">
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+  <img src="/assets/images/design_fig_36.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+</div>
+<br>
 
 反覆測試後，我發現你似乎未有計算個header。如果唔係有個header，或者個框可以覆蓋個header（目前不能），個資訊框就應該勉強啱啱好完整顯示，唔會冇咗日期。
 
@@ -9365,9 +9421,10 @@ if (fragmentRect.top < popupRect.height) { // 如果方塊頂部距離畫面頂�
 
 <hr class="custom-hr">
 
-［附圖 17］
-
-<hr class="custom-hr">
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+  <img src="/assets/images/design_fig_37.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+</div>
+<br>
 
 搞唔掂，暫時擱置呢個底線小問題先。探討一個更明顯嘅：當喺電腦縮小頁面，一縮到50%，突然間第二張配圖方塊，會變成似乎係負色，但仍然見到隻手同護照，認得係同一張相。放返大又恢復正常。只係得嗰張相會咁。
 
@@ -9774,9 +9831,7 @@ image: assets/images/life-tile.jpg
 
 <hr class="custom-hr">
 
-［附件 C］
-
-<hr class="custom-hr">
+［附件：tiles.html］
 
 你諗嘅嘢我已經諗過。係錯嘅。
 
@@ -10948,9 +11003,10 @@ grid-gap: 8em;
 
 <hr class="custom-hr">
 
-［附圖 18］
-
-<hr class="custom-hr">
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+  <img src="/assets/images/design_fig_38.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+</div>
+<br>
 
 相當好，依家我設定到 grid-gap: 15em，夠晒位呼吸。
 
@@ -11034,9 +11090,10 @@ const dy = (Math.random() - 0.5) * 60;
 
 <hr class="custom-hr">
 
-［附圖 19］
-
-<hr class="custom-hr">
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+  <img src="/assets/images/design_fig_39.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+</div>
+<br>
 
 而家效果相當好，只差手機版一樣嘢。喺電腦版用滑鼠指向配圖方塊，會彈出一個尺寸可觀嘅資訊框。但喺手機上，呢個資訊框顯得太細。
 
@@ -11119,9 +11176,10 @@ const dy = (Math.random() - 0.5) * 60;
 
 <hr class="custom-hr">
 
-［附圖 20］
-
-<hr class="custom-hr">
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+  <img src="/assets/images/design_fig_40.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+</div>
+<br>
 
 唔掂，個框限定咗闊度，變咗怪物。係咪要調整埋width: calc(...)嗰行？
 
@@ -11195,9 +11253,10 @@ const dy = (Math.random() - 0.5) * 60;
 
 <hr class="custom-hr">
 
-［附圖 21］
-
-<hr class="custom-hr">
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+  <img src="/assets/images/design_fig_41.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+</div>
+<br>
 
 問一個網站佈局戰略問題。我改成80vw之後，得到相當理想嘅效果。附圖係25%，正常尺寸之下同一個熒幕我見唔到會同時顯示兩張完整嘅配圖方塊，即使有都係偶然，睇佢哋嘅縱軸隨機位置。有晒聚焦效果。
 
@@ -11665,6 +11724,8 @@ image: 'assets/images/life-bg.jpg' # 【重要】請確認呢個係你 Life 頁�
 {: style="text-align: center;"}
 
 <hr class="custom-hr">
+
+［附件：life_showcase.html］
 
 一個簡單問題：附件中嘅layout有冇決定頁面嘅文章次序點排？個邏輯係點？
 
@@ -12171,6 +12232,11 @@ document.addEventListener("DOMContentLoaded", () => {
 你想我即刻幫你出一個完整可運行嘅 allpost.html（含按鈕、JS、以及微調 CSS）畀你直接替換嗎？
 
 <hr class="custom-hr">
+
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+  <img src="/assets/images/design_fig_45.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+</div>
+<br>
 
 附圖就係結果，呢個極簡風格正正完美。
 
@@ -13165,9 +13231,11 @@ GitHub Pages: jekyll v3.10.0
 
 <hr class="custom-hr">
 
-［附圖 22］
-
-<hr class="custom-hr">
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+  <img src="/assets/images/design_fig_42.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+  <img src="/assets/images/design_fig_43.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+</div>
+<br>
 
 如果用折衷方案，原本設計已經幾好。我已整咗更大空間，同埋只用箭咀，目前該部份代碼如下。
 
@@ -13452,9 +13520,10 @@ GitHub Pages: jekyll v3.10.0
 
 <hr class="custom-hr">
 
-［附圖 23］
-
-<hr class="custom-hr">
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+  <img src="/assets/images/design_fig_44.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+</div>
+<br>
 
 我喺_button.scss改box-shadow同color兩行搞掂。全部掣都統一藝術風格。依家正常瀏覽器效果如圖。
 
