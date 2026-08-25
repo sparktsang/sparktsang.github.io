@@ -1,14 +1,13 @@
 ---
 layout: post
 title: "凌駕代碼：馴服 AI 鑄造策展神壇的十一萬字實錄"
-category: "Library"
-permalink: /library/design/entry/chi
+category: "Entry"
+permalink: /entry/design/chi
 language: chi
-show_library: false
 render_with_liquid: false
 ---
 
-In Cantonese. English translation [**here**][english]{:target="_blank"}.
+In Cantonese. English translation [**here**][eng]{:target="_blank"}.
 
 ---
 
@@ -34,5 +33,5 @@ In Cantonese. English translation [**here**][english]{:target="_blank"}.
 .read-more-btn:hover { background-color: #444444; }
 </style>
 
-[english]: /library/design/entry
+[eng]: /entry/design/
 [life]: /life

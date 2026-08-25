@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "Overriding Code: A 110,000-Character Manifesto on Taming AI and Architecting a Digital Altar"
-category: "Library"
-permalink: /library/design/entry/
+category: "Entry"
+permalink: /entry/design/
 language: eng
-show_library: false
 render_with_liquid: false
 ---
 
@@ -35,5 +34,5 @@ If you are tired of cookie-cutter websites and want to know what it takes to tam
 .read-more-btn:hover { background-color: #444444; }
 </style>
 
-[chi]: /library/design/entry/chi
+[chi]: /entry/design/chi
 [life]: /life
