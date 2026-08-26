@@ -3,7 +3,7 @@ layout: post
 category: "Library"
 classification: History and Politics
 title: "Notes on Pillsbury's <i>The Hundred-Year Marathon</i>"
-short_title: "The Hundred-Year Marathon
+short_title: "The Hundred-Year Marathon"
 image: assets/bookcover/hundred-year-marathon.jpg
 ---
 
