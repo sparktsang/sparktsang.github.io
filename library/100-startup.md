@@ -2,7 +2,7 @@
 layout: post
 category: "Library"
 classification: Business
-title: 'Notes on <i>The $100 Startup</i>'
+title: "Notes on <i>The $100 Startup</i>"
 short_title: "The $100 Startup"
 image: assets/bookcover/100-startup.webp
 ---
