@@ -5,6 +5,8 @@ short_title: "Portrait of a Young Ghost"
 subtitle: "I had no hope, but I had a hypothesis. And that hypothesis...was just enough to keep the ghost walking."
 category: "Life"
 image: assets/images/broken_childhood_bing.jpeg
+redirect_from:
+  - life/2025/10/25/childhood.html
 ---
 
 This essay is the first of an eleven-part series.

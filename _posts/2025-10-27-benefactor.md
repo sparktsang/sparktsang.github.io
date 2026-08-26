@@ -5,6 +5,8 @@ short_title: "The Bridge Never Crossed"
 subtitle: "Truth does not travel. It only reveals the fault lines of the worlds it touches."
 category: "Life"
 image: assets/images/benefactor_bing.jpg
+redirect_from:
+  - life/2025/10/27/benefactor.html
 ---
 
 Prequel — [*The Epistemic Island: A Language with No Other Speaker*][preach]

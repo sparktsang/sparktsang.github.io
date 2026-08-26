@@ -5,6 +5,8 @@ short_title: "A Refugee of Trust"
 subtitle: "This wasn't a world without trust. It was a world that had learned to fake it perfectly."
 category: "Life"
 image: assets/images/man_in_suit_on_stage_l.jpg
+redirect_from:
+  - life/2025/10/25/insurance.html
 ---
 
 Prequel — [*The Map That Devoured Its Maker*][gap]

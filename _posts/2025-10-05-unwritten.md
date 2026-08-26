@@ -5,6 +5,8 @@ short_title: "The Unwritten Menu"
 subtitle: "You would never even know the other menu—the other reality—existed."
 category: "Life"
 image: assets/images/unwritten_menu_imagen.jpeg
+redirect_from:
+  - life/2025/10/05/unwritten-menu.html
 ---
 
 In the gray zone between a tourist trap and a truly local experience, there exists a fascinating ecosystem. These are the restaurants that have, over time, learned to cater to foreigners but have not yet lost their local soul. Here, in this liminal space, the rules are unwritten, and reality is a matter of perspective.
