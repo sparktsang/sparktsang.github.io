@@ -1,9 +1,12 @@
 ---
 layout: post
-title: "《21世紀價值投資》閱讀筆記"
 category: "Library"
+classification: investment
+title: "《21世紀價值投資》閱讀筆記"
+short_title: "21世紀價值投資"
 permalink: /library/value-invest/chi/
 language: chi
+image: assets/bookcover/value-inv-chi.jpg
 ---
 
 English translation [here](/library/value-invest){:target="_blank"}. 

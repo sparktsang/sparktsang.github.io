@@ -1,7 +1,10 @@
 ---
 layout: post
-title: "Notes on Value Investing: From Graham to Buffett and Beyond"
 category: "Library"
+classification: investment
+title: "Notes on Value Investing: From Graham to Buffett and Beyond"
+short_title: "Value Investing: From Graham to Buffett and Beyond"
+image: assets/bookcover/value-inv.webp
 redirect_from:
   - /knowledge/2025/11/19/reading-value-investing-from-graham-to-buffett.html
 ---

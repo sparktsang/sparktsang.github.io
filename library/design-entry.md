@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Overriding Code: A 110,000-Character Manifesto on Taming AI and Architecting a Digital Altar"
 category: "Entry"
+title: "Overriding Code: A 110,000-Character Manifesto on Taming AI and Architecting a Digital Altar"
 permalink: /entry/design/
 language: eng
 render_with_liquid: false

@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "凌駕代碼：馴服 AI 鑄造策展神壇的十二萬字實錄"
 category: "Library"
+classification: data science
+title: "凌駕代碼：馴服 AI 鑄造策展神壇的十二萬字實錄"
 permalink: /library/design/chi/
 language: chi
 render_with_liquid: false

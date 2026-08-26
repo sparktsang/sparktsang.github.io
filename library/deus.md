@@ -1,7 +1,10 @@
 ---
 layout: post
-title: "Notes on Harari's Homo Deus"
 category: "Library"
+classification: history
+title: "Notes on Harari's Homo Deus"
+short_title: "Homo Deus"
+image: assets/bookcover/deus.png
 redirect_from:
   - /knowledge/2025/11/19/reading-homo-deus.html
 ---

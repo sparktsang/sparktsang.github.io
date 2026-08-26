@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "投資長勝的普世法則"
 category: "Library"
+classification: investment
+title: "投資長勝的普世法則"
 permalink: /library/perennial/chi/
 language: chi
 ---
