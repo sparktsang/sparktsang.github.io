@@ -9,6 +9,8 @@ language: chi
 image: assets/bookcover/fritz-chi.jpg
 ---
 
+*The Path of Least Resistance: Learning to Become the Creative Force in Your Own Life* by Robert Fritz
+
 English translation [here](/library/least-resistance){:target="_blank"}. 
 
 ---

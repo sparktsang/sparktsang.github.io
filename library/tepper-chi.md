@@ -9,6 +9,9 @@ language: chi
 image: assets/bookcover/tepper.webp
 ---
 
+《競爭之死：高度壟斷的資本主義，是延誤創新、壓低工資、拉大貧富差距的元凶》
+*The Myth of Capitalism: Monopolies and the Death of Competition* by Jonathan Tepper
+
 English translation [here](/library/tepper){:target="_blank"}. 
 
 ---

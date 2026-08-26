@@ -2,10 +2,12 @@
 layout: post
 category: "Library"
 classification: History and Politics
-title: "Notes on Pillsbury's <i>The Hundred-Year Marathon</i>"
+title: "Notes on <i>The Hundred-Year Marathon</i>"
 short_title: "The Hundred-Year Marathon"
 image: assets/bookcover/hundred-year-marathon.jpg
 ---
+
+*The Hundred-Year Marathon: China's Secret Strategy to Replace America as the Global Superpower* by Michael Pillsbury
 
 Original version [here](/library/hundred-year-marathon/chi){:target="_blank"}. 
 

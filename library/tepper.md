@@ -7,6 +7,8 @@ short_title: "The Myth of Capitalism: Monopolies and the Death of Competition"
 image: assets/bookcover/tepper.jpg
 ---
 
+*The Myth of Capitalism: Monopolies and the Death of Competition* by Jonathan Tepper
+
 Original version [here](/library/tepper/chi){:target="_blank"}. 
 
 ---

@@ -9,6 +9,8 @@ language: chi
 image: assets/bookcover/ted-talks.jpg
 ---
 
+*TED Talks: The Official TED Guide to Public Speaking* by Chris Anderson
+
 English translation [here](/library/ted-talks){:target="_blank"}. 
 
 ---

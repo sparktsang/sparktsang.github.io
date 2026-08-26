@@ -2,10 +2,12 @@
 layout: post
 category: "Library"
 classification: Personal Growth
-title: "Notes on Anderson's<i>TED Talks</i>"
+title: "Notes on <i>TED Talks</i>"
 short_title: "Anderson's TED Talks"
 image: assets/bookcover/ted-talks.webp
 ---
+
+*TED Talks: The Official TED Guide to Public Speaking* by Chris Anderson
 
 Original version [here](/library/ted-talks/chi){:target="_blank"}. 
 

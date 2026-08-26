@@ -9,6 +9,8 @@ language: chi
 image: assets/bookcover/power-of-now.webp
 ---
 
+*The Power of Now: A Guide to Spiritual Enlightenment* by Eckhart Tolle
+
 English translation [here](/library/power-of-now){:target="_blank"}. 
 
 ---

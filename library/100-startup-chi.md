@@ -9,6 +9,8 @@ language: chi
 image: assets/bookcover/100-startup.webp
 ---
 
+*The $100 Startup: Fire Your Boss, Do What You Love and Work Better To Live More* by Chris Guillebeau
+
 English translation [here](/library/100-startup){:target="_blank"}. 
 
 ---

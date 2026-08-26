@@ -9,6 +9,8 @@ redirect_from:
   - /knowledge/2025/11/19/reading-homo-deus.html
 ---
 
+*Homo Deus: A brief history of tomorrow* by Yuval Noah Harari
+
 This is an English **adaptation** of [my notes](/library/deus/chi){:target="_blank"}, restructured and synthesized to highlight the book's central thesis: **that narrative creates system.**
 
 ---

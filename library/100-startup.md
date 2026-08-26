@@ -7,7 +7,9 @@ short_title: "The $100 Startup"
 image: assets/bookcover/100-startup.webp
 ---
 
-Original version [here](/library/100-startup/chi){:target="_blank"}. 
+*The $100 Startup: Fire Your Boss, Do What You Love and Work Better To Live More* by Chris Guillebeau
+
+Original notes [here](/library/100-startup/chi){:target="_blank"}.  
 
 ---
 

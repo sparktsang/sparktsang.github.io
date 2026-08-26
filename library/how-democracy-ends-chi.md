@@ -9,6 +9,8 @@ language: chi
 image: assets/bookcover/how-democracy-ends-chi.jpg  
 ---
 
+*How Democracy Ends* by David Runciman
+
 English translation [here](/library/how-democracy-ends){:target="_blank"}.  
 
 ---

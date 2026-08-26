@@ -7,7 +7,9 @@ short_title: "Grit: The Power of Passion and Perseverance"
 image: assets/bookcover/grit.webp
 ---
 
-Original version [here](/library/grit/chi){:target="_blank"}. 
+*Grit: The Power of Passion and Perseverance* by Angela Duckworth
+
+Original notes [here](/library/grit/chi){:target="_blank"}. 
 
 ---
 

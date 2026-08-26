@@ -9,6 +9,8 @@ language: chi
 image: assets/bookcover/grit-chi.jpg
 ---
 
+*Grit: The Power of Passion and Perseverance* by Angela Duckworth
+
 English translation [here](/library/grit){:target="_blank"}. 
 
 ---

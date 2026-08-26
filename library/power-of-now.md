@@ -7,6 +7,8 @@ short_title: "The Power of Now"
 image: assets/bookcover/power-of-now.webp
 ---
 
+The Power of Now: A Guide to Spiritual Enlightenment is a book by Eckhart Tolle
+
 Original version [here](/library/power-of-now/chi){:target="_blank"}. 
 
 ---

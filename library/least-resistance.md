@@ -7,6 +7,8 @@ short_title: "The Path of Least Resistance"
 image: assets/bookcover/fritz.jpg
 ---
 
+*The Path of Least Resistance: Learning to Become the Creative Force in Your Own Life* by Robert Fritz
+
 Original version [here](/library/least-resistance/chi){:target="_blank"}. 
 
 ---

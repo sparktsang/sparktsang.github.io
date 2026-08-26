@@ -2,12 +2,14 @@
 layout: post
 category: "Library"
 classification: History and Politics
-title: "《2049百年馬拉松》閱讀筆記"
-short_title: "2049百年馬拉松"
+title: "《2049 百年馬拉松》閱讀筆記"
+short_title: "2049 百年馬拉松"
 permalink: /library/hundred-year-marathon/chi/
 language: chi
 image: assets/bookcover/hundred-year-marathon-chi.jpg
 ---
+
+*The Hundred-Year Marathon: China's Secret Strategy to Replace America as the Global Superpower* by Michael Pillsbury
 
 English translation [here](/library/hundred-year-marathon){:target="_blank"}. 
 

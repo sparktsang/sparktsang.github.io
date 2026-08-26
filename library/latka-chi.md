@@ -9,11 +9,11 @@ language: chi
 image: assets/bookcover/latka.webp
 ---
 
+*How to Be a Capitalist Without Any Capital: The Four Rules You Must Break To Get Rich* by  Nathan Latka
+
 In Cantonese. English translation [here](/library/latka){:target="_blank"}. 
 
 ---
-
-英文書名：How to be a capitalist without any capital  
 
 第一定律  
 唔好再集中一樣嘢  

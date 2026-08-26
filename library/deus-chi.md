@@ -9,6 +9,8 @@ language: chi
 image: assets/bookcover/deus-chi.jpg
 ---
 
+*Homo Deus: A brief history of tomorrow* by Yuval Noah Harari
+
 [An English adaptation](/library/deus){:target="_blank"} is restructured to highlight the book's central thesis: **that narrative creates system.**
 
 ---
