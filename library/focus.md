@@ -13,8 +13,6 @@ Original notes [here](/library/focus/chi){:target="_blank"}.
 
 ---
 
-Daniel Goldman, *Focus: The Hidden Driver of Excellence* Notes
-
 An investigator sketching a thief in a crowded shopping mall must remain constantly focused
 Attention can be broadly divided into three kinds: inward, toward others, and outward
 The abundance of information today leaves children with less capacity for learning and reduces real-world interaction. A middle-school teacher said that even high-achieving students now think reading *Greek and Roman Mythology* is too difficult, something that had never happened in the past
