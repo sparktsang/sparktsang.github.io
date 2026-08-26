@@ -2,7 +2,7 @@
 layout: post
 category: "Library"
 classification: self-growth
-title: 'Notes on "Grit: The Power of Passion and Perseverance"'
+title: 'Notes on <i>Grit: The Power of Passion and Perseverance</i>'
 short_title: "Grit: The Power of Passion and Perseverance"
 image: assets/bookcover/grit.webp
 ---
