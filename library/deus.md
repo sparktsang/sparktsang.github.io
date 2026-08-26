@@ -1,7 +1,7 @@
 ---
 layout: post
 category: "Library"
-classification: history
+classification: History and Politics
 title: "Notes on Harari's <i>Homo Deus</i>"
 short_title: "Homo Deus"
 image: assets/bookcover/deus.png

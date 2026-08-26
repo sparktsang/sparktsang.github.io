@@ -1,7 +1,7 @@
 ---
 layout: post
 category: "Library"
-classification: self-growth
+classification: Personal Growth
 title: "《The Power of Now》閱讀筆記"
 short_title: "當下的力量"
 permalink: /library/power-of-now/chi/

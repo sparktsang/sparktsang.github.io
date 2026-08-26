@@ -1,7 +1,7 @@
 ---
 layout: post
 category: "Library"
-classification: novel
+classification: Novels
 title: "東野圭吾《幻夜》筆記"
 short_title: "幻夜"
 permalink: /library/genya/chi/

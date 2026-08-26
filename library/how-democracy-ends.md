@@ -1,7 +1,7 @@
 ---
 layout: post
 category: "Library"
-classification: history
+classification: History and Politics
 title: "Notes on David Runciman's <i>How Democracy Ends</i>"
 short_title: "How Democracy Ends"
 image: assets/bookcover/how-democracy-ends.jpg

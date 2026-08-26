@@ -1,7 +1,7 @@
 ---
 layout: post
 category: "Library"
-classification: history
+classification: History and Politics
 title: "《民主會怎麼結束》閱讀筆記"
 short_title: "民主會怎麼結束"
 permalink: /library/how-democracy-ends/chi/

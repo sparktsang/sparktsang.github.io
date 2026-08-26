@@ -1,7 +1,7 @@
 ---
 layout: post
 category: "Library"
-classification: self-growth
+classification: Personal Growth
 title: "《恆毅力：人生成功的究極能力》閱讀筆記"
 short_title: "恆毅力：人生成功的究極能力"
 permalink: /library/grit/chi/

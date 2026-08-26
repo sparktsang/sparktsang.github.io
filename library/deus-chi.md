@@ -1,7 +1,7 @@
 ---
 layout: post
 category: "Library"
-classification: history
+classification: History and Politics
 title: "《人類大命運：從智人到神人》閱讀筆記"
 short_title: "人類大命運：從智人到神人"
 permalink: /library/deus/chi/

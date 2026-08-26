@@ -1,7 +1,7 @@
 ---
 layout: post
 category: "Library"
-classification: self-growth
+classification: Personal Growth
 title: 'Notes on <i>The Power of Now</i>'
 short_title: "The Power of Now"
 image: assets/bookcover/power-of-now.webp

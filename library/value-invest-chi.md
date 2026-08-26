@@ -1,7 +1,7 @@
 ---
 layout: post
 category: "Library"
-classification: investment
+classification: Investment
 title: "《21世紀價值投資》閱讀筆記"
 short_title: "21世紀價值投資"
 permalink: /library/value-invest/chi/
