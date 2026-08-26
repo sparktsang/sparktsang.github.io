@@ -7,7 +7,7 @@ short_title: "How Democracy Ends"
 image: assets/bookcover/how-democracy-ends.jpg
 ---
 
-Original version [here](/library/how-democracy-ends/chi){:target="_blank"}. 
+Original notes [here](/library/how-democracy-ends/chi){:target="_blank"}. 
 
 ---
 

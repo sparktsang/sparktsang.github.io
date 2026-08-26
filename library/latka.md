@@ -9,7 +9,7 @@ image: assets/bookcover/latka.webp
 
 *How to Be a Capitalist Without Any Capital: The Four Rules You Must Break To Get Rich* by  Nathan Latka
 
-Original version [here](/library/latka/chi){:target="_blank"}. 
+Original notes [here](/library/latka/chi){:target="_blank"}. 
 
 ---
 

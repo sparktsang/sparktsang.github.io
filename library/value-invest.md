@@ -9,7 +9,7 @@ redirect_from:
   - /knowledge/2025/11/19/reading-value-investing-from-graham-to-buffett.html
 ---
 
-Original version [here](/library/value-invest/chi){:target="_blank"}. 
+Original notes [here](/library/value-invest/chi){:target="_blank"}. 
 
 ---
 

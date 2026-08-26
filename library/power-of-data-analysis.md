@@ -7,7 +7,7 @@ short_title: "The Power of Data Analysis: How to Approach Causality"
 image: assets/bookcover/power-of-data-analysis.png
 ---
 
-Original version [here](/library/power-of-data-analysis/chi){:target="_blank"}. 
+Original notes [here](/library/power-of-data-analysis/chi){:target="_blank"}. 
 
 ---
 

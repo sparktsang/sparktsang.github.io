@@ -9,7 +9,7 @@ image: assets/bookcover/ted-talks.webp
 
 *TED Talks: The Official TED Guide to Public Speaking* by Chris Anderson
 
-Original version [here](/library/ted-talks/chi){:target="_blank"}. 
+Original notes [here](/library/ted-talks/chi){:target="_blank"}. 
 
 ---
 

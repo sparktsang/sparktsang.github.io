@@ -7,7 +7,7 @@ short_title: "Two Thousand Years of Grandeur"
 image: assets/bookcover/two-thousand-years-of-grandeur.jpg
 ---
 
-Original version [here](/library/two-thousand-years-of-grandeur/chi){:target="_blank"}. 
+Original notes [here](/library/two-thousand-years-of-grandeur/chi){:target="_blank"}. 
 
 ---
 

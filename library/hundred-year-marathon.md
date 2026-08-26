@@ -9,7 +9,7 @@ image: assets/bookcover/hundred-year-marathon.jpg
 
 *The Hundred-Year Marathon: China's Secret Strategy to Replace America as the Global Superpower* by Michael Pillsbury
 
-Original version [here](/library/hundred-year-marathon/chi){:target="_blank"}. 
+Original notes [here](/library/hundred-year-marathon/chi){:target="_blank"}. 
 
 ---
 

@@ -7,7 +7,7 @@ short_title: "Keigo Higashino’s *Genya*"
 image: assets/bookcover/genya.jpg
 ---
 
-Original version [here](/library/genya/chi){:target="_blank"}. 
+Original notes [here](/library/genya/chi){:target="_blank"}. 
 
 ---
 
