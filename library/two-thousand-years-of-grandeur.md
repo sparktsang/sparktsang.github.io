@@ -102,7 +102,7 @@ Salt merchants in rebellion captured Chang'an, and in the end Zhu Wen, who had d
 ### Song  
 
 During the reign of Emperor Zhenzong of Song, Champa rice from the Kingdom of Champa was introduced, causing grain production to surge. Two hundred years later, the population rose from 50 million to 115 million, making China the first country in human history to surpass 100 million people  
-A similar agricultural revolution occurred in Europe in the mid-sixteenth century. The precocity of Chinese agriculture meant that the degree of modernization at the time was four hundred years ahead of the West (Fairbank, *China in World History*)  
+A similar agricultural revolution occurred in Europe in the mid-sixteenth century. The precocity of Chinese agriculture meant that the degree of modernization at the time was four hundred years ahead of the West (Frederic Wakeman, *China in World History*)  
 The government therefore also lost any urgent need for invasion, giving rise to the theory of the "Weak Song"  
 
 The regime was stable, with a century without internal rebellion and no ministers being executed  
@@ -181,7 +181,7 @@ At the same time, in 1610 the English king issued an order restricting economic 
 
 The Manchus did not trust the Han Chinese and only promoted those who had submitted early or had special ties, creating the Eight Imperial Merchants  
 The Fan family reached its height among them, with most of its businesses connected to the court  
-But by the Qianlong era, their usefulness had been exhausted, and the family was ultimately confiscated  
+But by the Qianlong era, their usefulness had been exhausted, and family's property was ultimately confiscated  
 The so-called era of prosperity was merely the cyclical revival of a centralized system. Chinese society remained ultra-stable and evolved in a flat, gradual manner, without any fundamental breakthrough, following Fu Sinian's law that seventy years of stability would necessarily bring renewed prosperity  
 During the same period, the West experienced an explosion of intellect and explosive growth, while the Qing launched literary inquisitions  
 Qiao Guifa made his fortune from what was China's earliest grain futures trading: if there were two bumper harvests in five years, profits could multiply several times over  
@@ -194,7 +194,7 @@ This shows the empire's lofty attitude
 Foreign merchant quarters and merchants' activities were also subject to severe restrictions. Merchants specially authorized to trade with foreigners became what history calls the Thirteen Hongs, which gradually developed into monopolistic merchant guilds  
 
 The East India Company, both an official and commercial organization and the earliest joint-stock company, came to China, but failed to sell its goods in China and could only resell tea  
-Qianlong allowed foreign trade at Canton alone. The British merchant Hong Renhui successfully went to Tianjin to petition the emperor over unpaid debts, only to be sent by the company to Tianjin again to "express gratitude," where Qianlong imprisoned him for three years, while the person who had written his petition was executed on the spot  
+Qianlong allowed foreign trade at Canton alone. The British merchant James Flint (known in Chinese as Hong Renhui) successfully went to Tianjin to petition the emperor over unpaid debts, only to be sent by the company to Tianjin again to "express gratitude," where Qianlong imprisoned him for three years, while the person who had written his petition was executed on the spot  
 
 After the Canton-only trade system was established, the first chief merchant, Pan Qi, was a business genius who was adept at accepting new things. He boldly promised to accept returns of tea in full regardless of the reason, relieving foreign merchants' concerns about tea becoming damp and moldy, and thereby greatly expanding market share. He was also the first to accept payment by bills of exchange, which others imitated  
 
@@ -204,7 +204,7 @@ At the dawn of globalization, China should have had enormous advantages. It poss
 Yet the imperial rulers still rejected every change, demanding that the British king's envoys perform the three kneelings and nine prostrations, rejecting all their requests, and even writing back to say that there was nothing the empire needed to buy from their country  
 At the same time, the British envoys saw Chinese people being forced by officials to haul towropes, lacking adequate clothing and food and reduced to extreme emaciation, a far cry from the wealthy land described by Marco Polo. In the past, they had never been able to walk freely for even ten miles on Chinese soil  
 
-In 1799, China's population was 381 million, compared with America's ten million; China's GDP was 22.86 billion, compared with America's 1.25 billion. Qianlong's nominal power and authority far exceeded Washington's  
+In 1799, China's population was 381 million, compared with America's ten million; China's GDP was 22.86 billion, compared with America's 1.25 billion. Qianlong’s fame, power, and wealth far exceeded Washington's  
 
 The example of Bao Zhidao, a successful merchant whose career spanned the entire Qianlong era, shows that Chinese merchants never developed a true spirit of commerce. Their greatest success was for their descendants to cease being merchants. They used their wealth to develop their clans rather than their industries; even when rich enough to rival the state, they had completely lost the ability to advance  
 Western merchants of the same period, by contrast, were transformed. Bacon's proposition that knowledge is power became a social consensus  
