@@ -1,0 +1,450 @@
+﻿<!DOCTYPE html>
+<!-- 
+  Layout by Spark Tsang
+  sparktsang.github.io
+  Cosmic Library Architecture v2 (Absolute Symmetry)
+-->
+<html>
+<head>
+  {% include head.html %}
+  <link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap" rel="stylesheet">
+
+  <style>
+    /* =========================================================
+       指揮官中控台：只需喺度調校數值，全個空間佈局會自動完美同步
+       ========================================================= */
+    :root {
+      /* 縱向行距：決定書與書、書與標籤之間嘅嚴格距離 (寧空勿塞) */
+      --book-vertical-gap: 25rem; 
+      
+      /* 橫向對稱度：決定書本離開畫面中軸線向左/右分開幾遠 */
+      --book-horizontal-spread: 16rem; 
+    }
+
+    /* ===== 宇宙拓撲背景 (固定Parallax) ===== */
+    body {
+      background: url('{{ site.baseurl }}/{{ page.image }}') center center / cover no-repeat fixed;
+       position: relative;
+     }
+    body::before {
+      content: "";
+      position: fixed;
+      top: 0; left: 0; right: 0; bottom: 0;
+      background: rgba(5, 7, 12, 0.75);
+      z-index: 0;
+    }
+    #footer, #banner, #main.library-main {
+      background: none !important;
+      position: relative;
+      z-index: 1;
+    }
+    #banner {
+      padding: 8em 2em 4em 2em;
+      text-align: center;
+    }
+    #banner:after { background: none !important; }
+
+    /* ===== 分類標籤 (Category Node) ===== */
+    .category-node {
+      width: 100%;
+      text-align: center;
+      /* 距離嚴格跟隨中控台變數 */
+      margin-top: var(--book-vertical-gap);
+      margin-bottom: var(--book-vertical-gap);
+      position: relative;
+    }
+    .category-node span {
+      font-family: 'Share Tech Mono', monospace;
+      color: #e0f2fe;
+      font-size: 2.2rem;
+      letter-spacing: 0.4em;
+      text-transform: uppercase;
+      text-shadow: 0 0 15px rgba(56, 189, 248, 0.5);
+      border-bottom: 1px solid rgba(56, 189, 248, 0.3);
+      padding-bottom: 0.5rem;
+      display: inline-block;
+    }
+
+    /* ===== 絕對對稱單軌陣列 (Absolute Symmetrical Grid) ===== */
+    #main.library-main {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 2em;
+    }
+    .category-grid {
+      display: flex;
+      flex-direction: column;
+      align-items: center; /* 所有碎片基於中軸線生長 */
+      gap: var(--book-vertical-gap); /* 嚴格鎖定行距 */
+      width: 100%;
+    }
+    
+    .shard-wrapper {
+      display: flex;
+      position: relative;
+      will-change: transform;
+      transition: z-index 0.3s;
+    }
+    .shard-wrapper:hover {
+      z-index: 10;
+    }
+
+    /* 左軌書本：向左推移，並結合JS嘅微觀隨機浮動 */
+    .shard-wrapper:nth-child(odd) {
+      transform: translate(calc(-1 * var(--book-horizontal-spread) + var(--dx, 0px)), var(--dy, 0px)) rotateZ(var(--rz, 0deg));
+    }
+    
+    /* 右軌書本：向右推移，並結合JS嘅微觀隨機浮動 */
+    .shard-wrapper:nth-child(even) {
+      transform: translate(calc(var(--book-horizontal-spread) + var(--dx, 0px)), var(--dy, 0px)) rotateZ(var(--rz, 0deg));
+    }
+
+    /* ===== 黑曜石托架 (Obsidian Shard) ===== */
+    .obsidian-shard {
+      position: relative;
+      width: 240px;
+      height: 330px; 
+      background: rgba(15, 18, 25, 0.65);
+      backdrop-filter: blur(12px);
+      border-radius: 4px;
+      border-top: 1px solid rgba(255, 255, 255, 0.15);
+      border-left: 1px solid rgba(255, 255, 255, 0.05);
+      border-bottom: 1px solid rgba(0, 0, 0, 0.9);
+      box-shadow: 0 25px 50px rgba(0,0,0,0.8);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: all 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+    }
+    .obsidian-shard .click-area {
+      position: absolute;
+      top: 0; left: 0; width: 100%; height: 100%;
+      z-index: 5;
+    }
+
+    /* ===== 書本 (The Relic) ===== */
+    .book-cover {
+      width: 190px;
+      height: 280px;
+      background-size: cover;
+      background-position: center center;
+      border-radius: 2px 6px 6px 2px;
+      box-shadow: 10px 10px 20px rgba(0,0,0,0.6), inset 2px 0 5px rgba(255,255,255,0.2);
+      transition: transform 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94), box-shadow 0.4s ease;
+      z-index: 2;
+    }
+
+    /* ===== 懸浮與啟動效果 (Hover) ===== */
+    .shard-wrapper:hover .obsidian-shard {
+      box-shadow: 0 40px 80px rgba(0,0,0,0.95), 0 0 25px rgba(56, 189, 248, 0.15);
+      border-top: 1px solid rgba(56, 189, 248, 0.4);
+    }
+    .shard-wrapper:hover .book-cover {
+      transform: translateY(-20px) scale(1.05);
+      box-shadow: 15px 30px 40px rgba(0,0,0,0.8), inset 2px 0 5px rgba(255,255,255,0.3);
+    }
+
+    /* ===== 全息數據終端 (Holo Popup) ===== */
+    .holo-popup {
+      position: absolute;
+      top: -240px;
+      left: 50%;
+      transform: translateX(-50%);
+      width: min(700px, 80vw);
+      min-height: 200px;
+      box-sizing: border-box;
+      background: rgba(4, 9, 16, 0.85);
+      backdrop-filter: blur(8px);
+      border: 1px solid rgba(56, 189, 248, 0.3);
+      border-radius: 4px;
+      padding: 1.5rem 2rem;
+      box-shadow: 0 15px 40px rgba(0,0,0,0.8), inset 0 0 20px rgba(56, 189, 248, 0.05);
+      font-family: 'Share Tech Mono', monospace;
+      color: #38bdf8;
+      text-align: left;
+      opacity: 0;
+      z-index: 9999;
+      pointer-events: none;
+      transition: opacity 0.3s ease-in-out;
+    }
+
+    .holo-popup::before {
+      content: "";
+      position: absolute;
+      top: 0; left: 0; width: 100%; height: 100%;
+      background: repeating-linear-gradient(0deg, transparent, transparent 2px, rgba(56, 189, 248, 0.03) 2px, rgba(56, 189, 248, 0.03) 4px);
+      pointer-events: none;
+      z-index: -1;
+    }
+
+    .shard-wrapper.info-visible .holo-popup { opacity: 1; }
+    .shard-wrapper:hover .holo-popup { opacity: 1; }
+
+    .holo-popup .title { font-size: 2.5rem; color: #bae6fd; margin-bottom: 0.5rem; text-shadow: 0 0 8px rgba(186, 230, 253, 0.4); line-height: 1.2; }
+    .holo-popup .subtitle { font-size: 1.2rem; color: #7dd3fc; margin-bottom: 0.5rem; }
+    .holo-popup .desc { font-size: 1rem; color: #94a3b8; line-height: 1.5; }
+
+    .typing::after {
+      content: ""; display: inline-block; width: 8px; height: 1em; background: #38bdf8;
+      margin-left: 6px; vertical-align: text-bottom; animation: blink 0.8s steps(2, start) infinite;
+    }
+    @keyframes blink { 50% { opacity: 0 } }
+
+    /* ===== 手機版調整 ===== */
+    @media (max-width: 800px) {
+      :root {
+        --book-vertical-gap: 8rem; /* 手機版行距適度縮小 */
+        --book-horizontal-spread: 0px; /* 手機版強制置中，不左右交替 */
+      }
+      .holo-popup {
+        width: 90vw;
+        padding: 1.25rem;
+      }
+      .holo-popup .title { font-size: 1.8rem; }
+      .holo-popup .subtitle { font-size: 1rem; }
+    }
+  </style>
+</head>
+
+<body>
+  {% include header.html %}
+
+  <section id="banner">
+    <div class="inner">
+      <header class="major">
+        <h1 style="font-family: 'Share Tech Mono', monospace; letter-spacing: 0.1em; text-shadow: 0 0 20px rgba(56,189,248,0.5);">{{ page.title | default: "The Codex" }}</h1>
+      </header>
+      <div class="content">
+        <p style="color: #94a3b8; text-align: center; width: 100%;">{{ page.description }}</p>
+      </div>
+    </div>
+  </section>
+
+  <div id="main" class="library-main">
+    <div class="library-lang-container">
+        
+        {% assign all_lib = site.pages | where: "category", "Library" %}
+        {% assign lib_notes = all_lib | where_exp: "item", "item.language != 'chi'" %}
+        {% assign class_list = "Investment,Business,History and Politics,Personal Growth,Data Science,Novels,Miscellaneous" | split: "," %}
+
+        {% for c in class_list %}
+            {% assign target_cat = c | downcase %}
+            
+            {% assign has_items = false %}
+            {% for post in lib_notes %}
+                {% assign p_cat = post.classification | default: "Miscellaneous" | downcase %}
+                {% if p_cat == target_cat %}
+                    {% assign has_items = true %}
+                    {% break %}
+                {% endif %}
+            {% endfor %}
+
+            {% if has_items %}
+                <!-- 空間幾何標籤 -->
+                <div class="category-node">
+                    <span>{{ c }}</span>
+                </div>
+
+                <div class="category-grid">
+                    <!-- 1. 有 Order 的書 -->
+                    {% for i in (1..100) %}
+                        {% for post in lib_notes %}
+                            {% assign p_cat = post.classification | default: "Miscellaneous" | downcase %}
+                            {% if p_cat == target_cat and post.order == i %}
+                                <div class="shard-wrapper">
+                                    <div class="obsidian-shard"
+                                         data-title="{{ post.title | escape }}"
+                                         data-short-title="{{ post.short_title | escape }}"
+                                         data-desc="{{ post.description | escape }}">
+                                        
+                                        <a href="{{ post.url | relative_url }}" class="click-area"></a>
+                                        <div class="book-cover" style="background-image: url('{{ post.image | relative_url }}');"></div>
+                                        
+                                        <div class="holo-popup"></div>
+                                    </div>
+                                </div>
+                            {% endif %}
+                        {% endfor %}
+                    {% endfor %}
+
+                    <!-- 2. 無 Order 的書 -->
+                    {% for post in lib_notes %}
+                        {% assign p_cat = post.classification | default: "Miscellaneous" | downcase %}
+                        {% if p_cat == target_cat and post.order == nil %}
+                            <div class="shard-wrapper">
+                                <div class="obsidian-shard"
+                                     data-title="{{ post.title | escape }}"
+                                     data-short-title="{{ post.short_title | escape }}"
+                                     data-desc="{{ post.description | escape }}">
+                                    
+                                    <a href="{{ post.url | relative_url }}" class="click-area"></a>
+                                    <div class="book-cover" style="background-image: url('{{ post.image | relative_url }}');"></div>
+                                    
+                                    <div class="holo-popup"></div>
+                                </div>
+                            </div>
+                        {% endif %}
+                    {% endfor %}
+                </div>
+            {% endif %}
+        {% endfor %}
+    </div>
+  </div>
+
+  {% include footer.html %}
+
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+
+      function typeText(el, text, speed = 20) {
+        return new Promise((resolve, reject) => {
+          if (!el || !text) { resolve(); return; }
+          el.textContent = "";
+          let i = 0;
+          function step() {
+            if (i < text.length) {
+              el.textContent += text.charAt(i);
+              i++;
+              const timerId = setTimeout(step, speed);
+              if (!el._timers) el._timers = [];
+              el._timers.push(timerId);
+            } else {
+              resolve();
+            }
+          }
+          step();
+        });
+      }
+
+      function clearTypingTimers(el) {
+        if (el && el._timers) {
+          el._timers.forEach(clearTimeout);
+          el._timers = [];
+        }
+      }
+
+      function showInfoPopup(wrapper) {
+        const shard = wrapper.querySelector('.obsidian-shard');
+        const popup = wrapper.querySelector('.holo-popup');
+        if (!shard || !popup) return;
+
+        popup.innerHTML = `
+          <div class="title typing"></div>
+          <div class="subtitle typing"></div>
+          <div class="desc typing"></div>
+        `;
+        
+        const titleEl = popup.querySelector('.title');
+        const subtitleEl = popup.querySelector('.subtitle');
+        const descEl = popup.querySelector('.desc');
+
+        const title = shard.dataset.title || "";
+        const shortTitle = shard.dataset.shortTitle || "";
+        const desc = shard.dataset.desc || "";
+
+        calibratePopupPosition(wrapper, popup);
+
+        typeText(titleEl, title, 15)
+          .then(() => { titleEl.classList.remove('typing'); return typeText(subtitleEl, shortTitle, 15); })
+          .then(() => { subtitleEl.classList.remove('typing'); return typeText(descEl, desc, 10); })
+          .then(() => { descEl.classList.remove('typing'); })
+          .catch(console.error);
+      }
+
+      function hideInfoPopup(wrapper) {
+        const popup = wrapper.querySelector('.holo-popup');
+        if (!popup) return;
+        popup.querySelectorAll('.typing').forEach(el => clearTypingTimers(el));
+        popup.innerHTML = "";
+        popup.removeAttribute('style'); 
+      }
+
+      function calibratePopupPosition(wrapper, popup) {
+          popup.style.visibility = 'hidden';
+          popup.style.display = 'block';
+          const popupRect = popup.getBoundingClientRect();
+          popup.style.visibility = '';
+          popup.style.display = '';
+
+          const wrapperRect = wrapper.getBoundingClientRect();
+          const viewportWidth = window.innerWidth;
+          
+          const header = document.querySelector('#header'); 
+          let topBoundary = header ? header.offsetHeight + 10 : 10;
+          
+          let top = - (popupRect.height + 20); 
+
+          const potentialPopupTopY = wrapperRect.top + top;
+          if (potentialPopupTopY < topBoundary) {
+            top = topBoundary - wrapperRect.top;
+          }
+
+          let left = '50%';
+          let transform = 'translateX(-50%)';
+          let right = 'auto';
+
+          const wrapperCenter = wrapperRect.left + wrapperRect.width / 2;
+          if (wrapperCenter - (popupRect.width / 2) < 10) {
+              left = '10px';
+              transform = 'translateX(0)';
+          } else if (wrapperCenter + (popupRect.width / 2) > (viewportWidth - 10)) {
+              left = 'auto';
+              right = '10px';
+              transform = 'translateX(0)';
+          }
+
+          popup.style.top = `${top}px`;
+          popup.style.left = left;
+          popup.style.right = right;
+          popup.style.transform = transform;
+      }
+
+      const isTouchDevice = 'ontouchstart' in window || navigator.maxTouchPoints > 0;
+      const allWrappers = document.querySelectorAll('.shard-wrapper');
+
+      allWrappers.forEach(wrapper => {
+        const dx = (Math.random() - 0.5) * 40; 
+        const dy = (Math.random() - 0.5) * 30;
+        const rz = (Math.random() - 0.5) * 6; 
+        wrapper.style.setProperty('--dx', `${dx}px`);
+        wrapper.style.setProperty('--dy', `${dy}px`);
+        wrapper.style.setProperty('--rz', `${rz}deg`);
+
+        if (!isTouchDevice) {
+          wrapper.addEventListener('mouseenter', () => showInfoPopup(wrapper));
+          wrapper.addEventListener('mouseleave', () => hideInfoPopup(wrapper));
+        } else {
+          const clickArea = wrapper.querySelector('.click-area');
+          clickArea.addEventListener('click', (event) => {
+            const isVisible = wrapper.classList.contains('info-visible');
+            if (isVisible) return; 
+            event.preventDefault();
+            
+            allWrappers.forEach(w => {
+              if (w !== wrapper && w.classList.contains('info-visible')) {
+                w.classList.remove('info-visible');
+                hideInfoPopup(w);
+              }
+            });
+            showInfoPopup(wrapper);
+            wrapper.classList.add('info-visible');
+          });
+        }
+      });
+
+      if (isTouchDevice) {
+        document.addEventListener('click', (event) => {
+          if (!event.target.closest('.shard-wrapper')) {
+            allWrappers.forEach(w => {
+              if (w.classList.contains('info-visible')) {
+                w.classList.remove('info-visible');
+                hideInfoPopup(w);
+              }
+            });
+          }
+        });
+      }
+    });
+  </script>
+</body>
+</html>
