@@ -5,7 +5,6 @@ landing-title: "This is not a portfolio.<br>It is an indictment, a constitution,
 description: null
 image: null
 author: null
-show_tile: false
 ---
 
 The project is civilization itself. The work begins now.

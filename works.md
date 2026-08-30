@@ -3,8 +3,6 @@ layout: post
 title: Works
 description: "THE EPIC: How the World Will Be."
 image: assets/images/weaving_world_leonardo_3-to-1_2nd_1.jpg
-nav-menu: false
-show_tile: false
 ---
 
 <br>
