@@ -2,6 +2,7 @@
 layout: post
 category: "Library"
 classification: Personal Growth
+order: 3
 title: "Notes on <i>TED Talks</i>"
 short_title: "Anderson's TED Talks"
 image: assets/bookcover/ted-talks.webp

@@ -2,6 +2,7 @@
 layout: post
 category: "Library"
 classification: Personal Growth
+order: 2
 title: "《最少阻力之路》閱讀筆記"
 short_title: "最少阻力之路"
 permalink: /library/least-resistance/chi/

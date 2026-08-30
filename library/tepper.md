@@ -2,6 +2,7 @@
 layout: post
 category: "Library"
 classification: Business
+order: 1
 title: 'Notes on <i>The Myth of Capitalism: Monopolies and the Death of Competition</i>'
 short_title: "The Myth of Capitalism: Monopolies and the Death of Competition"
 image: assets/bookcover/tepper.jpg

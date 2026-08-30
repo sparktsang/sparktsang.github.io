@@ -2,6 +2,7 @@
 layout: post
 category: "Library"
 classification: Personal Growth
+order: 3
 title: "《TED Talks》閱讀筆記"
 short_title: "TED Talks"
 permalink: /library/ted-talks/chi/
