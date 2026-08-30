@@ -9,8 +9,8 @@ language: chi
 image: assets/bookcover/focus.jpg
 ---
 
+《專注的力量：不再分心的自我鍛鍊，讓你掌握APP世代的卓越關鍵》  
 *Focus: The Hidden Driver of Excellence* by by Daniel Goleman  
-《專注的力量：不再分心的自我鍛鍊，讓你掌握APP世代的卓越關鍵》
 
 English translation [here](/library/focus){:target="_blank"}. 
 

@@ -5,6 +5,7 @@ classification: Data Science
 title: "Notes on Koichiro Ito's <i>The Power of Data Analysis: How to Approach Causality</i>"
 short_title: "The Power of Data Analysis: How to Approach Causality"
 image: assets/bookcover/power-of-data-analysis.png
+cover: chi
 ---
 
 Original notes [here](/library/power-of-data-analysis/chi){:target="_blank"}. 

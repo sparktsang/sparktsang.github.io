@@ -2,7 +2,7 @@
 layout: post
 category: "Library"
 classification: Personal Growth
-order: 2
+order: ３
 title: 'Notes on <i>The Path of Least Resistance</i>'
 short_title: "The Path of Least Resistance"
 image: assets/bookcover/fritz.jpg

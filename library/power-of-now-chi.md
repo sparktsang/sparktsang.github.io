@@ -3,13 +3,15 @@ layout: post
 category: "Library"
 classification: Personal Growth
 order: 1
-title: "《The Power of Now》閱讀筆記"
+title: "《當下的力量》閱讀筆記"
 short_title: "當下的力量"
 permalink: /library/power-of-now/chi/
 language: chi
 image: assets/bookcover/power-of-now.webp
+cover: eng
 ---
 
+《當下的力量：找回每時每刻的自己》  
 *The Power of Now: A Guide to Spiritual Enlightenment* by Eckhart Tolle
 
 English translation [here](/library/power-of-now){:target="_blank"}. 

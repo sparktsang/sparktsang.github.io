@@ -126,4 +126,4 @@ Practicing focus, setting priorities, and cultivating positive emotions can all 
 After drinking a small amount of coffee, people can identify positive words quickly and accurately (Lars Kuchinke, 2012)
 Children watching less television, reading together more with their parents, training visual memory, paying attention to diet (dairy products and red meat, for example, can prevent deterioration in working-memory ability), and getting enough sleep all help strengthen attention
 
-*Finished reading on 20/7/2020*
+*Finished reading on July 20, 2020*

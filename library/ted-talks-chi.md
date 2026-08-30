@@ -2,7 +2,7 @@
 layout: post
 category: "Library"
 classification: Personal Growth
-order: 3
+order: 4
 title: "《TED Talks》閱讀筆記"
 short_title: "TED Talks"
 permalink: /library/ted-talks/chi/
@@ -10,6 +10,7 @@ language: chi
 image: assets/bookcover/ted-talks.jpg
 ---
 
+《TED TALKS 說話的力量：你可以用言語來改變自己，也改變世界》  
 *TED Talks: The Official TED Guide to Public Speaking* by Chris Anderson
 
 English translation [here](/library/ted-talks){:target="_blank"}. 
