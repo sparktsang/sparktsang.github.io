@@ -6,6 +6,8 @@ subtitle: "A system that prioritizes the form of education over its function."
 category: "Life"
 image: assets/images/exam_river_imagen.png
 date: 2025-09-16 14:00:00
+redirect_from:
+  - life/2025/09/16/03-final-exam-on-riverbank.html
 ---
 
 There's a universal truth to travel: just when you think you've settled into a rhythm, the universe throws a delightful curveball. My final hour with [Neung][neung]{:target="_blank"}, my newfound guide and friend in Surat Thani, was a perfect example. We were walking along the Tapi River, our deep conversation about life and politics winding down as the sun set. Suddenly, we were ambushed.
