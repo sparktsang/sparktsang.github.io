@@ -352,13 +352,13 @@
 		var idleTimer = null;
 		var idleWait = 2000; // 設定靜止多少毫秒後隱藏 (2000 = 2秒，可依喜好微調)
 
+		// Header 離開視線作為觸發高度
+		var triggerHeight = $banner.length > 0 ? $header.height() : 150;
+
 		$window.on('scroll', function() {
 			var st = $(this).scrollTop();
 			// 避免 iOS / Mac 邊界回彈(Rubber banding)產生負值
 			if (st < 0) st = 0; 
-			
-			// Header 離開視線作為觸發高度
-			var triggerHeight = $banner.length > 0 ? $header.height() : 150;
 
 			// 如果滿版選單(Menu)正在開啟狀態，不要隱藏 Header
 			if ($body.hasClass('is-menu-visible')) {
