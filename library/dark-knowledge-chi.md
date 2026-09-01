@@ -6,7 +6,7 @@ title: "《AI背後的暗知識》閱讀筆記"
 short_title: "AI背後的暗知識"
 permalink: /library/dark-knowledge/chi/
 language: chi
-image: assets/bookcover/dark-knowledge.webp
+image: assets/bookcover/dark-knowledge.jpg
 ---
 
 王維嘉《AI背後的暗知識：機器如何學習、認知與改造我們的未來世界》    

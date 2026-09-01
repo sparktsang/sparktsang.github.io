@@ -6,8 +6,7 @@ title: "《新富人的捷徑》閱讀筆記"
 short_title: "新富人的捷徑"
 permalink: /library/latka/chi/
 language: chi
-image: assets/bookcover/latka.webp
-cover: eng
+image: assets/bookcover/latka.png
 ---
 
 *How to Be a Capitalist Without Any Capital: The Four Rules You Must Break To Get Rich* by  Nathan Latka
