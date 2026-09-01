@@ -482,7 +482,7 @@ You don't need to put any content here, because all the logic is already handled
 ##### [Q5]
 
 <div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
-  <img src="/assets/images/design_fig_2.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+  <img src="/assets/images/design_fig_2.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
 </div>
 <br>
 
@@ -830,10 +830,10 @@ With this final version of `life_index.html`, you can achieve exactly the effect
 ##### [Q7]
 
 <div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
-  <img src="/assets/images/design_fig_3.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
-  <img src="/assets/images/design_fig_4.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
-  <img src="/assets/images/design_fig_5.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
-  <img src="/assets/images/design_fig_6.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+  <img src="/assets/images/design_fig_3.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+  <img src="/assets/images/design_fig_4.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+  <img src="/assets/images/design_fig_5.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+  <img src="/assets/images/design_fig_6.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
 </div>
 <br>
 
@@ -1002,8 +1002,8 @@ I sincerely apologize again for the trouble caused earlier. I hope this fix rest
 ##### [Q8]
 
 <div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
-  <img src="/assets/images/design_fig_7.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
-  <img src="/assets/images/design_fig_8.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+  <img src="/assets/images/design_fig_7.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+  <img src="/assets/images/design_fig_8.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
 </div>
 <br>
 
@@ -1179,9 +1179,9 @@ I'm confident this approach can completely solve all the issues you're currently
 ##### [Q9]
 
 <div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
-  <img src="/assets/images/design_fig_9.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
-  <img src="/assets/images/design_fig_10.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
-  <img src="/assets/images/design_fig_11.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+  <img src="/assets/images/design_fig_9.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+  <img src="/assets/images/design_fig_10.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+  <img src="/assets/images/design_fig_11.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
 </div>
 <br>
 
@@ -1394,8 +1394,8 @@ I'm asking you to give it one more chance and try this completely new approach. 
 ##### [Q10]
 
 <div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
-  <img src="/assets/images/design_fig_12.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
-  <img src="/assets/images/design_fig_13.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+  <img src="/assets/images/design_fig_12.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+  <img src="/assets/images/design_fig_13.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
 </div>
 <br>
 
@@ -1596,8 +1596,8 @@ This version is built entirely around your design blueprint. It should finally d
 ##### [Q11]
 
 <div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
-  <img src="/assets/images/design_fig_14.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
-  <img src="/assets/images/design_fig_15.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+  <img src="/assets/images/design_fig_14.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+  <img src="/assets/images/design_fig_15.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
 </div>
 <br>
 
@@ -1840,7 +1840,7 @@ This is the solution that finally starts moving toward the kind of top-level des
 ##### [Q12]
 
 <div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
-  <img src="/assets/images/design_fig_16.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+  <img src="/assets/images/design_fig_16.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
 </div>
 <br>
 
@@ -2067,7 +2067,7 @@ This version was built from your clear feedback and a thorough reflection on the
 ##### [Q13]
 
 <div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
-  <img src="/assets/images/design_fig_17.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+  <img src="/assets/images/design_fig_17.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
 </div>
 <br>
 
@@ -2476,8 +2476,8 @@ This option carries the lowest risk, because we're only making a minimal, target
 ##### [Q15]
 
 <div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
-  <img src="/assets/images/design_fig_18a.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
-  <img src="/assets/images/design_fig_18.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+  <img src="/assets/images/design_fig_18a.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+  <img src="/assets/images/design_fig_18.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
 </div>
 <br>
 
@@ -2556,7 +2556,7 @@ Which style feels closer to what you had in mind?
 ##### [Q16]
 
 <div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
-  <img src="/assets/images/design_fig_19.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+  <img src="/assets/images/design_fig_19.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
 </div>
 <br>
 
@@ -2662,7 +2662,7 @@ Try it and see which one better carries the weight of your "Life" theme.
 ##### [Q17]
 
 <div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
-  <img src="/assets/images/design_fig_20.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+  <img src="/assets/images/design_fig_20.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
 </div>
 <br>
 
@@ -2735,7 +2735,7 @@ It can carry the full weight of your theme precisely because it becomes part of 
 ##### [Q18]
 
 <div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
-  <img src="/assets/images/design_fig_21.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+  <img src="/assets/images/design_fig_21.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
 </div>
 <br>
 
@@ -2909,7 +2909,7 @@ After completing these two modifications, you should get the effect you want: an
 ##### [Q19]
 
 <div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
-  <img src="/assets/images/design_fig_22.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+  <img src="/assets/images/design_fig_22.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
 </div>
 <br>
 
@@ -3626,7 +3626,7 @@ After making this change, your info box will work perfectly. No matter how many 
 ##### [Q21]
 
 <div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
-  <img src="/assets/images/design_fig_23.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+  <img src="/assets/images/design_fig_23.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
 </div>
 <br>
 
@@ -3786,8 +3786,8 @@ This approach cleanly separates "structure", "data", and "behavior", making the 
 ##### [Q22]
 
 <div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
-  <img src="/assets/images/design_fig_24.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
-  <img src="/assets/images/design_fig_25.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+  <img src="/assets/images/design_fig_24.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+  <img src="/assets/images/design_fig_25.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
 </div>
 <br>
 
@@ -4096,7 +4096,7 @@ Want me to **add a JavaScript "truly random offset" version** so the scattered a
 ##### [Q24]
 
 <div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
-  <img src="/assets/images/design_fig_26.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+  <img src="/assets/images/design_fig_26.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
 </div>
 <br>
 
@@ -4484,7 +4484,7 @@ Want me to add **direction detection for the info box** (for example, pop upward
 ##### [Q27]
 
 <div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
-  <img src="/assets/images/design_fig_27.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+  <img src="/assets/images/design_fig_27.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
 </div>
 <br>
 
@@ -4750,7 +4750,7 @@ Do you want me to also add **automatic detection of the popup's direction** (i.e
 ##### [Q29]
 
 <div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
-  <img src="/assets/images/design_fig_28.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+  <img src="/assets/images/design_fig_28.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
 </div>
 <br>
 
@@ -5185,7 +5185,7 @@ Do you want me to also add "automatic popup direction detection"? For example, e
 ##### [Q31]
 
 <div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
-  <img src="/assets/images/design_fig_29.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+  <img src="/assets/images/design_fig_29.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
 </div>
 <br>
 
@@ -5424,7 +5424,7 @@ Want me to add a **random popup position** as well (sometimes floating upward, s
 ##### [Q32]
 
 <div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
-  <img src="/assets/images/design_fig_30.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+  <img src="/assets/images/design_fig_30.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
 </div>
 <br>
 
@@ -8258,8 +8258,8 @@ You've already taken the hardest step, which was realizing the old path doesn't 
 ##### [Q42]
 
 <div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
-  <img src="/assets/images/design_fig_31.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
-  <img src="/assets/images/design_fig_32.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+  <img src="/assets/images/design_fig_31.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+  <img src="/assets/images/design_fig_32.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
 </div>
 <br>
 
@@ -9044,8 +9044,8 @@ Below is the complete consolidated file, which you can directly replace your exi
 ##### [Q46]
 
 <div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
-  <img src="/assets/images/design_fig_33.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
-  <img src="/assets/images/design_fig_34.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+  <img src="/assets/images/design_fig_33.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+  <img src="/assets/images/design_fig_34.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
 </div>
 <br>
 
@@ -9163,7 +9163,7 @@ After replacing this function, when you hover over a tile near the top of the pa
 ##### [Q47]
 
 <div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
-  <img src="/assets/images/design_fig_35.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+  <img src="/assets/images/design_fig_35.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
 </div>
 <br>
 
@@ -9268,7 +9268,7 @@ I apologize again for the buggy code I provided earlier, and thank you for your 
 ##### [Q48]
 
 <div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
-  <img src="/assets/images/design_fig_36.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+  <img src="/assets/images/design_fig_36.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
 </div>
 <br>
 
@@ -9524,7 +9524,7 @@ Problem solved.
 ##### [Q51]
 
 <div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
-  <img src="/assets/images/design_fig_37.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+  <img src="/assets/images/design_fig_37.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
 </div>
 <br>
 
@@ -11170,7 +11170,7 @@ After making this change, your website will immediately take on a completely dif
 ##### [Q67]
 
 <div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
-  <img src="/assets/images/design_fig_38.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+  <img src="/assets/images/design_fig_38.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
 </div>
 <br>
 
@@ -11261,7 +11261,7 @@ This change is like taking an actor who originally only dared to dance in tiny s
 ##### [Q68]
 
 <div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
-  <img src="/assets/images/design_fig_39.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+  <img src="/assets/images/design_fig_39.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
 </div>
 <br>
 
@@ -11351,7 +11351,7 @@ This is an artistic tuning process, so there's no absolute "correct answer". Fee
 ##### [Q69]
 
 <div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
-  <img src="/assets/images/design_fig_40.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+  <img src="/assets/images/design_fig_40.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
 </div>
 <br>
 
@@ -11432,7 +11432,7 @@ After this final change, your "monster" will become a well-proportioned work of 
 ##### [Q70]
 
 <div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
-  <img src="/assets/images/design_fig_41.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+  <img src="/assets/images/design_fig_41.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
 </div>
 <br>
 
@@ -12448,7 +12448,7 @@ Do you want me to immediately produce a complete working `allpost.html` (includi
 ##### [Q79]
 
 <div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
-  <img src="/assets/images/design_fig_45.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+  <img src="/assets/images/design_fig_45.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
 </div>
 <br>
 
@@ -14102,8 +14102,8 @@ It solves the usability problem you raised without sacrificing the artistic atmo
 ##### [Q91]
 
 <div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
-  <img src="/assets/images/design_fig_42.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
-  <img src="/assets/images/design_fig_43.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+  <img src="/assets/images/design_fig_42.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+  <img src="/assets/images/design_fig_43.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
 </div>
 <br>
 
@@ -14395,7 +14395,7 @@ After completing these two steps, your `←` and `→` buttons should look just 
 ##### [Q92]
 
 <div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
-  <img src="/assets/images/design_fig_44.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
+  <img src="/assets/images/design_fig_44.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
 </div>
 <br>
 
