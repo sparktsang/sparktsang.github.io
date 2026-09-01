@@ -48,14 +48,20 @@
 
 				$t.css('background-position', 'center 100%, center 100%, center 0px');
 
+				var elementTop = parseInt($t.position().top); // 喺 scroll 外面度好尺先！
+
 				$window
 					.on('scroll._parallax', function() {
-
-						var pos = parseInt($window.scrollTop()) - parseInt($t.position().top);
+						// 唔好再每秒度 60 次，直接用外面度好咗嘅 elementTop
+						var pos = parseInt($window.scrollTop()) - elementTop; 
 
 						$t.css('background-position', 'center ' + (pos * (-1 * intensity)) + 'px');
 
 					});
+
+				$window.on('resize._parallax', function() { // 用家改變視窗大細時，先重新度過一次
+					elementTop = parseInt($t.position().top);
+				});
 
 			};
 
