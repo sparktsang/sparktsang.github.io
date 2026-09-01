@@ -90,12 +90,12 @@
     }
 
     /* 左軌書本：向左推移，並結合JS嘅微觀隨機浮動 */
-    .shard-wrapper:nth-child(odd) {
+    .shard-wrapper.pos-left {
       transform: translate(calc(-1 * var(--book-horizontal-spread) + var(--dx, 0px)), var(--dy, 0px)) rotateZ(var(--rz, 0deg));
     }
     
     /* 右軌書本：向右推移，並結合JS嘅微觀隨機浮動 */
-    .shard-wrapper:nth-child(even) {
+    .shard-wrapper.pos-right {
       transform: translate(calc(var(--book-horizontal-spread) + var(--dx, 0px)), var(--dy, 0px)) rotateZ(var(--rz, 0deg));
     }
 
@@ -251,7 +251,7 @@
                         {% for post in lib_notes %}
                             {% assign p_cat = post.classification | default: "Miscellaneous" | downcase %}
                             {% if p_cat == target_cat and post.order == i %}
-                                <div class="shard-wrapper">
+                                <div class="shard-wrapper {% cycle 'global_pos': 'pos-left', 'pos-right' %}">
                                     <div class="obsidian-shard"
                                          data-title="{{ post.title | escape }}"
                                          data-short-title="{{ post.short_title | escape }}"
@@ -271,7 +271,7 @@
                     {% for post in lib_notes %}
                         {% assign p_cat = post.classification | default: "Miscellaneous" | downcase %}
                         {% if p_cat == target_cat and post.order == nil %}
-                            <div class="shard-wrapper">
+                            <div class="shard-wrapper {% cycle 'global_pos': 'pos-left', 'pos-right' %}">
                                 <div class="obsidian-shard"
                                      data-title="{{ post.title | escape }}"
                                      data-short-title="{{ post.short_title | escape }}"
