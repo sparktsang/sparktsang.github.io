@@ -4,8 +4,7 @@ category: "Library"
 classification: Novels
 title: "Notes on Keigo Higashino's <i>Genya</i>"
 short_title: "Keigo Higashino’s *Genya*"
-image: assets/bookcover/genya.jpg
-cover: chi
+image: assets/bookcover/genya.png
 ---
 
 Original notes [here](/library/genya/chi){:target="_blank"}. 

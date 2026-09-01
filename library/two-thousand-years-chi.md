@@ -6,7 +6,7 @@ title: "吳曉波《浩蕩兩千年》閱讀筆記"
 short_title: "浩蕩兩千年"
 permalink: /library/two-thousand-years/chi/
 language: chi
-image: assets/bookcover/two-thousand-years-of-grandeur.jpg
+image: assets/bookcover/two-thousand-years.jpg
 ---
 
 English translation [here](/library/two-thousand-years){:target="_blank"}. 

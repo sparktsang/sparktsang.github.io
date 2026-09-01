@@ -4,8 +4,7 @@ category: "Library"
 classification: Business
 title: "Notes on <i>Dark knowledge: How marchines think, Learn and Reshape Our future?</i>"
 short_title: "Dark knowledge: How marchines think, Learn and Reshape Our future?"
-image: assets/bookcover/dark-knowledge.webp
-cover: chi
+image: assets/bookcover/dark-knowledge.png
 ---
 
 *Dark knowledge: How marchines think, Learn and Reshape Our future?* by Weijia Wang

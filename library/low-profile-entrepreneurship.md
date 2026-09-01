@@ -4,8 +4,7 @@ category: "Library"
 classification: Business
 title: "Notes on <i>Low-Profile Entrepreneurship</i>"
 short_title: "Low-Profile Entrepreneurship"
-image: assets/bookcover/low-profile-entrepreneurship.jpg
-cover: chi
+image: assets/bookcover/low-profile-entrepreneurship.png
 ---
 
 *Low-Profile Entrepreneurship* by Yuichi Tanaka

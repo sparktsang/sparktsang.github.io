@@ -23,9 +23,16 @@
 			<h1>{{ page.title }}</h1>
 			{% if page.date and page.order != 0 and page.order != 99999 %}<p>{{ page.date | date: "%Y-%m-%d" }}</p>{% endif %}
 		</header>
+		
 		{% if page.category != "Library" %}
 			{% if page.image %}
 				<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></span>
+			{% endif %}
+		{% endif %}
+
+		{% if page.category == "Library" %}
+			{% if page.image %}
+				<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" style="width: 25%; display: block; margin: 0 auto;" /></span>
 			{% endif %}
 		{% endif %}
 

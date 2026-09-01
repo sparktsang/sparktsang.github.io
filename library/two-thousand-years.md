@@ -4,8 +4,7 @@ category: "Library"
 classification: History and Politics
 title: "Notes on Wu Xiaobo's <i>Two Thousand Years of Grandeur</i>"
 short_title: "Two Thousand Years of Grandeur"
-image: assets/bookcover/two-thousand-years-of-grandeur.jpg
-cover: chi
+image: assets/bookcover/two-thousand-years.png
 ---
 
 Original notes [here](/library/two-thousand-years/chi){:target="_blank"}. 

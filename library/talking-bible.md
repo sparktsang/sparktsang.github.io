@@ -4,8 +4,7 @@ category: "Library"
 classification: Personal Growth
 title: 'Notes on <i>Talking as a Bible</i>'
 short_title: "Friedemann Schultz von Thun's Talking as a Bible"
-image: assets/bookcover/talking-bible.jpg
-cover: chi
+image: assets/bookcover/talking-bible.png
 ---
 
 *Talking as a Bible* by Friedemann Schultz von Thun

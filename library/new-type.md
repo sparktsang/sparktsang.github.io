@@ -4,8 +4,7 @@ category: "Library"
 classification: Business
 title: "Notes on Yamaguchi's <i>The Age of the New Type</i>"
 short_title: "The Age of the New Type"
-image: assets/bookcover/new-type.jpg
-cover: chi
+image: assets/bookcover/new-type.png
 ---
 
 *The Age of the New Type* by Shu Yamaguchi

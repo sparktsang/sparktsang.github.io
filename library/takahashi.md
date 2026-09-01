@@ -4,8 +4,7 @@ category: "Library"
 classification: History and Politics
 title: "Notes on Yoichi Takahashi's <i>Geopolitics</i>"
 short_title: "Yoichi Takahashi's Geopolitics"
-image: assets/bookcover/takahashi.jpg
-cover: chi
+image: assets/bookcover/takahashi.png
 ---
 
 *Geopolitics* by Yoichi Takahashi
