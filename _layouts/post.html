@@ -28,7 +28,12 @@
 				<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></span>
 			{% endif %}
 		{% endif %}
-		{{ content }}
+
+		{% if page.target_blank %}
+			{{ content | replace: '<a href=', '<a target="_blank" rel="noopener noreferrer" href=' }}
+		{% else %}
+  			{{ content }}
+		{% endif %}
 				
 		{% if page.category == "Life" %}
 		
@@ -84,7 +89,7 @@
 		  </div>
 		{% endif %}
 		
-		{% if page.title == "Works" or page.category == "Library" %}
+		{% if page.title == "Works" or page.title == "Sitemap" or page.category == "Library" %}
 			{% if page.show_library != false %}
 		  <div class="sort-toggle" style="text-align:center; margin-top:2rem;">
 			<br><br><br><br><br>
