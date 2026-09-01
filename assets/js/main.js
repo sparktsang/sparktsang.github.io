@@ -213,7 +213,7 @@
 						bottom:		$header.height() + 10,
 						terminate:	function() { $header.removeClass('alt'); },
 						enter:		function() { $header.addClass('alt'); },
-						leave:		function() { $header.removeClass('alt'); $header.addClass('reveal'); }
+						leave:		function() { $header.removeClass('alt'); /*$header.addClass('reveal');*/ }
 					});
 
 					window.setTimeout(function() {
@@ -346,6 +346,50 @@
 							$menu._hide();
 
 				});
+
+		// Smart Header (向下捲動/靜止時隱藏，向上捲動時顯示)
+		var lastScrollTop = 0;
+		var idleTimer = null;
+		var idleWait = 2000; // 設定靜止多少毫秒後隱藏 (2000 = 2秒，可依喜好微調)
+
+		$window.on('scroll', function() {
+			var st = $(this).scrollTop();
+			// 避免 iOS / Mac 邊界回彈(Rubber banding)產生負值
+			if (st < 0) st = 0; 
+			
+			// Header 離開視線作為觸發高度
+			var triggerHeight = $banner.length > 0 ? $header.height() : 150;
+
+			// 如果滿版選單(Menu)正在開啟狀態，不要隱藏 Header
+			if ($body.hasClass('is-menu-visible')) {
+				clearTimeout(idleTimer);
+				return;
+			}
+
+			if (st > triggerHeight) {
+				if (st > lastScrollTop) {
+					// 向下捲動 (Scroll Down) -> 隱藏
+					$header.addClass('is-hidden');
+					clearTimeout(idleTimer);
+				} else if (st < lastScrollTop) {
+					// 向上捲動 (Scroll Up) -> 顯示，並啟動靜止倒數
+					$header.removeClass('is-hidden');
+					
+					clearTimeout(idleTimer);
+					idleTimer = setTimeout(function() {
+						if (!$body.hasClass('is-menu-visible')) {
+							$header.addClass('is-hidden');
+						}
+					}, idleWait);
+				}
+			} else {
+				// 若回到了最頂端 Banner 的範圍，強制顯示並取消靜止隱藏
+				$header.removeClass('is-hidden');
+				clearTimeout(idleTimer);
+			}
+
+			lastScrollTop = st;
+		});
 
 	});
 

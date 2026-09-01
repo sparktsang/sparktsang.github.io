@@ -6,10 +6,10 @@
 
 /* Header */
 
-	@include keyframes('reveal-header') {
+	/*@include keyframes('reveal-header') {
 		0% { top: -4em; opacity: 0; }
 		100% { top: 0; opacity: 1; }
-	}
+	}*/
 
 	#header {
 		@include vendor('display', 'flex');
@@ -27,6 +27,20 @@
 		top: 0;
 		width: 100%;
 		z-index: _misc(z-index-base);
+
+		// 1. 新增：讓 top 與 opacity 能夠平滑過場
+		@include vendor('transition', ('top 0.35s ease', 'opacity 0.35s ease'));
+
+		// 2. 新增：隱藏狀態（往上推並變透明）
+		&.is-hidden {
+			top: -4em;
+			opacity: 0;
+			pointer-events: none; // 隱藏時避免誤觸選單
+		}
+
+		/*&.reveal {
+			@include vendor('animation', 'reveal-header 0.35s ease');
+		}*/
 
 		.logo {
 			border: 0;
@@ -123,10 +137,6 @@
 					}
 				}
 			}
-		}
-
-		&.reveal {
-			@include vendor('animation', 'reveal-header 0.35s ease');
 		}
 
 		&.alt {
