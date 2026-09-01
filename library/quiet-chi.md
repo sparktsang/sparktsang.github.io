@@ -6,7 +6,7 @@ title: "《安靜，就是力量》閱讀筆記"
 short_title: "安靜，就是力量"
 permalink: /library/quiet/chi/
 language: chi
-image: assets/bookcover/quiet-chi.jpg
+image: assets/bookcover/quiet-chi.webp
 ---
 
 《安靜，就是力量：內向者如何發揮積極的力量》  
