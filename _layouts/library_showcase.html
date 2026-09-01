@@ -126,8 +126,8 @@
     .book-cover {
       width: 190px;
       height: 280px;
-      background-size: cover;
-      background-position: center center;
+      background-size: contain;
+      background-repeat: no-repeat;
       border-radius: 2px 6px 6px 2px;
       box-shadow: 10px 10px 20px rgba(0,0,0,0.6), inset 2px 0 5px rgba(255,255,255,0.2);
       transition: transform 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94), box-shadow 0.4s ease;
@@ -330,23 +330,19 @@
 
         popup.innerHTML = `
           <div class="title typing"></div>
-          <div class="subtitle typing"></div>
           <div class="desc typing"></div>
         `;
         
         const titleEl = popup.querySelector('.title');
-        const subtitleEl = popup.querySelector('.subtitle');
         const descEl = popup.querySelector('.desc');
 
-        const title = shard.dataset.title || "";
-        const shortTitle = shard.dataset.shortTitle || "";
+        const shortTitle = shard.dataset.shortTitle || shard.dataset.title;
         const desc = shard.dataset.desc || "";
 
         calibratePopupPosition(wrapper, popup);
 
-        typeText(titleEl, title, 15)
-          .then(() => { titleEl.classList.remove('typing'); return typeText(subtitleEl, shortTitle, 15); })
-          .then(() => { subtitleEl.classList.remove('typing'); return typeText(descEl, desc, 10); })
+        typeText(titleEl, shortTitle, 15)
+          .then(() => { titleEl.classList.remove('typing'); return typeText(descEl, desc, 10); })
           .then(() => { descEl.classList.remove('typing'); })
           .catch(console.error);
       }
