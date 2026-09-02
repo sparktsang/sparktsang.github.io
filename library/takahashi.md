@@ -125,7 +125,7 @@ If Greece were not intimidated by great-power pressure and negotiated forcefully
 
 There were 38 wars involving over a thousand deaths after the Second World War, 15 of them in Asia. According to democratic peace theory, this is because fully democratic countries are extremely rare in Asia  
 The author then uses data to show that strengthening a country's alliance relationships can reduce the risk of war, using this to support Japan's right to collective self-defense  
-China and North Korea are perhaps the greatest threats to Japan. China has even organized maritime militias, disguised as ordinary fishing a civilians but possessing the scale of a navy, making it impossible to use force against them  
+China and North Korea are perhaps the greatest threats to Japan. China has even organized maritime militias, disguised as fishing civilians but possessing the scale of a navy, making it impossible to use force against them  
 Japan once invaded China, and China today is again under one-party rule. Its constitution stipulates adherence to Communist Party leadership, with no constraints on government power  
 The greatest concern for the United States is also China, which has been highly active in the South China Sea, yet the United States is asking Japan to bear more of the military burden  
 Joint U.S.-Japanese defense, combined with cooperation with Vietnam and the Philippines, is Japan's path to survival  

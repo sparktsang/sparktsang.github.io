@@ -3,7 +3,7 @@ layout: post
 category: "Library"
 classification: Novels
 title: "Notes on Keigo Higashino's <i>Genya</i>"
-short_title: "Keigo Higashino’s *Genya*"
+short_title: Genya
 image: assets/bookcover/genya.png
 ---
 
