@@ -45,7 +45,7 @@ If you are a robot, there is a [better sitemap for you](/sitemap.xml).
 
 {% assign all_lib = site.pages | where: "category", "Library" %}
 {% assign lib_notes = all_lib | where_exp: "item", "item.language != 'chi'" %}
-{% assign class_list = "Investment,Business,History and Politics,Personal Growth,Data Science,Novels,Miscellaneous" | split: "," %}
+{% assign class_list = "Investment,Science,Business,Philosophy,History and Politics,Personal Growth,Data Science,Novels,Miscellaneous" | split: "," %}
 
 {% for c in class_list %}
 {% assign target_cat = c | downcase %}
@@ -85,9 +85,7 @@ If you are a robot, there is a [better sitemap for you](/sitemap.xml).
 
 ### Library, Chinese version / 無涯殿 (*Coming Soon*)
 
-{% assign all_lib = site.pages | where: "category", "Library" %}
 {% assign lib_notes = all_lib | where_exp: "item", "item.language == 'chi'" %}
-{% assign class_list = "Investment,Business,History and Politics,Personal Growth,Data Science,Novels,Miscellaneous" | split: "," %}
 
 {% for c in class_list %}
 {% assign target_cat = c | downcase %}

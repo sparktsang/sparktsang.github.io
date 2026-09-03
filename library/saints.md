@@ -1,7 +1,7 @@
 ---
 layout: post
 category: "Library"
-classification: History and Politics
+classification: Philosophy
 title: "Notes on <i>Socrates, Buddha, Confucius, Jesus</i>"
 short_title: "Socrates, Buddha, Confucius, Jesus"
 image: assets/bookcover/saints.jpg

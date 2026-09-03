@@ -1,7 +1,7 @@
 ---
 layout: post
 category: "Library"
-classification: History and Politics
+classification: Philosophy
 title: "《四大聖哲：蘇格拉底、佛陀、孔子、耶穌》閱讀筆記"
 short_title: "四大聖哲：蘇格拉底、佛陀、孔子、耶穌"
 permalink: /library/saints/chi/
