@@ -1,7 +1,8 @@
 ---
 layout: post
 category: "Library"
-classification: Personal Growth
+classification: Psychology
+order: 3
 title: 'Notes on <i>Quiet</i>'
 short_title: "Quiet"
 image: assets/bookcover/quiet.jpg

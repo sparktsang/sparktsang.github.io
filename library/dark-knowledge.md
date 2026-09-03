@@ -1,7 +1,7 @@
 ---
 layout: post
 category: "Library"
-classification: Business
+classification: Economics
 title: "Notes on <i>Dark knowledge: How marchines think, Learn and Reshape Our future?</i>"
 short_title: "Dark knowledge: How marchines think, Learn and Reshape Our future?"
 image: assets/bookcover/dark-knowledge.png

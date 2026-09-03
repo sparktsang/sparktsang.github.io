@@ -2,6 +2,7 @@
 layout: post
 category: "Library"
 classification: Philosophy
+order: 1
 title: "Notes on <i>Socratic Dialogues</i>"
 short_title: "Socratic Dialogues"
 image: assets/bookcover/socrates.png

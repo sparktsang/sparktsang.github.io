@@ -1,7 +1,8 @@
 ---
 layout: post
 category: "Library"
-classification: Personal Growth
+classification: Psychology
+order: 6
 title: 'Notes on <i>Talking as a Bible</i>'
 short_title: "Friedemann Schultz von Thun's Talking as a Bible"
 image: assets/bookcover/talking-bible.png

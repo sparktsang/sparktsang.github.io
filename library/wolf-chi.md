@@ -1,7 +1,8 @@
 ---
 layout: post
 category: "Library"
-classification: Business
+classification: Marketing
+order: 4
 title: "《跟華爾街之狼學銷售》閱讀筆記"
 short_title: "跟華爾街之狼學銷售"
 permalink: /library/wolf/chi/

@@ -2,6 +2,7 @@
 layout: post
 category: "Library"
 classification: Investment
+order: 2
 title: "Notes on <i>Value Investing: From Graham to Buffett and Beyond</i>"
 short_title: "Value Investing: From Graham to Buffett and Beyond"
 image: assets/bookcover/value-inv.webp

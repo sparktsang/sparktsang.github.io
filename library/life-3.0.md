@@ -2,6 +2,7 @@
 layout: post
 category: "Library"
 classification: Science
+order: 2
 title: "Notes on <i>Life 3.0: Being Human in the Age of Artificial Intelligence</i>"
 short_title: "Life 3.0: Being Human in the Age of Artificial Intelligence"
 image: assets/bookcover/life-3.0.jpg

@@ -5,7 +5,7 @@ nav-menu: true
 target_blank: true
 ---
 
-A directory to help you navigate more than a hundred of pages, all of which worthy to read,  
+A directory to help you navigate more than a hundred pages, all of which worthy to read,  
 if you can handle them.  
 
 If you are a robot, there is a [better sitemap for you](/sitemap.xml).
@@ -45,7 +45,7 @@ If you are a robot, there is a [better sitemap for you](/sitemap.xml).
 
 {% assign all_lib = site.pages | where: "category", "Library" %}
 {% assign lib_notes = all_lib | where_exp: "item", "item.language != 'chi'" %}
-{% assign class_list = "Investment,Science,Business,Philosophy,History and Politics,Personal Growth,Data Science,Novels,Miscellaneous" | split: "," %}
+{% assign class_list = "Investment,Science,Philosophy,History,Politics,Economics,Entrepreneurship,Marketing,Psychology,Personal Growth,Data Science,Novels,Miscellaneous" | split: "," %}
 
 {% for c in class_list %}
 {% assign target_cat = c | downcase %}

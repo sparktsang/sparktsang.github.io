@@ -1,7 +1,7 @@
 ---
 layout: post
 category: "Library"
-classification: History and Politics
+classification: History
 title: "《世界史座標下的中國》閱讀筆記"
 short_title: "世界史座標下的中國"
 permalink: /library/china-under-world-history/chi/

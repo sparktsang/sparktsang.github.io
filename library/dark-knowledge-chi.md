@@ -1,7 +1,7 @@
 ---
 layout: post
 category: "Library"
-classification: Business
+classification: Economics
 title: "《AI背後的暗知識》閱讀筆記"
 short_title: "AI背後的暗知識"
 permalink: /library/dark-knowledge/chi/

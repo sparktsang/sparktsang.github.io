@@ -1,7 +1,8 @@
 ---
 layout: post  
 category: "Library"  
-classification: History and Politics  
+classification: History
+order: 4
 title: "《人類崛起》閱讀筆記"  
 short_title: "人類崛起"  
 permalink: /library/planet-masters/chi/  

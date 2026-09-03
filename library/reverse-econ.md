@@ -1,7 +1,7 @@
 ---
 layout: post
 category: "Library"
-classification: Business
+classification: Economics
 title: 'Notes on <i>Reverse Economics</i>'
 short_title: "Reverse Economics"
 image: assets/bookcover/reverse-econ.png

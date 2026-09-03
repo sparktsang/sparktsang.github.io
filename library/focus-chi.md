@@ -1,7 +1,8 @@
 ---
 layout: post
 category: "Library"
-classification: Personal Growth
+classification: Psychology
+order: 5
 title: "《專注的力量》閱讀筆記"
 short_title: "專注的力量"
 permalink: /library/focus/chi/

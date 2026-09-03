@@ -1,7 +1,7 @@
 ---
 layout: post
 category: "Library"
-classification: Business
+classification: Entrepreneurship
 title: "Notes on <i>The $100 Startup</i>"
 short_title: "The $100 Startup"
 image: assets/bookcover/100-startup.webp

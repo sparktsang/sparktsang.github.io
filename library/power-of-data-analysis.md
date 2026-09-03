@@ -2,6 +2,7 @@
 layout: post
 category: "Library"
 classification: Data Science
+order: 2
 title: "Notes on Koichiro Ito's <i>The Power of Data Analysis: How to Approach Causality</i>"
 short_title: "The Power of Data Analysis: How to Approach Causality"
 image: assets/bookcover/power-of-data-analysis.jpg

@@ -1,7 +1,7 @@
 ---
 layout: post
 category: "Library"
-classification: Business
+classification: Entrepreneurship
 title: 'Notes on <i>How to be a capitalist without any capital</i>'
 short_title: "How to be a capitalist without any capital"
 image: assets/bookcover/latka.webp

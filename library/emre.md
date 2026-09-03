@@ -1,6 +1,7 @@
 ---
 layout: post
 category: "Library"
+classification: Psychology
 title: 'Notes on <i>The Personality Brokers</i>'
 short_title: "The Personality Brokers"
 image: assets/bookcover/emre.jpg

@@ -1,7 +1,7 @@
 ---
 layout: post
 category: "Library"
-classification: Business
+classification: Entrepreneurship
 title: "《創業投資聖經》閱讀筆記"
 short_title: "創業投資聖經"
 permalink: /library/venture-deals/chi/

@@ -2,6 +2,7 @@
 layout: post
 category: "Library"
 classification: Science
+order: 2
 title: "《Life 3.0：人工智慧時代，人類的蛻變與重生》閱讀筆記"
 short_title: "Life 3.0：人工智慧時代，人類的蛻變與重生"
 permalink: /library/life-3.0/chi/

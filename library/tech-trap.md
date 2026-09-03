@@ -1,7 +1,8 @@
 ---
 layout: post
 category: "Library"
-classification: History and Politics
+classification: Economics
+order: 2
 title: "Notes on <i>The Technology Trap</i>"
 short_title: "The Technology Trap"
 image: assets/bookcover/tech-trap.jpg

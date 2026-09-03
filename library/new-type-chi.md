@@ -1,7 +1,8 @@
 ---
 layout: post
 category: "Library"
-classification: Business
+classification: Entrepreneurship
+order: 3
 title: "山口周《成為新人類》閱讀筆記"
 short_title: "成為新人類"
 permalink: /library/new-type/chi/

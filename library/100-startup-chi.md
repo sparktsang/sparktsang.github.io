@@ -1,7 +1,7 @@
 ---
 layout: post
 category: "Library"
-classification: Business
+classification: Entrepreneurship
 title: "《The $100 Startup》閱讀筆記"
 short_title: "The $100 Startup"
 permalink: /library/100-startup/chi/

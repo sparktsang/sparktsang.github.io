@@ -2,6 +2,7 @@
 layout: post
 category: "Library"
 classification: Philosophy
+order: 1
 title: "《蘇格拉底對話集》閱讀筆記"
 short_title: "蘇格拉底對話集"
 permalink: /library/socrates/chi/

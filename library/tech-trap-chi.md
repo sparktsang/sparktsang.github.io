@@ -1,7 +1,8 @@
 ---
 layout: post
 category: "Library"
-classification: History and Politics
+classification: Economics
+order: 2
 title: "《技術陷阱》閱讀筆記"
 short_title: "技術陷阱"
 permalink: /library/tech-trap/chi/

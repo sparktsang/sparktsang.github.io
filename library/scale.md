@@ -2,6 +2,7 @@
 layout: post
 category: "Library"
 classification: Science
+order: 1
 title: "Notes on <i>Scale</i>"
 short_title: "Scale"
 image: assets/bookcover/scale.jpg

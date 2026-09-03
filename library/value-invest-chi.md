@@ -2,6 +2,7 @@
 layout: post
 category: "Library"
 classification: Investment
+order: 2
 title: "《21世紀價值投資》閱讀筆記"
 short_title: "21世紀價值投資"
 permalink: /library/value-invest/chi/

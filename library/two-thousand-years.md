@@ -1,7 +1,8 @@
 ---
 layout: post
 category: "Library"
-classification: History and Politics
+classification: Economics
+order: 3
 title: "Notes on Wu Xiaobo's <i>Two Thousand Years of Grandeur</i>"
 short_title: "Two Thousand Years of Grandeur"
 image: assets/bookcover/two-thousand-years.png

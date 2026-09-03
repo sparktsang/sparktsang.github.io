@@ -2,6 +2,7 @@
 layout: post
 category: "Library"
 classification: Science
+order: 1
 title: "《規模：複雜世界的簡單法則》閱讀筆記"
 short_title: "規模：複雜世界的簡單法則"
 permalink: /library/scale/chi/

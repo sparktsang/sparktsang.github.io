@@ -1,7 +1,8 @@
 ---
 layout: post
 category: "Library"
-classification: History and Politics
+classification: Politics
+order: 1
 title: "《2049 百年馬拉松》閱讀筆記"
 short_title: "2049 百年馬拉松"
 permalink: /library/hundred-year-marathon/chi/

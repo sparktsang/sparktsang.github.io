@@ -1,7 +1,8 @@
 ---
 layout: post
 category: "Library"
-classification: Personal Growth
+classification: Psychology
+order: 3
 title: "《安靜，就是力量》閱讀筆記"
 short_title: "安靜，就是力量"
 permalink: /library/quiet/chi/

@@ -1,7 +1,8 @@
 ---
 layout: post  
 category: "Library"  
-classification: History and Politics  
+classification: History
+order: 3
 title: "《再啟蒙的年代》閱讀筆記"  
 short_title: "再啟蒙的年代"  
 permalink: /library/pinker/chi/  

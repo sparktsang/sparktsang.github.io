@@ -1,7 +1,8 @@
 ---
 layout: post
 category: "Library"
-classification: Personal Growth
+classification: Psychology
+order: 5
 title: 'Notes on <i>Focus: The Hidden Driver of Excellence</i>'
 short_title: "Focus: The Hidden Driver of Excellence"
 image: assets/bookcover/focus.webp

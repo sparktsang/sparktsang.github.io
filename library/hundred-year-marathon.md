@@ -1,7 +1,8 @@
 ---
 layout: post
 category: "Library"
-classification: History and Politics
+classification: Politics
+order: 1
 title: "Notes on <i>The Hundred-Year Marathon</i>"
 short_title: "The Hundred-Year Marathon"
 image: assets/bookcover/hundred-year-marathon.jpg

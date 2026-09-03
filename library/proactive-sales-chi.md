@@ -1,7 +1,7 @@
 ---
 layout: post
 category: "Library"
-classification: Business
+classification: Marketing
 title: "《主導式銷售力》 閱讀筆記"
 short_title: "主導式銷售力"
 permalink: /library/proactive-sales/chi/

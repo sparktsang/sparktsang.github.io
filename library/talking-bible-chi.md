@@ -1,7 +1,8 @@
 ---
 layout: post
 category: "Library"
-classification: Personal Growth
+classification: Psychology
+order: 6
 title: "《談話聖經》閱讀筆記"
 short_title: "談話聖經"
 permalink: /library/talking-bible/chi/

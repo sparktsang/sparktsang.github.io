@@ -2,6 +2,7 @@
 layout: post
 category: "Library"
 classification: Data Science
+order: 1
 title: "Overriding Code: A 120,000-Character Manifesto on Taming AI and Architecting a Digital Altar"
 render_with_liquid: false
 ---

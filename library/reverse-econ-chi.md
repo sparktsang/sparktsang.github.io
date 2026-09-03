@@ -1,7 +1,7 @@
 ---
 layout: post
 category: "Library"
-classification: Business
+classification: Economics
 title: "李逆熵《反轉經濟學》閱讀筆記"
 short_title: "反轉經濟學"
 permalink: /library/reverse-econ/chi/

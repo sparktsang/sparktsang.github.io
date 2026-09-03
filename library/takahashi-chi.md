@@ -1,7 +1,7 @@
 ---
 layout: post
 category: "Library"
-classification: History and Politics
+classification: Politics
 title: "高橋洋一《地緣政治》閱讀筆記"
 short_title: "地緣政治：主權、資源與戰爭"
 permalink: /library/takahashi/chi/

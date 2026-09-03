@@ -1,6 +1,7 @@
 ---
 layout: post
 category: "Library"
+classification: Psychology
 title: "《性格販子》閱讀筆記"
 short_title: "性格販子"
 permalink: /library/emre/chi/

@@ -1,7 +1,8 @@
 ---
 layout: post
 category: "Library"
-classification: Personal Growth
+classification: Psychology
+order: 1
 title: "《成為一個人》閱讀筆記"
 short_title: "成為一個人"
 permalink: /library/rogers/chi/

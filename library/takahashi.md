@@ -1,7 +1,7 @@
 ---
 layout: post
 category: "Library"
-classification: History and Politics
+classification: Politics
 title: "Notes on Yoichi Takahashi's <i>Geopolitics</i>"
 short_title: "Yoichi Takahashi's Geopolitics"
 image: assets/bookcover/takahashi.png

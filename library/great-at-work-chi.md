@@ -6,7 +6,7 @@ title: "《高績效心智》閱讀筆記"
 short_title: "高績效心智"
 permalink: /library/great-at-work/chi/
 language: chi
-image: assets/bookcover/great-at-work.jpg
+image: assets/bookcover/great-at-work-chi.jpg
 ---
 
 《高績效心智：全新聰明工作學，讓你成為最厲害的1%》  

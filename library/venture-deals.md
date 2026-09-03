@@ -1,7 +1,7 @@
 ---
 layout: post
 category: "Library"
-classification: Business
+classification: Entrepreneurship
 title: "Notes on <i>Venture Deals</i>"
 short_title: "Venture Deals"
 image: assets/bookcover/venture-deals.webp

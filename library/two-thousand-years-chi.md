@@ -1,7 +1,8 @@
 ---
 layout: post
 category: "Library"
-classification: History and Politics
+classification: Economics
+order: 3
 title: "吳曉波《浩蕩兩千年》閱讀筆記"
 short_title: "浩蕩兩千年"
 permalink: /library/two-thousand-years/chi/

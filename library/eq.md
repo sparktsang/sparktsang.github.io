@@ -1,7 +1,8 @@
 ---
 layout: post
 category: "Library"
-classification: Personal Growth
+classification: Psychology
+order: 4
 title: "Notes on Goleman's <i>Emotional Intelligence</i>"
 short_title: "Emotional Intelligence"
 image: assets/bookcover/eq.jpg

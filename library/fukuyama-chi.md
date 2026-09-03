@@ -1,7 +1,8 @@
 ---
 layout: post
 category: "Library"
-classification: History and Politics
+classification: History
+order: 1
 title: "《政治秩序的起源（上卷）》閱讀筆記"
 short_title: "政治秩序的起源（上卷）"
 permalink: /library/fukuyama/chi/

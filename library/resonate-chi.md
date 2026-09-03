@@ -1,7 +1,8 @@
 ---
 layout: post
 category: "Library"
-classification: Business
+classification: Marketing
+order: 2
 title: "《簡報女王的故事力》閱讀筆記"
 short_title: "簡報女王的故事力"
 permalink: /library/resonate/chi/

@@ -1,7 +1,8 @@
 ---
 layout: post
 category: "Library"
-classification: Personal Growth
+classification: Psychology
+order: 1
 title: 'Notes on <i>On Becoming a Person</i>'
 short_title: "On Becoming a Person"
 image: assets/bookcover/rogers.jpg

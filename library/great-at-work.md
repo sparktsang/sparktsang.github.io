@@ -4,7 +4,7 @@ category: "Library"
 classification: Personal Growth
 title: 'Notes on <i>Great at Work</i>'
 short_title: "Great at Work: How Top Performers Do Less, Work Better, and Achieve More"
-image: assets/bookcover/great-at-work-chi.jpg
+image: assets/bookcover/great-at-work.jpg
 ---
 
 *Great at Work: How Top Performers Do Less, Work Better, and Achieve More* by Morten T. Hansen

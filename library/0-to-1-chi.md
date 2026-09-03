@@ -1,7 +1,8 @@
 ---
 layout: post
 category: "Library"
-classification: Business
+classification: Entrepreneurship
+order: 2
 title: "《從 0 到 1》閱讀筆記"
 short_title: "從 0 到 1"
 permalink: /library/0-to-1/chi/

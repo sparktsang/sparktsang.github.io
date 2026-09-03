@@ -1,7 +1,7 @@
 ---
 layout: post
 category: "Library"
-classification: Personal Growth
+classification: Psychology
 order: 2
 title: "《心流》閱讀筆記"
 short_title: "心流"

@@ -1,7 +1,8 @@
 ---
 layout: post
 category: "Library"
-classification: History and Politics
+classification: History
+order: 1
 title: "Notes on <i>The Origins of Political Order: From Prehuman Times to the French Revolution</i>"
 short_title: "The Origins of Political Order: From Prehuman Times to the French Revolution"
 image: assets/bookcover/fukuyama.webp

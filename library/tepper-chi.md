@@ -1,7 +1,7 @@
 ---
 layout: post
 category: "Library"
-classification: Business
+classification: Economics
 order: 1
 title: "《競爭之死》閱讀筆記"
 short_title: "競爭之死"

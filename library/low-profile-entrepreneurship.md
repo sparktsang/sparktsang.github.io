@@ -1,7 +1,7 @@
 ---
 layout: post
 category: "Library"
-classification: Business
+classification: Entrepreneurship
 title: "Notes on <i>Low-Profile Entrepreneurship</i>"
 short_title: "Low-Profile Entrepreneurship"
 image: assets/bookcover/low-profile-entrepreneurship.png

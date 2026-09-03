@@ -1,7 +1,7 @@
 ---
 layout: post
 category: "Library"
-classification: Business
+classification: Marketing
 title: "Notes on <i>The Power of Proactive Sales</i>"
 short_title: "The Power of Proactive Sales"
 image: assets/bookcover/proactive-sales-eng.png

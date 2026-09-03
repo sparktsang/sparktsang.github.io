@@ -1,7 +1,8 @@
 ---
 layout: post
 category: "Library"
-classification: Business
+classification: Marketing
+order: 3
 title: "Notes on Gladwell's <i>The Tipping Point</i>"
 short_title: "The Tipping Point"
 image: assets/bookcover/tipping-point.webp

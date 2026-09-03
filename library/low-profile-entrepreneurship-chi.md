@@ -1,7 +1,7 @@
 ---
 layout: post
 category: "Library"
-classification: Business
+classification: Entrepreneurship
 title: "田中祐一《低調創業》閱讀筆記"
 short_title: "田中祐一《低調創業》"
 permalink: /library/low-profile-entrepreneurship/chi/

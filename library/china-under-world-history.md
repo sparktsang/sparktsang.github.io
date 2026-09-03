@@ -1,7 +1,7 @@
 ---
 layout: post
 category: "Library"
-classification: History and Politics
+classification: History
 title: "Notes on <i>China Under World History Coordinates</i>"
 short_title: "China Under World History Coordinates"
 image: assets/bookcover/china-under-world-history.png
@@ -12,9 +12,6 @@ image: assets/bookcover/china-under-world-history.png
 Original notes [here](/library/china-under-world-history/chi){:target="_blank"}. 
 
 ---
-
-
-
 
 Chinese civilization is the only major civilization in the world that has never been interrupted; it developed in the most geographically isolated environment, yet matured early while also enjoying the advantages of a latecomer.  
 Apart from the two ends of the transformation from Zhou to Qin and China’s entry into globalization, the more than two thousand years in between were characterized by repeated cycles. Political techniques continuously evolved, while imperial power grew ever stronger relative to the power of the chancellor.  

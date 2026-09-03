@@ -1,7 +1,7 @@
 ---
 layout: post
 category: "Library"
-classification: Personal Growth
+classification: Psychology
 order: 2
 title: 'Notes on <i>Flow</i>'
 short_title: "Flow"

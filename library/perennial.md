@@ -2,6 +2,7 @@
 layout: post
 category: "Library"
 classification: Investment
+order: 1
 title: "The First Principles of Perennial Profit in Investing"
 redirect_from:
   - /knowledge/2025/11/15/investment-first-principles.html

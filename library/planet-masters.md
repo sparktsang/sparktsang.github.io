@@ -1,7 +1,8 @@
 ---
 layout: post
 category: "Library"
-classification: History and Politics
+classification: History
+order: 4
 title: "Notes on <i>Masters of the Planet</i>"
 short_title: "Masters of the Planet"
 image: assets/bookcover/planet-masters.jpg

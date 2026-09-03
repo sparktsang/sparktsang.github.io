@@ -1,7 +1,7 @@
 ---
 layout: post
 category: "Library"
-classification: Business
+classification: Entrepreneurship
 title: "《新富人的捷徑》閱讀筆記"
 short_title: "新富人的捷徑"
 permalink: /library/latka/chi/

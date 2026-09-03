@@ -1,7 +1,8 @@
 ---
 layout: post
 category: "Library"
-classification: Business
+classification: Marketing
+order: 4
 title: "Notes on <i>Way of the Wolf</i>"
 short_title: "Way of the Wolf"
 image: assets/bookcover/wolf.jpg

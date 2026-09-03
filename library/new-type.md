@@ -1,7 +1,8 @@
 ---
 layout: post
 category: "Library"
-classification: Business
+classification: Entrepreneurship
+order: 3
 title: "Notes on Yamaguchi's <i>The Age of the New Type</i>"
 short_title: "The Age of the New Type"
 image: assets/bookcover/new-type.png

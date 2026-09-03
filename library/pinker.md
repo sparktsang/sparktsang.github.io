@@ -1,7 +1,8 @@
 ---
 layout: post
 category: "Library"
-classification: History and Politics
+classification: History
+order: 3
 title: "Notes on <i>Enlightenment Now</i>"
 short_title: "Enlightenment Now"
 image: assets/bookcover/pinker.jpg
