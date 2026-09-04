@@ -4,6 +4,7 @@ category: "Library"
 classification: Personal Growth
 title: "《找到想做的事，擁有無悔人生》閱讀筆記"
 short_title: "找到想做的事，擁有無悔人生"
+title_obvious: false
 permalink: /library/furukawa/chi/
 language: chi
 image: assets/bookcover/furukawa.png

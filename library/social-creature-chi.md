@@ -4,6 +4,7 @@ category: "Library"
 classification: Novels
 title: "《社交動物》筆記"
 short_title: "社交動物"
+title_obvious: false
 permalink: /library/social-creature/chi/
 language: chi
 image: assets/bookcover/social-creature-chi.jpg

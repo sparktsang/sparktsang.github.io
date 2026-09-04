@@ -4,6 +4,7 @@ category: "Library"
 classification: Economics
 title: "李逆熵《反轉經濟學》閱讀筆記"
 short_title: "反轉經濟學"
+title_obvious: false
 permalink: /library/reverse-econ/chi/
 language: chi
 image: assets/bookcover/reverse-econ.jpg

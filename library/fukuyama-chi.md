@@ -5,6 +5,7 @@ classification: History
 order: 1
 title: "《政治秩序的起源（上卷）》閱讀筆記"
 short_title: "政治秩序的起源（上卷）"
+title_obvious: false
 permalink: /library/fukuyama/chi/
 language: chi
 image: assets/bookcover/fukuyama.jpg

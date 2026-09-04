@@ -5,6 +5,7 @@ classification: Economics
 order: 3
 title: "Notes on Wu Xiaobo's <i>Two Thousand Years of Grandeur</i>"
 short_title: "Two Thousand Years of Grandeur"
+title_obvious: false
 image: assets/bookcover/two-thousand-years.png
 ---
 

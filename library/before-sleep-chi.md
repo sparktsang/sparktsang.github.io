@@ -4,6 +4,7 @@ category: "Library"
 classification: Novels
 title: "S.J. Watson《別相信任何人》筆記"
 short_title: "別相信任何人"
+title_obvious: false
 permalink: /library/before-sleep/chi/
 language: chi
 image: assets/bookcover/before-sleep.webp

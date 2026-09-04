@@ -4,14 +4,15 @@ category: "Library"
 classification: Psychology
 order: 1
 title: "《成為一個人》閱讀筆記"
-short_title: "成為一個人"
+short_title: "成為一個人：一個治療者對心理治療的觀點"
+title_obvious: false
 permalink: /library/rogers/chi/
 language: chi
 image: assets/bookcover/rogers-chi.jpg
 ---
 
 《成為一個人：一個治療者對心理治療的觀點》  
-*On Becoming a Person* by Carl Roger
+*On Becoming a Person: A Therapist's View of Psychotherapy* by Carl Roger
 
 English translation [here](/library/rogers){:target="_blank"}. 
 

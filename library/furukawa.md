@@ -4,6 +4,7 @@ category: "Library"
 classification: Personal Growth
 title: "Notes on Takesi Furukawa's <i>3 Habits to Find What You Want to Do</i>"
 short_title: "3 Habits to Find What You Want to Do"
+title_obvious: false
 image: assets/bookcover/furukawa-eng.png
 ---
 

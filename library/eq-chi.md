@@ -5,6 +5,7 @@ classification: Psychology
 order: 4
 title: "《EQ：決定一生幸福與成就的永恆力量》閱讀筆記"
 short_title: "EQ：決定一生幸福與成就的永恆力量"
+title_obvious: false
 permalink: /library/eq/chi/
 language: chi
 image: assets/bookcover/eq-chi.jpg

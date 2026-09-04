@@ -4,6 +4,7 @@ category: "Library"
 classification: Personal Growth
 title: 'Notes on <i>Ultralearning</i>'
 short_title: "Ultralearning"
+title_obvious: false
 image: assets/bookcover/ultralearning.jpg
 ---
 

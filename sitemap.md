@@ -83,7 +83,7 @@ If you are a robot, there is a [better sitemap for you](/sitemap.xml).
 
 ---
 
-### Library, Chinese version / 無涯殿 (*Coming Soon*)
+### [Library, Chinese version / 無涯殿](/library/chi) (*Under Construction*)
 
 {% assign lib_notes = all_lib | where_exp: "item", "item.language == 'chi'" %}
 

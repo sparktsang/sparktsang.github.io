@@ -8,7 +8,7 @@ short_title: "On Becoming a Person"
 image: assets/bookcover/rogers.jpg
 ---
 
-*On Becoming a Person* by Carl Roger
+*On Becoming a Person: A Therapist's View of Psychotherapy* by Carl Roger
 
 Original notes [here](/library/rogers/chi){:target="_blank"}.  
 

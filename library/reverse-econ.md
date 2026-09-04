@@ -4,6 +4,7 @@ category: "Library"
 classification: Economics
 title: 'Notes on <i>Reverse Economics</i>'
 short_title: "Reverse Economics"
+title_obvious: false
 image: assets/bookcover/reverse-econ.png
 ---
 

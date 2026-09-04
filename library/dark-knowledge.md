@@ -4,6 +4,7 @@ category: "Library"
 classification: Economics
 title: "Notes on <i>Dark knowledge: How marchines think, Learn and Reshape Our future?</i>"
 short_title: "Dark knowledge: How marchines think, Learn and Reshape Our future?"
+title_obvious: false
 image: assets/bookcover/dark-knowledge.png
 ---
 

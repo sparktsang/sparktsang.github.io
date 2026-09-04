@@ -5,6 +5,7 @@ classification: Economics
 order: 3
 title: "吳曉波《浩蕩兩千年》閱讀筆記"
 short_title: "浩蕩兩千年"
+title_obvious: false
 permalink: /library/two-thousand-years/chi/
 language: chi
 image: assets/bookcover/two-thousand-years.jpg

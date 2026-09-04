@@ -4,6 +4,7 @@ category: "Library"
 classification: Personal Growth
 title: "《恆毅力：人生成功的究極能力》閱讀筆記"
 short_title: "恆毅力：人生成功的究極能力"
+title_obvious: false
 permalink: /library/grit/chi/
 language: chi
 image: assets/bookcover/grit-chi.jpg

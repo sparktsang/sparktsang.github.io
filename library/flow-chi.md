@@ -4,7 +4,7 @@ category: "Library"
 classification: Psychology
 order: 2
 title: "《心流》閱讀筆記"
-short_title: "心流"
+short_title: "心流：高手都在研究的最優體驗心理學"
 permalink: /library/flow/chi/
 language: chi
 image: assets/bookcover/flow-chi.jpg

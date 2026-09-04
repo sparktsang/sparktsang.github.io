@@ -1,12 +1,13 @@
 ---
 layout: post  
 category: "Library"  
-classification: Politics  
-title: "《民主會怎麼結束》閱讀筆記"  
-short_title: "民主會怎麼結束"  
-permalink: /library/how-democracy-ends/chi/  
-language: chi  
-image: assets/bookcover/how-democracy-ends-chi.jpg  
+classification: Politics
+title: "《民主會怎麼結束》閱讀筆記"
+short_title: "民主會怎麼結束"
+title_obvious: false
+permalink: /library/how-democracy-ends/chi/
+language: chi
+image: assets/bookcover/how-democracy-ends-chi.jpg
 ---
 
 *How Democracy Ends* by David Runciman

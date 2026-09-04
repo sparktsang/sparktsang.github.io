@@ -224,7 +224,13 @@
     <div class="library-lang-container">
         
         {% assign all_lib = site.pages | where: "category", "Library" %}
-        {% assign lib_notes = all_lib | where_exp: "item", "item.language != 'chi'" %}
+
+        {% if page.version == 'chi' %}
+          {% assign lib_notes = all_lib | where_exp: "item", "item.language == 'chi'" %}
+        {% else %}
+          {% assign lib_notes = all_lib | where_exp: "item", "item.language != 'chi'" %}
+        {% endif %}
+        
         {% assign class_list = "Investment,Science,Philosophy,History,Politics,Economics,Entrepreneurship,Marketing,Psychology,Personal Growth,Data Science,Novels,Miscellaneous" | split: "," %}
 
         {% for c in class_list %}
@@ -257,7 +263,7 @@
                                          data-short-title="{{ post.short_title | escape }}"
                                          data-desc="{{ post.description | escape }}">
                                         
-                                        <a href="{{ post.url | relative_url }}" class="click-area"></a>
+                                        <a href="{{ post.url | relative_url }}" target="_blank" class="click-area"></a>
                                         <div class="book-cover" style="background-image: url('{{ post.image | relative_url }}');"></div>
                                         
                                         <div class="holo-popup"></div>
@@ -277,7 +283,7 @@
                                      data-short-title="{{ post.short_title | escape }}"
                                      data-desc="{{ post.description | escape }}">
                                     
-                                    <a href="{{ post.url | relative_url }}" class="click-area"></a>
+                                    <a href="{{ post.url | relative_url }}" target="_blank" class="click-area"></a>
                                     <div class="book-cover" style="background-image: url('{{ post.image | relative_url }}');"></div>
                                     
                                     <div class="holo-popup"></div>
@@ -288,8 +294,17 @@
                 </div>
             {% endif %}
         {% endfor %}
+
     </div>
   </div>
+
+  <section id="banner">
+    <div class="inner">
+      <div class="content">
+        <p style="color: #94a3b8; text-align: center; width: 100%;">{{ page.foot }}</p>
+      </div>
+    </div>
+  </section>
 
   {% include footer.html %}
 

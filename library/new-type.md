@@ -5,6 +5,7 @@ classification: Entrepreneurship
 order: 3
 title: "Notes on Yamaguchi's <i>The Age of the New Type</i>"
 short_title: "The Age of the New Type"
+title_obvious: false
 image: assets/bookcover/new-type.png
 ---
 

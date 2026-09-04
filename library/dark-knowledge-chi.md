@@ -4,6 +4,7 @@ category: "Library"
 classification: Economics
 title: "《AI背後的暗知識》閱讀筆記"
 short_title: "AI背後的暗知識"
+title_obvious: false
 permalink: /library/dark-knowledge/chi/
 language: chi
 image: assets/bookcover/dark-knowledge.jpg

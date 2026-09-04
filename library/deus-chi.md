@@ -5,6 +5,7 @@ classification: History
 order: 2
 title: "《人類大命運：從智人到神人》閱讀筆記"
 short_title: "人類大命運：從智人到神人"
+title_obvious: false
 permalink: /library/deus/chi/
 language: chi
 image: assets/bookcover/deus-chi.jpg

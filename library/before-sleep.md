@@ -4,6 +4,7 @@ category: "Library"
 classification: Novels
 title: "Notes on Watson's <i>Before I Go to Sleep</i>"
 short_title: Before I Go to Sleep
+title_obvious: false
 image: assets/bookcover/before-sleep.jpg
 ---
 
