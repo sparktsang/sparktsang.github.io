@@ -3,7 +3,7 @@ layout: post
 category: "Library"
 classification: Entrepreneurship
 order: 1
-title: "《創業實戰全書：以科學方法避開 99% 創業陷阱》閱讀筆記"
+title: "《創業實戰全書》閱讀筆記"
 short_title: "創業實戰全書：以科學方法避開 99% 創業陷阱"
 permalink: /library/startup-science/chi/
 language: chi

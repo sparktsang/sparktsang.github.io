@@ -5,6 +5,7 @@ classification: Marketing
 order: 2
 title: "Notes on <i>Resonate: Present Visual Stories that Transform Audiences</i>"
 short_title: "Resonate: Present Visual Stories that Transform Audiences"
+title_obvious: false
 image: assets/bookcover/resonate.jpg
 ---
 

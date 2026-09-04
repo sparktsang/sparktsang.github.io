@@ -11,7 +11,7 @@ image: assets/bookcover/high-profit-marketing.jpg
 ---
 
 中野道良《高獲利行銷實務課：小公司及個人品牌都應該知道的B2B集客密技》  
-新規顧客が勝手にあつまる販促の設計図》
+新規顧客が勝手にあつまる販促の設計図
 
 English translation [here](/library/high-profit-marketing){:target="_blank"}. 
 

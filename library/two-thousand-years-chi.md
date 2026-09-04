@@ -230,7 +230,7 @@ English translation [here](/library/two-thousand-years){:target="_blank"}.
 南京條約五口通商規定使廣州不再有特權  
 伍對美國友人寫信寫若非年邁，欲移居美國  
 
-Angus Maddison 統計出 1300 年到 1820 年中國人均 gdp 增長率一直為零  
+Angus Maddison 統計出 1300 年到 1820 年中國人均 GDP 增長率一直為零  
 同期西方，民主風潮席捲，並發明電報、蒸汽車、汽輪船、辦了一個又一個世界博覽會、發表物種起源、廢除黑奴  
 而十九世紀中國人，對這一切聞所未聞  
 
