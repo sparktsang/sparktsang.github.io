@@ -12,7 +12,7 @@ If you are a robot, there is a [better sitemap for you](/sitemap.xml).
 
 ---
 
-{% assign life_posts = site.categories.Life | sort: 'date' %}
+{% assign life_posts = site.posts | where: "category", "Life" | reverse %}
 {% assign normal_posts = life_posts | where_exp: "item", "item.series == nil" %}
 {% assign ade_series = life_posts | where: "series", "Ade" %}
 {% assign autobio = life_posts | where: "series", "Autobiography" %}
