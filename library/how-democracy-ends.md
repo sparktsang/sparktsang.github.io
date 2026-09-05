@@ -4,6 +4,7 @@ category: "Library"
 classification: Politics
 title: "Notes on David Runciman's <i>How Democracy Ends</i>"
 short_title: "How Democracy Ends"
+description: "A chilling look at the modern threats to democratic systems. These notes summarize how conspiracy theories, technological takeovers, and elite failures are quietly eroding democracies from the inside out, without the need for a military coup."
 image: assets/bookcover/how-democracy-ends.jpg
 ---
 

@@ -5,6 +5,7 @@ classification: Psychology
 order: 2
 title: 'Notes on <i>Flow</i>'
 short_title: "Flow"
+description: Unlock the psychology of the "optimal experience" to transform your daily life. These notes explain how to channel your psychic energy, merge skill with challenge, and find profound joy in both work and leisure.
 image: assets/bookcover/flow.jpg
 ---
 

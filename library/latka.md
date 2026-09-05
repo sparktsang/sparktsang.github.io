@@ -4,6 +4,7 @@ category: "Library"
 classification: Entrepreneurship
 title: 'Notes on <i>How to be a capitalist without any capital</i>'
 short_title: "How to be a capitalist without any capital"
+description: "A fiercely pragmatic guide to building wealth in the modern economy. Learn how to game the system, leverage existing assets, buy profitable micro-businesses, and generate passive income—even if you're starting with zero capital."
 image: assets/bookcover/latka.webp
 ---
 

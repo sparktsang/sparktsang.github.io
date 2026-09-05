@@ -5,6 +5,7 @@ classification: Data Science
 order: 2
 title: "伊藤公一郎《數據分析的力量》閱讀筆記"
 short_title: "數據分析的力量"
+description: ""
 permalink: /library/power-of-data-analysis/chi/
 language: chi
 image: assets/bookcover/power-of-data-analysis.png

@@ -3,6 +3,7 @@ layout: post
 category: "Library"
 title: "《汽車構造完全百科》 閱讀筆記"
 short_title: "汽車構造完全百科"
+description: "寫給汽車愛好者的速成基礎課。筆記將複雜的汽車構造，從引擎運作、傳動系統到懸吊與輪胎原理，濃縮成淺顯易懂的知識列點，讓你秒懂汽車科學。"
 permalink: /library/car-encyclopedia/chi/
 language: chi
 image: assets/bookcover/car-encyclopedia.jpg

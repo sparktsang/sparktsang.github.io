@@ -4,6 +4,7 @@ category: "Library"
 classification: History
 title: "盧斯達《如水赴壑》閱讀筆記"
 short_title: "盧斯達《如水赴壑》"
+description: "深剖香港百年地緣身世與認同。刺破中原大一統之帝國神話，梳理本土意識之流變，剖析昔日明珠何以於泰西與華夏之文明對撞中，步向其宿命。"
 permalink: /library/like-water/chi/
 language: chi
 image: assets/bookcover/like-water.png

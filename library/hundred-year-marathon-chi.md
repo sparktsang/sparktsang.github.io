@@ -5,6 +5,7 @@ classification: Politics
 order: 1
 title: "《2049 百年馬拉松》閱讀筆記"
 short_title: "2049 百年馬拉松"
+description: "本筆記刺破「和平崛起」之政治迷霧，揭示布局百年之隱蔽戰略。剖析其如何運籌戰國縱橫兵家之奇計，韜光養晦以惑泰西，欲於 2049 年問鼎全球，重掌天下霸權。"
 permalink: /library/hundred-year-marathon/chi/
 language: chi
 image: assets/bookcover/hundred-year-marathon-chi.jpg

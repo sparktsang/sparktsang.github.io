@@ -5,6 +5,7 @@ classification: Psychology
 order: 3
 title: 'Notes on <i>Quiet</i>'
 short_title: "Quiet"
+description: ""
 image: assets/bookcover/quiet.jpg
 ---
 

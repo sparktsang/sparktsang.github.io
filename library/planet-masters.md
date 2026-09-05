@@ -5,6 +5,7 @@ classification: History
 order: 4
 title: "Notes on <i>Masters of the Planet</i>"
 short_title: "Masters of the Planet"
+description: ""
 image: assets/bookcover/planet-masters.jpg
 ---
 

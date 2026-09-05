@@ -4,6 +4,7 @@ category: "Library"
 classification: Marketing
 title: "Notes on Hiesboeck's <i>Efficient Marketing in the Digital Age</i>"
 short_title: "Efficient Marketing in the Digital Age"
+description: "Cut through the noise of digital marketing myths with data-backed strategies. These notes offer a practical roadmap for targeting the right audience, optimizing conversion rates, and building authentic brand trust."
 image: assets/bookcover/efficient-marketing-eng.jpg
 ---
 

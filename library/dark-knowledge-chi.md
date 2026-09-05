@@ -5,6 +5,7 @@ classification: Economics
 title: "《AI背後的暗知識》閱讀筆記"
 short_title: "AI背後的暗知識"
 title_obvious: false
+description: "揭開機器學習所產生的「暗知識」面紗。本筆記總結了人工智能網絡如何突破人類認知極限，並深入解析這場技術革命將如何重塑各大產業與工作的未來。"
 permalink: /library/dark-knowledge/chi/
 language: chi
 image: assets/bookcover/dark-knowledge.jpg

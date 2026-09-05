@@ -4,6 +4,7 @@ category: "Library"
 classification: Marketing
 title: "《主導式銷售力》 閱讀筆記"
 short_title: "主導式銷售力"
+description: ""
 permalink: /library/proactive-sales/chi/
 language: chi
 image: assets/bookcover/proactive-sales.png

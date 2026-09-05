@@ -5,6 +5,7 @@ classification: Science
 order: 2
 title: "《Life 3.0：人工智慧時代，人類的蛻變與重生》閱讀筆記"
 short_title: "Life 3.0：人工智慧時代，人類的蛻變與重生"
+description: "奇點降臨，智械稱神，人歸何處？本筆記上通物理之天規，下量倫理之法度，拆解超人工智慧之變，追尋宇宙穹蒼間那一抹靈知之火。"
 permalink: /library/life-3.0/chi/
 language: chi
 image: assets/bookcover/life-3.0-chi.jpg

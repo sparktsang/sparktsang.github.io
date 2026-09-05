@@ -5,6 +5,7 @@ classification: Psychology
 order: 2
 title: "《心流》閱讀筆記"
 short_title: "心流：高手都在研究的最優體驗心理學"
+description: "達至物我兩忘、思如泉湧、合於天地之化境，煥然一新。本筆記助你凝神篤志、遊刃有餘、寄情動靜、至善與極樂同臻。"
 permalink: /library/flow/chi/
 language: chi
 image: assets/bookcover/flow-chi.jpg

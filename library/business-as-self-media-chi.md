@@ -4,6 +4,7 @@ category: "Library"
 classification: Marketing
 title: "《企業就是自媒體》 閱讀筆記"
 short_title: "企業就是自媒體"
+description: "掌握從「傳統廣告」轉向「自為傳媒」的要訣。本筆記昭示品牌如何以人格魅力、情感共鳴與故事技巧，築巢引鳳，深耕自媒，獨樹一幟，深入人心。"
 permalink: /library/business-as-self-media/chi/
 language: chi
 image: assets/bookcover/business-as-self-media.jpg

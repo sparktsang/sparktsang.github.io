@@ -5,6 +5,7 @@ classification: Politics
 order: 1
 title: "Notes on <i>The Hundred-Year Marathon</i>"
 short_title: "The Hundred-Year Marathon"
+description: "Uncover the long-term, stealth strategy behind China’s rise. These notes decode the historical and ideological playbook the CCP uses to systematically deceive the West and position itself as the dominant global superpower by 2049."
 image: assets/bookcover/hundred-year-marathon.jpg
 ---
 

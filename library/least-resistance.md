@@ -2,9 +2,10 @@
 layout: post
 category: "Library"
 classification: Personal Growth
-order: ３
+order: 3
 title: 'Notes on <i>The Path of Least Resistance</i>'
 short_title: "The Path of Least Resistance"
+description: Stop fighting against your circumstances and start designing them. These notes explain how the hidden structures in your life dictate your actions, and how shifting from a "problem-solving" mindset to a "creating" mindset changes everything.
 image: assets/bookcover/fritz.jpg
 ---
 

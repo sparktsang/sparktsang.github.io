@@ -4,6 +4,7 @@ category: "Library"
 classification: Personal Growth
 title: 'Notes on <i>Grit: The Power of Passion and Perseverance</i>'
 short_title: "Grit: The Power of Passion and Perseverance"
+description: "Talent is overrated; effort counts twice. This summary explores the true engine of outstanding achievement—a blend of fierce passion and relentless perseverance—and provides actionable steps to cultivate it in yourself and others."
 image: assets/bookcover/grit.webp
 ---
 

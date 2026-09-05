@@ -6,6 +6,7 @@ order: 3
 title: "《安靜，就是力量》閱讀筆記"
 short_title: "安靜，就是力量"
 title_obvious: false
+description: ""
 permalink: /library/quiet/chi/
 language: chi
 image: assets/bookcover/quiet-chi.webp

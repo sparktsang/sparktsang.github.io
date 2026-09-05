@@ -5,6 +5,7 @@ classification: Politics
 title: "《民主會怎麼結束》閱讀筆記"
 short_title: "民主會怎麼結束"
 title_obvious: false
+description: "一齊凝視現代民主制度危機。本筆記總結了陰謀論、科技巨頭與菁英失靈如何從內部悄悄侵蝕民主根基，揭示民主之死或不需要流血政變。"
 permalink: /library/how-democracy-ends/chi/
 language: chi
 image: assets/bookcover/how-democracy-ends-chi.jpg

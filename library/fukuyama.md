@@ -5,6 +5,7 @@ classification: History
 order: 1
 title: "Notes on <i>The Origins of Political Order: From Prehuman Times to the French Revolution</i>"
 short_title: "The Origins of Political Order: From Prehuman Times to the French Revolution"
+description: "Dive into the deep historical roots of why some nations succeed while others fail. These notes trace the evolution of the state, the rule of law, and accountable government from tribal societies up to the French Revolution."
 image: assets/bookcover/fukuyama.webp
 ---
 

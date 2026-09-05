@@ -5,6 +5,7 @@ classification: Marketing
 order: 2
 title: "《簡報女王的故事力》閱讀筆記"
 short_title: "簡報女王的故事力"
+description: ""
 permalink: /library/resonate/chi/
 language: chi
 image: assets/bookcover/resonate.png

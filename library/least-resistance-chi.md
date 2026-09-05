@@ -5,6 +5,7 @@ classification: Personal Growth
 order: 3
 title: "《最少阻力之路》閱讀筆記"
 short_title: "最少阻力之路"
+description: "愚者逆天咒地，智者合於天地，因勢利導，順水推舟。本筆記指明人生如水，必循最少阻力而流，迎難而解僅為反覆輪迴，開創新猷方可破劫重生。"
 permalink: /library/least-resistance/chi/
 language: chi
 image: assets/bookcover/fritz-chi.jpg

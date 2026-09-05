@@ -6,6 +6,7 @@ order: 4
 title: "《EQ：決定一生幸福與成就的永恆力量》閱讀筆記"
 short_title: "EQ：決定一生幸福與成就的永恆力量"
 title_obvious: false
+description: "智商只決定了一小部分的人生高度，真正關鍵在於駕馭情緒之本事。筆記濃縮了數十年的心理學精華，讓你體貼人心，克己定神，圓融處世。"
 permalink: /library/eq/chi/
 language: chi
 image: assets/bookcover/eq-chi.jpg

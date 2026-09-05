@@ -4,6 +4,7 @@ category: "Library"
 classification: Entrepreneurship
 title: "《新富人的捷徑》閱讀筆記"
 short_title: "新富人的捷徑"
+description: "打破常軌之商戰突圍心法。本筆記滿載驚世駭俗之商戰奇計，教你如何運籌系統之格局，借勢共享之大潮，巧奪微型企業，不費一文而收天下之利。"
 permalink: /library/latka/chi/
 language: chi
 image: assets/bookcover/latka.png

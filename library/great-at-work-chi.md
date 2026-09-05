@@ -4,6 +4,7 @@ category: "Library"
 classification: Personal Growth
 title: "《高績效心智》閱讀筆記"
 short_title: "高績效心智"
+description: "「長工時」決非「高績效」。本筆記總結絕頂高手七大心法，藉「雙重專注」凝神，憑「刻意練習」洗髓，事半功倍，寸陰之功鑄極致之業。"
 permalink: /library/great-at-work/chi/
 language: chi
 image: assets/bookcover/great-at-work-chi.jpg

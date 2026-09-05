@@ -4,6 +4,7 @@ category: "Library"
 classification: Marketing
 title: "Notes on <i>Every Business is a Self-Media</i>"
 short_title: "Every Business is a Self-Media"
+description: "Master the shift from traditional advertising to content marketing. These notes reveal how brands can build their own media empires using personality, emotional resonance, and storytelling to directly engage and convert customers."
 image: assets/bookcover/business-as-self-media-eng.jpg
 ---
 

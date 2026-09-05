@@ -4,6 +4,7 @@ category: "Library"
 classification: Marketing
 title: "《數位時代的高效行銷》 閱讀筆記"
 short_title: "數位時代的高效行銷"
+description: "破除數碼行銷各種流言謬語，以數據與策略運籌帷幄。本筆記乃實戰指引，助你妙筆生花，點石成金，立信於天下。"
 permalink: /library/efficient-marketing/chi/
 language: chi
 image: assets/bookcover/efficient-marketing.jpg

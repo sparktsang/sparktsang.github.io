@@ -3,6 +3,7 @@ layout: post
 category: "Library"
 title: "Notes on <i>The Visual Encyclopedia of Car</i>"
 short_title: "The Visual Encyclopedia of Car"
+description: "A crash course in automotive engineering. These notes distill complex car mechanics—from engine strokes and drivetrains to suspension and tires—into easily digestible concepts for any car enthusiast or everyday driver."
 image: assets/bookcover/car-encyclopedia-eng.jpg
 ---
 

@@ -4,6 +4,7 @@ category: "Library"
 classification: Personal Growth
 title: 'Notes on <i>Great at Work</i>'
 short_title: "Great at Work: How Top Performers Do Less, Work Better, and Achieve More"
+description: "Stop confusing long hours with high performance. These notes reveal the seven mindsets of top performers, showing you how to do less, obsess over quality, and create massive value without burning out."
 image: assets/bookcover/great-at-work.jpg
 ---
 

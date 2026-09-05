@@ -5,6 +5,7 @@ classification: Investment
 order: 2
 title: "Notes on <i>Value Investing: From Graham to Buffett and Beyond</i>"
 short_title: "Value Investing: From Graham to Buffett and Beyond"
+description: "From Graham and Dodd to Buffett, Gabelli, and other leading value investors, these notes go beyond summarizing the principles of value investing to tackle its central practical question: What is a business really worth? They break down asset value, earning power value, growth value, franchise economics, and margin of safety, with detailed case studies of WD-40 and Intel showing how these ideas can be turned into actual valuations."
 image: assets/bookcover/value-inv.webp
 redirect_from:
   - /knowledge/2025/11/19/reading-value-investing-from-graham-to-buffett.html
@@ -24,7 +25,7 @@ Original notes [here](/library/value-invest/chi){:target="_blank"}.
 
 *   Modern investment theories of the 1950s and 60s, which posit that financial markets are fully efficient, have faced numerous challenges over the years. These include clear examples of investors beating market indices and the rise of behavioral finance, which argues that investors tend to overreact.
 *   Value investing is founded on three key market characteristics:
-    1.  The market's mood swings, like "Mr. Market."
+    1.  The market’s mood swings, like Mr. Market.
     2.  The frequent divergence between a company's value and its stock price.
     3.  The "margin of safety" created by this divergence, which can generate superior returns.
 *   Fundamental analysis (which excludes technical analysis) falls into two broad categories: focusing on the overall economy or on specific securities.
@@ -43,7 +44,7 @@ Original notes [here](/library/value-invest/chi){:target="_blank"}.
 
 **Chapter 2: The Search for Value**
 
-*   Stock-picking approaches generally fall into three categories: pure fundamentals (ROE, ROIC, EPS growth, revenue growth), technicals, and relative valuation (P/X ratios).
+*   Stock-picking approaches generally fall into three categories: pure fundamentals (ROE, ROIC, EPS growth, revenue growth, asset growth, profit margins), technicals, and relative valuation (P/X ratios).
 *   Value anomalies persist due to behavioral biases:
     *   **Institutions** are constrained by policies, regulations, and scale (e.g., it's difficult for them to invest in small-cap stocks).
     *   **Fund managers** are limited by company policy and are influenced by herd mentality ("Nobody ever got fired for buying IBM").
@@ -94,7 +95,7 @@ Original notes [here](/library/value-invest/chi){:target="_blank"}.
 
 **Chapter 8: Diversification and Risk**
 
-*   Value investors hold fewer stocks ("fewer eggs in their basket") because they only invest within their circle of competence.
+*   Value investors put fewer eggs in their basket because they invest only within their circle of competence.
 *   The margin of safety is their primary risk-reduction mechanism.
 *   Most value investors avoid shorting stocks to hedge.
 *   Price volatility is not the same as risk.
@@ -108,8 +109,8 @@ Original notes [here](/library/value-invest/chi){:target="_blank"}.
 
 **Chapter 10: Mario Gabelli**
 
-*   Contributed the modern concept of "Private Market Value" (PMV): the price a savvy industrial buyer would pay for an asset, which equals intrinsic value plus a control premium.
-*   Unlike passive investors, industrial buyers can enact fundamental changes.
+*   Contributed the modern concept of "Private Market Value" (PMV): the value a savvy industrial buyer would be willing to pay for an asset, which equals intrinsic value plus a control premium.
+*   Unlike passive investors, industrial buyers have the ability to make fundamental changes to a business.
 *   His team developed analytical tools to find gaps in GAAP accounting and looks for "catalysts" to close the gap between market price and PMV.
 
 **Chapter 11: Glenn Greenberg**

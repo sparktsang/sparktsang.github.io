@@ -5,6 +5,7 @@ classification: Novels
 title: "Notes on Watson's <i>Before I Go to Sleep</i>"
 short_title: Before I Go to Sleep
 title_obvious: false
+description: "A gripping summary of S.J. Watson's psychological thriller. Read this quick breakdown to uncover the chilling twists of a woman whose memory resets every day, and the deadly secrets hidden within her journal."
 image: assets/bookcover/before-sleep.jpg
 ---
 

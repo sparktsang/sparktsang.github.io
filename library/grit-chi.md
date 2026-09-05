@@ -5,6 +5,7 @@ classification: Personal Growth
 title: "《恆毅力：人生成功的究極能力》閱讀筆記"
 short_title: "恆毅力：人生成功的究極能力"
 title_obvious: false
+description: "天賦不足恃，勤勉重千鈞。本筆記探尋卓越成就之源——融「熱情之薪火」與「毅力之磐石」於一爐，循序漸進，教你如何內修外煉至百折不撓。"
 permalink: /library/grit/chi/
 language: chi
 image: assets/bookcover/grit-chi.jpg

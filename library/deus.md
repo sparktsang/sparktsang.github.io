@@ -5,6 +5,7 @@ classification: History
 order: 2
 title: "Notes on Harari's <i>Homo Deus</i>"
 short_title: "Homo Deus"
+description: "Discover how human history is driven by the narratives we believe in. This powerful adaptation synthesizes Harari’s masterpiece to reveal how algorithms, data, and the quest for divinity are actively reshaping our systems and future."
 image: assets/bookcover/deus.png
 redirect_from:
   - /knowledge/2025/11/19/reading-homo-deus.html

@@ -4,6 +4,7 @@ category: "Library"
 classification: Politics
 title: "《西方的命運》閱讀筆記"
 short_title: "西方的命運"
+description: "探尋泰西諸國政經分崩之本源。以恢宏視野，剖析不公、特權與民粹如何蠶食開放社會之根基，於危局之中，尋求制度革故鼎新之破局。"
 permalink: /library/fate-of-west/chi/
 language: chi
 image: assets/bookcover/fate-of-west-chi.jpg

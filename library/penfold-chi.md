@@ -4,6 +4,7 @@ category: "Library"
 classification: Investment
 title: "《交易聖經》閱讀筆記"
 short_title: "交易聖經"
+description: ""
 permalink: /library/penfold/chi/
 language: chi
 image: assets/bookcover/penfold-chi.jpg

@@ -4,6 +4,7 @@ category: "Library"
 classification: Entrepreneurship
 title: "Notes on <i>The $100 Startup</i>"
 short_title: "The $100 Startup"
+description: "Learn how to turn your passion into a profitable microbusiness with minimal investment. These notes highlight actionable strategies for pricing, crafting irresistible offers, and escaping the 9-to-5 grind to reclaim your freedom."
 image: assets/bookcover/100-startup.webp
 ---
 

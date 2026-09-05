@@ -4,6 +4,7 @@ category: "Library"
 classification: Marketing
 title: "Notes on <i>The Power of Proactive Sales</i>"
 short_title: "The Power of Proactive Sales"
+description: ""
 image: assets/bookcover/proactive-sales-eng.png
 ---
 

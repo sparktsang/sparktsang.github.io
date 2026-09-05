@@ -5,6 +5,7 @@ classification: History
 order: 3
 title: "Notes on <i>Enlightenment Now</i>"
 short_title: "Enlightenment Now"
+description: ""
 image: assets/bookcover/pinker.jpg
 target_blank: true
 ---

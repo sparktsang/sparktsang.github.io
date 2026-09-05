@@ -5,6 +5,7 @@ classification: Novels
 title: "S.J. Watson《別相信任何人》筆記"
 short_title: "別相信任何人"
 title_obvious: false
+description: "經典心理驚悚小說的精華回顧。筆記梳理了女主角每天記憶重置的懸疑情節，帶你快速重溫日記背後令人毛骨悚然的致命真相與劇情反轉。"
 permalink: /library/before-sleep/chi/
 language: chi
 image: assets/bookcover/before-sleep.webp

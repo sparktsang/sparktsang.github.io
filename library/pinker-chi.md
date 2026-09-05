@@ -4,8 +4,9 @@ category: "Library"
 classification: History
 order: 3
 title: "《再啟蒙的年代》閱讀筆記"  
-short_title: "再啟蒙的年代"  
-permalink: /library/pinker/chi/  
+short_title: "再啟蒙的年代"
+description: ""
+permalink: /library/pinker/chi/
 language: chi  
 image: assets/bookcover/pinker-chi.jpg
 target_blank: true

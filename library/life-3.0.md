@@ -5,6 +5,7 @@ classification: Science
 order: 2
 title: "Notes on <i>Life 3.0: Being Human in the Age of Artificial Intelligence</i>"
 short_title: "Life 3.0: Being Human in the Age of Artificial Intelligence"
+description: "A sweeping exploration of what happens when artificial intelligence surpasses human capability. These notes summarize the ethical, physical, and cosmic limits of superintelligence, asking profound questions about the ultimate purpose of conscious life."
 image: assets/bookcover/life-3.0.jpg
 ---
 

@@ -5,6 +5,7 @@ classification: Personal Growth
 order: 1
 title: 'Notes on <i>The Power of Now</i>'
 short_title: "The Power of Now"
+description: ""
 image: assets/bookcover/power-of-now.webp
 ---
 

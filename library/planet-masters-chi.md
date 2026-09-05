@@ -4,7 +4,8 @@ category: "Library"
 classification: History
 order: 4
 title: "《人類崛起》閱讀筆記"  
-short_title: "人類崛起"  
+short_title: "人類崛起"
+description: ""
 permalink: /library/planet-masters/chi/  
 language: chi  
 image: assets/bookcover/planet-masters-chi.jpg

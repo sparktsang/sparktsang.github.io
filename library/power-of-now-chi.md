@@ -5,6 +5,7 @@ classification: Personal Growth
 order: 1
 title: "《當下的力量》閱讀筆記"
 short_title: "當下的力量"
+description: ""
 permalink: /library/power-of-now/chi/
 language: chi
 image: assets/bookcover/power-of-now.webp

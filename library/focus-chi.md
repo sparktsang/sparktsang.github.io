@@ -5,6 +5,7 @@ classification: Psychology
 order: 5
 title: "《專注的力量》閱讀筆記"
 short_title: "專注的力量"
+description: "資訊洶濤下萬象喧囂，人人神散魂飛之際，澄心定慮，固本守道，重掌乾坤。本筆記拆解專注力的認知科學，助你啟迪心智泉源，外建經世之業，內通人心之奧。"
 permalink: /library/focus/chi/
 language: chi
 image: assets/bookcover/focus.jpg

@@ -4,6 +4,7 @@ category: "Library"
 classification: Novels
 title: "Notes on Keigo Higashino's <i>Genya</i>"
 short_title: Genya
+description: "A dark and gripping summary of Keigo Higashino’s suspense thriller. Follow the intertwined fates of a murderer and a mysterious, manipulative woman as they ruthlessly eliminate anyone standing in their path to survival and ambition."
 image: assets/bookcover/genya.png
 ---
 

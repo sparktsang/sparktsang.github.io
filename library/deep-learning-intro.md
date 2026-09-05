@@ -4,6 +4,7 @@ category: "Library"
 classification: Data Science
 title: "Notes on Hiroki Tanioka's <i>Introduction to Deep Learning</i>"
 short_title: "Introduction to Deep Learning"
+description: "Demystify the mechanics of artificial intelligence without getting lost in the jargon. These notes break down the evolution, core algorithms, and practical models of neural networks into an accessible guide for absolute beginners."
 image: assets/bookcover/deep-learning-intro-eng.png
 ---
 
@@ -111,7 +112,8 @@ Although deep learning emerged from top-down research, the learning mechanism it
 Example programs from this book can be found at:  
 www.sotechsha.co.jp/sp/1187  
 
-*Read through page 152. The remaining content concerns image recognition and natural language processing.*  
+*Read through page 152. The remaining content concerns image recognition and natural language processing.*
+*Last updated: August 27, 2020*  
 
 <!-- Credit: https://mrinalcs.github.io/use-latex-mathematical-equations-in-jekyll -->
 <script type="text/javascript" id="MathJax-script" async

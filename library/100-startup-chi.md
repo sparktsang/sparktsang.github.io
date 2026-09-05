@@ -4,6 +4,7 @@ category: "Library"
 classification: Entrepreneurship
 title: "《The $100 Startup》閱讀筆記"
 short_title: "The $100 Startup"
+description: "以毫釐之資微型創業、化熱忱為生機之法。本筆記為你精研定價策略，輔以「無可抗拒要約」，助你掙脫朝九晚五之籠，重掌人生自決之權。"
 permalink: /library/100-startup/chi/
 language: chi
 image: assets/bookcover/100-startup.webp

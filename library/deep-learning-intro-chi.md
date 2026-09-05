@@ -4,6 +4,7 @@ category: "Library"
 classification: Data Science
 title: "谷岡廣樹《深度學習入門教室》閱讀筆記"
 short_title: "深度學習入門教室"
+description: "擺脫艱澀術語，零基礎看懂人工智能的運作原理。本筆記拆解了神經網絡的演進史、核心演算法與實務模型，是深度學習領域的極佳入門指南。"
 permalink: /library/deep-learning-intro/chi/
 language: chi
 image: assets/bookcover/deep-learning-intro.png
@@ -110,6 +111,7 @@ training.log 輸出學習內容紀錄；model.fit 逐步更新模型參數
 www.sotechsha.co.jp/sp/1187  
 
 閱至 152 頁，餘下內容與影像辨識及自然語言處理有關  
+筆記最後更新於：27/8/2020
 
 <!-- Credit: https://mrinalcs.github.io/use-latex-mathematical-equations-in-jekyll -->
 <script type="text/javascript" id="MathJax-script" async

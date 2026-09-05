@@ -5,6 +5,7 @@ classification: Psychology
 order: 4
 title: "Notes on Goleman's <i>Emotional Intelligence</i>"
 short_title: "Emotional Intelligence"
+description: "IQ only accounts for a fraction of your success; the rest depends on emotional mastery. These notes distill decades of psychological research into actionable insights on impulse control, empathy, and building resilient relationships."
 image: assets/bookcover/eq.jpg
 ---
 

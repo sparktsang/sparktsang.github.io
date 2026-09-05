@@ -5,6 +5,7 @@ classification: Personal Growth
 title: "《找到想做的事，擁有無悔人生》閱讀筆記"
 short_title: "找到想做的事，擁有無悔人生"
 title_obvious: false
+description: "撥雲見日，有章可循，回歸本心，重燃熱忱。依循方圓法度以定規矩，破除心魔迷障以釋韁鎖。靈台自明，擘劃此生無憾之乾坤。"
 permalink: /library/furukawa/chi/
 language: chi
 image: assets/bookcover/furukawa.png

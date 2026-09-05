@@ -4,6 +4,7 @@ category: "Library"
 classification: Investment
 title: "Notes on <i>The Universal Principles of Successful Trading: Essential Knowledge for All Traders in All Markets</i>"
 short_title: "The Universal Principles of Successful Trading"
+description: ""
 image: assets/bookcover/penfold.jpg
 ---
 

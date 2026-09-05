@@ -4,6 +4,7 @@ category: "Library"
 classification: Psychology
 title: "《如何改變一個人》閱讀筆記"
 short_title: "如何改變一個人"
+description: "掌握「消除阻力」而非「強硬推銷」的說服藝術。本筆記為你拆解妨礙改變的五大心理魔王，並含立即致用之術，教你如何潛移默化，潤物無聲，移星換斗於無形。"
 permalink: /library/catalyst/chi/
 language: chi
 image: assets/bookcover/catalyst-chi.jpg

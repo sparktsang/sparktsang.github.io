@@ -6,6 +6,7 @@ order: 1
 title: "《政治秩序的起源（上卷）》閱讀筆記"
 short_title: "政治秩序的起源（上卷）"
 title_obvious: false
+description: "縱觀千古以察興衰治亂，探尋國運昌盛之基，剖析天下大亂之源。本筆記從史前社會一路梳理至法國大革命，透視「強政、法治、問責」三大政治基石的演化史。"
 permalink: /library/fukuyama/chi/
 language: chi
 image: assets/bookcover/fukuyama.jpg

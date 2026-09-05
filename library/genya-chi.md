@@ -4,6 +4,7 @@ category: "Library"
 classification: Novels
 title: "東野圭吾《幻夜》筆記"
 short_title: "幻夜"
+description: "東野圭吾經典暗黑懸疑大作的情節精華。剖析蛇蠍惡女與喋血兇徒之狼狽為奸，觀其如何以滔天野心為引，神阻殺神，魔阻殺魔。"
 permalink: /library/genya/chi/
 language: chi
 image: assets/bookcover/genya.jpg

@@ -5,6 +5,7 @@ classification: Marketing
 order: 1
 title: "Notes on Nakano's <i>High-Profit Marketing Practical Class</i>"
 short_title: "High-Profit Marketing Practical Class"
+description: A no-nonsense guide to B2B marketing for small businesses. Learn how to ditch the sales team and stop relying on subcontractors by building a robust "Direct Response Marketing" system that pulls customers to you.
 image: assets/bookcover/high-profit-marketing-eng.jpg
 ---
 

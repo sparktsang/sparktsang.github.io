@@ -4,6 +4,7 @@ category: "Library"
 classification: Psychology
 title: "《性格販子》閱讀筆記"
 short_title: "性格販子"
+description: "揭開全球最受歡迎的 MBTI 測驗背後，鮮為人知的奇異歷史與商業算計。本筆記帶你反思人類為何如此沉迷於分類自己，以及這套偽科學如何深植於現代企業體系。"
 permalink: /library/emre/chi/
 language: chi
 image: assets/bookcover/emre-chi.jpg
