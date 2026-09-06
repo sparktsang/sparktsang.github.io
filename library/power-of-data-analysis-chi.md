@@ -5,7 +5,7 @@ classification: Data Science
 order: 2
 title: "伊藤公一郎《數據分析的力量》閱讀筆記"
 short_title: "數據分析的力量"
-description: ""
+description: "巧合相隨，絕非互為因果。本筆記召來計量經濟之神將天兵：洞理律於對照設計，窺天機於無常大地，助你辨名實、破迷障、創商機。"
 permalink: /library/power-of-data-analysis/chi/
 language: chi
 image: assets/bookcover/power-of-data-analysis.png

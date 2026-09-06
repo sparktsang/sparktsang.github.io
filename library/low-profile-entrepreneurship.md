@@ -4,7 +4,7 @@ category: "Library"
 classification: Entrepreneurship
 title: "Notes on <i>Low-Profile Entrepreneurship</i>"
 short_title: "Low-Profile Entrepreneurship"
-description: ""
+description: Achieve financial independence without the massive risks of a traditional tech startup. These notes provide a step-by-step guide to "low-profile" entrepreneurship, turning everyday organizational and communication skills into a highly profitable, quiet side business.
 image: assets/bookcover/low-profile-entrepreneurship.png
 ---
 

@@ -4,7 +4,7 @@ category: "Library"
 classification: Marketing
 title: "Notes on <i>The Power of Proactive Sales</i>"
 short_title: "The Power of Proactive Sales"
-description: ""
+description: Transform your sales approach by taking control of the conversation rather than bowing to the customer. These notes reveal psychological tactics and proactive scripts that eliminate hesitation and drive customers to an enthusiastic "yes".
 image: assets/bookcover/proactive-sales-eng.png
 ---
 
@@ -66,8 +66,8 @@ Everyone who tried it successfully corrected their customer-first mindset. In pr
 **First: Develop an eye for taking the initiative**  
 
 From the very first meeting, use your eyes to communicate:  
-一、I am your partner, so please feel at ease.  
-二、I am your teacher, and I have the initiative.  
+1. I am your partner, so please feel at ease.  
+2. I am your teacher, and I have the initiative.  
 
 This can remove the customer's guard and allow you to take control of the initiative.  
 

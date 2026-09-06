@@ -5,7 +5,7 @@ classification: Personal Growth
 order: 1
 title: 'Notes on <i>The Power of Now</i>'
 short_title: "The Power of Now"
-description: ""
+description: "Break free from the prison of your own thoughts and discover the profound peace of the present moment. These notes capture Eckhart Tolle's spiritual wisdom, offering a practical path to silence mental noise and awaken to your true Being."
 image: assets/bookcover/power-of-now.webp
 ---
 

@@ -5,7 +5,7 @@ classification: Entrepreneurship
 order: 3
 title: "山口周《成為新人類》閱讀筆記"
 short_title: "成為新人類"
-description: ""
+description: 萬物充盈、乾坤劇變之世，理智與高效盡成強弩之末。筆記揭櫫「新人類」如何反求己心，審美求真，開創新猷，獨領風騷。
 permalink: /library/new-type/chi/
 language: chi
 image: assets/bookcover/new-type.jpg
@@ -19,7 +19,7 @@ English translation [here](/library/new-type){:target="_blank"}.
 
 舊人類以邏輯與科學行動，今後為世所需的新人類應以美感與藝術為武器  
 工業革命前判斷優秀人才的標準，是肌力與意志力；工業革命後時解決問題、求正確答案的能力；產能過剩的新時代則是發現問題的能力  
-體制內可解決的問題越來越稀少，體制內難以解決的問題例如垃圾貧窮虐待等市場失靈或負外部性 negative externality，正在加速擴大複製中，更需時代更替  
+體制內可解決的問題越來越稀少，體制內難以解決的問題例如垃圾、貧窮、虐待等市場失靈或負外部性 negative externality，正在加速擴大複製中，更需時代更替  
 
 
 ### 六項新時代趨勢  

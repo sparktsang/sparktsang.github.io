@@ -6,7 +6,7 @@ order: 2
 title: "Notes on <i>Resonate: Present Visual Stories that Transform Audiences</i>"
 short_title: "Resonate: Present Visual Stories that Transform Audiences"
 title_obvious: false
-description: ""
+description: Turn your presentations from boring reports into gripping, cinematic experiences. These notes map the mythological "Hero’s Journey" to public speaking, teaching you how to use contrast and storytelling to deeply persuade and transform your audience.
 image: assets/bookcover/resonate.jpg
 ---
 

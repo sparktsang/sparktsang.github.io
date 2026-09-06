@@ -6,7 +6,7 @@ order: 3
 title: "《安靜，就是力量》閱讀筆記"
 short_title: "安靜，就是力量"
 title_obvious: false
-description: ""
+description: "大音希聲，虛靜則明。世俗皆以長袖善舞為美，惟開天闢地者，皆孤影無雙，靜寂寡言。本筆記戳破外向至上之時代虛妄，為內省恬靜靈魂反正。毋庸曲己迎人，洞照靈台本真，已足自立乾坤，進而驚艷凡塵。"
 permalink: /library/quiet/chi/
 language: chi
 image: assets/bookcover/quiet-chi.webp

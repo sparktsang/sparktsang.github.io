@@ -5,7 +5,7 @@ classification: History
 order: 4
 title: "《人類崛起》閱讀筆記"  
 short_title: "人類崛起"
-description: ""
+description: "劃破萬古迷霧，揭示天演之造化與靈智之覺醒。本筆記剖析弱小智人如何憑「直立涉險」以開前路，藉「工巧利刃」以抗猛獸，託「符號織夢」以聚群雄，焠火百萬年，終獨尊洪荒，問鼎蒼穹。"
 permalink: /library/planet-masters/chi/  
 language: chi  
 image: assets/bookcover/planet-masters-chi.jpg

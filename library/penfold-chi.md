@@ -4,7 +4,7 @@ category: "Library"
 classification: Investment
 title: "《交易聖經》閱讀筆記"
 short_title: "交易聖經"
-description: ""
+description: "神機妙算危與機。本筆記指出，預測市場純屬幻想。參天機者，唯神械。勝兵先勝而後戰：若無概率計算之機械、條件執行之鐵律，必敗。"
 permalink: /library/penfold/chi/
 language: chi
 image: assets/bookcover/penfold-chi.jpg

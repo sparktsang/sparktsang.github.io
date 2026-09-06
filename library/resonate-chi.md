@@ -5,7 +5,7 @@ classification: Marketing
 order: 2
 title: "《簡報女王的故事力》閱讀筆記"
 short_title: "簡報女王的故事力"
-description: ""
+description: "枯木可捲烈火，死水可起巨潮。本筆記授以起承轉合、歷劫重生之經典故事骨架，將教人昏昏欲睡之枯燥材料，化為字字千鈞，句句驚心的精神洗禮，使人轉念動容，如痴似醉。"
 permalink: /library/resonate/chi/
 language: chi
 image: assets/bookcover/resonate.png

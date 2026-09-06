@@ -4,7 +4,7 @@ category: "Library"
 classification: Entrepreneurship
 title: "田中祐一《低調創業》閱讀筆記"
 short_title: "田中祐一《低調創業》"
-description: ""
+description: "本筆記助你免受科技創業九死一生之險，大隱於市，收歛鋒芒，仍能長袖善舞，匠心獨運，創不息之業，得自由之身。"
 permalink: /library/low-profile-entrepreneurship/chi/
 language: chi
 image: assets/bookcover/low-profile-entrepreneurship.jpg

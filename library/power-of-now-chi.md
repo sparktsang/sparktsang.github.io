@@ -5,7 +5,7 @@ classification: Personal Growth
 order: 1
 title: "《當下的力量》閱讀筆記"
 short_title: "當下的力量"
-description: ""
+description: "我思非我在。以思為己，即作繭自縛。本筆記與你共修靈慧，助你一念之間，明心見性，活於當下，感察此在。臻於與天地並生，與萬物歸一之化境。"
 permalink: /library/power-of-now/chi/
 language: chi
 image: assets/bookcover/power-of-now.webp

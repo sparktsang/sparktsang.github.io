@@ -4,7 +4,7 @@ category: "Library"
 classification: Investment
 title: "Notes on <i>The Universal Principles of Successful Trading: Essential Knowledge for All Traders in All Markets</i>"
 short_title: "The Universal Principles of Successful Trading"
-description: ""
+description: "Master the true mathematics of consistent profitability and risk management. These notes strip away the illusions of market prediction, offering a mechanical, expectancy-driven framework used by trading professionals to survive and conquer."
 image: assets/bookcover/penfold.jpg
 ---
 
