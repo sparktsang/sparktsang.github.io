@@ -4,7 +4,7 @@ category: "Library"
 classification: Marketing
 title: "《瘋潮行銷》 閱讀筆記"
 short_title: "瘋潮行銷"
-description: "破解事物「爆紅」背後的科學密碼。本筆記提煉了 Jonah Berger 的六大感染力原則（STEPPS），教你如何觸發大眾心理，讓你的產品與思想如病毒瘋傳。"
+description: "洛陽紙貴、風行天下，豈是無因？本筆記提煉六大感染法則，教你如何以奇計扣人心弦，借勢成潮，一倡百和，風靡萬客。"
 permalink: /library/contagious/chi/
 language: chi
 image: assets/bookcover/contagious-chi.jpg
