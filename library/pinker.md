@@ -5,7 +5,7 @@ classification: History
 order: 3
 title: "Notes on <i>Enlightenment Now</i>"
 short_title: "Enlightenment Now"
-description: ""
+description: "Pinker wields extensive data to counter modern pessimism, offering a robust defense of the Enlightenment ideals: reason, science, humanism, and progress. These notes distill the book's empirical evidence on human advancements in health, wealth, peace, and the environment, providing a compelling, fact-based antidote to doom and gloom."
 image: assets/bookcover/pinker.jpg
 target_blank: true
 ---

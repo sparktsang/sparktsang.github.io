@@ -4,6 +4,7 @@ category: "Library"
 classification: Economics
 title: 'Notes on <i>Reverse Economics</i>'
 short_title: "Reverse Economics"
+description: "Is mainstream neoliberal economics driving humanity toward a cliff? In this thought-provoking critique, author Eddy Lee Wai-Choi challenges the fundamental assumptions of modern capitalism and financial hegemony. These notes capture his deconstruction of orthodox economic myths and summarize his bold proposals for a sustainable future: de-Americanization, de-financialization, and de-carbonization."
 title_obvious: false
 image: assets/bookcover/reverse-econ.png
 ---
