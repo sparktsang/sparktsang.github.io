@@ -4,7 +4,7 @@ category: "Library"
 classification: Data Science
 title: "谷岡廣樹《深度學習入門教室》閱讀筆記"
 short_title: "深度學習入門教室"
-description: "擺脫艱澀術語，零基礎看懂人工智能的運作原理。本筆記拆解了神經網絡的演進史、核心演算法與實務模型，是深度學習領域的極佳入門指南。"
+description: "大道至簡，毋須故弄玄虛。洗淨艱澀術語，毋庸半點根基。本筆記由淺入深，帶你察視智械之基理，網絡之源流、算法之骨架、盡覽堂奧。"
 permalink: /library/deep-learning-intro/chi/
 language: chi
 image: assets/bookcover/deep-learning-intro.png

@@ -7,7 +7,7 @@ title: "《21世紀價值投資》閱讀筆記"
 short_title: "21世紀價值投資"
 permalink: /library/value-invest/chi/
 language: chi
-description: 從葛拉漢、陶德一路講到巴菲特、嘉百利等價值投資大師，本筆記不只整理價值投資的核心原理，更集中拆解一個實際問題：企業究竟值幾錢？內容深入比較資產價值、盈餘能力價值與成長價值，並以 WD-40、Intel 等案例，展示如何由財務數字估算再生產成本、競爭優勢與安全邊際。
+description: 承葛、陶之缽，繼巴、嘉之學，本筆記梳理價值投資之基，丈量天下生財之器，精算資產、盈餘、未來之定價，輔以隔水四十噴劑、英特爾等經典實例，計量再起業之貴賤、護城河之深淺，護身符之厚薄。
 image: assets/bookcover/value-inv-chi.jpg
 ---
 
