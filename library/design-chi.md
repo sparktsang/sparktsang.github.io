@@ -4,8 +4,11 @@ category: "Library"
 classification: Data Science
 order: 1
 title: "凌駕代碼：馴服 AI 鑄造策展神壇的十二萬字實錄"
+title_obvious: false
+description: 非書籍。一份從零馴服 AI、鑄造數碼藝術裝置的原始實錄。記錄零 HTML 基礎的創作者，如何以常識、直覺與極致美學標準，駕馭 AI，一步一腳建立一套策展設計美學。
 permalink: /library/design/chi/
 language: chi
+image: assets/bookcover/design-cover-chi.png
 render_with_liquid: false
 ---
 

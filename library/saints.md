@@ -4,6 +4,7 @@ category: "Library"
 classification: Philosophy
 title: "Notes on <i>Socrates, Buddha, Confucius, Jesus</i>"
 short_title: "Socrates, Buddha, Confucius, Jesus"
+description: "Philosopher Karl Jaspers explores the profound existential impact of the four foundational figures of human thought: Socrates, Buddha, Confucius, and Jesus. These notes condense their distinct paths, core teachings, and the shared charismatic traits that have allowed them to shape human civilization for millennia. An essential overview of humanity's greatest spiritual paradigms."
 image: assets/bookcover/saints.jpg
 ---
 

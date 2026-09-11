@@ -3,6 +3,7 @@ layout: post
 category: "Library"
 title: "Notes on <i>The Ultimate Shooting Skills Manual</i>"
 short_title: "The Ultimate Shooting Skills Manual"
+description: Covering rifles, ARs, handguns, and shotguns, this is a hardcore guide tailored for firearms enthusiasts. These notes comprehensively summarize the mechanics of different firearms, top-tier model recommendations, and practical shooting skills ranging from long-range precision to home defense. A concise, action-packed resource that unlocks the art and science of shooting.
 image: assets/bookcover/shooting-manual.jpg
 ---
 

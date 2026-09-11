@@ -4,7 +4,10 @@ category: "Library"
 classification: Investment
 order: 1
 title: "投資長勝的普世法則"
+title_obvious: false
+description: 非書籍。本人所創之投資框架的奠基性論著。從第一原理出發，演繹投資長勝的普世法則——並非另一套特定策略，乃是一切真正能夠長勝的方法，都必須符合的前提。
 permalink: /library/perennial/chi/
+image: assets/bookcover/perennial-cover-chi.png
 language: chi
 ---
 

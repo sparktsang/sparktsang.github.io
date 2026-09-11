@@ -5,6 +5,7 @@ classification: Philosophy
 order: 1
 title: "Notes on <i>Socratic Dialogues</i>"
 short_title: "Socratic Dialogues"
+description: Socrates shifted the focus of philosophy from the cosmos to the human soul, using his relentless dialectical method to seek the truth. These notes distill the core arguments of ten essential dialogues, including the Apology and Gorgias, clearly mapping out the logical pursuit of concepts like justice, courage, and "virtue is knowledge." It is the perfect shortcut to grasping the essence of Socratic philosophy.
 image: assets/bookcover/socrates.png
 ---
 

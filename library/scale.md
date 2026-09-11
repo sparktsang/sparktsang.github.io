@@ -5,6 +5,7 @@ classification: Science
 order: 1
 title: "Notes on <i>Scale</i>"
 short_title: "Scale"
+description: Is there a hidden mathematical code governing the heartbeat of a mouse, the growth of a metropolis, and the lifespan of a corporation? Physicist Geoffrey West reveals the universal laws of scaling that dictate growth, innovation, and death. These notes break down the fascinating concepts of sublinear and superlinear scaling, offering a paradigm-shifting lens to view biology, urban dynamics, and business sustainability.
 image: assets/bookcover/scale.jpg
 ---
 
