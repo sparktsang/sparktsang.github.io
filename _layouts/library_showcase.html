@@ -146,12 +146,7 @@
 
     /* ===== 全息數據終端 (Holo Popup) ===== */
     .holo-popup {
-      position: absolute;
-      top: -240px;
-      left: 50%;
-      transform: translateX(-50%);
       width: min(700px, 80vw);
-      min-height: 200px;
       box-sizing: border-box;
       background: rgba(4, 9, 16, 0.85);
       backdrop-filter: blur(8px);
@@ -162,10 +157,7 @@
       font-family: 'Share Tech Mono', monospace;
       color: #38bdf8;
       text-align: left;
-      opacity: 0;
-      z-index: 9999;
       pointer-events: none;
-      transition: opacity 0.3s ease-in-out;
     }
 
     .holo-popup::before {
@@ -177,18 +169,8 @@
       z-index: -1;
     }
 
-    .shard-wrapper.info-visible .holo-popup { opacity: 1; }
-    .shard-wrapper:hover .holo-popup { opacity: 1; }
-
-    .holo-popup .title { font-size: 2.5rem; color: #bae6fd; margin-bottom: 0.5rem; text-shadow: 0 0 8px rgba(186, 230, 253, 0.4); line-height: 1.2; }
-    .holo-popup .subtitle { font-size: 1.2rem; color: #7dd3fc; margin-bottom: 0.5rem; }
-    .holo-popup .desc { font-size: 1rem; color: #94a3b8; line-height: 1.5; }
-
-    .typing::after {
-      content: ""; display: inline-block; width: 8px; height: 1em; background: #38bdf8;
-      margin-left: 6px; vertical-align: text-bottom; animation: blink 0.8s steps(2, start) infinite;
-    }
-    @keyframes blink { 50% { opacity: 0 } }
+    .holo-popup .title { font-size: 1.8rem; color: #bae6fd; margin-bottom: 0.5rem; text-shadow: 0 0 8px rgba(186, 230, 253, 0.4); line-height: 1.2; }
+    .holo-popup .desc { font-size: 1.5rem; color: #94a3b8; line-height: 1.5; }
 
     /* ===== 手機版調整 ===== */
     @media (max-width: 800px) {
@@ -196,12 +178,6 @@
         --book-vertical-gap: 8rem; /* 手機版行距適度縮小 */
         --book-horizontal-spread: 0px; /* 手機版強制置中，不左右交替 */
       }
-      .holo-popup {
-        width: 90vw;
-        padding: 1.25rem;
-      }
-      .holo-popup .title { font-size: 1.8rem; }
-      .holo-popup .subtitle { font-size: 1rem; }
     }
   </style>
 </head>
@@ -261,12 +237,12 @@
                                     <div class="obsidian-shard"
                                          data-title="{{ post.title | escape }}"
                                          data-short-title="{{ post.short_title | escape }}"
-                                         data-desc="{{ post.description | escape }}">
+                                         data-desc="{{ post.description | escape }}"
+                                         data-title-obvious="{{ post.title_obvious }}">
                                         
                                         <a href="{{ post.url | relative_url }}" target="_blank" class="click-area"></a>
                                         <div class="book-cover" style="background-image: url('{{ post.image | relative_url }}');"></div>
                                         
-                                        <div class="holo-popup"></div>
                                     </div>
                                 </div>
                             {% endif %}
@@ -281,12 +257,12 @@
                                 <div class="obsidian-shard"
                                      data-title="{{ post.title | escape }}"
                                      data-short-title="{{ post.short_title | escape }}"
-                                     data-desc="{{ post.description | escape }}">
+                                     data-desc="{{ post.description | escape }}"
+                                     data-title-obvious="{{ post.title_obvious }}">
                                     
                                     <a href="{{ post.url | relative_url }}" target="_blank" class="click-area"></a>
                                     <div class="book-cover" style="background-image: url('{{ post.image | relative_url }}');"></div>
                                     
-                                    <div class="holo-popup"></div>
                                 </div>
                             </div>
                         {% endif %}
@@ -311,106 +287,16 @@
   <script>
     document.addEventListener('DOMContentLoaded', () => {
 
-      function typeText(el, text, speed = 20) {
-        return new Promise((resolve, reject) => {
-          if (!el || !text) { resolve(); return; }
-          el.textContent = "";
-          let i = 0;
-          function step() {
-            if (i < text.length) {
-              el.textContent += text.charAt(i);
-              i++;
-              const timerId = setTimeout(step, speed);
-              if (!el._timers) el._timers = [];
-              el._timers.push(timerId);
-            } else {
-              resolve();
-            }
-          }
-          step();
-        });
-      }
-
-      function clearTypingTimers(el) {
-        if (el && el._timers) {
-          el._timers.forEach(clearTimeout);
-          el._timers = [];
-        }
-      }
-
-      function showInfoPopup(wrapper) {
-        const shard = wrapper.querySelector('.obsidian-shard');
-        const popup = wrapper.querySelector('.holo-popup');
-        if (!shard || !popup) return;
-
-        popup.innerHTML = `
-          <div class="title typing"></div>
-          <div class="desc typing"></div>
-        `;
-        
-        const titleEl = popup.querySelector('.title');
-        const descEl = popup.querySelector('.desc');
-
-        const shortTitle = shard.dataset.shortTitle || shard.dataset.title;
-        const desc = shard.dataset.desc || "";
-
-        calibratePopupPosition(wrapper, popup);
-
-        typeText(titleEl, shortTitle, 15)
-          .then(() => { titleEl.classList.remove('typing'); return typeText(descEl, desc, 10); })
-          .then(() => { descEl.classList.remove('typing'); })
-          .catch(console.error);
-      }
-
-      function hideInfoPopup(wrapper) {
-        const popup = wrapper.querySelector('.holo-popup');
-        if (!popup) return;
-        popup.querySelectorAll('.typing').forEach(el => clearTypingTimers(el));
-        popup.innerHTML = "";
-        popup.removeAttribute('style'); 
-      }
-
-      function calibratePopupPosition(wrapper, popup) {
-          popup.style.visibility = 'hidden';
-          popup.style.display = 'block';
-          const popupRect = popup.getBoundingClientRect();
-          popup.style.visibility = '';
-          popup.style.display = '';
-
-          const wrapperRect = wrapper.getBoundingClientRect();
-          const viewportWidth = window.innerWidth;
-          
-          const header = document.querySelector('#header'); 
-          let topBoundary = header ? header.offsetHeight + 10 : 10;
-          
-          let top = - (popupRect.height + 20); 
-
-          const potentialPopupTopY = wrapperRect.top + top;
-          if (potentialPopupTopY < topBoundary) {
-            top = topBoundary - wrapperRect.top;
-          }
-
-          let left = '50%';
-          let transform = 'translateX(-50%)';
-          let right = 'auto';
-
-          const wrapperCenter = wrapperRect.left + wrapperRect.width / 2;
-          if (wrapperCenter - (popupRect.width / 2) < 10) {
-              left = '10px';
-              transform = 'translateX(0)';
-          } else if (wrapperCenter + (popupRect.width / 2) > (viewportWidth - 10)) {
-              left = 'auto';
-              right = '10px';
-              transform = 'translateX(0)';
-          }
-
-          popup.style.top = `${top}px`;
-          popup.style.left = left;
-          popup.style.right = right;
-          popup.style.transform = transform;
-      }
-
       const isTouchDevice = 'ontouchstart' in window || navigator.maxTouchPoints > 0;
+
+      const testBox = document.createElement('div');
+        testBox.className = 'holo-popup'; // 套用全息終端樣式
+        testBox.style.display = 'none'; // 預設隱藏
+        testBox.style.position = 'fixed';
+        testBox.style.zIndex = '99999';
+        testBox.style.transform = 'translate(-50%, -50%)';
+        document.body.appendChild(testBox);
+        
       const allWrappers = document.querySelectorAll('.shard-wrapper');
 
       allWrappers.forEach(wrapper => {
@@ -422,11 +308,66 @@
         wrapper.style.setProperty('--rz', `${rz}deg`);
 
         if (!isTouchDevice) {
-          wrapper.addEventListener('mouseenter', () => showInfoPopup(wrapper));
-          wrapper.addEventListener('mouseleave', () => hideInfoPopup(wrapper));
+          wrapper.addEventListener('mouseenter', () => {
+            const shard = wrapper.querySelector('.obsidian-shard');
+            const shortTitle = shard.dataset.shortTitle || shard.dataset.title;
+            const desc = shard.dataset.desc || "";
+
+            const showTitle = shard.dataset.titleObvious === 'false';
+            testBox.innerHTML = `
+              ${showTitle ? `<div class="title">${shortTitle}</div>` : ''}
+              <div class="desc">${desc}</div>
+            `;
+
+            // ★ 新增：冇 title 又冇 desc → 唔出框
+            if (!testBox.textContent.trim()) {
+              testBox.style.display = 'none';
+              return;
+            }
+
+            // 一定要先 display:block 先度得到 offsetWidth / offsetHeight
+            testBox.style.display = 'block';
+            testBox.style.transform = 'translate(-50%, -50%)';
+
+            const margin = 16;
+            const rect   = wrapper.getBoundingClientRect();
+
+            // ── 垂直：以書為中線，鉗入畫面 ──
+            const halfH   = testBox.offsetHeight / 2;
+            const centerY = rect.top + rect.height / 2;
+            testBox.style.top = Math.max(
+              halfH + margin,
+              Math.min(window.innerHeight - halfH - margin, centerY)
+            ) + 'px';
+
+            // ── 水平：理想中心 = 25vw / 75vw，只有爆邊先貼邊 ──
+            const boxW  = testBox.offsetWidth;
+            const halfW = boxW / 2;
+            const vw = document.documentElement.clientWidth;
+
+            let centerX;
+            if (boxW + margin * 2 >= vw) {
+              // 框本身比畫面闊（極窄螢幕），唯有置中
+              centerX = vw / 2;
+            } else {
+              // 1) 理想位置
+              centerX = wrapper.classList.contains('pos-left') ? vw * 0.75 : vw * 0.25;
+
+              // 2) 鉗入畫面（左、右各檢查一次）
+              const minCenter = margin + halfW;          // 左緣唔可以 < margin
+              const maxCenter = vw - margin - halfW;     // 右緣唔可以 > vw - margin
+              centerX = Math.max(minCenter, Math.min(maxCenter, centerX));
+            }
+
+            testBox.style.left = centerX + 'px';
+          });
+          wrapper.addEventListener('mouseleave', () => {
+            testBox.style.display = 'none'; // 隱藏測試框
+          });
         } else {
           const clickArea = wrapper.querySelector('.click-area');
           clickArea.addEventListener('click', (event) => {
+            // 手機版暫不處理複雜邏輯，保留基礎防跳轉
             const isVisible = wrapper.classList.contains('info-visible');
             if (isVisible) return; 
             event.preventDefault();
@@ -434,11 +375,16 @@
             allWrappers.forEach(w => {
               if (w !== wrapper && w.classList.contains('info-visible')) {
                 w.classList.remove('info-visible');
-                hideInfoPopup(w);
+                testBox.style.display = 'none';
               }
             });
-            showInfoPopup(wrapper);
             wrapper.classList.add('info-visible');
+            
+            // 手機版暫時觸發測試框
+            testBox.style.display = 'block';
+            testBox.style.top = wrapper.getBoundingClientRect().top + 'px';
+            testBox.style.left = '50vw';
+            testBox.textContent = '手機觸發';
           });
         }
       });
@@ -449,7 +395,7 @@
             allWrappers.forEach(w => {
               if (w.classList.contains('info-visible')) {
                 w.classList.remove('info-visible');
-                hideInfoPopup(w);
+                testBox.style.display = 'none';
               }
             });
           }
