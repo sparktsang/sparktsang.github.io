@@ -7,18 +7,16 @@
 <html>
 <head>
   {% include head.html %}
-  <link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Lugrasimo&family=Noto+Serif+TC:wght@200..900&family=Share+Tech+Mono&display=swap" rel="stylesheet">
 
   <style>
-    /* =========================================================
-       指揮官中控台：只需喺度調校數值，全個空間佈局會自動完美同步
-       ========================================================= */
     :root {
-      /* 縱向行距：決定書與書、書與標籤之間嘅嚴格距離 (寧空勿塞) */
+      /* 縱向行距：書與書、書與標籤之間距離 */
       --book-vertical-gap: 25rem; 
-      
-      /* 橫向對稱度：決定書本離開畫面中軸線向左/右分開幾遠 */
+      /* 橫向對稱：書本離開畫面中軸線向左右分開幾遠 */
       --book-horizontal-spread: 16rem; 
+      /* 中英文版面唔同 popup 字體 */
+      --popup-font: {% if page.version == 'chi' %}"Noto Serif TC", serif{% else %}"Lugrasimo", cursive{% endif %};
     }
 
     /* ===== 宇宙拓撲背景 (固定Parallax) ===== */
@@ -44,17 +42,15 @@
     }
     #banner:after { background: none !important; }
 
-    /* ===== 分類標籤 (Category Node) ===== */
+    /* ===== 分類標籤 ===== */
     .category-node {
       width: 100%;
       text-align: center;
-      /* 距離嚴格跟隨中控台變數 */
       margin-top: var(--book-vertical-gap);
       margin-bottom: var(--book-vertical-gap);
       position: relative;
     }
     .category-node span {
-      font-family: 'Share Tech Mono', monospace;
       color: #e0f2fe;
       font-size: 2.2rem;
       letter-spacing: 0.4em;
@@ -65,7 +61,7 @@
       display: inline-block;
     }
 
-    /* ===== 絕對對稱單軌陣列 (Absolute Symmetrical Grid) ===== */
+    /* ===== 對稱陣列 ===== */
     #main.library-main {
       max-width: 1200px;
       margin: 0 auto;
@@ -75,7 +71,7 @@
       display: flex;
       flex-direction: column;
       align-items: center; /* 所有碎片基於中軸線生長 */
-      gap: var(--book-vertical-gap); /* 嚴格鎖定行距 */
+      gap: var(--book-vertical-gap);
       width: 100%;
     }
     
@@ -89,17 +85,17 @@
       z-index: 10;
     }
 
-    /* 左軌書本：向左推移，並結合JS嘅微觀隨機浮動 */
+    /* 左軌：向左推，結合JS微觀隨機浮動 */
     .shard-wrapper.pos-left {
       transform: translate(calc(-1 * var(--book-horizontal-spread) + var(--dx, 0px)), var(--dy, 0px)) rotateZ(var(--rz, 0deg));
     }
     
-    /* 右軌書本：向右推移，並結合JS嘅微觀隨機浮動 */
+    /* 右軌：向右推，結合JS微觀隨機浮動 */
     .shard-wrapper.pos-right {
       transform: translate(calc(var(--book-horizontal-spread) + var(--dx, 0px)), var(--dy, 0px)) rotateZ(var(--rz, 0deg));
     }
 
-    /* ===== 黑曜石托架 (Obsidian Shard) ===== */
+    /* ===== 黑曜石托架 ===== */
     .obsidian-shard {
       position: relative;
       width: 240px;
@@ -144,7 +140,7 @@
       box-shadow: 15px 30px 40px rgba(0,0,0,0.8), inset 2px 0 5px rgba(255,255,255,0.3);
     }
 
-    /* ===== 全息數據終端 (Holo Popup) ===== */
+    /* ===== 全息索引 (Holo Popup) ===== */
     .holo-popup {
       width: min(700px, 80vw);
       box-sizing: border-box;
@@ -154,7 +150,8 @@
       border-radius: 4px;
       padding: 1.5rem 2rem;
       box-shadow: 0 15px 40px rgba(0,0,0,0.8), inset 0 0 20px rgba(56, 189, 248, 0.05);
-      font-family: 'Share Tech Mono', monospace;
+      font-family: var(--popup-font);
+      font-weight: 400;
       color: #38bdf8;
       text-align: left;
       pointer-events: none;
@@ -175,7 +172,7 @@
     /* ===== 手機版調整 ===== */
     @media (max-width: 800px) {
       :root {
-        --book-vertical-gap: 8rem; /* 手機版行距適度縮小 */
+        --book-vertical-gap: 25rem; /* 手機版行距適度縮小 */
         --book-horizontal-spread: 0px; /* 手機版強制置中，不左右交替 */
       }
     }
@@ -319,7 +316,7 @@
               <div class="desc">${desc}</div>
             `;
 
-            // ★ 新增：冇 title 又冇 desc → 唔出框
+            // 冇 title 又冇 desc → 唔出框
             if (!testBox.textContent.trim()) {
               testBox.style.display = 'none';
               return;
