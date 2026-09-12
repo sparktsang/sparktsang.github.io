@@ -5,7 +5,7 @@ classification: Philosophy
 title: "《四大聖哲：蘇格拉底、佛陀、孔子、耶穌》閱讀筆記"
 short_title: "四大聖哲：蘇格拉底、佛陀、孔子、耶穌"
 title_obvious: false
-description: 跟隨哲人雅斯培的存在主義叩問，一同仰望幽谷中照耀萬古的四座文明燈塔。本筆記共你再度見證蘇哲辯證、佛陀破執、孔子立極、耶穌救世的塵世軌跡，如何於風雨飄搖之間，不立文字，以身踐道，垂範後世。與你在真理、無我、至善、大愛的洗禮中，立身天地，通心聖哲，交輝眾星。
+description: 跟隨哲人雅斯培的存在主義叩問，一同仰望幽谷中照耀萬古的四座文明燈塔。<br>本筆記共你再度見證蘇哲辯證、佛陀破執、孔子立極、耶穌救世的塵世軌跡，如何於風雨飄搖之間，不立文字，以身踐道，垂範後世。<br>與你在真理、無我、至善、大愛的洗禮中，立身天地，通心聖哲，交輝眾星。
 permalink: /library/saints/chi/
 language: chi
 image: assets/bookcover/saints-chi.jpg

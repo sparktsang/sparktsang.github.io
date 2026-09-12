@@ -5,7 +5,7 @@ classification: Investment
 order: 1
 title: "The First Principles of Perennial Profit in Investing"
 title_obvious: false
-description: Not a book. The foundational treatise behind the investment framework developed by Spark Tsang. A first-principles derivation of the universal principle of perennial profit in investing—not another strategy, but the necessary condition to which every genuinely successful investment method must conform.
+description: Not a book. The foundational treatise behind the investment framework I developed. A first-principles derivation of the universal principle of perennial profit in investing—not another strategy, but the necessary condition to which every genuinely successful investment method must conform.
 image: assets/bookcover/perennial-cover.png
 redirect_from:
   - /knowledge/2025/11/15/investment-first-principles.html

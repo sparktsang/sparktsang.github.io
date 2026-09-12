@@ -4,7 +4,7 @@ category: "Library"
 classification: Marketing
 title: "《主導式銷售力》 閱讀筆記"
 short_title: "主導式銷售力"
-description: "愚者求售，曲意逢迎；智者攻心，順勢而行。本筆記授你縱橫捭闔之策，以話術佈天羅地網，使客戶心魔自除，心悅誠服。"
+description: "愚者求售，曲意逢迎；智者攻心，順勢而行。<br>本筆記授你縱橫捭闔之策，以話術佈天羅地網，使客戶心魔自除，心悅誠服。"
 permalink: /library/proactive-sales/chi/
 language: chi
 image: assets/bookcover/proactive-sales.png

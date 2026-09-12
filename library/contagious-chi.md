@@ -4,7 +4,7 @@ category: "Library"
 classification: Marketing
 title: "《瘋潮行銷》 閱讀筆記"
 short_title: "瘋潮行銷"
-description: "洛陽紙貴、風行天下，豈是無因？本筆記提煉六大感染法則，教你如何以奇計扣人心弦，借勢成潮，一倡百和，風靡萬客。"
+description: "洛陽紙貴、風行天下，豈是無因？<br>本筆記提煉六大感染法則，教你如何以奇計扣人心弦，借勢成潮，一倡百和，風靡萬客。"
 permalink: /library/contagious/chi/
 language: chi
 image: assets/bookcover/contagious-chi.jpg

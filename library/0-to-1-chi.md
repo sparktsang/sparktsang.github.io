@@ -5,7 +5,7 @@ classification: Entrepreneurship
 order: 2
 title: "《從 0 到 1》閱讀筆記"
 short_title: "從 0 到 1"
-description: "妙悟彼得．泰爾驚世駭俗之「反常合道」。本筆記剖析何以獨霸壟斷乃進步引擎，盲目廝殺反致毀滅，教你如何打破混沌，「由零到一」，擘劃獨步天下之業。"
+description: "妙悟彼得．泰爾驚世駭俗之「反常合道」。<br>本筆記剖析何以獨霸壟斷乃進步引擎，盲目廝殺反致毀滅，教你如何打破混沌，「由零到一」，擘劃獨步天下之業。"
 permalink: /library/0-to-1/chi/
 language: chi
 image: assets/bookcover/0-to-1.jpg

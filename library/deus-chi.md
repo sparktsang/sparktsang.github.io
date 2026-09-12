@@ -5,8 +5,7 @@ classification: History
 order: 2
 title: "《人類大命運：從智人到神人》閱讀筆記"
 short_title: "人類大命運：從智人到神人"
-title_obvious: false
-description: "天以道生萬物，人以虛馭天下。教、法、國、帝、幣，盡為虛構故事。本筆記提綱挈領，點出人類昔日何以稱霸，未來步向何方，智械算法又如何生出全新故事，顛倒乾坤，重塑天地。"
+description: "天以道生萬物，人以虛馭天下。<br>教、法、國、帝、幣，盡為虛構故事。<br>本筆記提綱挈領，點出人類昔日何以稱霸，未來步向何方，智械算法又如何生出全新故事，顛倒乾坤，重塑天地。"
 permalink: /library/deus/chi/
 language: chi
 image: assets/bookcover/deus-chi.jpg

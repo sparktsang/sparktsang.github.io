@@ -5,7 +5,7 @@ classification: Politics
 title: "《民主會怎麼結束》閱讀筆記"
 short_title: "民主會怎麼結束"
 title_obvious: false
-description: "觀照現代民主禍起蕭牆、大廈將傾之變。本筆記剖析流言蜚語如何惑亂人心，智械寡頭如何與奪自專，國之棟樑如何尸位素餐，民主將如何兵不血刃，而侵肌蝕筋，肉鑠骨消。"
+description: "觀照現代民主禍起蕭牆、大廈將傾之變。<br>本筆記剖析流言蜚語如何惑亂人心，智械寡頭如何與奪自專，國之棟樑如何尸位素餐，<br>民主將如何兵不血刃，而侵肌蝕筋，肉鑠骨消。"
 permalink: /library/how-democracy-ends/chi/
 language: chi
 image: assets/bookcover/how-democracy-ends-chi.jpg
