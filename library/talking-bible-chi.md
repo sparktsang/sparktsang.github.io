@@ -1,7 +1,7 @@
 ---
 layout: post
 category: "Library"
-classification: Psychology
+classification: Relationship
 order: 6
 title: "《談話聖經》閱讀筆記"
 short_title: "談話聖經"

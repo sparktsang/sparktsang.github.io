@@ -205,7 +205,7 @@
           {% assign lib_notes = all_lib | where_exp: "item", "item.language != 'chi'" %}
         {% endif %}
         
-        {% assign class_list = "Investment,Science,Philosophy,History,Politics,Economics,Entrepreneurship,Marketing,Psychology,Personal Growth,Data Science,Novels,Miscellaneous" | split: "," %}
+        {% assign class_list = "Investment,Science,Philosophy,History,Politics,Economics,Entrepreneurship,Marketing,Psychology,Personal Growth,Relationship,Data Science,Story Writing,Novels,Miscellaneous" | split: "," %}
 
         {% for c in class_list %}
             {% assign target_cat = c | downcase %}
