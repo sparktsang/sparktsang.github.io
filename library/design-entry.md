@@ -6,7 +6,6 @@ permalink: /entry/design/
 render_with_liquid: false
 ---
 
-
 [Translated from Cantonese][chi]{:target="_blank"}.
 
 ---
