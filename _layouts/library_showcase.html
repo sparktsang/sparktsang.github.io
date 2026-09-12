@@ -17,6 +17,7 @@
       --book-horizontal-spread: 16rem; 
       /* 中英文版面唔同 popup 字體 */
       --popup-font: {% if page.version == 'chi' %}"Noto Serif TC", serif{% else %}"Lugrasimo", cursive{% endif %};
+      --popupbox-color: 220, 210, 190; 
     }
 
     /* ===== 宇宙拓撲背景 (固定Parallax) ===== */
@@ -55,8 +56,8 @@
       font-size: 2.2rem;
       letter-spacing: 0.4em;
       text-transform: uppercase;
-      text-shadow: 0 0 15px rgba(56, 189, 248, 0.5);
-      border-bottom: 1px solid rgba(56, 189, 248, 0.3);
+      text-shadow: 0 0 15px rgba(var(--popupbox-color), 0.5);
+      border-bottom: 1px solid rgba(var(--popupbox-color), 0.3);
       padding-bottom: 0.5rem;
       display: inline-block;
     }
@@ -132,8 +133,8 @@
 
     /* ===== 懸浮與啟動效果 (Hover) ===== */
     .shard-wrapper:hover .obsidian-shard {
-      box-shadow: 0 40px 80px rgba(0,0,0,0.95), 0 0 25px rgba(56, 189, 248, 0.15);
-      border-top: 1px solid rgba(56, 189, 248, 0.4);
+      box-shadow: 0 40px 80px rgba(0,0,0,0.95), 0 0 25px rgba(var(--popupbox-color), 0.15);
+      border-top: 1px solid rgba(var(--popupbox-color), 0.4);
     }
     .shard-wrapper:hover .book-cover {
       transform: translateY(-20px) scale(1.05);
@@ -144,12 +145,12 @@
     .holo-popup {
       width: min(700px, 80vw);
       box-sizing: border-box;
-      background: rgba(4, 9, 16, 0.85);
+      background: rgba(10, 10, 12, 0.85);
       backdrop-filter: blur(8px);
-      border: 1px solid rgba(56, 189, 248, 0.3);
+      border: 1px solid rgba(var(--popupbox-color), 0.3);
       border-radius: 4px;
       padding: 1.5rem 2rem;
-      box-shadow: 0 15px 40px rgba(0,0,0,0.8), inset 0 0 20px rgba(56, 189, 248, 0.05);
+      box-shadow: 0 15px 40px rgba(0,0,0,0.8), inset 0 0 20px rgba(var(--popupbox-color), 0.05);
       font-family: var(--popup-font);
       font-weight: 400;
       color: #38bdf8;
@@ -161,13 +162,13 @@
       content: "";
       position: absolute;
       top: 0; left: 0; width: 100%; height: 100%;
-      background: repeating-linear-gradient(0deg, transparent, transparent 2px, rgba(56, 189, 248, 0.03) 2px, rgba(56, 189, 248, 0.03) 4px);
+      background: repeating-linear-gradient(0deg, transparent, transparent 2px, rgba(var(--popupbox-color), 0.03) 2px, rgba(var(--popupbox-color), 0.03) 4px);
       pointer-events: none;
       z-index: -1;
     }
 
-    .holo-popup .title { font-size: 1.8rem; color: #bae6fd; margin-bottom: 0.5rem; text-shadow: 0 0 8px rgba(186, 230, 253, 0.4); line-height: 1.2; }
-    .holo-popup .desc { font-size: 1.5rem; color: #94a3b8; line-height: 1.5; }
+    .holo-popup .title { font-size: 1.6rem; color: #DDD0BB; margin-bottom: 0.5rem; text-shadow: 0 0 8px rgba(186, 230, 253, 0.4); line-height: 1.2; }
+    .holo-popup .desc { font-size: 1.5rem; color: #A8A090; line-height: 1.5; }
 
     /* ===== 手機版調整 ===== */
     @media (max-width: 800px) {
