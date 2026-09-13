@@ -4,7 +4,7 @@ category: "Library"
 classification: Science
 order: 3
 title: "Notes on <i>Life Ascending: The Ten Great Inventions of Evolution</i>"
-short_title: "Life Ascending: The Ten Great Inventions of Evolution"
+short_title: "Life Ascending"
 image: assets/bookcover/life-ascending.jpg
 ---
 

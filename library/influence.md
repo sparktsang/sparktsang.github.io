@@ -5,6 +5,7 @@ classification: Psychology
 order: 7
 title: 'Notes on <i>Influence: The Psychology of Persuasion</i>'
 short_title: "Influence: The Psychology of Persuasion"
+nav_title: Influence
 image: assets/bookcover/influence.jpg
 target_blank: true
 ---

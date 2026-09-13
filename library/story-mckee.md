@@ -4,7 +4,7 @@ category: "Library"
 classification: Story Writing
 order: 1
 title: "Notes on <i>Story: Substance, Structure, Style and the Principles of Screenwriting</i>"
-short_title: "Story: Substance, Structure, Style and the Principles of Screenwriting"
+short_title: "Story"
 image: assets/bookcover/story-mckee.jpg
 ---
 

@@ -3,7 +3,7 @@ layout: post
 category: "Library"
 classification: Entrepreneurship
 title: 'Notes on <i>Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future</i>'
-short_title: "Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future"
+short_title: "Elon Musk"
 image: assets/bookcover/musk.jpg
 ---
 

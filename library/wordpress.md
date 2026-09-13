@@ -4,6 +4,7 @@ category: "Library"
 classification: Data Science
 title: "Notes on <i>12 Lessons on Building a WordPress Website</i>"
 short_title: "12 Lessons on Building a WordPress Website"
+nav_title: Building a WordPress Website
 image: assets/bookcover/wordpress-eng.jpg
 ---
 

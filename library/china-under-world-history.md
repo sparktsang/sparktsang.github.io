@@ -4,6 +4,7 @@ category: "Library"
 classification: History
 title: "Notes on <i>China Under World History Coordinates</i>"
 short_title: "China Under World History Coordinates"
+nav_title: China Under World History
 description: "A fascinating macro-historical analysis placing China’s dynastic cycles within a global context. These notes reveal the deep geographical, cultural, and systemic reasons why Chinese and Western histories radically diverged."
 image: assets/bookcover/china-under-world-history.png
 ---

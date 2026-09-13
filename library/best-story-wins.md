@@ -3,7 +3,7 @@ layout: post
 category: "Library"
 classification: Story Writing
 title: "Notes on <i>The Best Story Wins: How to Leverage Hollywood Storytelling in Business & Beyond</i>"
-short_title: "The Best Story Wins: How to Leverage Hollywood Storytelling in Business & Beyond"
+short_title: "The Best Story Wins"
 image: assets/bookcover/best-story-wins.jpg
 ---
 

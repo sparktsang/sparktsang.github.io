@@ -4,6 +4,7 @@ category: "Library"
 classification: Data Science
 title: "Notes on Hiroki Tanioka's <i>Introduction to Deep Learning</i>"
 short_title: "Introduction to Deep Learning"
+nav_title: "Deep Learning: Introduction"
 description: "Demystify the mechanics of artificial intelligence without getting lost in the jargon. These notes break down the evolution, core algorithms, and practical models of neural networks into an accessible guide for absolute beginners."
 image: assets/bookcover/deep-learning-intro-eng.png
 ---

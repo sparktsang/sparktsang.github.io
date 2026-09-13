@@ -3,7 +3,7 @@ layout: post
 category: "Library"
 classification: Economics
 title: "Notes on <i>The Secret Wealth Advantage: How you can profit from the economy’s hidden cycle</i>"
-short_title: "The Secret Wealth Advantage: How you can profit from the economy’s hidden cycle"
+short_title: "The Secret Wealth Advantage"
 image: assets/bookcover/patel.jpg
 ---
 

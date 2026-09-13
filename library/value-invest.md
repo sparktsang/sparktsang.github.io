@@ -5,6 +5,7 @@ classification: Investment
 order: 2
 title: "Notes on <i>Value Investing: From Graham to Buffett and Beyond</i>"
 short_title: "Value Investing: From Graham to Buffett and Beyond"
+nav_title: "Value Investing: From Graham and Beyond"
 description: "From Graham and Dodd to Buffett, Gabelli, and other leading value investors, these notes go beyond summarizing the principles of value investing to tackle its central practical question: What is a business really worth? They break down asset value, earning power value, growth value, franchise economics, and margin of safety, with detailed case studies of WD-40 and Intel showing how these ideas can be turned into actual valuations."
 image: assets/bookcover/value-inv.webp
 redirect_from:

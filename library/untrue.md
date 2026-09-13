@@ -3,7 +3,7 @@ layout: post
 category: "Library"
 classification: Science
 title: "Notes on <i>Untrue: Why Nearly Everything We Believe about Women Is Wrong </i>"
-short_title: "Untrue: Why Nearly Everything We Believe about Women Is Wrong "
+short_title: "Untrue"
 image: assets/bookcover/untrue.jpg
 ---
 

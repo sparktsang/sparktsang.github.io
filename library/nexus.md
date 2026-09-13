@@ -4,7 +4,7 @@ category: "Library"
 classification: History
 order: 5
 title: "Notes on <i>Nexus: A Brief History of Information Networks </i>"
-short_title: "Nexus: A Brief History of Information Networks"
+short_title: "Nexus"
 image: assets/bookcover/nexus.webp
 ---
 

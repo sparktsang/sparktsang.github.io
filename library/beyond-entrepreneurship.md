@@ -4,7 +4,7 @@ category: "Library"
 classification: Entrepreneurship
 order: 7
 title: "Notes on <i>BE 2.0: Turning Your Business into an Enduring Great Company</i>"
-short_title: "BE 2.0: Turning Your Business into an Enduring Great Company"
+short_title: "BE 2.0"
 image: assets/bookcover/beyond-entrepreneurship.jpg
 ---
 

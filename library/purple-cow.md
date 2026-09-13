@@ -4,7 +4,7 @@ category: "Library"
 classification: Entrepreneurship
 order: 4
 title: "Notes on <i>Purple Cow: Transform Your Business by Being Remarkable</i>"
-short_title: "Purple Cow: Transform Your Business by Being Remarkable"
+short_title: "Purple Cow"
 image: assets/bookcover/purple-cow.jpg
 ---
 

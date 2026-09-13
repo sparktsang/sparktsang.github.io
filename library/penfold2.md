@@ -4,6 +4,7 @@ category: "Library"
 classification: Investment
 title: "Notes on <i>The Universal Tactics of Successful Trend Trading: Finding Opportunity in Uncertainty</i>"
 short_title: "The Universal Tactics of Successful Trend Trading"
+nav_title: The Universal Tactics of Trend Trading
 image: assets/bookcover/penfold2.jpg
 ---
 

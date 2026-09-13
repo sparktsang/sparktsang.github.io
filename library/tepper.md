@@ -4,7 +4,7 @@ category: "Library"
 classification: Economics
 order: 1
 title: 'Notes on <i>The Myth of Capitalism: Monopolies and the Death of Competition</i>'
-short_title: "The Myth of Capitalism: Monopolies and the Death of Competition"
+short_title: "The Myth of Capitalism"
 image: assets/bookcover/tepper.jpg
 ---
 

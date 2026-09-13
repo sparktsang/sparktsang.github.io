@@ -4,7 +4,7 @@ category: "Library"
 classification: Marketing
 order: 6
 title: "Notes on <i>Win Bigly: Persuasion in a World Where Facts Don't Matter</i>"
-short_title: "Win Bigly: Persuasion in a World Where Facts Don't Matter"
+short_title: "Win Bigly"
 image: assets/bookcover/win-bigly.jpg
 ---
 

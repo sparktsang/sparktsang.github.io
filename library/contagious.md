@@ -5,6 +5,7 @@ classification: Marketing
 order: 4
 title: "Notes on <i>Contagious: Why Things Catch On</i>"
 short_title: "Contagious: Why Things Catch On"
+nav_title: Contagious
 description: "Crack the code of virality with Jonah Berger’s STEPPS framework. These notes provide a concise guide to the six psychological triggers that make products, ideas, and behaviors catch on like wildfire."
 image: assets/bookcover/contagious.jpg
 ---

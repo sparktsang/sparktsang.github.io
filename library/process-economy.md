@@ -3,7 +3,7 @@ layout: post
 category: "Library"
 classification: Entrepreneurship
 title: "Notes on <i>Process Economy: The Value of Your Story</i>"
-short_title: "Process Economy: The Value of Your Story"
+short_title: "Process Economy"
 image: assets/bookcover/process-economy-eng.jpg
 ---
 

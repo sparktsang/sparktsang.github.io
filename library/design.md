@@ -5,6 +5,7 @@ classification: Data Science
 order: 1
 title: "Overriding Code: A 120,000-Character Manifesto on Taming AI and Architecting a Digital Altar"
 title_obvious: false
+nav_title: Overriding Code
 description: Not a book. A faithful, unabridged archive of taming AI into creating a digital artwork from scratch. A raw record of mine, with no prior HTML background, using human intuition and uncompromising aesthetic judgment to make AI serve the artwork.
 permalink: /library/design/
 image: assets/bookcover/design-cover.png

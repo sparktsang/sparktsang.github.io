@@ -3,7 +3,7 @@ layout: post
 category: "Library"
 classification: Data Science
 title: 'Notes on <i>Hello Web Design: Design Fundamentals and Shortcuts for Non-Designers</i>'
-short_title: "Hello Web Design: Design Fundamentals and Shortcuts for Non-Designers"
+short_title: "Hello Web Design"
 image: assets/bookcover/hello-web-design.jpg
 ---
 

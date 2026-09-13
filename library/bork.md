@@ -4,7 +4,8 @@ category: "Library"
 classification: Story Writing
 order: 2
 title: "Notes on <i>The Idea: The Seven Elements of a Viable Story for Screen, Stage or Fiction</i>"
-short_title: "The Idea: The Seven Elements of a Viable Story for Screen, Stage or Fiction"
+short_title: "The Idea: The Seven Elements of a Viable Story"
+nav_title: 7 Elements of a Viable Story
 image: assets/bookcover/bork.jpg
 ---
 

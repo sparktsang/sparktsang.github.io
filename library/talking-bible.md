@@ -5,6 +5,7 @@ classification: Relationship
 order: 3
 title: 'Notes on <i>Talking as a Bible</i>'
 short_title: "Friedemann Schultz von Thun's Talking as a Bible"
+nav_title: Talking as a Bible
 image: assets/bookcover/talking-bible.png
 ---
 

@@ -5,6 +5,7 @@ classification: Psychology
 order: 6
 title: 'Notes on <i>The Catalyst: How to Change Anyone’s Mind</i>'
 short_title: "The Catalyst: How to Change Anyone’s Mind"
+nav_title: The Catalyst
 description: "Master the art of persuasion by removing barriers instead of pushing harder. These notes decode the five psychological hurdles to change and offer proven, subtle techniques to effectively change anyone's mind."
 image: assets/bookcover/catalyst.jpg
 target_blank: true

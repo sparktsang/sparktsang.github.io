@@ -4,7 +4,7 @@ category: "Library"
 classification: History
 order: 4
 title: "Notes on <i>Foragers, Farmers, and Fossil Fuels: How Human Values Evolve</i>"
-short_title: "Foragers, Farmers, and Fossil Fuels: How Human Values Evolve"
+short_title: "How Human Values Evolve"
 image: assets/bookcover/how-values-evolve.avif
 ---
 
