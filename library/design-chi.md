@@ -304,7 +304,7 @@ forty呢個主題五個layout都冇個啱用，即係表示個主題其實唔係
 
 ##### [Q4]
 
-<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important; overflow-x: auto !important; -webkit-overflow-scrolling: touch !important;">
   <img src="/assets/images/design_fig_1.png" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
 </div>
 <br>
@@ -486,7 +486,7 @@ description: "分享所有關於...嘅文章"
 
 ##### [Q5]
 
-<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important; overflow-x: auto !important; -webkit-overflow-scrolling: touch !important;">
   <img src="/assets/images/design_fig_2.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
 </div>
 <br>
@@ -834,7 +834,7 @@ description: "分享所有關於...嘅文章"
 
 ##### [Q7]
 
-<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important; overflow-x: auto !important; -webkit-overflow-scrolling: touch !important;">
   <img src="/assets/images/design_fig_3.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
   <img src="/assets/images/design_fig_4.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
   <img src="/assets/images/design_fig_5.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
@@ -1006,7 +1006,7 @@ banner就跟首頁，啲字嘅色又唔跟首頁？
 
 ##### [Q8]
 
-<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important; overflow-x: auto !important; -webkit-overflow-scrolling: touch !important;">
   <img src="/assets/images/design_fig_7.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
   <img src="/assets/images/design_fig_8.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
 </div>
@@ -1183,7 +1183,7 @@ Life個banner跟返啱嘅圖，但佢個黃色係點走出嚟？
 
 ##### [Q9]
 
-<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important; overflow-x: auto !important; -webkit-overflow-scrolling: touch !important;">
   <img src="/assets/images/design_fig_9.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
   <img src="/assets/images/design_fig_10.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
   <img src="/assets/images/design_fig_11.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
@@ -1398,7 +1398,7 @@ Life個banner跟返啱嘅圖，但佢個黃色係點走出嚟？
 
 ##### [Q10]
 
-<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important; overflow-x: auto !important; -webkit-overflow-scrolling: touch !important;">
   <img src="/assets/images/design_fig_12.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
   <img src="/assets/images/design_fig_13.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
 </div>
@@ -1600,7 +1600,7 @@ Life個banner跟返啱嘅圖，但佢個黃色係點走出嚟？
 
 ##### [Q11]
 
-<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important; overflow-x: auto !important; -webkit-overflow-scrolling: touch !important;">
   <img src="/assets/images/design_fig_14.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
   <img src="/assets/images/design_fig_15.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
 </div>
@@ -1844,7 +1844,7 @@ image: "assets/images/life-banner.jpg"
 
 ##### [Q12]
 
-<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important; overflow-x: auto !important; -webkit-overflow-scrolling: touch !important;">
   <img src="/assets/images/design_fig_16.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
 </div>
 <br>
@@ -2071,7 +2071,7 @@ Life冇咗，呢頁係乜都唔知。連banner都冇咗，我話我想banner嘅�
 
 ##### [Q13]
 
-<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important; overflow-x: auto !important; -webkit-overflow-scrolling: touch !important;">
   <img src="/assets/images/design_fig_17.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
 </div>
 <br>
@@ -2480,7 +2480,7 @@ Life冇咗，呢頁係乜都唔知。連banner都冇咗，我話我想banner嘅�
 
 ##### [Q15]
 
-<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important; overflow-x: auto !important; -webkit-overflow-scrolling: touch !important;">
   <img src="/assets/images/design_fig_18a.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
   <img src="/assets/images/design_fig_18.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
 </div>
@@ -2560,7 +2560,7 @@ Life冇咗，呢頁係乜都唔知。連banner都冇咗，我話我想banner嘅�
 
 ##### [Q16]
 
-<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important; overflow-x: auto !important; -webkit-overflow-scrolling: touch !important;">
   <img src="/assets/images/design_fig_19.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
 </div>
 <br>
@@ -2666,7 +2666,7 @@ body {
 
 ##### [Q17]
 
-<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important; overflow-x: auto !important; -webkit-overflow-scrolling: touch !important;">
   <img src="/assets/images/design_fig_20.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
 </div>
 <br>
@@ -2739,7 +2739,7 @@ body {
 
 ##### [Q18]
 
-<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important; overflow-x: auto !important; -webkit-overflow-scrolling: touch !important;">
   <img src="/assets/images/design_fig_21.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
 </div>
 <br>
@@ -2913,7 +2913,7 @@ document.querySelectorAll('.post-fragment').forEach(fragment => {
 
 ##### [Q19]
 
-<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important; overflow-x: auto !important; -webkit-overflow-scrolling: touch !important;">
   <img src="/assets/images/design_fig_22.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
 </div>
 <br>
@@ -3630,7 +3630,7 @@ document.querySelectorAll('.post-fragment').forEach(fragment => {
 
 ##### [Q21]
 
-<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important; overflow-x: auto !important; -webkit-overflow-scrolling: touch !important;">
   <img src="/assets/images/design_fig_23.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
 </div>
 <br>
@@ -3790,7 +3790,7 @@ document.querySelectorAll('.post-fragment').forEach(fragment => {
 
 ##### [Q22]
 
-<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important; overflow-x: auto !important; -webkit-overflow-scrolling: touch !important;">
   <img src="/assets/images/design_fig_24.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
   <img src="/assets/images/design_fig_25.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
 </div>
@@ -4100,7 +4100,7 @@ CSS 部分：
 
 ##### [Q24]
 
-<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important; overflow-x: auto !important; -webkit-overflow-scrolling: touch !important;">
   <img src="/assets/images/design_fig_26.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
 </div>
 <br>
@@ -4488,7 +4488,7 @@ document.querySelectorAll('.post-fragment').forEach(el => {
 
 ##### [Q27]
 
-<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important; overflow-x: auto !important; -webkit-overflow-scrolling: touch !important;">
   <img src="/assets/images/design_fig_27.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
 </div>
 <br>
@@ -4754,7 +4754,7 @@ document.querySelectorAll('.post-fragment').forEach(el => {
 
 ##### [Q29]
 
-<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important; overflow-x: auto !important; -webkit-overflow-scrolling: touch !important;">
   <img src="/assets/images/design_fig_28.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
 </div>
 <br>
@@ -5189,7 +5189,7 @@ body::before {
 
 ##### [Q31]
 
-<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important; overflow-x: auto !important; -webkit-overflow-scrolling: touch !important;">
   <img src="/assets/images/design_fig_29.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
 </div>
 <br>
@@ -5428,7 +5428,7 @@ body::before {
 
 ##### [Q32]
 
-<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important; overflow-x: auto !important; -webkit-overflow-scrolling: touch !important;">
   <img src="/assets/images/design_fig_30.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
 </div>
 <br>
@@ -8262,7 +8262,7 @@ C) **Spacious（大）**：
 
 ##### [Q42]
 
-<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important; overflow-x: auto !important; -webkit-overflow-scrolling: touch !important;">
   <img src="/assets/images/design_fig_31.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
   <img src="/assets/images/design_fig_32.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
 </div>
@@ -9048,7 +9048,7 @@ if (isTouchDevice) {
 
 ##### [Q46]
 
-<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important; overflow-x: auto !important; -webkit-overflow-scrolling: touch !important;">
   <img src="/assets/images/design_fig_33.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
   <img src="/assets/images/design_fig_34.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
 </div>
@@ -9167,7 +9167,7 @@ if (fragmentRect.top < popupRect.height) { // 如果方塊頂部距離畫面頂�
 
 ##### [Q47]
 
-<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important; overflow-x: auto !important; -webkit-overflow-scrolling: touch !important;">
   <img src="/assets/images/design_fig_35.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
 </div>
 <br>
@@ -9272,7 +9272,7 @@ if (fragmentRect.top < popupRect.height) { // 如果方塊頂部距離畫面頂�
 
 ##### [Q48]
 
-<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important; overflow-x: auto !important; -webkit-overflow-scrolling: touch !important;">
   <img src="/assets/images/design_fig_36.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
 </div>
 <br>
@@ -9528,7 +9528,7 @@ if (fragmentRect.top < popupRect.height) { // 如果方塊頂部距離畫面頂�
 
 ##### [Q51]
 
-<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important; overflow-x: auto !important; -webkit-overflow-scrolling: touch !important;">
   <img src="/assets/images/design_fig_37.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
 </div>
 <br>
@@ -11174,7 +11174,7 @@ grid-gap: 8em;
 
 ##### [Q67]
 
-<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important; overflow-x: auto !important; -webkit-overflow-scrolling: touch !important;">
   <img src="/assets/images/design_fig_38.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
 </div>
 <br>
@@ -11265,7 +11265,7 @@ const dy = (Math.random() - 0.5) * 60;
 
 ##### [Q68]
 
-<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important; overflow-x: auto !important; -webkit-overflow-scrolling: touch !important;">
   <img src="/assets/images/design_fig_39.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
 </div>
 <br>
@@ -11355,7 +11355,7 @@ const dy = (Math.random() - 0.5) * 60;
 
 ##### [Q69]
 
-<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important; overflow-x: auto !important; -webkit-overflow-scrolling: touch !important;">
   <img src="/assets/images/design_fig_40.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
 </div>
 <br>
@@ -11436,7 +11436,7 @@ const dy = (Math.random() - 0.5) * 60;
 
 ##### [Q70]
 
-<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important; overflow-x: auto !important; -webkit-overflow-scrolling: touch !important;">
   <img src="/assets/images/design_fig_41.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
 </div>
 <br>
@@ -12452,7 +12452,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
 ##### [Q79]
 
-<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important; overflow-x: auto !important; -webkit-overflow-scrolling: touch !important;">
   <img src="/assets/images/design_fig_45.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
 </div>
 <br>
@@ -14106,7 +14106,7 @@ GitHub Pages: jekyll v3.10.0
 
 ##### [Q91]
 
-<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important; overflow-x: auto !important; -webkit-overflow-scrolling: touch !important;">
   <img src="/assets/images/design_fig_42.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
   <img src="/assets/images/design_fig_43.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
 </div>
@@ -14399,7 +14399,7 @@ GitHub Pages: jekyll v3.10.0
 
 ##### [Q92]
 
-<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important;">
+<div style="display: flex !important; flex-direction: row !important; align-items: flex-start !important; width: 100% !important; gap: 15px !important; overflow-x: auto !important; -webkit-overflow-scrolling: touch !important;">
   <img src="/assets/images/design_fig_44.png" loading="lazy" style="height: 200px !important; width: auto !important; object-fit: contain !important;">
 </div>
 <br>
