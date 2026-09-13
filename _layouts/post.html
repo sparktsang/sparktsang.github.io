@@ -32,9 +32,24 @@
 
 		{% if page.category == "Library" %}
 			{% if page.image %}
-				<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" style="width: 25%; display: block; margin: 0 auto;" /></span>
+				<span class="image main">
+				<img src="{{ site.baseurl }}/{{ page.image }}" alt="" class="lib-img" />
+				</span>
 			{% endif %}
 		{% endif %}
+
+		<style>
+		.image.main img.lib-img {
+			width: 25%;
+			display: block;
+			margin: 0 auto;
+		}
+		@media (max-width: 768px) {
+			.image.main img.lib-img {
+			width: 50%;
+			}
+		}
+		</style>
 
 		{% assign wrap_style = "" %}
 		{% if content contains "https" %}{% assign wrap_style = "style='word-break: break-all; overflow-wrap: anywhere;'" %}{% endif %}
