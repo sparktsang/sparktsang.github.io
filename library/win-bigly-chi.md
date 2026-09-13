@@ -4,7 +4,7 @@ category: "Library"
 classification: Marketing
 title: "《超越邏輯的情緒說服》 閱讀筆記"
 short_title: "超越邏輯的情緒說服"
-permalink: /library/business-as-self-media/chi/
+permalink: /library/win-bigly/chi/
 language: chi
 image: assets/bookcover/win-bigly-chi.jpg
 ---
