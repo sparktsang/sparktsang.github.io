@@ -9,9 +9,8 @@ author: null
 
 The project is civilization itself. The work begins now.
 
-{% comment %}
-Built from years of reading. Explore the [Library →][lib]
+
+Built from years of reading. Explore the [Library →][lib]{:target="_blank"}
 {: .index_text}
 
 [lib]: {{ "/library" | absolute_url }}
-{% endcomment %}
