@@ -302,6 +302,8 @@
 
       const isTouchDevice = 'ontouchstart' in window || navigator.maxTouchPoints > 0;
 
+      const fallbackText = "{% if page.version == 'chi' %}筆記簡介準備中，再點擊以進入。{% else %}Click again to enter.{% endif %}";
+
       const testBox = document.createElement('div');
         testBox.className = 'holo-popup'; // 套用全息終端樣式
         testBox.style.display = 'none'; // 預設隱藏
@@ -405,8 +407,7 @@
             `;
 
             if (!testBox.textContent.trim()) {
-              testBox.style.display = 'none';
-              return;
+              testBox.innerHTML = `<div class="desc">${fallbackText}</div>`;
             }
 
             testBox.style.display = 'block';
