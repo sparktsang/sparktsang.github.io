@@ -184,6 +184,15 @@
       }
     }
   </style>
+
+  {% if page.version != 'chi' %}
+  <style>
+    @media (max-width: 800px) {
+      .holo-popup .title { font-size: 1.1rem; }
+      .holo-popup .desc { font-size: 1rem; }
+    }
+  </style>
+  {% endif %}
 </head>
 
 <body>
@@ -371,7 +380,7 @@
         } else {
           const clickArea = wrapper.querySelector('.click-area');
           clickArea.addEventListener('click', (event) => {
-            // 手機版暫不處理複雜邏輯，保留基礎防跳轉
+          
             const isVisible = wrapper.classList.contains('info-visible');
             if (isVisible) return; 
             event.preventDefault();
@@ -403,15 +412,16 @@
             testBox.style.display = 'block';
             testBox.style.transform = 'translate(-50%, -50%)';
 
-            const margin = 16;
             const rect = wrapper.getBoundingClientRect();
+            const vh = window.innerHeight;
             const halfH = testBox.offsetHeight / 2;
-            const centerY = rect.top + rect.height / 2;
+            const gap = vh / 15;
 
-            testBox.style.top = Math.max(
-              halfH + margin,
-              Math.min(window.innerHeight - halfH - margin, centerY)
-            ) + 'px';
+            const centerY = (rect.top > vh - rect.bottom)
+              ? rect.top - gap - halfH      // 上面多位 → 框放書上方
+              : rect.bottom + gap + halfH;  // 下面多位 → 框放書下方
+
+            testBox.style.top = Math.max(halfH, Math.min(vh - halfH, centerY)) + 'px';
             testBox.style.left = (document.documentElement.clientWidth / 2) + 'px';
           });
         }
