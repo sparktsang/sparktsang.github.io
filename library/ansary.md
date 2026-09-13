@@ -5,6 +5,7 @@ classification: History
 order: 6
 title: "Notes on <i>The Invention of Yesterday</i>"
 short_title: "The Invention of Yesterday"
+description: The 50,000-year history of humanity is essentially a story of colliding narratives and expanding networks. Offering a breathtaking macro-perspective, these notes explore how language, religion, empires, and technology wove the modern world together, providing a profound framework to understand today's global landscape.
 image: assets/bookcover/ansary.jpg
 ---
 

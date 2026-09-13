@@ -5,6 +5,7 @@ classification: Relationship
 order: 1
 title: "Notes on <i>How to Not Die Alone</i>"
 short_title: "How to Not Die Alone"
+description: Stop leaving your love life to chance and romantic myths. Applying behavioral science to modern dating, these notes help you identify your attachment style, overcome the "paradox of choice," and build a lasting relationship using data-driven strategies.
 image: assets/bookcover/not-die-alone.jpg
 ---
 

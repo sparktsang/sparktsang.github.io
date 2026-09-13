@@ -4,6 +4,7 @@ category: "Library"
 classification: Politics
 title: "Notes on Yoichi Takahashi's <i>Geopolitics</i>"
 short_title: "Yoichi Takahashi's Geopolitics"
+description: Discover the hidden geographical forces that have shaped world history and modern international conflicts. These notes distill the geopolitical ambitions of major powers—from America's past hegemony to China's maritime expansion and Russia's southward push—offering a clear, structural lens to understand today's global dynamics.
 image: assets/bookcover/takahashi.png
 ---
 

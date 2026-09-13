@@ -5,6 +5,7 @@ classification: Entrepreneurship
 order: 4
 title: "Notes on <i>Purple Cow: Transform Your Business by Being Remarkable</i>"
 short_title: "Purple Cow"
+description: In an age of advertising overload, playing it safe is the riskiest strategy of all. Distilling Seth Godin’s marketing classic, these notes teach you how to stop pleasing the masses and start designing "Purple Cows"—remarkable products that people can't help but talk about.
 image: assets/bookcover/purple-cow.jpg
 ---
 

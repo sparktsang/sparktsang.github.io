@@ -5,6 +5,7 @@ classification: Marketing
 order: 4
 title: "Notes on <i>Way of the Wolf</i>"
 short_title: "Way of the Wolf"
+description: Crack the code of closing with the Straight Line System. These notes distill the "Wolf of Wall Street's" tactics, from the critical 4-second opening to 10 golden tonalities, teaching you how to guide any prospect to a guaranteed sale.
 image: assets/bookcover/wolf.jpg
 ---
 

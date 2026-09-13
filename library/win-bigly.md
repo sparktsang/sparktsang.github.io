@@ -5,6 +5,7 @@ classification: Marketing
 order: 6
 title: "Notes on <i>Win Bigly: Persuasion in a World Where Facts Don't Matter</i>"
 short_title: "Win Bigly"
+description: Why do emotions beat facts? These notes decode the "master-level persuasion" techniques used by Trump. Learn how to leverage cognitive dissonance, mental anchors, and visual language to influence minds in a post-truth world.
 image: assets/bookcover/win-bigly.jpg
 ---
 

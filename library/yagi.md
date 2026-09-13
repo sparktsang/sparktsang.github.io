@@ -6,6 +6,7 @@ order: 2
 title: "Notes on <i>The World's Easiest Way to Find What You Want to Do</i>"
 short_title: "The World's Easiest Way to Find What You Want to Do"
 nav_title: Easiest Way to Find What You Want to Do
+description: Stop feeling lost in your career. These notes break down the "Like × Good At × Value" formula to help you uncover your intrinsic motivation. Use this simple self-understanding method to pinpoint your true calling without taking blind risks.
 image: assets/bookcover/yagi-eng.png
 ---
 

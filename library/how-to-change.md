@@ -5,6 +5,7 @@ classification: Personal Growth
 order: 6
 title: "Notes on <i>How to Change</i>"
 short_title: "How to Change"
+description: Tired of setting goals and giving up halfway? These behavioral science notes from Wharton prove that lasting change shouldn't rely on willpower alone. Using proven strategies like the "Fresh Start Effect" and "Temptation Bundling," it shows you how to remove internal friction and achieve effortless personal growth.
 image: assets/bookcover/how-to-change.jpg
 ---
 

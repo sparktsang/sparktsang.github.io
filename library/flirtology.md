@@ -4,6 +4,7 @@ category: "Library"
 classification: Relationship
 title: "Notes on Jean Smith's <i>Flirtology</i>"
 short_title: "Flirtology"
+description: Flirting isn't an innate talent; it's a social science you can learn! These notes debunk common dating myths and provides the practical "HOTAPE" formula, teaching you how to build meaningful connections and find love with confidence, authenticity, and zero pressure.
 image: assets/bookcover/flirtology.webp
 ---
 

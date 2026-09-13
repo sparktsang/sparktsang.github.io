@@ -5,6 +5,7 @@ classification: Story Writing
 order: 1
 title: "Notes on <i>Story: Substance, Structure, Style and the Principles of Screenwriting</i>"
 short_title: "Story"
+description: The bible for storytellers and screenwriters. These extensive notes dissect the anatomy of compelling narratives, explaining how to build structural tension, reveal character truth through high-pressure choices, and design scenes that resonate deeply with any audience.
 image: assets/bookcover/story-mckee.jpg
 ---
 

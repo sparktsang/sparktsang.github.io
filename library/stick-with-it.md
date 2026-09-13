@@ -5,6 +5,7 @@ classification: Personal Growth
 order: 8
 title: "Notes on <i>Stick With It</i>"
 short_title: "Stick With It"
+description: Forget relying on willpower alone to achieve your goals. These notes introduce a scientifically proven framework (SCIENCE) for lasting behavioral change, offering practical, brain-friendly neurohacking techniques to build good habits, beat procrastination, and finally stick with your plans.
 image: assets/bookcover/stick-with-it.jpg
 ---
 

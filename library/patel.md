@@ -4,6 +4,7 @@ category: "Library"
 classification: Economics
 title: "Notes on <i>The Secret Wealth Advantage: How you can profit from the economy’s hidden cycle</i>"
 short_title: "The Secret Wealth Advantage"
+description: Why do economic crashes happen every 18 years like clockwork? These notes uncover the hidden "Law of Economic Rent" driving real estate and credit cycles, giving you a clear roadmap of the economy's four phases so you can protect your wealth before the crash and buy the dip at the bottom.
 image: assets/bookcover/patel.jpg
 ---
 

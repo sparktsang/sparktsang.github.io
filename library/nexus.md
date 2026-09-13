@@ -5,6 +5,7 @@ classification: History
 order: 5
 title: "Notes on <i>Nexus: A Brief History of Information Networks </i>"
 short_title: "Nexus"
+description: From Stone Age myths to AI-driven algorithms, Harari explores how information networks build power and order. These notes provide a sweeping historical lens to understand the existential threats of our upcoming digital dictatorships and the "Silicon Curtain."
 image: assets/bookcover/nexus.webp
 ---
 

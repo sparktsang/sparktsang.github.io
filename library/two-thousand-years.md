@@ -6,6 +6,7 @@ order: 3
 title: "Notes on Wu Xiaobo's <i>Two Thousand Years of Grandeur</i>"
 short_title: "Two Thousand Years of Grandeur"
 title_obvious: false
+description: A sweeping journey through two millennia of Chinese economic history. These notes explore the eternal tug-of-war between state monopolies and private enterprise—from the salt and iron policies of antiquity to the merchants of the Qing dynasty—revealing the cyclical patterns that still shape China's economy today.
 image: assets/bookcover/two-thousand-years.png
 ---
 

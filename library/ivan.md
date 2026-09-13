@@ -5,6 +5,7 @@ classification: Novels
 order: 1
 title: "Notes on Tolstoy's <i>Ivan the Fool</i>"
 short_title: Ivan the Fool
+description: A distillation of Leo Tolstoy’s most profound short fables. Exploring timeless themes of greed, forgiveness, and the pursuit of a meaningful life, these notes capture the essence of Russian literary wisdom in its purest form.
 image: assets/bookcover/ivan.jpg
 ---
 

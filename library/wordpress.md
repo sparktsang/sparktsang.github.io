@@ -5,6 +5,7 @@ classification: Data Science
 title: "Notes on <i>12 Lessons on Building a WordPress Website</i>"
 short_title: "12 Lessons on Building a WordPress Website"
 nav_title: Building a WordPress Website
+description: A zero-to-one roadmap for website building. These notes condense the core workflow of mastering WordPress, from domain and hosting selection to essential plugins and SEO optimization, helping you launch a professional site effortlessly.
 image: assets/bookcover/wordpress-eng.jpg
 ---
 

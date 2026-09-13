@@ -5,6 +5,7 @@ classification: Entrepreneurship
 order: 6
 title: "Notes on <i>Good to Great: Why Some Companies Make the Leap... and Others Don’t</i>"
 short_title: "Good to Great"
+description: Why do some companies achieve explosive, long-term growth while others remain mediocre? These notes reveal the secrets of going from "good to great," offering timeless frameworks like Level 5 Leadership, the Hedgehog Concept, and the Flywheel effect to help you break through plateaus.
 image: assets/bookcover/collins.jpg
 ---
 

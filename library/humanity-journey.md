@@ -5,6 +5,7 @@ classification: History
 order: 7
 title: "Notes on <i>The Journey of Humanity</i>"
 short_title: "The Journey of Humanity"
+description: How did humanity escape the Malthusian trap, and why is global wealth so unequal? These notes distill a unified theory of human history, exploring how geography, demographics, and institutions shaped the ultimate economic destiny of nations.
 image: assets/bookcover/humanity-journey.jpg
 ---
 

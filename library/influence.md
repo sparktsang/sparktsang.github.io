@@ -6,6 +6,7 @@ order: 7
 title: 'Notes on <i>Influence: The Psychology of Persuasion</i>'
 short_title: "Influence: The Psychology of Persuasion"
 nav_title: Influence
+description: Why do we say "yes" when we really mean "no"? These notes break down the six psychological triggers of persuasion—like reciprocity, social proof, and scarcity—arming you to defend against marketing tricks and ethically influence others.
 image: assets/bookcover/influence.jpg
 target_blank: true
 ---

@@ -5,6 +5,7 @@ classification: History
 order: 4
 title: "Notes on <i>Foragers, Farmers, and Fossil Fuels: How Human Values Evolve</i>"
 short_title: "How Human Values Evolve"
+description: Did you know your moral values are dictated by how your society captures energy? These notes provide a mind-bending macro-history of human morality, explaining why foragers, farmers, and fossil-fuel societies have vastly different views on equality, hierarchy, and violence.
 image: assets/bookcover/how-values-evolve.avif
 ---
 

@@ -4,6 +4,7 @@ category: "Library"
 classification: Politics
 title: "Notes on <i>How to Be a Dictator</i>"
 short_title: "How to Be a Dictator"
+description: How are tyrants made? These notes deconstruct the rise and fall of eight 20th-century dictators, revealing their playbooks of fear, propaganda, and personality cults. It's an essential read for understanding the underlying mechanics of totalitarian power.
 image: assets/bookcover/be-dictator.jpg
 ---
 

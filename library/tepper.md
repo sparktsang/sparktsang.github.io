@@ -5,6 +5,7 @@ classification: Economics
 order: 1
 title: 'Notes on <i>The Myth of Capitalism: Monopolies and the Death of Competition</i>'
 short_title: "The Myth of Capitalism"
+description: A stark warning about the death of competition in the modern economy. These notes reveal how mega-monopolies and oligopolies are quietly suffocating true capitalism, driving down wages, and stifling innovation, offering a critical look at the dark side of corporate concentration.
 image: assets/bookcover/tepper.jpg
 ---
 

@@ -6,6 +6,7 @@ order: 2
 title: "Notes on <i>The Idea: The Seven Elements of a Viable Story for Screen, Stage or Fiction</i>"
 short_title: "The Idea: The Seven Elements of a Viable Story"
 nav_title: 7 Elements of a Viable Story
+description: Why do some scripts sell while others are rejected? These notes break down the "PROBLEM" framework written by a veteran Hollywood screenwriter—the seven essential elements of a viable story—helping you craft narratives with massive commercial and emotional appeal from day one.
 image: assets/bookcover/bork.jpg
 ---
 

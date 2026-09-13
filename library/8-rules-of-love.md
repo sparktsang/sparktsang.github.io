@@ -5,6 +5,7 @@ classification: Relationship
 order: 2
 title: "Notes on <i>8 Rules of Love</i>"
 short_title: "8 Rules of Love"
+description: A mindful approach to modern relationships. Blending ancient wisdom and modern psychology, these notes guide you through the journey of love—from finding joy in solitude to navigating conflicts and growing together in a truly inspiring partnership.
 image: assets/bookcover/8-rules-of-love.jpg
 ---
 
