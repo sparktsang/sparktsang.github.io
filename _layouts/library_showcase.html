@@ -176,6 +176,12 @@
         --book-vertical-gap: 25rem; /* 手機版行距適度縮小 */
         --book-horizontal-spread: 0px; /* 手機版強制置中，不左右交替 */
       }
+      .category-node span { font-size: 0; }
+      .category-node span::after {
+        content: attr(data-short);
+        font-size: 1.75rem;
+        letter-spacing: 0.4em;
+      }
     }
   </style>
 </head>
@@ -222,7 +228,7 @@
             {% if has_items %}
                 <!-- 空間幾何標籤 -->
                 <div class="category-node">
-                    <span>{{ c }}</span>
+                    <span data-short="{{ c | replace: 'Entrepreneurship', 'Business' | replace: 'Miscellaneous', 'Misc.' }}">{{ c }}</span>
                 </div>
 
                 <div class="category-grid">
