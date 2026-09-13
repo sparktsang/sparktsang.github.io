@@ -51,15 +51,11 @@
 		}
 		</style>
 
-		{% assign wrap_style = "" %}
-		{% if content contains "https" %}{% assign wrap_style = "style='word-break: break-all; overflow-wrap: anywhere;'" %}{% endif %}
-		<div {{ wrap_style }}>
-			{% if page.target_blank %}
-				{{ content | replace: '<a href=', '<a target="_blank" rel="noopener noreferrer" href=' }}
-			{% else %}
-				{{ content }}
-			{% endif %}
-		</div>
+		{% if page.target_blank %}
+			{{ content | replace: '<a href=', '<a target="_blank" rel="noopener noreferrer" href=' }}
+		{% else %}
+			{{ content }}
+		{% endif %}
 				
 		{% if page.category == "Life" %}
 		
