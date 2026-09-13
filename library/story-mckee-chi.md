@@ -2,6 +2,7 @@
 layout: post
 category: "Library"
 classification: Story Writing
+order: 1
 title: "《故事的解剖》閱讀筆記"
 short_title: "故事的解剖"
 permalink: /library/story-mckee/chi/

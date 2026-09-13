@@ -2,6 +2,7 @@
 layout: post
 category: "Library"
 classification: Marketing
+order: 4
 title: "《瘋潮行銷》 閱讀筆記"
 short_title: "瘋潮行銷"
 description: "洛陽紙貴、風行天下，豈是無因？<br>本筆記提煉六大感染法則，教你如何以奇計扣人心弦，借勢成潮，一倡百和，風靡萬客。"

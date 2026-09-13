@@ -2,6 +2,7 @@
 layout: post
 category: "Library"
 classification: Personal Growth
+order: 8
 title: "《恆毅力的七堂課》閱讀筆記"
 short_title: "恆毅力的七堂課"
 permalink: /library/stick-with-it/chi/

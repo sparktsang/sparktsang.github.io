@@ -2,6 +2,7 @@
 layout: post
 category: "Library"
 classification: Psychology
+order: 7
 title: 'Notes on <i>Influence: The Psychology of Persuasion</i>'
 short_title: "Influence: The Psychology of Persuasion"
 image: assets/bookcover/influence.jpg

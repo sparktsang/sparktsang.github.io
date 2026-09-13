@@ -253,4 +253,4 @@ English translation [here](/library/perennial){:target="_blank"}.
 參見：
 
 * [我的投資歷程（英文自傳）]({% post_url 2025-10-25-search %}){:target="_blank"}
-* [《21世紀價值投資》閱讀筆記](/library/value-invest/chi){:target="_blank"}
+* [《21 世紀價值投資》閱讀筆記](/library/value-invest/chi){:target="_blank"}

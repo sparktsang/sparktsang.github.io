@@ -2,6 +2,7 @@
 layout: post
 category: "Library"
 classification: Psychology
+order: 7
 title: "《影響力：讓人乖乖聽話的說服術》閱讀筆記"
 short_title: "影響力：讓人乖乖聽話的說服術"
 permalink: /library/influence/chi/

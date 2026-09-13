@@ -2,6 +2,7 @@
 layout: post
 category: "Library"
 classification: Relationship
+order: 2
 title: "《愛的 8 法則》閱讀筆記"
 short_title: "愛的 8 法則"
 permalink: /library/8-rules-of-love/chi/

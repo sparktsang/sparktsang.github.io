@@ -2,6 +2,7 @@
 layout: post
 category: "Library"
 classification: Entrepreneurship
+order: 4
 title: "《紫牛》閱讀筆記"
 short_title: "紫牛"
 permalink: /library/purple-cow/chi/

@@ -2,6 +2,7 @@
 layout: post
 category: "Library"
 classification: Relationship
+order: 1
 title: "《哈佛✕ Google 行為科學家的脫單指南》閱讀筆記"
 short_title: "哈佛✕ Google 行為科學家的脫單指南"
 permalink: /library/not-die-alone/chi/

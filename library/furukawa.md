@@ -2,6 +2,7 @@
 layout: post
 category: "Library"
 classification: Personal Growth
+order: 3
 title: "Notes on Takesi Furukawa's <i>3 Habits to Find What You Want to Do</i>"
 short_title: "3 Habits to Find What You Want to Do"
 title_obvious: false

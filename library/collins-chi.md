@@ -2,14 +2,15 @@
 layout: post
 category: "Library"
 classification: Entrepreneurship
-title: "《從A到A+》閱讀筆記"
-short_title: "從A到A+"
+order: 6
+title: "《從 A 到 A+》閱讀筆記"
+short_title: "從 A 到 A+"
 permalink: /library/collins/chi/
 language: chi
 image: assets/bookcover/collins-chi.jpg
 ---
 
-《從A到A+：企業從優秀到卓越的奧祕》  
+《從 A 到 A+：企業從優秀到卓越的奧祕》  
 *Good to Great: Why Some Companies Make the Leap... and Others Don’t* by Jim C. Collins
 
 English translation [here](/library/collins){:target="_blank"}. 

@@ -3,8 +3,8 @@ layout: post
 category: "Library"
 classification: Investment
 order: 2
-title: "《21世紀價值投資》閱讀筆記"
-short_title: "21世紀價值投資"
+title: "《21 世紀價值投資》閱讀筆記"
+short_title: "21 世紀價值投資"
 permalink: /library/value-invest/chi/
 language: chi
 description: 承葛、陶之缽，繼巴、嘉之學，本筆記梳理價值投資之基，丈量天下生財之器，精算資產、盈餘、未來之定價，輔以隔水四十噴劑、英特爾等經典實例，計量再起業之貴賤、護城河之深淺，護身符之厚薄。

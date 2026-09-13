@@ -2,6 +2,7 @@
 layout: post
 category: "Library"
 classification: Story Writing
+order: 2
 title: "《想清楚，寫明白：好的影視、劇場、小說故事必備的七大元素》閱讀筆記"
 short_title: "想清楚，寫明白：好的影視、劇場、小說故事必備的七大元素"
 permalink: /library/bork/chi/

@@ -2,7 +2,7 @@
 layout: post
 category: "Library"
 classification: Personal Growth
-order: 3
+order: 4
 title: "《阻力最小之路》閱讀筆記"
 short_title: "最小阻力之路"
 description: "愚者逆天咒地，智者合於天地，因勢利導，順水推舟。<br>本筆記指明人生如水，必循最小阻力而流，迎難而解僅為反覆輪迴，開創新猷方可破劫重生。"

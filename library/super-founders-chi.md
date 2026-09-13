@@ -2,6 +2,7 @@
 layout: post
 category: "Library"
 classification: Entrepreneurship
+order: 5
 title: "《獨角獸創業勝經》閱讀筆記"
 short_title: "獨角獸創業勝經"
 permalink: /library/super-founders/chi/

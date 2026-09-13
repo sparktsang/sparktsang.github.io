@@ -2,6 +2,7 @@
 layout: post
 category: "Library"
 classification: Relationship
+order: 1
 title: "Notes on <i>How to Not Die Alone</i>"
 short_title: "How to Not Die Alone"
 image: assets/bookcover/not-die-alone.jpg

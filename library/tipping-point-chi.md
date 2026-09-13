@@ -2,7 +2,7 @@
 layout: post
 category: "Library"
 classification: Marketing
-order: 3
+order: 5
 title: "《引爆趨勢：小改變如何引發大流行》閱讀筆記"
 short_title: "引爆趨勢：小改變如何引發大流行"
 permalink: /library/tipping-point/chi/

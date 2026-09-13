@@ -2,6 +2,7 @@
 layout: post
 category: "Library"
 classification: Marketing
+order: 6
 title: "《超越邏輯的情緒說服》 閱讀筆記"
 short_title: "超越邏輯的情緒說服"
 permalink: /library/win-bigly/chi/

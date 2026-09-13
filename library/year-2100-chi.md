@@ -2,14 +2,15 @@
 layout: post
 category: "Library"
 classification: Science
-title: "《2100科技大未來》閱讀筆記"
-short_title: "2100科技大未來"
+order: 6
+title: "《2100 科技大未來》閱讀筆記"
+short_title: "2100 科技大未來"
 permalink: /library/year-2100/chi/
 language: chi
 image: assets/bookcover/year-2100.jpg
 ---
 
-加來道雄《2100科技大未來：從現在到2100年，科技將如何改變我們的生活》  
+加來道雄《2100 科技大未來：從現在到2100年，科技將如何改變我們的生活》  
 *Physics of the Future: How Science Will Shape Human Destiny and Our Daily Lives by the Year 2100* by Michio Kaku
 
 English translation [here](/library/year-2100){:target="_blank"}. 

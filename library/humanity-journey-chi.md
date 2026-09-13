@@ -2,6 +2,7 @@
 layout: post
 category: "Library"
 classification: History
+order: 7
 title: "《人類的旅程：財富和不平等的起源》閱讀筆記"
 short_title: "人類的旅程：財富和不平等的起源"
 permalink: /library/humanity-journey/chi/

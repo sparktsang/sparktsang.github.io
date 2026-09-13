@@ -2,14 +2,15 @@
 layout: post
 category: "Library"
 classification: History
-title: "《連結：從石器時代到AI紀元》閱讀筆記"
-short_title: "《連結：從石器時代到AI紀元》"
+order: 5
+title: "《連結：從石器時代到 AI 紀元》閱讀筆記"
+short_title: "《連結：從石器時代到 AI 紀元》"
 permalink: /library/nexus/chi/
 language: chi
 image: assets/bookcover/nexus.png
 ---
 
-《連結：從石器時代到AI紀元》  
+《連結：從石器時代到 AI 紀元》  
 *Nexus: A Brief History of Information Networks from the Stone Age to AI* by Yuval Noah Harari
 
 English translation [here](/library/nexus){:target="_blank"}. 

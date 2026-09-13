@@ -2,6 +2,7 @@
 layout: post
 category: "Library"
 classification: Personal Growth
+order: 6
 title: "Notes on <i>How to Change</i>"
 short_title: "How to Change: The Science of Getting from Where You Are to Where You Want to Be"
 image: assets/bookcover/how-to-change.jpg

@@ -2,14 +2,14 @@
 layout: post
 category: "Library"
 classification: Economics
-title: "《全球經濟18年大循環》閱讀筆記"
-short_title: "全球經濟18年大循環"
+title: "《全球經濟 18 年大循環》閱讀筆記"
+short_title: "全球經濟 18 年大循環"
 permalink: /library/patel/chi/
 language: chi
 image: assets/bookcover/patel-chi.jpg
 ---
 
-《全球經濟18年大循環：順著景氣循環四大階段，投資獲利和避開風險》  
+《全球經濟 18 年大循環：順著景氣循環四大階段，投資獲利和避開風險》  
 *The Secret Wealth Advantage: How you can profit from the economy’s hidden cycle* by Akhil Patel
 
 English translation [here](/library/patel){:target="_blank"}.

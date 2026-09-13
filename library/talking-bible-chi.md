@@ -2,7 +2,7 @@
 layout: post
 category: "Library"
 classification: Relationship
-order: 6
+order: 3
 title: "《談話聖經》閱讀筆記"
 short_title: "談話聖經"
 permalink: /library/talking-bible/chi/

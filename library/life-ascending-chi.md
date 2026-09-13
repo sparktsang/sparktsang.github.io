@@ -2,6 +2,7 @@
 layout: post
 category: "Library"
 classification: Science
+order: 3
 title: "《生命的躍升》閱讀筆記"
 short_title: "生命的躍升"
 permalink: /library/life-ascending/chi/

@@ -2,6 +2,7 @@
 layout: post
 category: "Library"
 classification: Entrepreneurship
+order: 3
 title: "Notes on <i>The Evolution of Business</i>"
 short_title: "The Evolution of Business"
 image: assets/bookcover/business-evolution-eng.png

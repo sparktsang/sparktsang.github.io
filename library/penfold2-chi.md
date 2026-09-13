@@ -2,14 +2,14 @@
 layout: post
 category: "Library"
 classification: Investment
-title: "《交易聖經2》閱讀筆記"
-short_title: "交易聖經2"
+title: "《交易聖經 2》閱讀筆記"
+short_title: "交易聖經 2"
 permalink: /library/penfold2/chi/
 language: chi
 image: assets/bookcover/penfold2-chi.jpg
 ---
 
-《交易聖經2：蛻變頂尖市場作手的終極祕鑰》  
+《交易聖經 2：蛻變頂尖市場作手的終極祕鑰》  
 *The Universal Tactics of Successful Trend Trading: Finding Opportunity in Uncertainty* by Brent Penfold
 
 English translation [here](/library/penfold2){:target="_blank"}. 

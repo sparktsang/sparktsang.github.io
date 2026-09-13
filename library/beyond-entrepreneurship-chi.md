@@ -2,6 +2,7 @@
 layout: post
 category: "Library"
 classification: Entrepreneurship
+order: 7
 title: "《恆久卓越的修煉》閱讀筆記"
 short_title: "恆久卓越的修煉"
 permalink: /library/beyond-entrepreneurship/chi/

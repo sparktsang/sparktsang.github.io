@@ -2,6 +2,7 @@
 layout: post
 category: "Library"
 classification: Personal Growth
+order: 6
 title: "《零阻力改變》閱讀筆記"
 short_title: "零阻力改變"
 permalink: /library/how-to-change/chi/

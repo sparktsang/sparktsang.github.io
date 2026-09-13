@@ -2,6 +2,7 @@
 layout: post
 category: "Library"
 classification: Personal Growth
+order: 2
 title: "《發現你的天職》閱讀筆記"
 short_title: "發現你的天職：三大步驟"
 permalink: /library/yagi/chi/

@@ -2,6 +2,7 @@
 layout: post
 category: "Library"
 classification: Entrepreneurship
+order: 5
 title: "Notes on <i>Super Founders: What Data Reveals About Billion-Dollar Startups</i>"
 short_title: "Super Founders: What Data Reveals About Billion-Dollar Startups"
 image: assets/bookcover/super-founders.jpg

@@ -1,7 +1,7 @@
 ---
 layout: post  
 category: "Library"  
-classification: History
+classification: Science
 order: 4
 title: "《人類崛起》閱讀筆記"  
 short_title: "人類崛起"

@@ -2,6 +2,7 @@
 layout: post
 category: "Library"
 classification: Novels
+order: 1
 title: "Notes on Tolstoy's <i>Ivan the Fool</i>"
 short_title: Ivan the Fool
 image: assets/bookcover/ivan.jpg

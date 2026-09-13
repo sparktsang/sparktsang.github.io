@@ -2,7 +2,6 @@
 layout: post
 category: "Library"
 classification: Entrepreneurship
-order: 4
 title: Notes on <i>You're About to Make a Terrible Mistake</i>
 short_title: "You're About to Make a Terrible Mistake"
 description: Why do brilliant executives make catastrophic business decisions? Former McKinsey partner Olivier Sibony combines behavioral economics with corporate strategy to expose the cognitive biases that sabotage success. These notes outline the most dangerous mental traps and summarize his practical "decision architecture" framework—using dialogue, disagreement, and motivation to build foolproof organizational processes.

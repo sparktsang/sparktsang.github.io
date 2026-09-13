@@ -2,6 +2,7 @@
 layout: post
 category: "Library"
 classification: History
+order: 6
 title: "Notes on <i>The Invention of Yesterday</i>"
 short_title: "The Invention of Yesterday"
 image: assets/bookcover/ansary.jpg

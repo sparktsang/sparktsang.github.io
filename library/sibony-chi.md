@@ -2,7 +2,6 @@
 layout: post
 category: "Library"
 classification: Entrepreneurship
-order: 4
 title: "《不當決策：行為經濟學大師教你避開人性偏誤》閱讀筆記"
 short_title: "不當決策：行為經濟學大師教你避開人性偏誤"
 permalink: /library/sibony/chi/

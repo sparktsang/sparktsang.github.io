@@ -2,6 +2,7 @@
 layout: post
 category: "Library"
 classification: History
+order: 5
 title: "Notes on <i>Nexus: A Brief History of Information Networks </i>"
 short_title: "Nexus: A Brief History of Information Networks"
 image: assets/bookcover/nexus.webp

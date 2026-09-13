@@ -2,6 +2,7 @@
 layout: post
 category: "Library"
 classification: History
+order: 4
 title: "《人類憑什麼》閱讀筆記"
 short_title: "人類憑什麼"
 permalink: /library/how-values-evolve/chi/

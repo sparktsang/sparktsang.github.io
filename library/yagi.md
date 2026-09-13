@@ -2,6 +2,7 @@
 layout: post
 category: "Library"
 classification: Personal Growth
+order: 2
 title: "Notes on <i>The World's Easiest Way to Find What You Want to Do</i>"
 short_title: "The World's Easiest Way to Find What You Want to Do"
 image: assets/bookcover/yagi-eng.png

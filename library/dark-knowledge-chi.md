@@ -2,8 +2,8 @@
 layout: post
 category: "Library"
 classification: Economics
-title: "《AI背後的暗知識》閱讀筆記"
-short_title: "AI背後的暗知識"
+title: "《AI 背後的暗知識》閱讀筆記"
+short_title: "AI 背後的暗知識"
 title_obvious: false
 description: "道可道，非常道。智械之黑盒，內藏何種玄機？<br>本筆記總結了智械神經矩陣的覺醒為何物，解析其將如何顛覆百業，運轉天地。"
 permalink: /library/dark-knowledge/chi/
@@ -11,7 +11,7 @@ language: chi
 image: assets/bookcover/dark-knowledge.jpg
 ---
 
-王維嘉《AI背後的暗知識：機器如何學習、認知與改造我們的未來世界》    
+王維嘉《AI 背後的暗知識：機器如何學習、認知與改造我們的未來世界》    
 
 English translation [here](/library/dark-knowledge){:target="_blank"}. 
 

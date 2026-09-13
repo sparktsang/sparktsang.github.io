@@ -2,6 +2,7 @@
 layout: post
 category: "Library"
 classification: Relationship
+order: 4
 title: "Notes on <i>Human Hacking</i>"
 short_title: "Human Hacking"
 image: assets/bookcover/human-hacking.jpg

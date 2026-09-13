@@ -2,6 +2,7 @@
 layout: post
 category: "Library"
 classification: Entrepreneurship
+order: 6
 title: "Notes on <i>Good to Great: Why Some Companies Make the Leap... and Others Don’t</i>"
 short_title: "Good to Great: Why Some Companies Make the Leap... and Others Don’t"
 image: assets/bookcover/collins.jpg

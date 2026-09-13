@@ -2,6 +2,7 @@
 layout: post
 category: "Library"
 classification: Personal Growth
+order: 5
 title: "Notes on <i>The Subtle Art of Not Giving a Fuck</i>"
 short_title: "The Subtle Art of Not Giving a Fuck"
 image: assets/bookcover/not-giving-a-fuck.jpg

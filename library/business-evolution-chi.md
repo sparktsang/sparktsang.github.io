@@ -2,6 +2,7 @@
 layout: post
 category: "Library"
 classification: Entrepreneurship
+order: 3
 title: "《商業簡史》閱讀筆記"
 short_title: "商業簡史"
 permalink: /library/business-evolution/chi/

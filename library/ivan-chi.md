@@ -2,6 +2,7 @@
 layout: post
 category: "Library"
 classification: Novels
+order: 1
 title: "托爾斯泰《傻子伊凡》筆記"
 short_title: "傻子伊凡"
 permalink: /library/ivan/chi/

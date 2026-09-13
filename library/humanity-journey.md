@@ -2,6 +2,7 @@
 layout: post
 category: "Library"
 classification: History
+order: 7
 title: "Notes on <i>The Journey of Humanity</i>"
 short_title: "The Journey of Humanity"
 image: assets/bookcover/humanity-journey.jpg

@@ -2,6 +2,7 @@
 layout: post
 category: "Library"
 classification: Relationship
+order: 2
 title: "Notes on <i>8 Rules of Love</i>"
 short_title: "8 Rules of Love"
 image: assets/bookcover/8-rules-of-love.jpg

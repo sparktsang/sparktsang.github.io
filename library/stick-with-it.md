@@ -2,6 +2,7 @@
 layout: post
 category: "Library"
 classification: Personal Growth
+order: 8
 title: "Notes on <i>Stick With It</i>"
 short_title: "Stick With It"
 image: assets/bookcover/stick-with-it.jpg

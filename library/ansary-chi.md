@@ -2,6 +2,7 @@
 layout: post
 category: "Library"
 classification: History
+order: 6
 title: "《被發明的昨日》閱讀筆記"
 short_title: "被發明的昨日"
 permalink: /library/ansary/chi/
