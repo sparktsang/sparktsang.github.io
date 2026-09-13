@@ -382,28 +382,56 @@
                 testBox.style.display = 'none';
               }
             });
+
             wrapper.classList.add('info-visible');
-            
-            // 手機版暫時觸發測試框
+
+            const shard = wrapper.querySelector('.obsidian-shard');
+            const shortTitle = shard.dataset.shortTitle || shard.dataset.title;
+            const desc = shard.dataset.desc || "";
+            const showTitle = shard.dataset.titleObvious === 'false';
+
+            testBox.innerHTML = `
+              ${showTitle ? `<div class="title">${shortTitle}</div>` : ''}
+              <div class="desc">${desc}</div>
+            `;
+
+            if (!testBox.textContent.trim()) {
+              testBox.style.display = 'none';
+              return;
+            }
+
             testBox.style.display = 'block';
-            testBox.style.top = wrapper.getBoundingClientRect().top + 'px';
-            testBox.style.left = '50vw';
-            testBox.textContent = '手機觸發';
+            testBox.style.transform = 'translate(-50%, -50%)';
+
+            const margin = 16;
+            const rect = wrapper.getBoundingClientRect();
+            const halfH = testBox.offsetHeight / 2;
+            const centerY = rect.top + rect.height / 2;
+
+            testBox.style.top = Math.max(
+              halfH + margin,
+              Math.min(window.innerHeight - halfH - margin, centerY)
+            ) + 'px';
+            testBox.style.left = (document.documentElement.clientWidth / 2) + 'px';
           });
         }
       });
 
       if (isTouchDevice) {
+        const closeAll = () => {
+          allWrappers.forEach(w => {
+            w.classList.remove('info-visible');
+          });
+          testBox.style.display = 'none';
+        };
+
         document.addEventListener('click', (event) => {
           if (!event.target.closest('.shard-wrapper')) {
-            allWrappers.forEach(w => {
-              if (w.classList.contains('info-visible')) {
-                w.classList.remove('info-visible');
-                testBox.style.display = 'none';
-              }
-            });
+            closeAll();
           }
         });
+
+        window.addEventListener('scroll', closeAll, { passive: true });
       }
     });
   </script>
