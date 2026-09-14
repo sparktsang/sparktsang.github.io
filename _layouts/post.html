@@ -51,11 +51,33 @@
 		}
 		</style>
 
-		{% if page.target_blank %}
-			{{ content | replace: '<a href=', '<a target="_blank" rel="noopener noreferrer" href=' }}
-		{% else %}
-			{{ content }}
-		{% endif %}
+		{% assign rendered = content %}
+			{% if page.target_blank %}
+				{% assign rendered = rendered | replace: '<a href=', '<a target="_blank" rel="noopener noreferrer" href=' %}
+			{% endif %}
+			{% if page.overflow %}
+				{% assign rendered = rendered | prepend: '<div class="overflow-fix">' | append: '</div>' %}
+			{% endif %}
+		{{ rendered }}
+
+		<style>
+			.overflow-fix {
+			overflow-wrap: anywhere;
+			min-width: 0;
+			}
+			.overflow-fix pre {
+			max-width: 100%;
+			overflow-x: auto;
+			box-sizing: border-box;
+			}
+			.overflow-fix img,
+			.overflow-fix iframe,
+			.overflow-fix video,
+			.overflow-fix table {
+			max-width: 100%;
+			box-sizing: border-box;
+			}
+		</style>
 
 		<style>
 			@media (max-width: 768px) {
