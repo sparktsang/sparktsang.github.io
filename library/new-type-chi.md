@@ -5,7 +5,9 @@ classification: Entrepreneurship
 order: 3
 title: "山口周《成為新人類》閱讀筆記"
 short_title: "成為新人類"
-description: 萬物充盈、乾坤劇變之世，理智與高效盡成強弩之末。<br>筆記揭櫫「新人類」如何反求己心，審美求真，開創新猷，獨領風騷。
+description: |
+  萬物充盈、乾坤劇變之世，理智與高效盡成強弩之末。
+  筆記揭櫫「新人類」如何反求己心，審美求真，開創新猷，獨領風騷。
 permalink: /library/new-type/chi/
 language: chi
 image: assets/bookcover/new-type.jpg

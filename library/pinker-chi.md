@@ -5,7 +5,9 @@ classification: History
 order: 3
 title: "《再啟蒙的年代》閱讀筆記"  
 short_title: "再啟蒙的年代"
-description: "平克精煉萬國之實證，駁斥末世之危言，重舉啟蒙四大道統之旗——理性、科學、人文與進步。<br>本筆記昭示當世物產豐饒、人體康健、天下承平、環境調和等無可辯駁、堅如磐石之證，撥亂反正，挽回迷途之眾對人類未來的信心。"
+description: |
+  平克精煉萬國之實證，駁斥末世之危言，重舉啟蒙四大道統之旗——理性、科學、人文與進步。
+  本筆記昭示當世物產豐饒、人體康健、天下承平、環境調和等無可辯駁、堅如磐石之證，撥亂反正，挽回迷途之眾對人類未來的信心。
 permalink: /library/pinker/chi/
 language: chi  
 image: assets/bookcover/pinker-chi.jpg

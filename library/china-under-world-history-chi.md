@@ -4,7 +4,10 @@ category: "Library"
 classification: History
 title: "《世界史座標下的中國》閱讀筆記"
 short_title: "世界史座標下的中國"
-description: "縱橫天下以定中國之位，經緯寰宇以察千年之變。<br>本筆記提煉文明分流之本源，剖析疆域地緣之限、風俗人情之異、百代秦法之根，<br>共你洞悉興衰治亂、週而復始之道。"
+description: |
+  縱橫天下以定中國之位，經緯寰宇以察千年之變。
+  本筆記提煉文明分流之本源，剖析疆域地緣之限、風俗人情之異、百代秦法之根；
+  共你洞悉興衰治亂、週而復始之道。
 permalink: /library/china-under-world-history/chi/
 language: chi
 image: assets/bookcover/china-under-world-history.jpg

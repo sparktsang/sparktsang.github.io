@@ -3,7 +3,9 @@ layout: post
 category: "Library"
 title: "《汽車構造完全百科》 閱讀筆記"
 short_title: "汽車構造完全百科"
-description: "鋼鐵之軀，何以馳騁？本筆記解剖一車之百骸，引擎何以為心臟，傳動何以為筋肌，懸吊何以為骨骼，輪胎何以為四肢，熔火與鐵於一的動力結晶如何呼吸律動，一目了然。"
+description: |
+  鋼鐵之軀，何以馳騁？
+  本筆記解剖一車之百骸，引擎何以為心臟，傳動何以為筋肌，懸吊何以為骨骼，輪胎何以為四肢，熔火與鐵於一的動力結晶如何呼吸律動，一目了然。
 permalink: /library/car-encyclopedia/chi/
 language: chi
 image: assets/bookcover/car-encyclopedia.jpg

@@ -4,7 +4,10 @@ category: "Library"
 classification: Psychology
 title: "《性格販子》閱讀筆記"
 short_title: "性格販子"
-description: "盡訴 MBTI 風靡全球、桃李滿門背後的幽微來歷與奇謀詭計。本筆記與你反思痛陳世人何以甘願畫地為牢、削足適履以自類；共覽性格之命理術數，何以巍巍乎可畏，赫赫乎可象，化身科學，登堂入室，主宰職場，蔚成風尚。"
+description: |
+  盡訴 MBTI 風靡全球、桃李滿門背後的幽微來歷與奇謀詭計。
+  本筆記與你反思痛陳世人何以甘願畫地為牢、削足適履以自類；
+  共覽性格之命理術數，何以巍巍乎可畏，赫赫乎可象，化身科學，登堂入室，主宰職場，蔚成風尚。
 permalink: /library/emre/chi/
 language: chi
 image: assets/bookcover/emre-chi.jpg

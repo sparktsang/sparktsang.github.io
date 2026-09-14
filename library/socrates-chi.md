@@ -6,6 +6,10 @@ order: 1
 title: "《蘇格拉底對話集》閱讀筆記"
 short_title: "蘇格拉底對話集"
 title_obvious: false
+description: |
+  希臘群哲仰望星空、爭辯萬物之際，一代宗師卻反求諸己，自認無知，反問眾人為何自以為知。
+  本筆記與你回顧，雅典廣場上他如何以退為進，一問一答間他如何育成真理——
+  從《申辯篇》的從容赴死，到《高爾吉亞篇》的正邪交鋒，一同共看十場思辨如何映照「美德即知識」之律，為你奉上這把推開西方哲學千古殿堂之鑰。
 permalink: /library/socrates/chi/
 language: chi
 image: assets/bookcover/socrates.jpg

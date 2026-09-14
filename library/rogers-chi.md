@@ -6,7 +6,10 @@ order: 1
 title: "《成為一個人》閱讀筆記"
 short_title: "成為一個人：一個治療者對心理治療的觀點"
 title_obvious: false
-description: 走出視人為器的冰冷診室，看羅哲斯如何開闢慈悲為懷、以人為本之道。<br>本筆記淬鍊宗師畢生心法，昭示真誠、關懷、共情，診室內如何療癒心靈，診室外如何和睦人倫、潤澤骨肉、春風化雨、啟迪薪火；助你反璞歸真，與人赤誠相見，心心相印。
+description: |
+  走出視人為器的冰冷診室，看羅哲斯如何開闢慈悲為懷、以人為本之道。
+  本筆記淬鍊宗師畢生心法，昭示真誠、關懷、共情，診室內如何療癒心靈，診室外如何和睦人倫、潤澤骨肉、春風化雨、啟迪薪火；
+  助你反璞歸真，與人赤誠相見，心心相印。
 permalink: /library/rogers/chi/
 language: chi
 image: assets/bookcover/rogers-chi.jpg

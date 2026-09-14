@@ -5,6 +5,7 @@ classification: Novels
 title: "《社交動物》筆記"
 short_title: "社交動物"
 title_obvious: false
+description: 人人以熒幕與面具偽裝造作，皮囊之下尚有何物？本筆記與你共讀當代驚悚小說，流連紙醉金迷的紐約名利場，同賞網絡時代栩栩如生的奇觀：陽光熱情恩惠洋溢之下，如何心態扭曲？百般依順寄人籬下之間，為何反受其辱？熒幕上泛泛之交的觀感，又如何驅人萬劫不復？
 permalink: /library/social-creature/chi/
 language: chi
 image: assets/bookcover/social-creature-chi.jpg

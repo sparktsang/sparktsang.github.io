@@ -4,7 +4,9 @@ category: "Library"
 classification: Economics
 title: "李逆熵《反轉經濟學》閱讀筆記"
 short_title: "反轉經濟學"
-description: 新自由主義與金融霸權，是得天獨厚之經世神話，孰與人共亡的噬利魔獸？<br>本筆記痛陳世道拜僕為主，力主釜底抽薪救世，拋出「打擊金融、脫鈎美國、綠色經濟」三個錦囊，共你深究當代資本經濟飲鴆止渴之危局。
+description: |
+  新自由主義與金融霸權，是得天獨厚之經世神話，孰與人共亡的噬利魔獸？
+  本筆記痛陳世道拜僕為主，力主釜底抽薪救世，拋出「打擊金融、脫鈎美國、綠色經濟」三個錦囊，共你深究當代資本經濟飲鴆止渴之危局。
 permalink: /library/reverse-econ/chi/
 language: chi
 image: assets/bookcover/reverse-econ.jpg

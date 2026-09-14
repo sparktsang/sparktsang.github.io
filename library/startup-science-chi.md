@@ -5,6 +5,11 @@ classification: Entrepreneurship
 order: 1
 title: "《創業實戰全書》閱讀筆記"
 short_title: "創業實戰全書：以科學方法避開 99% 創業陷阱"
+description: |
+  商海九死一生，豈是一腔熱血所能強渡？
+  本筆記與你共覽輕捷創業之陣圖，同勘以小博大之將略：
+  先稱量疾苦以對症下藥，再製作粗胚以拋磚引玉，終擴張規模以移山填海。
+  勒馬屍山血海之前，即見萬千枯骨所鑄之陣，今盡為你所用。
 permalink: /library/startup-science/chi/
 language: chi
 image: assets/bookcover/startup-science.jpg

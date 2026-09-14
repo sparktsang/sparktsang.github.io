@@ -231,15 +231,15 @@
 
 			</div>
 
-				{% if page.language != "chi" %}
+			{% if page.language != "chi" %}
 				<div class="sort-toggle" style="text-align:center; margin-top:2rem;">
 					<a href="{{ site.baseurl }}/library" class="button">BACK TO LIBRARY</a>
 				</div>
-				{% else %}
+			{% else %}
 				<div class="sort-toggle" style="text-align:center; margin-top:2rem;">
 					<a href="{{ site.baseurl }}/library/chi" class="button">返歸【無涯殿】</a>
 				</div>
-				{% endif %}
+			{% endif %}
 
 		{% endif %}
 
@@ -250,8 +250,7 @@
 		{% endif %}
 		
 		{% if page.title == "Works" or page.title == "Sitemap" %}
-		  <div class="sort-toggle" style="text-align:center; margin-top:2rem;">
-			<br><br><br><br><br>
+		  <div class="sort-toggle" style="text-align:center; margin-top:10rem;">
 		    <a href="{{ site.baseurl }}/" class="button">BACK TO HOME</a>
 		  </div>
 		{% endif %}
