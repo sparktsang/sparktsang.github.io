@@ -193,6 +193,14 @@
     }
   </style>
   {% endif %}
+
+  <style>
+  .desc-narrow { display: none; }
+  @media (max-width: 768px) {
+    .desc-wide   { display: none; }
+    .desc-narrow { display: block; }
+  }
+  </style>
 </head>
 
 <body>
@@ -204,7 +212,12 @@
         <h1 style="font-family: 'Share Tech Mono', monospace; letter-spacing: 0.1em; text-shadow: 0 0 20px rgba(56,189,248,0.5);">{{ page.title | default: "The Codex" }}</h1>
       </header>
       <div class="content">
-        <p style="color: #94a3b8; text-align: center; width: 100%; white-space: pre-line;">{{ page.description}}</p>
+        <p class="desc-wide"   style="color:#94a3b8; text-align:center; width:100%; white-space: pre-line;">
+          {{ page.description }}
+        </p>
+        <p class="desc-narrow" style="color:#94a3b8; text-align:center; width:100%; white-space: pre-line;">
+          {{ page.mobile_description | default: page.description }}
+        </p>
       </div>
     </div>
   </section>
@@ -289,10 +302,17 @@
   <section id="banner">
     <div class="inner">
       <div class="content">
-        <p style="color: #94a3b8; text-align: center; width: 100%; white-space: pre-line;">{{ page.foot }}</p>
+        <p class="desc-wide"   style="color:#94a3b8; text-align:center; width:100%; white-space: pre-line;">
+          {{ page.foot }}
+        </p>
+        <p class="desc-narrow" style="color:#94a3b8; text-align:center; width:100%; white-space: pre-line;">
+          {{ page.mobile_foot | default: page.foot }}
+        </p>
       </div>
     </div>
   </section>
+
+
 
   {% include footer.html %}
 
