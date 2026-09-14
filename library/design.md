@@ -10,6 +10,7 @@ description: Not a book. A faithful, unabridged archive of taming AI into creati
 permalink: /library/design/
 image: assets/bookcover/design-cover.png
 render_with_liquid: false
+overflow: true
 ---
 
 

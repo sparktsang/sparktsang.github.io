@@ -11,6 +11,7 @@ permalink: /library/design/chi/
 language: chi
 image: assets/bookcover/design-cover-chi.png
 render_with_liquid: false
+overflow: true
 ---
 
 In Cantonese. English translation [**here**][english]{:target="_blank"}.

@@ -2,7 +2,7 @@
 <!-- 
   Layout by Spark Tsang
   sparktsang.github.io
-  Cosmic Library Architecture v2 (Absolute Symmetry)
+  License: MIT
 -->
 <html>
 <head>
@@ -119,7 +119,7 @@
       z-index: 5;
     }
 
-    /* ===== 書本 (The Relic) ===== */
+    /* ===== 書 (The Relic) ===== */
     .book-cover {
       width: 190px;
       height: 280px;
@@ -131,7 +131,7 @@
       z-index: 2;
     }
 
-    /* ===== 懸浮與啟動效果 (Hover) ===== */
+    /* ===== 懸浮 (Hover) ===== */
     .shard-wrapper:hover .obsidian-shard {
       box-shadow: 0 40px 80px rgba(0,0,0,0.95), 0 0 25px rgba(var(--popupbox-color), 0.15);
       border-top: 1px solid rgba(var(--popupbox-color), 0.4);
@@ -141,7 +141,7 @@
       box-shadow: 15px 30px 40px rgba(0,0,0,0.8), inset 2px 0 5px rgba(255,255,255,0.3);
     }
 
-    /* ===== 全息索引 (Holo Popup) ===== */
+    /* ===== 索引 (Holo Popup) ===== */
     .holo-popup {
       width: min(700px, 80vw);
       box-sizing: border-box;
@@ -170,11 +170,11 @@
     .holo-popup .title { font-size: 1.6rem; color: #DDD0BB; margin-bottom: 0.5rem; text-shadow: 0 0 8px rgba(186, 230, 253, 0.4); line-height: 1.2; }
     .holo-popup .desc { font-size: 1.5rem; color: #A8A090; line-height: 1.5; }
 
-    /* ===== 手機版調整 ===== */
+    /* ===== 手機版 ===== */
     @media (max-width: 800px) {
       :root {
-        --book-vertical-gap: 25rem; /* 手機版行距適度縮小 */
-        --book-horizontal-spread: 0px; /* 手機版強制置中，不左右交替 */
+        --book-vertical-gap: 25rem; /* 行距縮小 */
+        --book-horizontal-spread: 0px; /* 強制置中 */
       }
       .category-node span { font-size: 0; }
       .category-node span::after {
@@ -235,7 +235,6 @@
             {% endfor %}
 
             {% if has_items %}
-                <!-- 空間幾何標籤 -->
                 <div class="category-node">
                     <span data-short="{{ c | replace: 'Entrepreneurship', 'Business' | replace: 'Miscellaneous', 'Misc.' }}">{{ c }}</span>
                 </div>
@@ -305,8 +304,8 @@
       const fallbackText = "{% if page.version == 'chi' %}筆記簡介準備中，再點擊以進入。{% else %}Click again to enter.{% endif %}";
 
       const testBox = document.createElement('div');
-        testBox.className = 'holo-popup'; // 套用全息終端樣式
-        testBox.style.display = 'none'; // 預設隱藏
+        testBox.className = 'holo-popup';
+        testBox.style.display = 'none'; // 隱藏
         testBox.style.position = 'fixed';
         testBox.style.zIndex = '99999';
         testBox.style.transform = 'translate(-50%, -50%)';
@@ -340,7 +339,7 @@
               return;
             }
 
-            // 一定要先 display:block 先度得到 offsetWidth / offsetHeight
+            // 要 display:block 先度到 offsetWidth / offsetHeight
             testBox.style.display = 'block';
             testBox.style.transform = 'translate(-50%, -50%)';
 
@@ -355,7 +354,7 @@
               Math.min(window.innerHeight - halfH - margin, centerY)
             ) + 'px';
 
-            // ── 水平：理想中心 = 25vw / 75vw，只有爆邊先貼邊 ──
+            // ── 水平：理想中心 = 25vw / 75vw，爆邊先貼邊 ──
             const boxW  = testBox.offsetWidth;
             const halfW = boxW / 2;
             const vw = document.documentElement.clientWidth;
@@ -377,7 +376,7 @@
             testBox.style.left = centerX + 'px';
           });
           wrapper.addEventListener('mouseleave', () => {
-            testBox.style.display = 'none'; // 隱藏測試框
+            testBox.style.display = 'none';
           });
         } else {
           const clickArea = wrapper.querySelector('.click-area');

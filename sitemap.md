@@ -41,7 +41,7 @@ If you are a robot, there is a [better sitemap for you](/sitemap.xml).
 
 ---
 
-### [Library](/library) (*Under Construction*)
+### [Library](/library)
 
 {% assign all_lib = site.pages | where: "category", "Library" %}
 {% assign lib_notes = all_lib | where_exp: "item", "item.language != 'chi'" %}
