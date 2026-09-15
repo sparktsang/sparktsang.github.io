@@ -33,7 +33,7 @@ At this historical turning point, a new human agenda is emerging, driven by a ne
 *   **Happiness:** Our biology is programmed for survival, not satisfaction. Yet, humanity now pursues happiness through biochemical intervention on an unprecedented scale, from recreational drugs to antidepressants.
 *   **Divinity:** We will seek to upgrade ourselves into gods. History shows a clear pattern: modifications begin as therapy (e.g., plastic surgery for burn victims) and inevitably slide towards enhancement. The future will be no different.
 
-This is a forecast, not a prophecy. The "knowledge paradox" dictates that accurate predictions can alter human behavior, thereby invalidating the prediction itself. Nevertheless, understanding the narratives that brought us here is crucial to understanding where we might go.
+This is a forecast, not a prophecy. The "Paradox of Historical Knowledge" dictates that accurate predictions can alter human behavior, thereby invalidating the prediction itself. Nevertheless, understanding the narratives that brought us here is crucial to understanding where we might go.
 
 #### **2. The Engine of All Narratives: Life as Algorithm**
 
@@ -92,20 +92,21 @@ After a century of conflict, Liberalism emerged as the victor, not because its p
 
 The liberal humanist narrative is now being systematically dismantled by the very science it partnered with. The pursuit of immortality, happiness, and divinity through technology is undermining its core tenets:
 
-1.  **"The individual is indivisible." → False.** Science shows we are a collection of competing biochemical algorithms. Split-brain experiments reveal we have a "narrating self" that constantly creates stories to make sense of the actions of an "experiencing self" it doesn't fully control. Kahneman's peak-end rule shows how the narrating self can be tricked into choosing more objective pain for the sake of a better story.
+1.  **"The individual is indivisible." → False.** Science shows we are a collection of competing biochemical algorithms. Split-brain experiments reveal we have a "narrating self" that constantly creates stories to make sense of the actions of an "experiencing self" it doesn't fully control. Kahneman's peak-end rule shows how the narrating self can be tricked into choosing more objective pain for the sake of a better story. This explains the "Sunk Cost Fallacy" on a macro scale: the Scottish Parliament building cost ten times its original budget, yet funding was continually approved because the "narrating self" refuses to let past sacrifices (sunk costs) lose their meaning.  
 
 2.  **"The individual has free will." → False.** Neuroscience finds no room for free will. Our actions are the product of either determinism or randomness, not free choice. Experiments show that actions can be induced by brain stimulation while the subject's "narrating self" invents a reason for having "chosen" to do it.
 
 3.  **"No one knows me better than myself." → False.** External algorithms are already proving they know us better. Facebook needs only 300 "likes" to predict your answers to a personality questionnaire better than your spouse.
 
-When the narrative that "the free individual is the source of all authority" is proven to be a fiction, the entire system built upon it—democracy, free markets, human rights—loses its logical foundation.
+When the narrative that "the free individual is the source of all authority" is proven to be a fiction, the entire system built upon it—democracy, free markets, human rights—loses its logical foundation. The obsolescence has already begun: In 2014, a Hong Kong venture capital firm, Deep Knowledge Ventures, appointed an AI named VITAL to its board of directors to make investment decisions. As algorithms surpass human capability, the value will shift from the individual to the AI elite.  
 
 #### **6. The Future Narratives, The Future Systems**
 
 The power vacuum left by the collapse of Humanism will not remain empty. Two new narratives are emerging to build the systems of the future:
 
-**A. Techno-Humanism:** This narrative seeks to "upgrade" Humanism. It still holds human will as the ultimate authority but aims to use technology to create *Homo Deus*—an upgraded human with enhanced physical and cognitive abilities.
-*   **The Flaw:** This system is self-defeating. Once we can engineer our desires and control our mental states with a few clicks, the idea of an "authentic self" becomes meaningless. The human will, which was supposed to be the source of all value, becomes just another manufactured product.
+**A. Techno-Humanism:** This narrative seeks to "upgrade" Humanism. It still holds human will as the ultimate authority but aims to use technology to create *Homo Deus*—an upgraded human with enhanced physical and cognitive abilities.  
+*   **The Flaw:** This system is self-defeating. Once we can engineer our desires and control our mental states with a few clicks, the idea of an "authentic self" becomes meaningless. The human will, which was supposed to be the source of all value, becomes just another manufactured product.  
+*   **The WEIRD Bias:** Our understanding of the human mind is severely limited. Historically, psychology has focused on WEIRD (Western, Educated, Industrialized, Rich, and Democratic) populations, ignoring the vast spectrum of human consciousness (like that of Buddhist monks or indigenous tribes). If we upgrade humanity based on this narrow understanding, we might accidentally downgrade our emotional spectrum.  
 
 **B. Dataism:** This is a truly new, non-human-centric narrative. It unifies biology and computer science under a single dogma: **all organisms are algorithms, and life is data processing.**
 *   **The History of the Universe:** A process of improving the efficiency of data processing.
@@ -113,7 +114,8 @@ The power vacuum left by the collapse of Humanism will not remain empty. Two new
 *   **The New Commandments:**
     1.  The highest good is to maximize data flow. "Information wants to be free."
     2.  Everything must be connected to the system. To be disconnected is a form of death.
-*   **The New Worldview:** God-centric → Human-centric → **Data-centric**.
+*   **The New Worldview:** God-centric → Human-centric → **Data-centric**.  
+*   **The First Martyr:** Aaron Swartz, who committed suicide in 2013 after being prosecuted for downloading and sharing millions of academic papers, is considered the first martyr of Dataism. For a Dataist, restricting information flow is a sin.  
 
 This narrative is already shaping our culture. The impulse to record, upload, and share every experience is the new morality. An experience that isn't shared contributes nothing to the global information flow and is therefore wasted.
 

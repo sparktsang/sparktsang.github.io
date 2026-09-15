@@ -35,12 +35,12 @@ Brandon Pearce, a music teacher who originally created a planner just to solve h
 Brett Kelly wrote Evernote Essentials (after discovering that the software had no detailed manual and becoming deeply interested in the subject himself); within 11 days of uploading it, he had already earned five figures in U.S. dollars, and was later hired by Evernote to enjoy the dream job of working from home, while the electronic guide continued to generate $120k in annual revenue; had it been traditionally published as a book, it would have generated only a fraction of that  
 Resources related to location-independent living: visaHQ.com can handle visa applications for multiple countries; couchsurfing.org and airbnb.com offer opportunities for zero- or low-cost travel and accommodation  
 
-The target audience should no longer be defined by traditional factors such as gender, age, and income, but by beliefs, interests, and values  
-When deciding which business projects to prioritize, a scorecard can be used, with the criteria being impact, effort, profitability, and fit with vision; each is scored out of five, and the total scores are compared  
+The target audience should no longer be defined by traditional demographics (like gender, age, and income), but by psychographics (beliefs, interests, and values)    
+When deciding which business projects to prioritize, use a Decision Matrix scoring Impact, Effort, Profitability, and Vision; each is scored out of five, and the total scores are compared  
 
 Jen Adrion and Omar Noory originally just wanted to sell the maps they had designed in excess, but market demand led them to keep creating more, without any such thing as a business plan  
 Immediate market testing: confirm that your solution is better than what is already on the market, let potential customers try it for free, and get their feedback  
-A mission statement should be no more than 140 characters including spaces  
+A business plan/mission statement should be a 140-character tweet    
 Closing your first sale as quickly as possible is the priority  
 
 An irresistible offer is like someone offering you a glass of juice after you have run 18 miles of a marathon  
@@ -60,7 +60,7 @@ Remind people again on the eve of the end, and make another announcement when it
 Being candid about a product's shortcomings usually only increases trust, so there is little downside  
 Good results v Great results can differ because of timeliness/a sense of urgency  
 
-Rather than taking one side and staying there, talking while doing it and hustling can be more effective than paid advertising  
+Instead of just being a "talker" or a "doer," hustling (talking while doing) is far more effective than paid advertising  
 If you do not know where to start, consider spending half your time creating the product and half hustling  
 
 A business is not a business if it does not make money; this sounds simple, but many people spend their time and energy on other things  
@@ -78,7 +78,7 @@ If you do not know how to price something, test the results on different website
 As long as website traffic, conversion rate, and average transaction value all increase slightly, total business revenue can increase substantially  
 Always challenge the champion against another idea  
 Testing individual details can produce good results, but paying attention to traffic sources is even more important  
-Tip for increasing transaction value: make another offer on the order-confirmation page; customers who have just bought are more likely to buy something else  
+Tip for increasing transaction value: use cross-sells and upsells, especially on the order-confirmation page  
 Make referral requests specific; they can likewise be made on the order-confirmation page, in addition to following up again a few days later  
 Holding a contest will attract more attention and create future sales  
 Create the strongest possible guarantee: money-back guarantees have been done to death, and some even go as far as offering a 110% money-back guarantee, while online shoe sellers offering free returns can remove the worry of finding out that the shoes do not fit  
@@ -87,7 +87,7 @@ Products and services can extend into each other: a restaurant sells dishes, but
 Many entrepreneurs report that worrying too much about losing customers after raising prices is unnecessary; customers may even respond: you should have done this long ago, you’re worth much more  
 Whether more people need to be hired to expand the business is completely optional. A business can grow horizontally or vertically: horizontal means serving more customers, while vertical means deepening existing services; neither direction necessarily involves hiring people  
 
-Rather than franchising someone else's business, franchise your own  
+Rather than franchising someone else's business, franchise yourself  
 Two directions: bring the same message to more people, or bring a new message to different groups of people  
 If one plus one can equal three, consider a joint venture  
 Carefully weigh the pros and cons of outsourcing  
@@ -99,6 +99,6 @@ Scalable = teachable + valuable; a company that can grow big needs a way to let 
 
 The biggest challenge in entrepreneurship is overcoming your own fear and inertia, and fortunately, this is within your control  
 When you are in a slump, remembering the moments when you succeeded can be very encouraging  
-The biggest lesson of the book: stop wasting time living someone else's life  
+The biggest takeaway: stop living someone else's life  
 
 *Finished reading on May 23, 2019*

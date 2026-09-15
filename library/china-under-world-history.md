@@ -16,7 +16,7 @@ Original notes [here](/library/china-under-world-history/chi){:target="_blank"}.
 ---
 
 Chinese civilization is the only major civilization in the world that has never been interrupted; it developed in the most geographically isolated environment, yet matured early while also enjoying the advantages of a latecomer.  
-Apart from the two ends of the transformation from Zhou to Qin and China’s entry into globalization, the more than two thousand years in between were characterized by repeated cycles. Political techniques continuously evolved, while imperial power grew ever stronger relative to the power of the chancellor.  
+Apart from the two ends of the Zhou-Qin Transition and China’s entry into globalization, the more than two thousand years in between were characterized by repeated cycles. Political techniques continuously evolved, while imperial power grew ever stronger relative to the power of the chancellor.  
 Moreover, almost all the new regimes that emerged throughout Chinese history came from frontier regions.  
 
 The Xia dynasty emerged in Henan because it lay in the Central Plains, where different regions converged, making it easier to acquire new technologies and receive stimuli for progress.  
@@ -36,7 +36,7 @@ In the early Zhou, the rites of Zhou flourished, and warfare was conducted almos
 
 The story of King You of Zhou using beacon fires to amuse the feudal lords is fabricated. Beacon fires could not possibly have been visible across distances spanning whole provinces, and with transportation so undeveloped, a journey of a thousand *li* would have taken several months. But the story does reveal that by then the Zhou king could no longer summon the feudal lords.  
 The Warring States period became brutally violent because iron tools had become widespread and competition had grown ruthless, giving rise to the entirely new philosophy of Legalism.  
-As productivity increased, peasants continually reclaimed new land. The well-field system collapsed, and in 594 BCE Lu became the first state to levy taxes on private plots, an event known as the “initial taxation of acreage.” Chu, Zheng, and Jin soon followed.  
+As productivity increased, peasants continually reclaimed new land. The well-field system collapsed, and in 594 BCE Lu became the first state to levy taxes on private plots, an event known as the “First Tax on Acreage”. Chu, Zheng, and Jin soon followed.  
 Chu did not enfeoff newly acquired territory. Instead, it was the first state to establish counties, with tax revenues going directly to the King of Chu, creating the embryonic form of the commandery-and-county system.  
 
 The Qin were very different from the states of the Central Plains and were regarded as a frontier, non-Central-Plains people. They did not practice primogeniture, instead “choosing and establishing the most valiant” (*Gongyang Commentary on the Spring and Autumn Annals*, Duke Zhao, Year Five), and “father and son were not distinguished; they lived together under one roof.”  
@@ -100,7 +100,7 @@ For an emperor, ruling meant taking on the entire world alone. Those who threate
 Almost every emperor was constantly searching for vulnerabilities in his own rule and continually repairing them. This was the basic logic of political development from Qin to Qing.  
 
 The title of the chancellor kept changing because whenever an emperor elevated trusted attendants to counterbalance the chancellor’s power, those attendants eventually came to wield the chancellor’s actual authority, and the cycle began again.  
-Thus the Tang called the office *Shangshu Ling*, the Song called it “Tong Zhongshu Menxia Pingzhangshi,” the Ming called its members “Grand Secretaries of the Cabinet,” and the Qing called them “Grand Councillors” and “Senior Grand Councillors.”  
+Thus the Tang called the office "Director of the Department of State Affairs", the Song called it “Joint Manager of Affairs with the Secretariat-Chancellery”, the Ming called its members “Grand Secretaries of the Grand Secretariat”, and the Qing called them “Grand Councillors” and “Senior Grand Councillors.”  
 Qin Shi Huang once became wary of Li Si. Seeing how grand and imposing Li Si’s motorcade was, he muttered a rebuke. Li Si then reduced the number of attendants accompanying him.  
 The emperor later became angry again and demanded to know who had informed Li Si. No one answered, so he had several hundred attendants executed.  
 Emperor Wu of Han changed chancellors thirteen times. Five of them committed suicide or were imprisoned, while Tian Fen was so frightened that he suffered a mental breakdown and died.  
@@ -199,7 +199,7 @@ The commandery-and-county system also had advantages: long periods of peace unde
 A breakthrough within the cycle: Qin broke up the clans, but the Han practice of selecting officials through the recommendation of men of filial piety and integrity turned into private patronage, which was little different from hereditary succession. By the end of Han, great clans and powerful local families had risen again.  
 Officials were exempt from corvée service. Common people voluntarily donated land to officials to obtain exemption from service. Eventually the great clans had “thousands of slaves and tens of thousands of dependents,” and built armed forces that could “block the roads with troops and defend their borders,” creating a semi-aristocratic society.  
 In the Eastern Jin, Sima Rui depended on the support of the Langya Wang clan and invited Wang Dao to sit beside him on the imperial throne, giving rise to the saying, “The Wang and Ma share the empire.”  
-Great clans effectively restrained imperial power. In the Tang, an even stronger system of reviewing and rejecting edicts was established. Imperial orders had to be examined by *jishizhong* officials, while remonstrating officials enjoyed enormous authority.  
+Great clans effectively restrained imperial power. In the Tang, an even stronger system of reviewing and rejecting edicts was established. Imperial orders had to be examined by Supervising Secretaries, while remonstrating officials enjoyed enormous authority.  
 Zhu Jing even remonstrated with Empress Wu not to accept too many male favorites: “Desire is the same in the wise and the foolish. The worthy can restrain it and keep it from excess; this is indeed an old maxim of the sages.”  
 According to the *Book of Tang*, the overall success rate of remonstrances in the Tang was 68%, while officials who died because of remonstrating were extremely rare (“International Symposium on Jiangnan Society in the Tang Dynasty and the Second Session of the Eleventh Annual Meeting of the Chinese Association for Tang History,” p. 422).  
 When Emperor Xianzong read *The Song of Everlasting Sorrow*, he did not blame Bai Juyi for satirizing Emperor Xuanzong. Instead, he summoned him to serve as a Hanlin Academician.  
@@ -283,7 +283,7 @@ After long competition, the British system ultimately determined the shape of to
 After unifying to form the first empire on which the sun never set, Spain irrationally abolished the autonomy of cities within its borders and suppressed the joint uprising of eleven city-states.  
 The Dutch and English extended autonomous city-states overseas in the form of corporations, each establishing an East India Company.  
 
-The two East India Companies purchased from parliament or the relevant authorities the right to operate freely, each becoming like a large city-state with its own parliament, government, and laws.  
+The two East India Companies purchased from parliament or the King the right to operate freely, each becoming like a large city-state with its own parliament, government, and laws.  
 At first, overseas ventures were led by a small number of people.  
 The Netherlands did not have the powerful king and great fortunes that England possessed, so it came up with the idea of issuing shares to all citizens.  
 The system was attractive because it offered limited liability, separation of decision-making from management, and free transferability.  
@@ -294,7 +294,7 @@ The joint-stock company was a simple institution, yet it reflected the spirit of
 The dominant force in trade between China and Britain, and in the colonization of India and the Americas, was not the government but companies, as though governments had outsourced overseas expansion to private contractors.  
 The British East India Company soon learned the joint-stock system as well. Because Britain possessed more effective centralization, it became more successful than the Dutch.  
 The Dutch, by contrast, each acted independently. Lacking unified power, they found it difficult to protect their overseas interests effectively.  
-Philip II of Spain imposed crushing taxes, provoking a Dutch revolt. The Dutch initially placed their affairs under the English queen, but taxation under England was still burdensome, so the seven provinces eventually united and established a state of their own.  
+Philip II of Spain imposed crushing taxes, provoking a Dutch revolt. The Dutch initially placed their affairs under the English queen, but English taxation proved even heavier than Spain's, so the seven provinces eventually united and established a state of their own.  
 Its structure remained loose. It had no standing army and relied on hired mercenaries, leaving it without the powerful military backing Britain possessed.  
 
 High labor costs create incentives to improve technology. This is why the Industrial Revolution arose in the West rather than in China or India.  
@@ -313,11 +313,11 @@ Maddison’s *The World Economy: A Millennial Perspective*: in 1820, China’s G
 The population exploded, yet under the so-called age of prosperity, per capita food availability was only 780 *jin*, the lowest since the Qin dynasty.  
 Hong Liangji: “The peasants of the late Qianlong and early Jiaqing period worked diligently throughout the year and spent their whole lives anxiously striving, yet even the relatively fortunate among them still faced the fear of ending up in the ditches.”  
 In 1793, the British embassy visited Qing China, urgently seeking to buy goods from around the world while selling its own textiles and steel products.  
-The Qing implemented the one-port trade system, with the Thirteen Hongs monopolizing foreign trade.  
+The Qing implemented the Canton System, with the Thirteen Factories monopolizing foreign trade.  
 Before this, Europe had been seized by a “China craze.” Voltaire worshipped an image of Confucius, while Leibniz praised China as possessing humanity’s most advanced culture and technological civilization.  
 But the British soon discovered that a military commander could force civilians to leave their homes and act as unpaid pilots, arbitrarily violating their rights.  
 At the sight of an official, an ordinary Chinese person would suddenly become cautious and submissive, as though he had become a different person.  
-Some people would even overturn boats simply to get a look at foreigners, while Qing subjects could coldly watch people drown without rescuing them.  
+Some people, in their eagerness to see the foreigners, crowded onto boats and caused them to capsize, while Qing subjects could coldly watch people drown without rescuing them.  
 
 Because the British envoy did not kneel with both knees, Qianlong refused to summon him to explain the gifts.  
 Those gifts represented the latest cutting-edge technological achievements of the Western world, including models of the solar system and astronomical telescopes.  

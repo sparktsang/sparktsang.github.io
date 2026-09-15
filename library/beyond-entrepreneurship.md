@@ -50,7 +50,7 @@ Always be on the lookout for talent. The right people can appear anywhere: one o
 Looking back on sixty years of life, what shaped him were people rather than events: mentors, friends, and partners. Compared with people, problems involving things are secondary. Put the right people in place and good ideas and policies will follow naturally.  
 At the beginning of the twenty-first century, Xerox was on the brink of collapse, with its stock down 92 percent. At first, the board brought in outsiders to reform the company, but failed. In the end, it promoted from within and chose a leader whom employees were willing to follow. He became CEO and eventually created another legend.  
 General Lloyd J. Austin III never missed an opportunity to praise his subordinates. When he hosted a military dinner, he brought members of the kitchen staff out and asked them to introduce themselves and describe their backgrounds, then had the entire gathering thank them.  
-Outstanding Brazilian entrepreneur Jorge Paulo Lemann and his entrepreneurial partners were willing to bet boldly on expansion. Their principle was simple: first find the right people, then figure out the big things worth giving them to do.  
+Outstanding Brazilian entrepreneur Jorge Paulo Lemann and his entrepreneurial partners were willing to bet boldly on expansion. Their principle was simple: "First Who, Then What"—find the right people first, then figure out the big things worth giving them to do.  
 The author's research found no relationship between compensation and whether a company became great. The reason is simple: money cannot turn the wrong people into the right people.  
 Wrong incentives are extremely dangerous. Wells Fargo's brand was severely damaged in 2017 because an ambitious sales culture and its incentives pressured employees into violating the company's core values. Once the wrong people become powerful, they create systems that drive out the right people, producing a vicious cycle.  
 Before attending a luncheon to which he had been invited, the author asked the commandant of the U.S. Marine Corps why the brutal Marine Corps boot camp existed. The answer was not to select the strongest recruits, but to eliminate people who, when trouble came, would look after themselves instead of helping their fellow Marines.  
@@ -118,13 +118,14 @@ Greatness is not a destination but a path—a long, winding, difficult road of c
 
 **One additional element: touching people's hearts**  
 Everyone has a spiritual side that can be touched—the noble side of every human being. This is the side that allows us to become heroes. People also have a dark side, but leaders appeal to the light in human nature and inspire people to bring out their better instincts.  
-A leader conveys a message: We can achieve an audacious goal. I know we can do it, because I believe in you.  
+A leader conveys a message: We can achieve a BHAG (Big Hairy Audacious Goal). I know we can do it, because I believe in you.  
 The factor that takes a company from good to great is the principle of Level 5 Leadership.  
-Level 1: Individual capability  
-Level 2: Teamwork skills  
-Level 3: Managerial competence  
-Level 4: Leadership  
-Level 5: Pursuing a grand cause greater than oneself  
+* Level 1: Highly Capable Individual  
+* Level 2: Contributing Team Member  
+* Level 3: Competent Manager  
+* Level 4: Effective Leader  
+* Level 5: Executive (Pursuing a grand cause greater than oneself)  
+
 Use all the abilities of the first four levels, while combining two seemingly contradictory qualities: personal humility and professional will. Be ambitious, fanatical, tenacious, and relentless.  
 Cadets at West Point are happier than MBA students because they have a passionate spirit of dedication and are prepared at any moment to sacrifice themselves.  
 To awaken the soul of Level 5 leadership, the best starting point is to ask what your cause is and what goal you would be willing to sacrifice and devote yourself to.  
@@ -142,7 +143,7 @@ The British united during World War II and defeated Hitler; NASA overcame enormo
 
 **A basis for decision-making**  
 Vision is a compass. Without one, you wander aimlessly through the valley, exhausting yourself responding to one crisis or opportunity after another.  
-Mepps, a computer technology company with cutting-edge technology, tens of millions in venture capital, and strong market demand, nevertheless fell into chaos and nearly went bankrupt only four years after its founding. Without a vision: the sales department chased every opportunity without considering which ones fit; R&D spent huge sums developing products without considering which products matched the company's direction; leaders desperately pursued joint ventures, severely limiting exports, without considering what role overseas markets should play; employees worked without focus, factions fought among themselves, and the organization gradually fragmented. It took new leader Miller to turn the company around. His most basic solution was to ask one question: “What do you want to become five to ten years from now?”  
+MIPS, a computer technology company with cutting-edge technology, tens of millions in venture capital, and strong market demand, nevertheless fell into chaos and nearly went bankrupt only four years after its founding. Without a vision: the sales department chased every opportunity without considering which ones fit; R&D spent huge sums developing products without considering which products matched the company's direction; leaders desperately pursued joint ventures, severely limiting exports, without considering what role overseas markets should play; employees worked without focus, factions fought among themselves, and the organization gradually fragmented. It took new leader Miller to turn the company around. His most basic solution was to ask one question: “What do you want to become five to ten years from now?”  
 Vision drives strategy, and strategy drives tactics. Without vision, tactics end up driving you instead, putting means before ends. The Vietnam War is a classic example. The U.S. military was extremely successful tactically and kept winning battles, yet it still lost the war. Research found that 70 percent of the generals were unsure what America's objective actually was.  
 
 **A basis for cooperation as a community**  
@@ -151,7 +152,7 @@ Ramtek, already on the verge of bankruptcy, was brought back to life after new l
 
 **Enduring continuity: laying the foundation so the company does not depend on particular key individuals**  
 After its founding, the United States did not depend on a handful of Founding Fathers. Even without an external common enemy or an internal tyrant, it remained cohesive. That is historically rare, precisely because it had the Constitution as a long-lasting guiding framework.  
-After taking over IBM, Little Watson led senior executives to an off-site meeting and created the Williamsburg plan. What he had in mind was precisely the U.S. Constitution.  
+After taking over IBM, Thomas Watson Jr. led senior executives to an off-site meeting and created the Williamsburg plan. What he had in mind was precisely the U.S. Constitution.  
 Duncan Syme founded Vermont with a vision of making the world's best wood-burning stove. The company became the fastest-growing in the industry, with a profit margin as high as 60 percent. But when he withdrew from day-to-day operations in the early 1980s, the vision retired with him, and the company lost its capacity to innovate. Only after he returned in 1986, revived the vision, and institutionalized it did the company return to the top of its industry.  
 
 What exactly is vision? A good vision contains:  
@@ -206,9 +207,9 @@ Level 5 leadership: humble in heart, ambitious in purpose.
 Get the right people on the bus: when a company grows faster than its ability to recruit, it becomes difficult to preserve greatness.  
 
 **Stage Two: Disciplined Thought**  
-Embrace the whole: abandon false either-or thinking and the mentality that everything must be one side or the other.  
+Embrace the whole ("The Genius of the AND"): abandon "The Tyranny of the OR" and the mentality that everything must be one side or the other.  
 Faith that you will eventually succeed: avoid excessive optimism or pessimism, and instill this confidence in everyone.  
-The Hedgehog Principle: the fox tries many things at once; the hedgehog follows one consistent principle. It lies at the intersection of three circles: “What are you deeply passionate about?”, “What can you become the best in the world at?”, and “What drives your economic engine?”  
+The Hedgehog Concept: the fox tries many things at once; the hedgehog follows one consistent principle. It lies at the intersection of three circles: “What are you deeply passionate about?”, “What can you become the best in the world at?”, and “What drives your economic engine?”  
 
 **Stage Three: Disciplined Action**  
 Turn the flywheel: keep accumulating momentum, and eventually it will break through.  
@@ -217,7 +218,7 @@ Fire bullets, then cannonballs: experiment with bullets first, calibrate your ai
 
 **Stage Four: Building to Last**  
 Lay the foundation for an extremely successful company to become enduring.  
-Productive paranoia: avoid the five stages that destroy an organization—hubris, undisciplined pursuit of more, denial of risk (at this stage the company is already outwardly strong but inwardly hollow), frantic scrambling for solutions, and finally giving up the struggle.  
+Productive paranoia: avoid the five stages that destroy an organization—Hubris Born of Success, Undisciplined Pursuit of More, Denial of Risk and Peril (at this stage the company is already outwardly strong but inwardly hollow), Grasping for Salvation, and Capitulation to Irrelevance or Death.  
 Build clocks, not tell time: manage the system rather than the people. The U.S. Constitution is a model example of building a clock.  
 Preserve the core and stimulate progress: core values remain permanent, yet the company must continuously change, like yin and yang.  
 
@@ -268,7 +269,7 @@ Afterward, organize the results of the meeting and distribute them to all key pe
 
 **How fast should you grow?**  
 The disadvantages of rapid growth include potential threats to cash flow, declining efficiency, overloaded construction or infrastructure, low-price commitments, huge labor costs, increasing organizational complexity that reduces communication, making the company less fun, weakening the culture, and too many vacancies being filled by people who do not belong.  
-After Lichtcraft was acquired by New England Telephone, it was forced to pursue revenue growth. Its new giant factory had structural defects, cash became tied up in inventory, service quality collapsed, and it eventually lost both its market position and reputation. Other cases included Osborne Computer, Miniscribe, Televideo, Visicorp, Trilogy, and Magnuson Computer.  
+After Lightcraft was acquired by New England Telephone, it was forced to pursue revenue growth. Its new giant factory had structural defects, cash became tied up in inventory, service quality collapsed, and it eventually lost both its market position and reputation. Other cases included Osborne Computer, Miniscribe, Televideo, Visicorp, Trilogy, and Magnuson Computer.  
 University National Bank & Trust slowed down amid the banking industry's rush for high growth. It became famous for exceptional service, getting the details right. The work environment was free, autonomous, and enjoyable, and teller turnover was zero.  
 In a market experiencing explosive growth, there may be no choice but to grow rapidly, as with Compaq and Apple.  
 
@@ -361,7 +362,7 @@ Innovation alone is still insufficient to build an enduring enterprise. The true
 ### Execution  
 
 *Inc.* magazine interviewed 500 of the fastest-growing companies, and 88 percent of CEOs attributed their company's success to execution; the rest attributed it to the idea.  
-Hemingway said he rewrote the final page of *The Sun Also Rises* 39 times because “you have to get the words right.”  
+Hemingway said he rewrote the final page of *A Farewell to Arms* 39 times because “you have to get the words right.”  
 Compaq surpassed IBM because it was better at executing IBM's compatibility strategy.  
 When Walmart started, good companies were all doing the same things. Walmart broke through simply by executing better.  
 The art of setting deadlines: it works only when the other party is willing to commit. The author asked an engineering company to promise that “regardless of weather conditions or whatever accidents occur, the work will absolutely be completed on time, with perfect construction quality.” More than six months later, they finished fifteen minutes before the deadline.  
@@ -384,7 +385,7 @@ During World War II, an aircraft-parts manufacturer had high absenteeism, strike
 Create an atmosphere of mutual dependence in which everyone thinks, “I cannot let the others down.” Then employees will display extraordinary performance.  
 Federal Express was a “Vietnam War product” and had no radically new concept. Its success came entirely from execution quality.  
 Expectation management in execution: the author uses the example of preferring to report a flight as late rather than reporting it early when it had actually departed late.  
-Bold tactical goals: first break the company's grand, audacious goal into equally bold goals for each department. Then set a target of successfully executing a particular mechanism 100 consecutive times. In the example given, every logistical task had to be completed at least three weeks before the event date, including the complete briefing and presentation checks; this was called “T-3.” Once a failure occurred, the count returned to zero and they started over.  
+Bold tactical goals: first break the company's BHAG into equally bold goals for each department. Then set a target of successfully executing a particular mechanism 100 consecutive times. In the example given, every logistical task had to be completed at least three weeks before the event date, including the complete briefing and presentation checks; this was called “T-3.” Once a failure occurred, the count returned to zero and they started over.  
 
 Six steps for sustaining excellent execution among employees:  
 **1. Hiring:** Find the right people from the beginning. Evaluate whether they fit the company's values and philosophy. Have at least two people interview them. Conduct at least five reference checks. Avoid parachuting people in from outside.  

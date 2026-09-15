@@ -18,9 +18,9 @@ Original notes [here](/library/8-rules-of-love/chi){:target="_blank"}.
 “What is the difference between love and liking?” “If you like a flower, you will pick it; if you love it, you will water it every day.”  
 Love is an effort made day after day. This book aims to help you consciously build loving relationships, face all kinds of challenges and imperfections along the journey of love, and create a kind of love that can grow, expand, and transform every day, rather than treating a successful match as the end of the story.  
 
-Drawing on the four stages of life described in the Vedas, there are four ashramas for learning the laws of love: preparation (loving yourself), practice (loving others), protection, and fulfillment. The book's eight laws are distributed across these four stages (2, 3, 2, 1), progressing step by step, with each one building on the previous one.  
+Drawing on the four stages of life described in the Vedas, there are four ashramas for learning the rules of love: Prepare (loving yourself), Practice (loving others), Protect, and Perfect. The book's eight rules are distributed across these four stages (2, 3, 2, 1), progressing step by step, with each one building on the previous one.  
 
-### Law One: Enjoy Your Own Company / Solitude  
+### Rule One: Enjoy Your Own Company / Solitude  
 
 Research has found that people are more likely to compromise themselves when they are lonely, because fear of loneliness interferes with emotional judgment.  
 Whether you enter into or maintain a relationship out of insecurity and urgency, or out of fulfillment and joy, leads to very different mindsets.  
@@ -54,7 +54,7 @@ Independent thinking: developing the ability not to be swayed by other people's 
 Self-control and patience: mutually reinforcing; without them, we are easily led around by our senses. Solitude gives us the space between being “attracted” and “reacting.”  
 A complete self: you do not need a partner to make you whole or treat them as a magic cure. Before expecting others to meet your needs, it is better to practice meeting them yourself in solitude. A relationship with another person will not heal your relationship with yourself. Looking for a partner to solve your problems is like finding someone to write your final paper for you.  
 
-### Law Two: See Your Karma Clearly / Self-Reflection  
+### Rule Two: See Your Karma Clearly / Self-Reflection  
 
 Every action has consequences, and every choice determines what we encounter in the future.  
 From childhood onward, we absorb various imprints, samskaras. As we grow older, we can reexamine, adjust, and change them.  
@@ -85,11 +85,11 @@ The rebel: always expecting adventure and unpredictability to turn into loyalty 
 The unattainable: constantly comforting yourself that they will eventually stop and turn their attention to you. Once you fall into this chase, it is no longer about getting to know, evaluating, and growing with each other; it is about wasting your affection.  
 The rescue case: you find their sense of competence and importance attractive, or they happen to fit your natural tendency to take care of people. But in the long run, you will become exhausted because you are giving far more than the other person.  
 The sexual: sex interferes with judgment. Oxytocin is the culprit: it helps spark attraction and trust and accelerates emotional bonding. Hormones can temporarily block the influence of negative memories, so an argument before sex can seem to disappear afterward.  
-The conditional: the Bhagavad Gita speaks of six forms of abundance: knowledge, fame, wealth, beauty, power, and renunciation. Such an aura can be enough to make people fall in love, but it does not necessarily reveal what someone is actually like. Under the bias of charisma, we are easily left with a distorted impression. The qualities we seek in a partner become merely a temporary checklist. The Bhagavad Gita says that divine love means knowing their greatness while being drawn to their loveliness. Only by spending time with someone can we discover what is lovable about them.  
+The Opulent (conditional): The Bhagavad Gita speaks of six opulences: knowledge, fame, wealth, beauty, power, and renunciation. Such an aura can be enough to make people fall in love, but it does not necessarily reveal what someone is actually like. Under the bias of charisma, we are easily left with a distorted impression. The qualities we seek in a partner become merely a temporary checklist. The Bhagavad Gita says that divine love means knowing their greatness while being drawn to their loveliness. Only by spending time with someone can we discover what is lovable about them.  
 
 Exercise: Reflect on past relationships and learn the lessons  
 If you fail to learn the lessons of past relationships, you will only repeat the same mistakes.  
-What kind of energy were you in when you chose to be with an ex? Ignorance (boredom, loneliness, depression, pain, and stress) / impulse (wanting to obtain certain conditions; a good outcome requires both people to have a deeper understanding and respect for each other) / goodness (feeling that the two of you were emotionally connected and compatible, that you respected each other, and that even after the relationship ended, you still retained respect).  
+What kind of energy were you in when you chose to be with an ex? Ignorance / Tamas (boredom, loneliness, depression, pain, and stress); Passion / Rajas (wanting to obtain certain conditions; a good outcome requires both people to have a deeper understanding and respect for each other); Goodness / Sattva (feeling that the two of you were emotionally connected and compatible, that you respected each other, and that even after the relationship ended, you still retained respect).  
 Why did it end? Be as honest as possible.  
 Learn the lesson: Next time, would you do things differently? Can you enter your next relationship from a place of goodness? Can you put conditions aside and focus on observing the qualities that truly matter?  
 
@@ -116,13 +116,13 @@ Exercise: Meditation
 The focus is on loving yourself and appreciating yourself, nourishing the soil in which love grows.  
 Place your attention on different parts of the body in turn and appreciate their contribution.  
 
-### Law Three: Define Love  
+### Rule Three: Define Love  
 
 Men say “I love you” after an average of 88 days, women after an average of 134 days. Among those who say it within the first month, 39% are men and 23% are women. Different people may mean very different things when they say they are in love.  
 The four stages of love:  
 
 First, attraction  
-The three drives of love: desire, attraction, and attachment.  
+The three drives of love: lust, attraction, and attachment.  
 Compared with small talk, meaningful deep conversations produce greater happiness. This includes opening up and exposing vulnerability.  
 Based on the author's experience counseling others, three dates are enough to determine whether two people are compatible. They do not have to be the first three dates, nor do they have to be consecutive. In sequence, determine whether you like the other person's personality, respect their values, and are willing to support the goals they pursue.  
 First date: light questions about tastes and interests: what they love doing, places they love going, books and movies, what occupies their mind, what they want to learn more about, favorite food.  
@@ -151,7 +151,7 @@ Just as we should show appreciation for their daily efforts, we should make trus
 Exercise: Build your dreams with your feet on the ground  
 Once a month, spend an hour identifying what about your partner you are grateful for and what challenges need improvement.  
 
-### Law Four: Treat Your Partner as Your Teacher  
+### Rule Four: Treat Your Partner as Your Teacher  
 
 When the author was a monk, the first thing his teacher did when he saw him was kneel before him, paying respect to the soul within him. They respected and honored one another.  
 What a guru gives a disciple is nonjudgmental guidance, selfless wisdom, and love without expectations.  
@@ -194,12 +194,12 @@ A teacher may have ten points while the student has only one. But if the teacher
 Exercise: Help your partner find their goals  
 Ask your partner three questions: What really matters to you right now? What do you need to do to achieve this goal? Is there anything I can do to help?  
 
-### Law Five: Put Your Mission First  
+### Rule Five: Put Your Mission First  
 
 One of the author's clients put herself first. She explained that she did so because she wanted to give her husband and family the best version of herself.  
 To show up as your best self in a relationship, everyone must pursue their mission or inner calling.  
 The key is not the activity itself, but why you do it. It is not an accidental interest but the place where your passion lies; it defines who you are.  
-The Vedas describe four basic pursuits that drive life forward: mission, livelihood, relationships, and liberation (transcending the worldly and cultivating the spirit).  
+The Vedas describe four basic pursuits (Purusharthas) that drive life forward: Dharma (Purpose), Artha (Wealth), Kama (Desire/Love), and Moksha (Liberation, transcending the worldly and cultivating the spirit).    
 With a mission, you know how to use your time, money, and energy, and it gives money meaning.  
 Without a mission, a person seeks only personal pleasure and will not be considerate or empathetic toward others.  
 With a mission, we can clarify our values and priorities to one another. We know how to spend the money we earn. When we fall in love, we carry a desire to co-create a meaningful life together. Ultimately, these three pursuits lead to liberation.  
@@ -226,7 +226,7 @@ Prioritize one person's goal: different people have different timelines for thei
 Take turns prioritizing each person's goal: when neither person wants to sacrifice their own goal, but there is not enough time or money to accommodate both, this may be the best option.  
 Both pursue their own goals wholeheartedly: suitable when both people have already accumulated a certain amount of experience and achievement.  
 
-### Law Six: Either We Both Win or We Both Lose  
+### Rule Six: Either We Both Win or We Both Lose  
 
 Both partners should argue. Arguing more can prevent things from spiraling out of control. The surface appearance of harmony created by hiding feelings often comes at the cost of honesty and understanding.  
 Approach conflict as teammates: conflict is like waves in the sea; your partner is not the wave. The point of disagreement is the wave. The two of you should face it side by side and resolve it together.  
@@ -234,7 +234,7 @@ For example: “You never clean up” → “Let's set some housework rules toge
 A report from the American Personality and Social Psychology Association states that when partners express anger in healthy ways, they can develop compassion, empathy, and patience, which helps them understand the crux of a problem.  
 Distinguish conflict from abuse: the latter involves commands, insults, threats, control, accusations, belittling, and coercion.  
 
-The three qualities of energy mentioned in Law Two—ignorance, impulse, and goodness—can also be applied to arguments: pointless arguments (not knowing what matters, the wrong time and place, simply venting), ego-driven arguments (arguing to win and trying to make the other person admit fault and apologize), and effective arguments (working together to overcome an obstacle, seeing it as a step in the healthy development of the relationship, putting sincerity and love into it, and reaching consensus).  
+The three qualities of energy mentioned in Rule Two—ignorance, impulse, and goodness—can also be applied to arguments: pointless arguments (not knowing what matters, the wrong time and place, simply venting), ego-driven arguments (arguing to win and trying to make the other person admit fault and apologize), and effective arguments (working together to overcome an obstacle, seeing it as a step in the healthy development of the relationship, putting sincerity and love into it, and reaching consensus).  
 
 To argue effectively:  
 Strip away ego: only a win-win outcome counts as a successful argument. Clarify whether the reason for the argument comes from ego, impulse, or goodness: “I think my way is best” (ego); “I want to see the other person change” (impulse); “I want us to feel closer” (goodness). Step away from ego and define a common goal from a team perspective.  
@@ -249,7 +249,7 @@ Commitment: reach an agreement, seek a solution, and make changes. It is not mer
 Growth: take responsibility for the problems you caused, apologize, acknowledge your mistake, and express your determination to change. A genuine apology has three steps: taking responsibility, expressing it, and acting on it.  
 For arguments that cannot be resolved, it may be better to place them in a neutral zone and agree to respect each other without trying to change one another.  
 
-### Law Seven: It Is the Relationship That Breaks, Not You  
+### Rule Seven: It Is the Relationship That Breaks, Not You  
 
 Abuse: Any attempt to control another person by any means is abuse.  
 Love and respect are things you deserve; safety is non-negotiable.  
@@ -274,7 +274,7 @@ Even if you watch television together, simply put away your phones and watch att
 Experiencing something new does not have to mean going somewhere far away, spending a lot of money, or doing something crazy.  
 Eighty-six percent of couples who travel together say they still have chemistry.  
 Serving or volunteering together increases oxytocin, and surveys show that couples who continue doing so together are more likely to stay together.  
-The “bridge effect” (research found that when male participants were on a swaying suspension bridge, they rated the female interviewer as more attractive) reflects how stimulating, adventurous activities can bring a relationship closer.  
+The “Suspension Bridge Effect” (research found that when male participants were on a swaying suspension bridge, they rated the female interviewer as more attractive) reflects how stimulating, adventurous activities can bring a relationship closer.  
 Studying together is a good way to support each other's growth.  
 Expressing appreciation creates a positive feedback loop in which both people feel loved.  
 
@@ -289,7 +289,7 @@ Sometimes the very problem in a partner may be the quality that attracted you in
 
 Parting well  
 After waiting a long time or trying many times, you must recognize that the other person may never change.  
-Your soul existed before the question of your existence and will not be extinguished.  
+Your soul existed before this relationship and will not be extinguished.  
 Initiating a breakup: better to end the pain sooner than prolong it. Honesty is best. You can begin the conversation with the three elements that brought you together: liking the other person's personality, respecting their values, and wanting to help them achieve their goals. Use these to explain the differences between you. Say everything clearly within a day. Do not waver or soften. If you genuinely want to remain friends, it is recommended that you first cut things off cleanly. If you have children, do not sacrifice yourself for the sake of the children.  
 Accepting a breakup: the person who broke your heart cannot be the person who heals it. Happiness has always been your own responsibility. Research has found that people who construct meaningful stories about the relationship after a breakup experience less psychological stress later on.  
 
@@ -300,7 +300,7 @@ Loneliness exists only because our minds trouble us, making us mistakenly believ
 When intrusive thoughts arise, such as wanting to stand watch outside the other person's home, question yourself about the meaning of the impulse and try to shift your thinking.  
 Invest seriously in getting to know yourself, discover the pleasures of solitude, cultivate trust in love, improve your capacity to love, and you will be better prepared for your next relationship.  
 
-### Law Eight: Love Again and Again  
+### Rule Eight: Love Again and Again  
 
 From being a student of love to becoming a servant of love: all living beings are interconnected. Serving others is serving yourself. Improving the world also benefits future generations. Helping others is a basic human need and can make us happier.  
 Focus on giving love, and you can experience more love. Selfishly receiving love limits what you gain.  

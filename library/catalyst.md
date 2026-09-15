@@ -33,15 +33,15 @@ Wolfie’s successful approach was not to lecture teenagers. He convened a youth
 The summit gave rise to student anti-smoking groups, which designed take-home schoolwork such as “How much profit is there in each pack of cigarettes?” They also produced advertisements. In one of them, students called teen magazines to ask why they carried cigarette ads and requested anti-smoking public-service announcements, only to be turned down.  
 Ways to overcome reactance:  
 
-Offer choices: when there is only one option, people look for what is wrong with it; when there are several, they look at which is better.  
+Provide a menu: when there is only one option, people look for what is wrong with it; when there are several, they look at which is better.  
 After the author’s friend answered his wife with two choices rather than a single suggestion, she stopped rejecting the proposal.  
 Giving a child the choice of eating chicken first or vegetables first works better than simply telling the child to eat vegetables.  
 
-Lead people toward the answer: questions encourage people to act on conclusions they reach themselves.  
+Ask, don't tell: questions encourage people to act on conclusions they reach themselves.  
 A tutoring teacher told a class of students who wanted to get into top universities but planned to study only 50 hours that they needed 300 hours. The students did not believe him. So instead, he started with their goal, then established the required score, and then worked backward to determine how much time would be needed, asking questions step by step until the students finally changed their minds.  
 A company faced a problem in which its top salesperson would not train new recruits. The manager asked the salesperson why he was successful. He said it was because senior colleagues at the company had taught him. The manager then asked, “What if the team can’t learn from you—how can you expect them to succeed?” The salesperson eventually became the company’s best trainer.  
 
-Highlight contradictions between words and actions: doing the opposite of what one tells others to do triggers cognitive dissonance.  
+Highlight a gap: doing the opposite of what one tells others to do triggers cognitive dissonance.  
 In 2012, the Thai Health Promotion Foundation launched the “Smoking Kids” campaign. With a budget of just US$5,000, it achieved remarkable success: children under ten approached smokers to ask for a light. Most smokers refused. The children then handed them a card that read, “You care about me. Why not care about yourself?” along with a phone number.  
 During a water shortage in California, researchers first had students sign a pledge supporting water conservation and then asked them about their showering habits, exposing the inconsistency. Those whose inconsistency was highlighted dramatically reduced their water consumption.  
 
@@ -64,13 +64,13 @@ For the same coffee mug, people were willing to pay less than three dollars to b
 Loss aversion: the psychological impact of losing is greater than that of winning. Research shows that a potential benefit has to be 2.6 times as large as the potential loss before people are willing to act. (See: https://www.wealthmanagement.com/investment-strategies/sfr-rent-growth-continues-hit-new-heights)  
 Two major ways to overcome it:  
 
-Make the cost of inaction visible: when MBA students study business cases, they spend a great deal of time thinking about the potential risks of changing, but very little evaluating the risks of not changing.  
+Surface the costs of inaction: when MBA students study business cases, they spend a great deal of time thinking about the potential risks of changing, but very little evaluating the risks of not changing.  
 Minor illnesses are often harder to cure than serious ones because people with serious illnesses actively seek treatment, whereas a minor illness is not serious enough to make them take action and is often brushed aside.  
 The author asked his stubborn cousin, who refused to use an electronic signature, to calculate how much time he was wasting every week, prompting him to change.  
 Financial adviser Gloria Barrett showed stubbornly uninvested clients how much less they would earn by maintaining the status quo compared with conservative investors, eventually prompting them to act.  
 Oregon and California are the states with the most ballot initiatives, yet only about one-third of change proposals pass smoothly. In 2015, the Brexit campaign successfully shifted public opinion through some unconventional tactics. The “Brexit bus” carried the message, “We send the EU £350 million a week,” highlighting the cost; “Take Back Control” implied that being outside the EU was the normal state of affairs. (“Make America Great Again” works on a similar principle.)  
 
-Burn the boats: the Spanish conquistador Hernán Cortés had his authority over the expedition revoked by a governor who feared losing control of it. To avoid being executed upon his return, Cortés had no choice but to continue the expedition. But some of his men remained loyal to the governor and might mutiny, seize the ships, and flee, so Cortés decided to set the eleven ships on fire.  
+Burn the ships: the Spanish conquistador Hernán Cortés had his authority over the expedition revoked by a governor who feared losing control of it. To avoid being executed upon his return, Cortés had no choice but to continue the expedition. But some of his men remained loyal to the governor and might mutiny, seize the ships, and flee, so Cortés decided to set the eleven ships on fire.  
 A milder version can be applied in many situations. Sam Michaels wanted his colleagues to accept an updated Windows operating system, so he issued a notice saying that the company could no longer support repairs for computers running the old version. In the end, even those who had stubbornly refused to upgrade gave in.  
 
 ### Distance  
@@ -85,11 +85,11 @@ Whether research on the deterrent effect of the death penalty appears convincing
 This phenomenon is called confirmation bias. No one is immune. People tend to seek out and absorb information that fits their existing views.  
 Three ways to reduce distance:  
 
-Win over the middle: political scientists found that direct mail and canvassing were effective in primaries and ballot initiatives, but had zero effect in general elections. In the former, the choices are relatively close; in the latter, the contest is between opposing parties, so the threshold for switching sides is much higher.  
+Find the movable middle: political scientists found that direct mail and canvassing were effective in primaries and ballot initiatives, but had zero effect in general elections. In the former, the choices are relatively close; in the latter, the contest is between opposing parties, so the threshold for switching sides is much higher.  
 So a wise person does not try to change everyone, but targets politically open-minded swing voters.  
 In the 2008 Oregon election, most residents supported abortion rights, while the incumbent Republican senator opposed them. Researchers targeted pro-choice voters and persuaded about one in ten to switch, allowing the Democratic challenger to win. (Rogers, Todd, David Nickerson, 2013)  
 
-Start small and build: research shows that the likelihood of getting people to agree to a large favor rises dramatically when they have first agreed to a small one.  
+Ask for less: research shows that the likelihood of getting people to agree to a large favor rises dramatically when they have first agreed to a small one.  
 Dr. Diane Priest first asked an overweight truck driver who drank three liters of soda a day to cut that amount by one liter. Eventually, he gave it up entirely.  
 
 Move the goalposts: when the distance is too great, shift position and focus directly on common ground so that people can put themselves in the other person’s shoes.  
@@ -118,13 +118,13 @@ The classic social-science book *Diffusion of Innovations* explains five key fac
 Freemium: the model in which the basic version is free while the premium version costs money. When the cloud was still a new concept, Dropbox broke through by giving away its service for free and went on to generate billions of dollars in revenue.  
 Others using the same model include: Candy Crush, *The New York Times*, Pandora, Skype, LinkedIn, Evite, Spotify, WordPress, Evernote.  
 
-Lower the upfront cost: before online shopping became mainstream, Zappos—then called shoesite.com—broke through by eliminating shipping fees, reducing the uncertainty over what would happen if the product did not fit. It grew by more than twenty times in three years.  
+Reduce upfront costs: before online shopping became mainstream, Zappos—then called shoesite.com—broke through by eliminating shipping fees, reducing the uncertainty over what would happen if the product did not fit. It grew by more than twenty times in three years.  
 Most people buy the same familiar things when shopping at a supermarket, yet they are willing to try new ice-cream flavors because ice cream is available for sampling. Small-size product packaging works on the same principle.  
 
-Increase opportunities to become familiar with it: Acura owners loved the brand, but its brand awareness remained stubbornly low. Test drives mainly attracted people who already liked the brand. Buick spent heavily on advertising and still failed, demonstrating that traditional methods were ineffective. So Acura took a different route and partnered with upscale W Hotels to provide exclusive hotel shuttle service. Tens of thousands of people ended up buying the cars as a result.  
+Drive discovery: Acura owners loved the brand, but its brand awareness remained stubbornly low. Test drives mainly attracted people who already liked the brand. Buick spent heavily on advertising and still failed, demonstrating that traditional methods were ineffective. So Acura took a different route and partnered with upscale W Hotels to provide exclusive hotel shuttle service. Tens of thousands of people ended up buying the cars as a result.  
 When the author helped a large apartment developer increase brand awareness, he came up with a simple solution: give away party supplies and catering, allowing more prospective buyers to see what the homes were like inside.  
 
-It’s okay to regret it: the author had all kinds of doubts about getting a dog, but a two-week trial period at an animal shelter ultimately led him to adopt one.  
+Make it reversible: the author had all kinds of doubts about getting a dog, but a two-week trial period at an animal shelter ultimately led him to adopt one.  
 Research found that generous return policies can increase profits. (Peterson, J. Andrew & V. Kumar, 2010, “Can Product Returns Make You Money”) Zappos, mentioned above, also combined free returns with free shipping.  
 
 Case study: Jacek Nowak, a bank manager overseeing several branches, faced worsening key performance indicators and proposed reforms centered on customer experience. His fellow managers, however, rejected the plan out of adherence to the status quo. Jacek’s team took a different approach and let colleagues personally experience a distinctive, heartfelt customer experience. A few weeks later, when they asked their colleagues how they felt about it, the proposal was brought back to life.  

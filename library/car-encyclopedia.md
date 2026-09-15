@@ -50,7 +50,7 @@ Camshaft: Formed by a series of cams with egg-shaped profiles, converting rotary
 
 Valves: In the past, two valves were the norm—one intake and one exhaust—but to improve engine performance, more air can be admitted in a short period by increasing the number of intake and exhaust ports, resulting in multi-valve engines; high-revving sports cars, for example, may use five-valve engines; the drawbacks of adding valves are greater weight, higher cost, and increased sliding resistance  
 Another approach is to increase the amount by which the valve opens (called valve lift). This works at low engine speeds, but makes high-revving operation difficult; because the valve has to travel farther, the air cannot keep up with the speed of the piston’s reciprocating motion  
-Airmatic valves, which use air pressure to open and close the valves, as well as electronically controlled systems, are under study  
+Pneumatic valves, which use air pressure to open and close the valves, as well as electronically controlled systems, are under study  
 
 Valve timing: In practice, because of inertia, the intake and exhaust valves do not open and close exactly when the piston reaches top or bottom dead center; instead, they open slightly earlier and close slightly later. This timing is called valve timing  
 Opening or closing earlier than the preset timing is called advancing, while doing so later is called retarding; when the intake and exhaust valves are open simultaneously, this is called valve overlap  
@@ -72,7 +72,7 @@ To prevent power loss, the number of electronically controlled components used t
 Rotary engine: Also known as the Wankel engine, unlike a conventional reciprocating engine, which converts the piston’s linear reciprocating motion into rotary motion, the rotary engine directly converts combustion energy into rotary motion, with a roughly triangular, rounded rotor performing the role of the piston; it can achieve the same horsepower with a smaller displacement, while producing less vibration and noise, being compact, and tolerating high speeds. Its drawbacks are difficulty in achieving rapid ignition and the problem of combustion gases escaping  
 
 Throttle valve: A butterfly-like component inside the throttle body that regulates the amount of incoming air and is linked to the accelerator pedal; today it is mostly electronically controlled  
-Air intake flow: air cleaner → throttle body → surge tank → intake manifold → intake valve → cylinder  
+Air intake flow: air cleaner → throttle body → intake plenum → intake manifold → intake valve → cylinder  
 Engines other than direct-injection engines inject fuel into the intake manifold  
 Because of cost, air cleaners generally use materials with relatively high resistance; they accumulate dirt and therefore need to be replaced regularly  
 
@@ -93,7 +93,7 @@ The amount injected is controlled by the length of time the injector remains ope
 Battery: A device that converts electrical energy into chemical energy; ordinary vehicles use lead-acid batteries, in which the positive and negative electrode metals in the electrolyte react chemically to generate electrical power, called direct current. Each positive and negative pair of electrodes is stored in a single cell (with separators between the cells), and each cell stores two volts. Passenger cars generally use six cells, giving 12 V, while trucks use twice that  
 The charging and discharging process causes deterioration, so batteries need to be replaced regularly. Chemical reactions are sluggish at low temperatures, which is why problems are common in winter; they also do not tolerate heat well in summer and consume a great deal of power. The increasing number of electrical functions inside the vehicle also adds to the electrical load  
 
-Starter motor: In the past, the crankshaft had to be turned by human power to start the engine. A crank handle was kept in a box in front of the passenger seat, which is why the name “glove compartment” has survived to this day  
+Starter motor: In the past, the crankshaft had to be turned by human power to start the engine. Drivers had to take out their driving gloves from a box in front of the passenger seat to hand-crank the engine, which is why the name “glove compartment” has survived to this day  
 Today, turning the key or pressing a button activates the automatic starting mechanism, which engages the starter motor to start the engine  
 
 Ignition system: Gasoline engines use spark-plug ignition and require high-voltage electricity, which is produced by raising the voltage with an ignition coil. An iron core sits at the center of the coil, surrounded by primary and secondary windings; the difference in the number of turns creates mutual induction and increases the voltage  
@@ -143,7 +143,7 @@ FF cars have more interior space and do not require a driveshaft, making the ove
 FR cars are heavier, but the clear division of labor between the front and rear wheels improves driving freedom. Front–rear weight distribution can more easily approach a balance, making them suitable for large engines  
 RR cars were once very popular. Because the rear is heaviest, they can be difficult to control when the rear wheels slip, but with countersteering (quickly turning the steering wheel) it is possible to take corners at high speed. This layout is used by the Porsche 911, as well as by buses that do not require high-speed cornering. Compared with FF, it is prone to oversteer, while FF tends to understeer  
 MR cars have the best sporting performance, with Formula racing cars as the prime example  
-4WD: Four-wheel drive distributes driving force among all four wheels, so even if one tire slips, the other three can still deliver power, maintaining traction on poor surfaces. It is divided into full-time and part-time systems. In part-time systems, four-wheel drive and two-wheel drive can be switched using a transfer case, providing greater off-road capability and making them suitable for extremely poor conditions such as mud. Full-time systems always use four-wheel drive and consume more engine power, inevitably causing the four-wheel-drive braking phenomenon during sharp turns (the difference between the front and rear wheel paths through a corner, with the rear wheels pushing and causing the front wheels to enter a state similar to braking). A center differential is needed to absorb the difference in rotational speed; however, on poor surfaces, when a wheel spins freely, the engine power is absorbed by the differential gears and cannot be smoothly transmitted to the other wheel on the same axle. In recent years, more vehicles have adopted viscous couplings instead of center differentials to absorb differences in rotational speed  
+4WD: Four-wheel drive distributes driving force among all four wheels, so even if one tire slips, the other three can still deliver power, maintaining traction on poor surfaces. It is divided into full-time and part-time systems. In part-time systems, four-wheel drive and two-wheel drive can be switched using a transfer case, providing greater off-road capability and making them suitable for extremely poor conditions such as mud. Full-time systems always use four-wheel drive and consume more engine power, inevitably causing driveline wind-up during sharp turns (the difference between the front and rear wheel paths through a corner, with the rear wheels pushing and causing the front wheels to enter a state similar to braking). A center differential is needed to absorb the difference in rotational speed; however, on poor surfaces, when a wheel spins freely, the engine power is absorbed by the differential gears and cannot be smoothly transmitted to the other wheel on the same axle. In recent years, more vehicles have adopted viscous couplings instead of center differentials to absorb differences in rotational speed  
 
 Transmission: An engine lacks sustained rotational force; without a transmission, a large engine would be required just to start the vehicle, yet such power would no longer be necessary after acceleration. The transmission therefore combines multiple gears of different sizes to control speed and torque  
 With a five-speed transmission, the engine and drive wheels are approximately synchronized in fourth gear, meaning three gear ratios are actually needed; fifth gear is called overdrive, in which the axle rotates faster than the engine  
@@ -164,7 +164,7 @@ It is generally divided into two or three sections joined by bearings to resist 
 
 Axle shaft: Carries the engine’s driving force from the differential to the left and right wheels, transmitting the drive force to the tires  
 In addition to transmitting engine power, it must withstand the reaction force transmitted back from the tires, so the metal must be both light and strong and is also subjected to treatments such as rapid cooling  
-The axle shaft’s dust boots prevent dirt from entering. They are often overlooked, yet they are an important component whose failure can cause breakdowns  
+The axle shaft’s CV boots prevent dirt from entering. They are often overlooked, yet they are an important component whose failure can cause breakdowns  
 
 Differential: Uses differential gears to compensate for the difference in rotation between the inner and outer wheels, allowing the inner wheel to rotate less and making cornering smooth  
 Limited-slip differential (LSD): A differential sends more driving force to the side with less resistance. If one wheel spins freely in mud, all the driving force is sent to that wheel. A limited-slip differential corrects this by restricting differential action under certain conditions and transferring driving force from the high-speed side to the low-speed side so that the two rotate at the same speed; there are three types: rotational-speed-sensing, torque-sensing, and hybrid  
@@ -197,7 +197,7 @@ Power steering can adapt to changes in load and steering effort. It is divided i
 Ackermann geometry: When a vehicle turns at extremely low speed, ignoring centrifugal force, the centers of rotation of the wheels would otherwise differ; Ackermann geometry makes them coincide again  
 
 Four-wheel-steering system: Gives the supporting rear wheels steering capability as well. Types include mechanical, hydraulic, and the passive system that has recently become mainstream  
-When the front and rear wheels steer in opposite directions, this is called “opposite phase,” which is advantageous at low speeds; when they steer in the same direction, it is called “same phase,” with the opposite effect  
+When the front and rear wheels steer in opposite directions, this is called “out-of-phase,” which is advantageous at low speeds; when they steer in the same direction, it is called “in-phase”, with the opposite effect  
 
 Tires: Tubeless radial tires are currently mainstream. Their functions are to support the vehicle’s weight, absorb shocks, and generate driving, braking, and cornering forces. They consist of a belt that generates cornering force, a carcass that supports air pressure, and the sidewalls and tread that protect the carcass  
 Japan commonly uses summer tires without taking snowfall or freezing into consideration; Europe uses M+S (mud and snow) tires, which can handle accumulated snow. Snow-resistant tires are also called snow tires  
@@ -215,7 +215,7 @@ Mechanical brake assist: When the computer determines that emergency braking is 
 There are disc brakes and drum brakes. The latter are gradually disappearing from Japanese vehicles because of their declining compatibility with ABS  
 Anti-lock braking system (ABS): When the frictional force of braking is greater than the friction between the tire and the road surface, the tire locks and slides along the ground, creating a dangerous lock-up condition  
 Electronic stability control: In abnormal situations, controls the vehicle’s yaw inertia to prevent oversteer  
-Brake fade: A phenomenon in which excessive use generates enough heat to produce bubbles in the brake fluid, causing brake failure  
+Vapor Lock (or Brake Fluid Boiling): A phenomenon in which excessive use generates enough heat to produce bubbles in the brake fluid, causing brake failure  
 
 Body: Most bodies are now of unibody construction, which is lightweight and does not require a heavy frame, but cannot withstand extremely strong impacts. Off-road vehicles that require a stronger body use frame construction, while unibody structures incorporating built-in frame members are also becoming mainstream  
 A safety body is designed to deform and crumple in an accident in a controlled manner, reducing injury to pedestrians to a minimum  
@@ -238,7 +238,7 @@ Seat belts: The current mainstream is the three-point belt, with an emergency lo
 Airbags: Controlled by a computer and triggered by G-force sensors that detect impact. Not every collision causes an airbag to deploy; when deployment is required, an inflator ignites the initiator, which burns the gas-generating material, and nitrogen-rich gas inflates the airbag  
 Door mirrors: When the gear selector is shifted into reverse, the mirror tilts downward, making it easier to reverse into a parking space  
 
-Chip-based anti-theft system: Compares the chip in the key with the vehicle; the engine will start only when they match  
+Engine Immobilizer: Compares the chip in the key with the vehicle; the engine will start only when they match  
 Left/right independent air-conditioning control: Already common in luxury cars, it automatically controls airflow and air-conditioning intensity according to the distribution of sunlight inside the vehicle  
 HDD car navigation system: Large capacity and fast data access make it convenient  
 ETC electronic toll collection system: Installed in the vehicle and communicates with antennas at toll booths, allowing payment without stopping  

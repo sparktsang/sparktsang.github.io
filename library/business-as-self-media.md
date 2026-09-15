@@ -19,7 +19,7 @@ Trump, the man who stunned the world in the 2016 election, used what seemed like
 Thirty years ago, Trump came to the rescue of the widow of a man who, burdened by bank loans and mistakenly believing that his insurance would cover his losses, had committed suicide. The story became one of five widely circulated stories about him.  
 **Be yourself:** Show your personality and stand toe-to-toe with the elites; be spontaneous and authentic, even if that means frequently making spelling mistakes.  
 **Create content:** Tap into netizens’ emotions to manufacture news, spark topics, and stir up public outrage, letting unsupported speculation and controversial claims fly everywhere; use language no more sophisticated than a fourth-grade reading level.  
-**Build your own turf:** Never be absent from Facebook, Instagram, Twitter, YouTube, and the rest.  
+**Build your Owned Media:** Never be absent from Facebook, Instagram, Twitter, YouTube, and the rest.  
 The free television advertising he received that year was worth as much as $4.4 billion. Political marketing is still marketing; its underlying nature does not change.  
 
 When the Weibo post “Put me in the Cold Palace” went viral, Haier followed the wishes of netizens and produced a new “Cold Palace” refrigerator. The “Kodong Handheld Washing Machine” and the “Magic Mirror” were also representative examples of crowdsourced products: their functions, prices, and colors were all decided by Weibo users. They were excellent examples of content marketing, made possible because Haier positioned itself as a media company and cultivated an independent personality. Traditional 4P and 4C marketing theories no longer work.  
@@ -34,7 +34,7 @@ In a Weibo post of more than 70 characters, The Beast flower shop displayed imag
 
 The flower shop shot to fame with commissioned work such as *Monet’s Garden*. Its moving stories about giving flowers spread widely, and sponsoring the weddings of superstars took it another step forward.  
 
-“Be ruthless with yourself and please everyone else,” and *Logical Thinking*, which got its start with a one-minute improvised morning monologue, raised its Series B financing in 2015 at a valuation of RMB 1.32 billion. What it created was not a content product, but a clear personality. Fans came together into a community because they saw the content as high-quality and identified with one another’s values. Through unconventional tactics such as the “Mooncake Integrity Ranking,” it could even sell 40,000 boxes of a traditional food that had already been played to death in just 13 days.  
+“Be ruthless with yourself and please everyone else,” and *Luoji Siwei* (Logical Thinking), which got its start with a one-minute improvised morning monologue, raised its Series B financing in 2015 at a valuation of RMB 1.32 billion. What it created was not a content product, but a clear personality. Fans came together into a community because they saw the content as high-quality and identified with one another’s values. Through unconventional tactics such as the “Mooncake Integrity Ranking,” it could even sell 40,000 boxes of a traditional food that had already been played to death in just 13 days.  
 
 The creative-marketing trend swept across the market: Feng Tang, Wanwuzhi, Qingshan Laonong, Oxygen... Even old-school companies such as P&G underwent a major image overhaul under A.G. Lafley and brought creativity into the fold.  
 
@@ -85,7 +85,7 @@ Yi Zhongtian had spent decades accumulating knowledge that nobody noticed, then 
 
 The appeal of a story has three dimensions: emotional color, vivid imagery, and believable, authentic details.  
 
-Three techniques: **montage** (cutting between shots), **stream of consciousness** (following the flow spontaneously), and **divine logic** (a huge reversal, where another seemingly unrelated topic turns out to be connected).  
+Three techniques: **montage** (cutting between shots), **stream of consciousness** (following the flow spontaneously), and **"god-tier logic" / absurdist twists** (a massive plot twist, where another seemingly unrelated topic suddenly connects).  
 
 To make a product go viral, make the product itself the story. Example: Hammer Technology’s smartphones used the golden ratio from ancient Greek aesthetics, a beautiful note-taking app, offline voice control, and a case embodying a sense of mission and ideals.  
 
@@ -93,11 +93,11 @@ Starbucks often deliberately misspelled customers’ names, such as “Gessika,�
 
 The story of the farmers spread to millions of households: farmers who could not sell their high-quality produce; the idea of helping them promote their agricultural products taking root; a friend pledging to quit his government job and make the work his lifelong vocation; a company name symbolizing a good conscience; knocking on the doors of Xinjiang celebrities one by one through Weibo and asking them to share the story; continuously posting stories about revenue-sharing with farmers; heartwarming stories emerging from interactions between farmers and customers; a customer learning that a farmer had never eaten the pastries made from his own dried fruit and immediately sending him a whole box; the Ancient Tree Adoption Program; and the Desert-to-Honeyland Program.  
 
-Consumption and purchasing are both choices made within a scene. A scene is the sum of time, space, and emotional state—a combination and unification of desire, action, impulse, and changing feelings.  
+Consumption and purchasing are both choices made within a context. A context is the sum of time, space, and emotional state—a combination and unification of desire, action, impulse, and changing feelings.  
 
 JD.com emphasized fast delivery: “I only got the sunscreen after returning from vacation, and everything except the area covered by my sunglasses had turned black.”  
 
-Our thinking has long focused on the product while neglecting the context in which it is used. Borrowing a formula from *The Scene Revolution*: **functional attributes + connectivity attributes = a new scene experience.**  
+Our thinking has long focused on the product while neglecting the context in which it is used. Borrowing a formula from *The Context Revolution*: **functional attributes + connectivity attributes = a new scene experience.**  
 
 “Net-sense”: authentic, down-to-earth, and humorous.  
 
@@ -113,7 +113,7 @@ Systematically and strategically create valuable content to attract customers an
 
 **Corporate values → understand the audience → know the distribution channels → determine the form and positioning → formulate the marketing strategy → collect, produce, and publish content → evaluate results → adjust**  
 
-To break free from advertising thinking and enter content marketing, several things have to change: change “dissemination” into **“broadcasting through dissemination,”** so content has the ability to travel on its own, with legs to walk on; shift from creative excellence to content excellence; expand the content-production team; change the budget; and change evaluation from page views to the quantity and quality of interactions.  
+To break free from advertising thinking and enter content marketing, several things have to change: shift from "Spreading the Word" to "Word Spreading Itself", so content has the ability to travel on its own, with legs to walk on; shift from creative excellence to content excellence; expand the content-production team; change the budget; and change evaluation from page views to the quantity and quality of interactions.  
 
 Marketing without content can only focus on product, price, and exposure, while the effectiveness of advertising keeps declining. Content without marketing cannot be effectively promoted or distributed. On a program, when the host quoted from the *Book of Songs* to introduce the title sponsor Clear shampoo, the message was exceptionally memorable. The two complement each other.  
 
@@ -135,15 +135,15 @@ Domino’s Pizza, which had been saddled with huge debts in 1969, made a dramati
 
 Parts of the classic *Confessions of an Advertising Man* are outdated. Today, the form of presentation has become part of the content; making people laugh has become a legitimate objective; and the old advertising rule of writing precisely—“Never write an advertisement you wouldn’t want your family to read”—no longer holds. Men can write advertising for women’s products too.  
 
-### What Exactly Is a Head of Content?  
+### What Exactly Is a Chief Content Officer (CCO)?  
 
 The head of marketing is responsible for the operation of the marketing system: product, price, channels, promotion, design, packaging, and sales promotion.  
 
-The head of content focuses on what makes a product unique, starting there to create compelling content that resonates with people.  
+The CCO focuses on what makes a product unique, starting there to create compelling content that resonates with people.  
 
-As a product of the social-network era, a head of content needs exceptional writing and communication skills, outstanding planning and creativity, aesthetic thinking, analytical and evaluative ability, and the capacity to learn quickly.  
+As a product of the social-network era, a CCO needs exceptional writing and communication skills, outstanding planning and creativity, aesthetic thinking, analytical and evaluative ability, and the capacity to learn quickly.  
 
-Five essential design lessons for a head of content: **less is more, visual balance, color, typography, and webpage load time.**  
+Five essential design lessons for a CCO: **less is more, visual balance, color, typography, and webpage load time.**  
 
 **Visuals:** A 2014 study by Blog Pros found that among the 100 most popular blogs, there was an image on average every 350 words.  
 

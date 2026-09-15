@@ -42,7 +42,7 @@ Nomadic civilization: like lymph circulating through Eurasia. The domestication 
 
 Once agriculture, pastoralism, and fishing appeared, long-distance trade could also develop. Geography determined trade routes, and some places became trading towns as streams of people converged there. Trade networks developed between the two great civilizations of the West and the two great civilizations of the East. The habitable Mediterranean rose to prominence because of its excellent sea routes. The Minoans and Mycenaeans held power in succession, and the later Greeks inherited the latter’s heroic legends. *The Iliad* and *The Odyssey* acquired enormous prestige.  
 The monsoon made Southeast Asia a hub of trade and a melting pot of cultures. Indonesian languages can even be heard in Madagascar.  
-The Nok civilization of West Africa suddenly disappeared around 500 BCE, for reasons unknown. Bantu languages subsequently spread southward across Africa. Swahili in East Africa is Bantu mixed with Arabic, and is the most widely spoken language in Africa today.  
+The Nok civilization of West Africa suddenly disappeared around 500 BCE, for reasons unknown. Bantu languages subsequently spread southward across Africa. Swahili in East Africa is a mix of Bantu and Arabic, and is the most widely spoken language in Africa today.  
 
 ### Religion  
 
@@ -62,7 +62,7 @@ Only political entities can form intentions and execute plans, and their reach i
 Mesopotamians first used cuneiform, derived from pictures. Egyptian hieroglyphs were pictographic. Phoenician maritime traders dealing with people who spoke different languages needed a way to record other languages, so they developed phonetic writing, which inspired scripts throughout the Mediterranean. Egypt developed the simplified hieratic script for practical purposes, followed later by demotic, which was more closely tied to spoken language. China used an ideographic writing system in which concepts existed independently of sound and established speech, enabling it to govern people who spoke different languages.  
 There was not only the circulation of information but also the circulation of material goods. Money is like language: it arises spontaneously from human activity. Where there is trade, there is money. In prison, cigarettes automatically become currency.  
 The question posed by *Debt*: kings depended on armies and needed to employ large numbers of people to provide soldiers with food, shelter, and clothing. How could this be done? A king could tax the population to pay soldiers and officials, stipulating that taxes had to be paid in gold. People would then have to use resources and ingenuity to sell goods and services to soldiers in order to earn the gold needed to pay their taxes. Gold thereby became money.  
-Territorial expansion depended on the maturation of information transmission, money, mathematics, administrative systems, military power, and grand narratives—the five Ms. After conquering the Neo-Babylonian Empire in 533 BCE, Persia moved toward becoming a vast empire. Greece, India, Rome, and China followed soon after. This happened for a reason.  
+Territorial expansion depended on the maturation of the Five Ms: Messages (grand narratives/information), Money, Math, Management (administrative systems), and Military. After conquering the Neo-Babylonian Empire in 533 BCE, Persia moved toward becoming a vast empire. Greece, India, Rome, and China followed soon after. This happened for a reason.  
 
 ### Empire  
 
@@ -92,7 +92,7 @@ Early spices referred to small luxury goods produced in Arabia. The domesticatio
 
 ### Blending  
 
-*Homo Deus* coined the word “bleshing” by combining “blending” and “meshing,” which perfectly describes the merger of grand narratives.  
+The sci-fi novel *More Than Human* coined the word “bleshing” by combining “blending” and “meshing,” which perfectly describes the merger of grand narratives.  
 The Jewish narrative possessed its own powerful cohesion. Its believers recognized only God’s law, and religion and politics were one. After being conquered by Rome, restless Jews developed the concept of a Messiah who would lead them to freedom. Any agitator could potentially be the savior.  
 An agitator named John guided his followers through baptism, a ritual common to several mystery religions. In 29 CE, the son of a carpenter was baptized and declared himself the Messiah. He was executed by Roman officials along with thousands of other rebels.  
 A small number of followers claimed that Jesus had not died and that they had seen him somewhere. The story spread, and the number of believers surged. The movement soon diverged from mainstream Judaism.  
@@ -192,7 +192,7 @@ The conflict between the northern nomadic peoples and the southern agricultural 
 The Mongols built a network connecting the Eastern Hemisphere, eliminating obstacles to the movement of tribute and information.  
 Bubonic plague traveled westward along the network. In 1345, the Mongols threw plague-infected corpses into the refusing city of Kaffa. Within a few decades, the Black Death killed one-third of Europe’s population. Wages rose sharply, and in some places women who inherited property gained unprecedented power.  
 The long Crusades were a prolonged confrontation between Europe and the Islamic world. Under the Mongol invasions, Europe gradually gained the upper hand. Contact brought countless inventions and technologies into Western Europe.  
-After the short Crusades—the nine specific military expeditions—the soldiers returned home and formed bands calling themselves free lances. The term later evolved into *freelancers*.  
+After the short Crusades—the nine specific military expeditions—the mercenaries returned home and formed bands calling themselves "free lances". The term later evolved into *freelancers*.  
 The Tang did not need firearms and used horses against nomads. Western Europe, fragmented into independent political entities and driven by intense competition, entered what is known as the Hundred Years’ War. Military technology advanced rapidly. Warfare shifted toward ranged combat rather than close combat relying on physical strength, making manpower the crucial factor. Military leadership became a form of commercial management.  
 The Chinese mechanical clock reached the Islamic world, and the windmill and a series of mechanical techniques developed in the Islamic world then entered Europe. Yet apart from providing more toys for aristocrats, they did not initially produce profound social change.  
 Once clocks reached Europe, they were improved and widely adopted, eventually being installed in every church.  
@@ -211,7 +211,7 @@ Once the Spanish Inquisition had purged the Muslims, it could define Jews as the
 ### Revival  
 
 The Mongols believed that everything possessed a spirit. Once they became an urban civilization, this could no longer provide meaning. As their civilization declined, different peoples returned to their own original narratives.  
-Under the Golden Horde, the Russians’ Slavic beliefs grew more closely intertwined with Eastern Orthodoxy. Shoe-polishing tax collectors enriched themselves through corruption and eventually established the Grand Duchy of Moscow, calling its capital the Third Rome.  
+Under the Golden Horde, the Russians’ Slavic beliefs grew more closely intertwined with Eastern Orthodoxy. Bootlicking tax collectors enriched themselves through corruption and eventually established the Grand Duchy of Moscow, calling its capital the Third Rome.  
 The Yuan dynasty claimed the Mandate of Heaven and restored the imperial examinations, while secretly discriminating against Han Chinese. It discouraged bathing, and tax officials wore Mongol clothes and spoke Mongolian. The attempt at blending failed. Rebels arose, and Zhu Yuanzhang, commander of the Red Turban Army, founded the Ming dynasty.  
 The Ming deliberately returned to the Confucian ideal state: agriculture as the foundation, centralized power, bureaucracy, family values, and a world revolving around China, China revolving around the Son of Heaven.  
 As a peasant of humble origins, Zhu Yuanzhang had limited trust in the scholar-officials. Imperial power was strengthened, and he sympathized with peasants by reducing taxes. As for military and construction needs, his answer was to call peasants into service when needed, either for war or labor, and manage them through Confucian principles. Landholding hereditary military aristocrats came to be called mandarins by Europeans.  

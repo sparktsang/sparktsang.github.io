@@ -25,13 +25,13 @@ A personal story is also part of a brand. People should not hide behind the corp
 The Five Hegemons: the Four Horsemen and Netflix have already seized control of the world, and their power continues to grow.  
 Facebook dominates daily life, becoming the window through which people discover new products; it also offers job-search functions and government services.  
 Amazon dominates retail, and the hope of selling goods without going through Amazon is becoming increasingly remote. Its share of IaaS is astonishing.  
-Google has amassed an enormous amount of data and is the only company in the world capable of challenging general-purpose AI. Its potential is limitless.  
+Google has amassed an enormous amount of data and is the only company in the world capable of achieving Artificial General Intelligence (AGI). Its potential is limitless.  
 Apple controls the IT supply chain and an enormous market; Netflix has become the global center of entertainment and threatens Hollywood.  
 Intermediaries such as Uber and Airbnb are likely to be replaced by blockchain technology before long. Microsoft lacks a coherent strategy. Back in the day, the authorities expended enormous effort trying to break it up, only to fail. Now, they may get what they wanted without lifting a finger. The irony is considerable.  
 
-Fraud in the digital advertising industry causes losses of tens of billions of dollars every year. Ads are placed in absurd locations that annoy users, bots generate fraudulent clicks and advertising charges, and 70% of ads fail to reach a real person. Advertisers should develop content marketing, build communities, and improve ad quality.  
+Ad fraud causes losses of tens of billions of dollars every year in the digital advertising industry. Ads are placed in absurd locations that annoy users, bots generate fraudulent clicks and advertising charges, and 70% of ads fail to reach a real person. Advertisers should develop content marketing, build communities, and improve ad quality.  
 
-Fully integrated platforms such as WeChat and LINE, which contain all the functions people need, are a major trend for the future.  
+Super Apps such as WeChat and LINE, which integrate all essential functions into a single ecosystem, are a major trend for the future.  
 Over the next five to ten years, websites and email will become increasingly unfamiliar, while customer interaction shifts to integrated platforms.  
 Whoever becomes the industry leader will have the most valuable company in 2025.  
 
@@ -48,13 +48,13 @@ Key points of B2B KOL marketing: be persuasive to customers; target the right au
 
 Retail marketing strategy: this is a major undertaking that almost all startups overlook. Examine consumer opinions about the product in detail, including what excites and annoys them; study their purchasing channels; analyze consumer data (Amazon retail analytics, Amazon marketing services); revise the product and adjust operations; and decide how to work with retailers.  
 
-If a website has a high bounce rate and visitors leave immediately, the webpage may not match the keywords, or the product may simply be unattractive. A/B testing can be used to confirm the result. Areas for improvement include UX, creativity and design, cross-device compatibility, faster loading, collecting less data, and higher-quality content.  
+If a website has a high bounce rate and visitors leave immediately, the webpage may not match the keywords, or the product may simply be unattractive. A/B testing can be used to confirm the result. Areas for improvement include UX, creativity and design, cross-device compatibility, faster loading times, reducing form friction, and higher-quality content.  
 In an era when marketplaces such as Amazon dominate, there is no need to build shopping functionality into your own website. Shorten the path to purchase as much as possible and provide rewards.  
 Keep running comparative landing-page tests. Tools include Visual Website Optimizer. The results may be surprising, but only when the sample size is large enough.  
-Push marketing is unpopular; pull marketing (which the author calls inbound marketing) is becoming increasingly common. You should act like a good tour guide and lead customers through the entire sales funnel. This applies across industries, but do not expect immediate results; it is better handled by a dedicated specialist.  
+Outbound (push) marketing is losing favor; Inbound marketing is becoming the norm. You should act like a good tour guide and lead customers through the entire sales funnel. This applies across industries, but do not expect immediate results; it is better handled by a dedicated specialist.  
 
 Email marketing is still useful: 80% of people who actively subscribe to newsletters say that the content influences their purchasing decisions. When reading email, people are generally less distracted by social-media messages and can therefore concentrate more.  
 Send emails in the morning: open rates are lower, but business results are better. The opposite is true in the afternoon. Do not send emails on weekends, because customers may face hundreds of emails on Monday.  
-Content marketing will never go out of date. Keep real human-to-human activity going, focus on improving the experience, make use of visual content, be honest and build trust, and establish communities around specific topics to create a better image.  
+Content marketing will never go out of date. Focus on authentic Human-to-Human (H2H) interactions, improve the user experience, make use of visual content, be honest and build trust, and establish communities around specific topics to create a better image.  
 
 *Finished reading on Sep 18, 2021*

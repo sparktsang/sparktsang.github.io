@@ -28,26 +28,26 @@ The boom gradually faded after Marvin Minsky demonstrated that a simple perceptr
 The second wave of artificial intelligence in the 1980s developed large knowledge bases that collected human experience, knowledge, and common sense in an attempt to achieve artificial intelligence closer to human intelligence—knowledge-based AI.  
 Specialized knowledge bases designed for specific fields were also common; these were known as expert systems, such as Deep Blue.  
 In 1967, Shunichi Amari demonstrated a usable backpropagation algorithm. Finally, in 1986, David E. Rumelhart, Geoffrey E. Hinton, and others showed that it was effective, establishing that the exclusive-or logic problem, which a simple perceptron could not handle, could in fact be solved.  
-The boom gradually faded because increasing the number of layers led to declining performance, the vanishing gradient problem, and local optimization problems.  
+The boom gradually faded because increasing the number of layers led to declining performance, the vanishing gradient problem, and the problem of getting stuck in local minima.  
 
 In the 1990s, Hinton and others developed methods showing that even neural networks with four or more layers could overcome the vanishing gradient and local optimization problems. In 2012, his team used deep neural networks to achieve image-recognition accuracy far ahead of the competition, bringing deep learning into the spotlight and triggering the third wave of artificial intelligence.  
 Deep learning has also been applied to automatic image generation, natural language generation, machine translation, robot control, and so on. In 2016, AlphaGo defeated the world’s top Go players.  
 
 Machine learning is divided into:  
 Supervised learning: learning by being given data together with the correct answers.  
-In addition to neural networks, this includes simple Bayesian classifiers, logistic regression, decision trees, and support vector machines.  
+In addition to neural networks, this includes Naive Bayesian classifiers, logistic regression, decision trees, and support vector machines.  
 These methods allow computers to perform classification rapidly and accurately.  
 Unsupervised learning: no correct answers are provided; the system learns only from the data.  
-This includes algorithms in fields such as k-means, cluster analysis, and dimensionality reduction, as well as autoencoder techniques in neural networks. These are analytical methods that make unknown data easier to understand, or are used as pre-processing for supervised learning.  
+This includes algorithms in fields such as k-means, cluster analysis, and dimensionality reduction, as well as autoencoder techniques in neural networks. These are analytical methods that make unseen data easier to understand, or are used as pre-processing for supervised learning.  
 Reinforcement learning: rather than directly indicating the answer, the system is given a reward based on whether the outcome of a task meets expectations, allowing it to adjust itself.  
 This includes Q-learning, the SARSA method, and the Monte Carlo method.  
 
 Machine learning cannot directly read and learn from raw data. Pre-processing converts raw data into a data format that machine-learning programs can read.  
 Conventional machine-learning algorithms generally need to extract the necessary features for learning from the input data. One reason deep learning has attracted so much attention is that it can already achieve good performance without going through a separate “feature extraction” stage.  
 Input data for learning can be divided into batch learning and online learning. The former integrates multiple input data points and learns from them collectively, determining whether the overall judgment is correct; online learning provides feedback one item at a time.  
-Machine-learning performance is evaluated in terms of learning time, inference time, and inference accuracy.  
+Machine-learning performance is evaluated in terms of training time, inference time, and overall accuracy/loss.  
 Standards for inference accuracy include accuracy and loss. There are also recall, precision, false positives, false negatives, and so on.  
-Extremely high accuracy on specific data does not necessarily extend to unknown data. This phenomenon is called overfitting. The ability to handle unknown data is called generalization ability.  
+Extremely high accuracy on specific training data does not necessarily extend to unseen data. This phenomenon is called overfitting. The ability to handle unseen data is called generalization ability.  
 
 A neuron is the basic unit of the human brain. In terms of an artificial neural network, it can be represented by the following equation:  
 $$z = f(\mu) = f\left(\sum_{i=1}^{n} (w_i x_i - h)\right); i, j$$ 
@@ -82,9 +82,9 @@ This can be used in situations where the difference cannot simply be calculated,
 y is the machine’s prediction; t is the correct answer.  
 
 With a finite amount of data, one could simply change the values at random and search for the method that produces the smallest error. But once the combinations become enormous, this approach becomes impractical.  
-The gradient method can solve this problem. It is like trying to find the highest mountain in the world: first climb a nearby peak, look for a higher mountain, and repeat the process.  
-For example, with y=x^2, the minimum is at the point where the derivative is 0. The gradient method compares the derivative values and searches in the downward direction. The size of the steps also needs to be appropriate, and this can be determined by the learning coefficient η. Because this is not a parameter directly related to the model itself, it is called a “hyperparameter.”  
-There are various gradient methods, including the steepest descent method, Newton’s method, and Stochastic Gradient Descent.  
+Gradient descent can solve this problem. It is like trying to find the highest mountain in the world: first climb a nearby peak, look for a higher mountain, and repeat the process.  
+For example, with $$y = x ^ 2$$, the minimum is at the point where the derivative is 0. The gradient method compares the derivative values and searches in the downward direction. The size of the steps also needs to be appropriate, and this can be determined by the learning coefficient η. Because this is not a parameter directly related to the model itself, it is called a “hyperparameter.”  
+There are various gradient descent optimization algorithms, including the steepest descent method, Newton’s method, and Stochastic Gradient Descent.  
 
 Backpropagation is one of the most effective learning methods for multi-layer neural networks. One of its key mathematical principles is the chain rule:  
 $$\frac{\partial y}{\partial x} = \left(\frac{\partial y}{\partial z}\right) \times \left(\frac{\partial z}{\partial x}\right) \approx \left(\frac{\Delta y}{\Delta z}\right) \times \left(\frac{\Delta z}{\Delta x}\right)$$
@@ -106,12 +106,11 @@ Convolution means focusing on a small region at a time and learning the entire i
 The most common movement is from left to right and from top to bottom, called sliding.  
 If the input is a 6×6 square and the receptive field is 3×3, the output is 4×4, i.e. W-F+1.  
 
-Artificial-intelligence research includes both bottom-up and bottom-up approaches: the former attempts to achieve intelligence from the theoretical perspectives of mathematics and computer science, while the latter imitates the structure of neurons in the brain.  
+Artificial-intelligence research includes both top-down and bottom-up approaches: the former attempts to achieve intelligence from the theoretical perspectives of mathematics and computer science, while the latter imitates the structure of neurons in the brain.  
 Child-development and developmental psychologist Alison Gopnik explains that human children’s methods of learning can also broadly be divided into two types: top-down learning, which makes inferences based on existing knowledge, and bottom-up learning, which learns from actual phenomena.  
 Although deep learning emerged from top-down research, the learning mechanism itself is bottom-up.  
 
-Example programs from this book can be found at:  
-www.sotechsha.co.jp/sp/1187  
+Example programs from this book can be found at: www.sotechsha.co.jp/sp/1187  
 
 *Read through page 152. The remaining content concerns image recognition and natural language processing.*
 *Last updated: August 27, 2020*  

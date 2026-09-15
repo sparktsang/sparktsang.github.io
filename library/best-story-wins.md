@@ -15,8 +15,8 @@ Original notes [here](/library/best-story-wins/chi){:target="_blank"}.
 ---
 
 The author’s father was forced to inherit the family toy store. After seeing a drawing by the author at age four, he became convinced that his son could fulfill his own dream of becoming a Disney animator.  
-He joined Pixar, then headed by Steve Jobs after Jobs had been ousted from Apple, where he worked as an animator but discovered that what he loved most was creating stories.  
-Stories have a distinctive power because they alter brain hormones: Jerome Bruner found that facts accompanied by stories may be remembered up to 22 times more effectively.  
+He joined Pixar (then headed by Steve Jobs after his ousting from Apple) as an animator, but discovered that what he loved most was creating stories.  
+Stories have a distinctive power because they alter brain hormones: Jerome Bruner found that facts accompanied by stories are 22 times more memorable.  
 After returning to Apple, Jobs used storytelling at iPhone launch events to tremendous effect.  
 
 ### Suspense  
@@ -94,11 +94,11 @@ Practical demonstration:
 Once upon a time: theme  
 Every day: theme  
 Until one day: inciting incident  
-Because of that: things get worse  
-So: things get worse  
-Therefore: things get worse  
-As a result: the dark abyss and climax  
-From that day on: resolution  
+And because of that: things get worse  
+And because of that: things get worse  
+And because of that: things get worse  
+Until finally: the dark abyss and climax  
+And ever since then: resolution  
 
 *Finding Nemo*  
 Once upon a time: a clownfish loses his entire family, with only his son Nemo surviving, and vows never to let anything bad happen to him.  
@@ -130,7 +130,7 @@ Therefore: various obstacles and challenges were addressed by regulation, insura
 As a result: one company successfully developed and tested a product, taking autonomous-vehicle technology to a new level and promising a better driving experience.  
 From that day on: the company continued expanding the capabilities of autonomous vehicles, making transportation safer, faster, and easier for everyone.  
 
-### Let the Hero Save the Cat First  
+### Save the Cat  
 
 The hero is the core of a narrative. Regardless of which side they fight for, great warriors would have been regarded as heroes by the ancient Greeks: they are the vehicles through which stories are told.  
 New things in the living environment—including computers, networks, robots, and spaceships—inspired stories such as *The Social Network*, *Blade Runner*, *Star Wars*, and *Saving Private Ryan*.  
@@ -156,7 +156,7 @@ Herald: announces the change, much like the head of the art-school department wh
 Threshold guardian: tests the hero as they begin their journey, much like the HR department at *The Simpsons*.  
 Mentor: guides the hero, much like the author’s director.  
 Ally: helps the hero overcome obstacles and achieve the goal, much like the author’s fellow animators.  
-Jester: brings humor to the story and challenges the status quo, much like one of the author’s fellow animators.  
+Trickster: brings humor to the story and challenges the status quo, much like one of the author’s fellow animators.  
 Shapeshifter: appears to be an ally at first, then betrays the hero.  
 Shadow: the hero’s main obstacle and external threat, also known as the villain, much like the associate director who often gave the author a hard time and whom the animators drew as a tyrant.  
 Not all of these are necessary, but these character archetypes appear so often and are so important: without a giant, David is just a punk throwing stones.  
@@ -180,7 +180,7 @@ Write every day.
 Read.  
 Schedule your writing time in advance.  
 The first ten minutes of writing are the hardest; writing anything is easier than writing nothing.  
-Are you a sprinter or a planner? Planners map out the story in advance. Before putting pen to paper, they need to know where the story is going and have a broad structure to keep it moving. Sprinters keep writing without a plan, believing the story will gradually unfold during the writing process, creating spontaneously from inspiration. Both can produce good stories; knowing which suits you better is more helpful.  
+Are you a "pantser" or a "plotter"? Planners map out the story in advance. Before putting pen to paper, they need to know where the story is going and have a broad structure to keep it moving. Sprinters keep writing without a plan, believing the story will gradually unfold during the writing process, creating spontaneously from inspiration. Both can produce good stories; knowing which suits you better is more helpful.  
 Exercise for sprinters: set an 11-minute timer and try to write as quickly as possible. Write freely without revising or worrying about whether it makes sense.  
 Exercise for planners: take a boring article and turn it into a story, as though a major film studio had hired you to turn it into a blockbuster. The famous director Alfred Hitchcock said that drama is nothing more than cutting out the boring parts of life.  
 Act as quickly as possible, and try to see how fast you can get to the ending.  
