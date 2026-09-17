@@ -24,7 +24,7 @@ English translation [here](/library/hello-web-design){:target="_blank"}.
 
 ### 格線  
 
-格線對整齊和一致事在必要，強烈建議用包含網格的 css 框架  
+格線對整齊和一致乃屬必要，強烈建議用包含網格的 css 框架  
 
 ### 用色  
 
@@ -73,7 +73,7 @@ English translation [here](/library/hello-web-design){:target="_blank"}.
 
 多數國家都採用伯恩公約，即縱未主張版權也歸於原作者，因此事實上並不需在頁尾放版權聲明  
 單靠字體也可做出上佳設計，或僅用軟件產品的截圖  
-大小會影響網速，宜牢記以下原則：確保圖片是必要的最大尺寸，分開視網膜和非視網膜解晰度圖像  
+大小會影響網速，宜牢記以下原則：確保圖片是必要的最大尺寸，分開視網膜和非視網膜解析度圖像  
 圖示可將抽象內容呈現，Fiverr 可找到人設計圖示  
 iStock 可找到許多素材，還有 Unsplash、IM Free、picjumbo、Gratisography、PhotoPin  
 
@@ -90,8 +90,8 @@ iStock 可找到許多素材，還有 Unsplash、IM Free、picjumbo、Gratisogra
 ### 設計流程  
 
 第一步是尋找靈感，範例包括 The Best Designs（按：已失效）、Unmatched Style、Awwwards、Site Inspire  
-規劃：確定網站所需頁面，例如首頁、關於、作品集、聯絡，每月都有的 Logo、上方選單、頁尾選單  
-原型：將想法以線框形式畫出，快速凌亂簡單即可；草圖線框化可建構更多細節，宜用真實內文以知所需長度，這步驟的免費軟件有 GIMP、Inkscape，付費有 Illustrator 等；如有需要可用設計軟件起高傳真度模（mock-up），掌握規劃細節，但不熟悉的話費時或比編碼多  
+規劃：確定網站所需頁面，例如首頁、關於、作品集、聯絡，每頁都有的 Logo、上方選單、頁尾選單  
+原型：將想法以線框形式畫出，快速凌亂簡單即可；草圖線框化可建構更多細節，宜用真實內文以知所需長度，這步驟的免費軟件有 GIMP、Inkscape，付費有 Illustrator 等；如有需要可用設計軟件製作高保真模型（Hi-Fi mock-ups），掌握規劃細節，但不熟悉的話費時或比編碼多  
 求意見：問不滿意處以求進，可於 reddit 的 design_critiques subreddit 入手，或如 Five Second Test 的測試服務  
 編碼：運作暢順比美觀重要，不必過於講求原創，Bootstrap 設計框架就甚為普遍，還有 Skeleton、Foundation、PureCSS 等框架，有所限制但省時；注意多種熒幕相容（media query 可指定不同尺寸熒幕的 CSS 規則、Chrome DevTools 可看不同熒幕大小的效果）；注意檔案大小會影響網速  
 分析：黃金標準是 Google Analytics、還有 Segment 等  

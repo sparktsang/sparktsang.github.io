@@ -21,7 +21,7 @@ Research confirms that optimal experience occurs when we deliberately push our p
 The leap in material living standards has not made us happier; happiness depends on the order of consciousness  
 Governments, churches, banks, and drug dealers all want us to remain dependent on the social system; the most important step toward escaping social constraints is to possess the ability to find rewards at any time  
 Both Eastern and Western societies have developed many techniques for controlling consciousness, but they cannot be accumulated and replicated; we are even more helpless than those who came before us  
-Once the control of consciousness becomes institutionalized, it loses its original effect. Had Freud still been alive, his pursuit of self-liberation would have been transformed into a rigid and conservative profession; Marx's idea of liberation from economic exploitation ultimately became a system of repression; Dostoevsky said that if Jesus were to return to preach freedom, the Church would surely crucify him again  
+Once the control of consciousness becomes institutionalized, it loses its original effect. Had Freud still been alive, his pursuit of self-liberation would have been transformed into a rigid and conservative profession; Marx's idea of liberation from economic exploitation ultimately became a system of repression; Dostoevsky's Grand Inquisitor noted that if Jesus were to return to preach freedom, the Church would surely crucify him again  
 
 ### Chapter Two  
 
@@ -54,11 +54,11 @@ Not all flow is necessarily beneficial, just as fire can cause a fire; but if we
 
 ### Chapter Four  
 
-There are four types of enjoyable activities:  
-Competitive: improving skills in the face of an opponent's challenge, demonstrating one's potential  
-Chance-based: giving the illusion that one can control an unpredictable future, such as rolling dice  
-Vertigo-inducing: recombining the contents of consciousness, making people feel that consciousness itself has expanded, such as on a carousel or through drug use  
-Imitative: pretending and role-playing, making oneself feel like something more than one is in reality  
+There are four types of enjoyable activities (based on Roger Caillois' classification):  
+Agôn (competitive): improving skills in the face of an opponent's challenge, demonstrating one's potential  
+Alea (chance-based): giving the illusion that one can control an unpredictable future, such as rolling dice  
+Ilinx (vertigo-inducing): recombining the contents of consciousness, making people feel that consciousness itself has expanded, such as on a carousel or through drug use  
+Mimicry (imitative): pretending and role-playing, making oneself feel like something more than one is in reality  
 When skill falls below the level of challenge, it produces anxiety; otherwise, it produces boredom. Flow lies in between  
 Morality may cease to work outside one's own culture, but if the pursuit of optimal experience is the ultimate goal of humanity, we can use “psychic entropy” to show that one society is better than another because people experience things that are more consistent with their goals, allowing more people to grow and develop complex skills  
 The Native Americans of the Shushwap region undertook a great migration every 25 to 35 years to make life challenging again, seeking new water sources and new game; similarly, Japan's Ise Grand Shrine, with a history of 1,500 years in Kyoto, is dismantled and rebuilt on an adjacent site about every twenty years  
@@ -73,7 +73,7 @@ The family has a long-term influence on the ability to experience flow: clear ex
 Children from chaotic families often expend enormous amounts of energy in constant negotiations and conflicts in order to protect themselves from being crushed by their parents' goals  
 People who are skilled at it can experience flow in adversity, transforming desperate objective circumstances into subjectively controllable experiences. Some prisoners played chess in their heads, imagined going on hiking trips, or imagined playing golf  
 A Hungarian intellectual in prison was able to devote himself entirely to a poetry translation competition for more than a year: even when all ambitions are extinguished, people still need to find meaningful goals with which to organize themselves  
-For people with this quality, the motivation for action lies in the action itself, an “unconscious individualism”; they possess unencumbered psychic energy, objectively analyze their surroundings, and find opportunities and enjoyment within them  
+For individuals with an "autotelic personality", the motivation for action lies in the action itself, an “unconscious individualism”; they possess unencumbered psychic energy, objectively analyze their surroundings, and find opportunities and enjoyment within them  
 
 ### Chapter Five  
 
@@ -91,7 +91,7 @@ Cultivating a sensitive palate, like learning any other skill, requires an inves
 ### Chapter Six  
 
 A painting contains the artist's emotions, hopes, and ideas, and even the historical, cultural, and spiritual character of its time; if we pay attention, similar mental dimensions can also be found in the physiological activities of exercise, eating, and sex  
-When there is nothing to do, thoughts begin to wander aimlessly; unless one knows how to control them, attention will eventually settle on the most troubling things, so people fill their minds with information that is readily available, such as television, yet even this does not bring much enjoyment  
+When there is nothing to do, the mind naturally falls into "psychic entropy" (a state of internal disorder); unless one knows how to control them, attention will eventually settle on the most troubling things, so people fill their minds with information that is readily available, such as television, yet even this does not bring much enjoyment  
 Even something as simple as daydreaming can harness the mind and establish emotional order. For example, a child imagining the person who bullied him being punished can reduce feelings of frustration and hostility; rehearsing possible situations can reveal the best strategies and choices, increasing the complexity of consciousness, and when the skill becomes well developed, it can provide endless enjoyment  
 Kenneth Koch: with a little training, anyone can write moving lines of poetry, enriching life, increasing enjoyment, and raising self-esteem  
 Everyone is their own historian and can create an identity to increase enjoyment. Psychoanalysis helps patients organize the chaotic history of their childhood; keeping a diary and recording family history can turn history into a flow activity  
@@ -108,7 +108,7 @@ In weaving families of northern Italy that continued to use pre-Industrial Revol
 The author's experiment found that flow occurred 54% of the time during work, but only 18% of the time during leisure  
 During work, managers experienced flow more often, at 64%, compared with 51% for ordinary employees and 47% for blue-collar workers  
 During leisure, the figures were 15%, 16%, and 20% respectively; even for blue-collar workers, the probability of experiencing flow at work was still twice as high as during leisure  
-The paradox is that when people work, they encounter challenges and need skills, making them happier, stronger, more creative, and more satisfied, yet when people work, they still prefer leisure  
+This illustrates "The Paradox of Work": when people work, they encounter challenges and need skills, making them happier, stronger, more creative, and more satisfied, yet when people work, they still prefer leisure  
 This shows that when work is mentioned, people ignore their actual feelings and instead view it through cultural stereotypes: work is forced, constrained, and an infringement on freedom  
 The biggest complaints Americans have about work include lack of challenge, interpersonal conflict, and excessive fatigue; all of these can be changed by adjusting one's subjective consciousness: one's attitude toward things, helping each person achieve their goals rather than focusing only on oneself, and deliberately relieving stress  
 Leisure time lacks goals, rules, and challenges, so it requires more effort to shape it into a pattern that can bring enjoyment  
@@ -160,7 +160,7 @@ The steps for developing an autotelic self: set goals (the biggest difference be
 
 ### Chapter Ten  
 
-The word “meaning” has three senses: ultimate goal (what ultimately emerges from a series of life events that are mutually connected and causally related), intention (determination), and meaning itself (meaningful information: harmony)  
+The word “meaning” has three senses: Purpose (an ultimate goal, what ultimately emerges from a series of life events that are mutually connected and causally related), Resolution (intention/determination), and Harmony (meaningful information resolving into a coherent whole)  
 When goals, determination, and harmony are combined, they can be transformed into uninterrupted flow experiences; once this state is reached, there is nothing more to seek  
 Without a major ultimate goal, even the most orderly consciousness will lack meaning  
 Sociologist Pitirim Sorokin divided civilizations into three broad types: sensate, ideational, and idealistic civilizations  

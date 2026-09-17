@@ -66,7 +66,7 @@ Histats.com 可計網站流量並顯示於網站
 ### 外掛  
 
 陸譯插件，大量外掛只要懂 php 都可修改甚至創造  
-Jetpack 可將 WordPress.com 專屬功能全數使用的強烈推薦，WP Chinese Conversion 專業正殘轉換，Contact Form 7 完整的聯絡表單，Akismet 自動篩廣告留言，TinyMCE Advanced 大幅改良文字編輯器，Adminimize 管理網站權限，WordPress Share Buttons Plugin - AddThis 如其名，WP-DB-Backup 備份文章到電腦，Limited Login Attempts 限登入 WP 控制台次數（預設無限很不安全），HC Custom WP-Admin URL 改變後台登入址，UpdraftPlus WordPress Backup Plugin 完整網站備份、睡著都能備上雲端，Breeze - WordPress 將站靜態化、加速、建議必備，WP-Optimize 一鍵優化資料庫、如刪重覆文章、曾用過的外掛殘留，jQuery Image Lazy Load WP 以專業技術按用家視野載入相片、解決相片載入緩慢  
+Jetpack 可將 WordPress.com 專屬功能全數使用的強烈推薦，WP Chinese Conversion 專業正殘轉換，Contact Form 7 完整的聯絡表單，Akismet 自動篩廣告留言，TinyMCE Advanced 大幅改良文字編輯器，Adminimize 管理網站權限，WordPress Share Buttons Plugin - AddThis 如其名，WP-DB-Backup 備份文章到電腦，Limited Login Attempts 限登入 WP 控制台次數（預設無限很不安全），HC Custom WP-Admin URL 改變後台登入址，UpdraftPlus WordPress Backup Plugin 完整網站備份、睡著都能備上雲端，Breeze - WordPress 將站靜態化、加速、建議必備，WP-Optimize 一鍵優化資料庫、如刪重複文章、曾用過的外掛殘留，jQuery Image Lazy Load WP 以專業技術按用家視野載入相片、解決相片載入緩慢  
 
 
 ### 佈景  

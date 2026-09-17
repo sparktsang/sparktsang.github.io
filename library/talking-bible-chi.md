@@ -10,7 +10,7 @@ language: chi
 image: assets/bookcover/talking-bible.jpg
 ---
 
-Friedemann Schultz von Thun《談話聖經》  
+Friedemann Schulz von Thun《談話聖經》  
 
 English translation [here](/library/talking-bible){:target="_blank"}. 
 

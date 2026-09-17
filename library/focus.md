@@ -16,15 +16,15 @@ Original notes [here](/library/focus/chi){:target="_blank"}.
 
 ---
 
-An investigator sketching a thief in a crowded shopping mall must remain constantly focused
+An investigator scanning for a thief in a crowded shopping mall must remain constantly focused
 Attention can be broadly divided into three kinds: inward, toward others, and outward
 The abundance of information today leaves children with less capacity for learning and reduces real-world interaction. A middle-school teacher said that even high-achieving students now think reading *Greek and Roman Mythology* is too difficult, something that had never happened in the past
 
 Things that distract attention fall into two main categories: sensory and emotional
 Experiments have shown that the extent to which anxiety interferes with college athletes' concentration is highly correlated with how well they perform in the following season
 Only 20 percent of people experience a state of flow at least once a day
-Neural networks operate in two modes, bottom-up and top-down. The former is driven by emotion; the latter is responsible for self-control, enabling learning and the formulation of new plans. It is a spontaneous skill
-World champions need actions to operate automatically, relaxing and trusting the bottom-up movements. The moment you start thinking is the secret to messing things up; sex works the same way
+Neural networks operate in two modes, bottom-up and top-down. The former is driven by emotion; the latter is responsible for self-control, enabling learning and the formulation of new plans, which is a voluntary skill
+World champions need actions to operate automatically, relaxing and trusting the bottom-up movements. Thinking too much is a recipe for "choking"; sex works the same way
 The automatic system occasionally does this: Waiter: “Do you like your meal?” Customer (mistaking the question for whether he had finished the meal): “No, not yet.”
 
 Experiments found that people whose minds wandered produced 40 percent more original answers than those who were completely focused; people who achieve creatively experience mind-wandering far more frequently than average
@@ -38,7 +38,7 @@ A student at a nearby school during the author's middle-school years was passion
 Self-awareness is the key to steering one's life
 After being diagnosed with liver cancer, Steve Jobs told Stanford graduates: Don't let other people's opinions drown out your inner voice; have the courage to follow your heart and intuition, because they somehow already know what you truly want to become
 Seeing oneself through the eyes of others is a reliable form of self-awareness
-Daniel Kahneman was given the investment results of 25 investment advisers over a century by a company that managed investments for extremely wealthy people. After analyzing them, he found no relationship between the advisers' year-to-year investment performance, meaning that no adviser consistently outperformed the others. Management performance contained no greater element than luck
+Daniel Kahneman was given the investment results of 25 investment advisers over eight years by a company that managed investments for extremely wealthy people. After analyzing them, he found no relationship between the advisers' year-to-year investment performance, meaning that no adviser consistently outperformed the others. Management performance contained no greater element than luck
 When he told the company's executives this astonishing finding, they simply remained calm and continued eating
 An executive at a cloud-computing company said that when their servers broke down early in the business, reporters' calls came flooding in. But they decided to respond candidly, and then the problem disappeared; the reporters stopped calling
 
@@ -116,14 +116,14 @@ The public-relations disaster triggered by the BP chief executive in 2010 became
 The person with the greatest influence in a work team usually has the smallest gap between how they rate their own abilities and how others rate them. If that person has low empathy and a high drive for achievement, they will drag down the performance of the entire team; high empathy combined with low self-control also lowers performance: too much empathy can induce misconduct; when empathy is strong and other abilities are well balanced, team performance is usually higher (Vanessa Druskat)
 Like individuals, top teams are also good at the three kinds of focus. Teams that can openly and honestly discuss negative issues can achieve very high performance
 
-Some policies that are unpopular in the short term may become popular in the long term, such as New York's smoking ban and the carbon-emissions policy in British Columbia
+Some policies that are unpopular in the short term may become popular in the long term, such as New York's smoking ban and the carbon tax in British Columbia
 Leaders must broaden their time horizon to achieve true greatness, moving beyond the language of economics to balance financial returns with public welfare. The author recalls that in 2010 Unilever announced that the company's ecological footprint would be cut in half within ten years and pledged to source directly from small farms
 If attention remains limited to individual purposes and the small groups to which one belongs, humanity as a species will eventually go extinct in the long run
 The Dalai Lama suggested that we examine our motives by asking: Is this for ourselves or for others? To benefit a few people or many? For the present or for the future?
 
 Attention can be divided into conscious attention (associated with the lateral prefrontal cortex) and unconscious attention (related to the instinctive responses of the vigilance system)
 It can be divided into inward (self-awareness), toward people (cognitive empathy, emotional empathy, empathetic concern), and outward (the ability to think in systems and counter system blindness)
-Attention-deficit symptoms: distractibility, hyperactivity, impulsive listening, and emotional and behavioral problems
+Attention-deficit (ADHD) symptoms: distractibility, hyperactivity, impulsivity, and emotional and behavioral problems
 Short-term attention exercises include motivation, goals, and execution
 Practicing focus, setting priorities, and cultivating positive emotions can all strengthen attention
 After drinking a small amount of coffee, people can identify positive words quickly and accurately (Lars Kuchinke, 2012)

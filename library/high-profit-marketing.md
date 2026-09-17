@@ -20,7 +20,7 @@ The author works in advertising production. With more than ten employees and ann
 
 The subcontracting pyramid involves multiple layers of exploitation: prices are repeatedly cut until there is no profit, work schedules become unreasonable, employee dissatisfaction keeps growing, and the company has no future.  
 
-Salespeople cost ¥10 million a year, making them a very high-risk investment. If that money is instead invested in marketing, it can actually generate a return.  
+A single sales rep cost ¥10 million a year, making them a very high-risk investment. If that money is instead invested in marketing, it can actually generate a return.  
 
 Salespeople do not understand the technical side of the business, and customers can now go to a company's website and get the information themselves, which has diminished the value of the salesperson. There is little point in keeping them.  
 
@@ -30,18 +30,18 @@ Companies using these services vary as well: some indiscriminately hand everythi
 
 ### Key Points of the Marketing Blueprint  
 
-The basic marketing blueprint is: **discover → attract → acquire → follow up**.  
+The core B2B funnel is: **Reach → Attract → Capture (Lead Generation) → Nurture**.  
 
-**Discover:** establish points of contact.  
+**Reach:** establish points of contact.  
 **Attract:** provide compelling content that makes customers start thinking that they need to do business with you.  
-**Acquire:** ideally, use marketing automation (MA) to automatically build a customer database and nurture prospects, while digitizing their actions.  
-**Follow up:** continue sending useful articles so that opportunities are not lost.  
+**Capture:** ideally, use marketing automation (MA) to automatically build a CRM database and nurture leads, while digitizing their actions.  
+**Nurture:** continue sending useful articles so that opportunities are not lost.  
 
 When the author started his company, he was proud to adhere to two principles: never taking subcontracted work and never employing salespeople. In practice, however, telephone calls, faxes, newspaper advertising, and joining industry associations all failed. Only direct response marketing produced results.  
 
-A marketing blueprint requires six essential elements: a website, keyword advertising, direct-mail advertising, guides, and newsletters. (The first three are online, while the latter three are offline; the order depends on the circumstances of the company.)  
+A marketing blueprint requires six essential elements: a website, keyword advertising, direct-mail advertising, lead magnets (or whitepapers), and newsletters. (The first three are online, while the latter three are offline; the order depends on the circumstances of the company.)  
 
-The guide referred to here is a document used as the landing page destination for keyword advertising.  
+The lead magnet referred to here is a downloadable document used as the conversion goal on a landing page.  
 
 The author's company's progression was: direct mail → website renewal → keyword advertising → owned media using SEO.  
 
@@ -55,7 +55,7 @@ The current market situation is characterized by a lack of need for new products
 
 In many industries, the more you try to sell, the less effective selling becomes. It is better to pull customers in and let them come to you. (The book calls these **“pull media”** and **“push media.”**)  
 
-Get to know customers deeply and create customer personas. Investigate the channels through which they found your service, and use that knowledge to work backward toward a pull-based marketing approach.  
+Get to know customers deeply and create buyer personas. Investigate the channels through which they found your service, and use that knowledge to work backward toward a pull-based marketing approach.  
 
 After trying a large number of customer-acquisition techniques, the author discovered that only three were useful to his company: keyword advertising, SEO, and direct-mail advertising. The first two are pull-based; the last is push-based and can uncover latent needs.  
 
@@ -77,7 +77,7 @@ You can also introduce individual projects by hiring an outside interviewing com
 
 Appearance matters greatly. Elements such as parallax effects, animated graphics, and video can make visitors more excited and satisfied.  
 
-When planning the site, consider both the company's story—product knowledge, care in selecting raw materials, veteran technical expertise, the hardships and rewards of starting the business, relationships with suppliers, and social contributions—and the customer's journey—interest, information gathering, comparison, and action—and build the narrative around both.  
+When planning the site, consider both the company's story—product knowledge, care in selecting raw materials, veteran technical expertise, the hardships and rewards of starting the business, relationships with suppliers, and social contributions—and the Buyer's journey (Awareness, Consideration, Decision) and build the narrative around both.  
 
 Building the site is only the beginning. The mainstream way to keep a website updated is through a CMS, which requires no specialist knowledge. Website analytics can be handled with Google Analytics, giving you visibility into the behavior of prospective customers.  
 
@@ -85,7 +85,7 @@ Building the site is only the beginning. The mainstream way to keep a website up
 
 The two pillars of SEM are **SEO** and **keyword advertising**.  
 
-Keyword advertising is divided into two types: search ads and display ads. B2B customers rarely see an advertisement and immediately make a purchase, so the author does not recommend using display advertising.  
+Keyword advertising (SEM) is divided into two types: Search Network ads and Display Network ads. B2B customers rarely see an advertisement and immediately make a purchase, so the author does not recommend using display advertising.  
 
 Keyword advertising has three major advantages: **immediate effect** (it can immediately attract customers who already want the product), **predictability** (one response gives you a basis for predicting future results), and **scalability** (once you know what works in one area, you can expect it to work elsewhere).  
 
@@ -103,7 +103,7 @@ Google's Keyword Planner can be used to find appropriate search terms. Start wit
 
 If the number of clicks is low, change the ad copy. If the conversion rate is low, change the landing-page material. If customers leave when filling out the application, change the form.  
 
-The headline should include the product name and the search keywords the customer is most likely to enter, such as “bulldozer” or “rental.” Write from the customer's perspective, targeting what is in the customer's mind. Do not start from the seller's perspective. The company name is unnecessary. Examples include: “The Secret Behind In-House Publications That Inspire Employees to Read,” “Be Careful When Outsourcing the Production of Shareholder Reports,” and “What Is a Company History Produced by a Design Firm?” Killer keywords such as “free,” “secret,” and “success” can also be used to improve performance.  
+The headline should include the product name and the search keywords the customer is most likely to enter, such as “bulldozer” or “rental.” Write from the customer's perspective, targeting what is in the customer's mind. Do not start from the seller's perspective. The company name is unnecessary. Examples include: “The Secret Behind In-House Publications That Inspire Employees to Read,” “Be Careful When Outsourcing the Production of Shareholder Reports,” and “What Is a Company History Produced by a Design Firm?” Power words such as “free,” “secret,” and “success” can also be used to improve performance.  
 
 A landing page is a single, vertically scrolling, one-page website. It eliminates the need to browse other pages and keeps the customer focused on the product. A separate landing page should be created for each product.  
 

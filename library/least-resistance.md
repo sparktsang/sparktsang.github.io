@@ -28,18 +28,18 @@ Structure determines behavior. To achieve a particular outcome, you must change 
 Psychology assumes that dysfunctional behavior stems from problematic internal states. For example, unresolved problems with your mother may cause you to avoid romantic relationships with women; you need to resolve the problem to return to a normal state.
 These approaches cannot solve structural problems. Their effects are temporary, and eventually everything returns to its original state.
 
-### The Compliance–Resistance Knot
+### The Structural Conflict
 
-The “resistance–compliance orientation” is the primary driving force of life: most people believe that life is driven by the environment, and that there are only two choices: comply or resist.
-A person who complies, if powerless for long enough and sufficiently resentful, will suddenly turn into a difficult, defiant person.
-A person who resists, if powerless for long enough and sufficiently conflicted internally, will eventually return to compliance.
+The “reactive-responsive orientation” is the primary driving force of life: most people believe that life is driven by the environment, and that there are only two choices: comply or resist.
+A person who responds (complies), if powerless for long enough and sufficiently resentful, will suddenly turn into a difficult, defiant person.
+A person who reacts (resists), if powerless for long enough and sufficiently conflicted internally, will eventually return to compliance.
 Many lives swing back and forth within this cycle. The basic assumption is that people are powerless while the forces of the environment are overwhelmingly powerful. Whether complying or resisting, they attribute their own actions to the environment.
 “My son threw dishes around, and I couldn't help yelling at him for five minutes.”
 “They enthusiastically invited me to the gathering, so I had no choice but to say yes.”
 Within this orientation, avoidance strategies are also common, and may even develop into long-term strategies for preventing problems before they arise.
 For example, Frank, who grew up in a poor family, became extremely careful with every penny after becoming wealthy, lest he fall back into poverty. He avoided meeting his secondary-school classmates so they would not remind him of the past, and he also avoided media content related to poverty.
 On the surface, he may be wealthy and powerful, but he must constantly find ways to control his environment to avoid the life he fears most. He never feels truly safe or inwardly at peace. His mental life is effectively imprisoned within a variety of preventive strategies, exhausting all his energy in pursuit of a false happiness, while inwardly lacking any sense of achievement or fulfillment.
-The Compliance–Resistance Knot cannot be untangled. Do nothing until you understand the structural mechanism behind it.
+The Structural Conflict cannot be untangled. Do nothing until you understand the structural mechanism behind it.
 
 ### Creation, Not Problem-Solving
 
@@ -70,7 +70,7 @@ Skills can be acquired through learning and cultivation, and the steps are easy 
    The habit of giving up is simply the result of following the path of least resistance. Determination and perseverance are of no use; exhorting yourself to keep going is ineffective. What keeps creation going is learning as you go.
 
 4. Follow the rhythm of creation
-   There are three stages: germination, assimilation, and completion.
+   The three stages are Germination, Assimilation, and Completion.  
    Germination begins with excitement and a sense of novelty. Assimilation means accepting the creative idea and internalizing it. The power present at completion is similar to that of the germination stage, preparing you in advance for the next creative process.
 
 5. Accumulate creative momentum
@@ -78,20 +78,20 @@ Skills can be acquired through learning and cultivation, and the steps are easy 
 
 ### The Creative Orientation
 
-The Compliance–Resistance Knot and creation are both structures. Which orientation you belong to depends on which type of behavior you spend the most time engaged in.
+The Structural Conflict and creation are both structures. Which orientation you belong to depends on which type of behavior you spend the most time engaged in.
 The former makes people subject to an unpredictable environment, allowing emotions to dictate their lives and treating emotion as the indicator for whether to comply or resist. Life becomes like moving through a maze, with high walls all around; whenever they encounter a new dead end, they are utterly astonished. They continually cling to unfounded hope, believing that a new environment will appear and free them from the intrusion of conflict, so they constantly seek a “suitable” environment: a suitable job, partner, financial situation, faith, opportunity, place to live...
 In the latter, the environment is merely a force at your disposal in the creative process. To be immersed in it is essentially to inhabit another universe.
 Creators understand that emotions do not necessarily reflect whether an environment is good or bad. They are wise enough to understand that emotions always include both good and bad, and that whether sunk in despair or filled with joy, they can still create.
 Those in the compliance–resistance orientation often advise that people's behavior should be appropriate to one another: if you are too serious, they tell you to relax; if you are too conventional, they tell you to be bold; if you are afraid of the unknown, they tell you to summon your courage. The driving force behind the creator, by contrast, is a powerful desire to bring the work into existence. Nothing else matters; creation is pursued for the sake of creation itself.
-Robert Frost: Those who accomplish great things do so simply for the sake of the thing itself.
+Robert Frost: Those who accomplish great things do so for "the deed for the deed's sake".  
 Love for a work is like love for a child; being able to separate yourself from your work is one of the profound truths about creativity: love.
 Only then can you understand that God's creation of the universe was entirely an act of love.
-People raised within the Compliance–Resistance Knot lack the experience of creating purely out of love. They regard doing what they want as a luxury rather than an ordinary way of life. Their bodies may be well fed and sheltered, yet their spirits remain unfulfilled.
+People raised within the Structural Conflict lack the experience of creating purely out of love. They regard doing what they want as a luxury rather than an ordinary way of life. Their bodies may be well fed and sheltered, yet their spirits remain unfulfilled.
 They may even delude themselves into believing that doing what they want is itself improper or selfish; even when they do it, they must explain it as something necessary because they have no other choice.
 People who engage in destruction do so because they have failed to find their own creativity; that is what drives them to evil acts. It is not because they are capable that they scramble for power and profit; it is precisely because they are incapable that they manipulate others as they please.
 Everything invented and every field of study in the world originates in creation. Beethoven's Grosse Fugue was judged unlistenable at the time; today, most string quartets include it in their standard repertoire.
 
-How do we come up with what we want? This is a fiction created out of nothing. To people who can understand creation only through the Compliance–Resistance Knot, and who are prejudiced against fiction, it will seem heretical.
+How do we come up with what we want? This is a fiction created out of nothing. To people who can understand creation only through the Structural Conflict, and who are prejudiced against fiction, it will seem heretical.
 If, like most people, you ask “how?” first, you will be limited to things that are already known or can be imagined.
 The outcome comes first; the vision matters more than the process. Beyond that, the value of the creative experience seems to have no relationship to the final achievement.
 Before anesthetics were invented, physician Alfred Velpeau said in 1839 that painless surgery was an absurd fantasy.
@@ -101,8 +101,8 @@ Napoleon dismissed the steam engine, telling its inventor that the idea of a ste
 
 ### Tension
 
-A law of nature: tension tends toward release, from spider webs to the human body, from the formation of galaxies to plate tectonics, from pendulums to wind-up toys.
-The same applies to the structure of dialogue: a question creates tension, and an answer tends toward release.
+A law of nature: tension seeks resolution, from spider webs to the human body, from the formation of galaxies to plate tectonics, from pendulums to wind-up toys.
+The same applies to the structure of dialogue: a question creates tension, and an answer seeks resolution.
 Hunger creates tension, and eating tends toward release; being overweight creates tension, and not eating tends toward release.
 At this point, the two tensions cannot be released simultaneously, resulting in a back-and-forth oscillation.
 Desire creates tension, and success releases it; but it is very common to want to create something while, deep inside, also believing that you cannot have what you want.
@@ -112,13 +112,13 @@ Trying to change a structure from within the structure itself is always futile. 
 
 ### Compensation
 
-Three major compensation strategies for the tension structures described above:
+Three major compensating strategies for the structural conflict described above:
 
-1. Keep the conflict within a tolerable range
+1. Staying in the tolerable conflict
    Keep two rubber bands pulling in opposite directions at roughly equal tension, maintaining balance.
    Minimize harm, avoid stirring things up, and act “pragmatically.”
    Sacrifice creativity and the highest achievements in exchange for predictability and stability.
-2. Control the conflict
+2. Conflict manipulation
    People discover that they often act only under pressure, so they increase the pressure to force themselves to act.
    Illusory pressure arises from anticipated negative consequences: a company launches a new initiative because of a threat from competitors; employees show greater drive because they fear losing their jobs; a smoker decides to quit after hearing statistics about lung cancer.
    They make the conflict stronger or worse.
@@ -129,7 +129,7 @@ Three major compensation strategies for the tension structures described above:
    Both opposition to and support for nuclear weapons create an atmosphere of fear of destruction to manipulate the conflict. Structurally and formally, how are they different?
    People who overeat are often warned during training that they are powerless, and that if they do not keep a close watch on themselves, the addiction will return.
    Stanton Peele: The methods of other addiction experts are, in fact, all ways of destroying addicts' self-control.
-3. Control willpower
+3. Willpower manipulation
    This is common in “positive thinking”: it advocates using extraordinary means to implant programming in the subconscious, forcing it to accept positive thoughts.
    If your method of control is more powerful than the subconscious, why invoke the subconscious at all?
    Its implantation technique is like forcing an elementary-school student to write lines, with only the content changed: “The entire universe supports me,” and so on. Repeating it over and over merely shows that you did not believe it in the first place.

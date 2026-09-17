@@ -4,13 +4,13 @@ category: "Library"
 classification: Relationship
 order: 3
 title: 'Notes on <i>Talking as a Bible</i>'
-short_title: "Friedemann Schultz von Thun's Talking as a Bible"
+short_title: "Friedemann Schulz von Thun's Talking as a Bible"
 nav_title: Talking as a Bible
 description: Ever wonder why simple conversations turn into arguments? These notes unpack the "four ears" of interpersonal communication, revealing how hidden appeals and relationship dynamics cause misunderstandings, and offers practical psychological tools for authentic and effective interactions.
 image: assets/bookcover/talking-bible.png
 ---
 
-*Talking as a Bible* by Friedemann Schultz von Thun
+*Talking as a Bible* by Friedemann Schulz von Thun
 
 Original notes [here](/library/talking-bible/chi){:target="_blank"}.  
 

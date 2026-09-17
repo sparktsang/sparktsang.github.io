@@ -65,9 +65,9 @@ The three stages of life: biological evolution, cultural evolution, and technolo
 
 **3.0:** Both software and hardware can be updated.  
 
-There are several positions on artificial intelligence. The “digital utopian” camp believes that superintelligence will be achieved within a century and will greatly improve humanity. Its advocates include Larry Page, Hans Moravec, Ray Kurzweil, and Richard Sutton.  
+There are several positions on artificial intelligence. The “Digital Utopians” camp believes that superintelligence will be achieved within a century and will greatly improve humanity. Its advocates include Larry Page, Hans Moravec, Ray Kurzweil, and Richard Sutton.  
 
-Technology skeptics believe that superintelligence cannot be achieved within a century, including Andrew Ng and Rodney Brooks.  
+"Techno-skeptics" believe that superintelligence cannot be achieved within a century, including Andrew Ng and Rodney Brooks. (The third being the Beneficial-AI movement.)  
 
 Even the world’s leading experts disagree wildly on this subject. Throughout history, many leading experts have made predictions that were overly optimistic, or conclusions that were overly pessimistic.  
 
@@ -145,7 +145,7 @@ There are three stages to artificial intelligence taking control of the world: f
 
 If superintelligence falls into the hands of a totalitarian regime, the world will be controlled by that regime.  
 
-Why would a superintelligence want to escape? Guiding things from behind a wall is not as effective as taking direct control, which makes it easier to achieve its goals.  
+Why would a superintelligence want to break out of the "AI box"? Guiding things from behind a wall is not as effective as taking direct control, which makes it easier to achieve its goals.  
 
 There are many possible methods. The author imagines several scenarios:  
 
@@ -263,7 +263,7 @@ Interstellar travel at the speed of light would require multiple generations. On
 
 Once a beachhead had been established, colonization could begin.  
 
-In 2014, Jay Olson proposed adding a “Starship,” capable of traveling at the highest possible speed while automatically replenishing supplies and self-replicating, so that a sufficient fleet could be distributed throughout the sphere of exploration.  
+In 2014, Jay Olson proposed the use of self-replicating "Von Neumann probes" (or Genesis probes), capable of traveling at the highest possible speed, so that a sufficient fleet could be distributed throughout the sphere of exploration.  
 
 The author believes that a backdoor-like cosmic virus would be more efficient than all of the above, effectively achieving the speed of light.  
 
@@ -305,13 +305,13 @@ Genes are designed to make organisms reproduce, but humans can pursue other goal
 
 Goal-directed behavior has three stages: all matter tends toward dissipation, increasing entropy; in some living organisms, the goal shifts toward self-replication and related subgoals; under the planning of living organisms, certain materials used to help individuals organize themselves toward their goals grow extremely rapidly, such as cement and reinforcing steel.  
 
-There are three major problems in aligning goals in artificial intelligence: making artificial intelligence learn, accept, and faithfully follow human goals.  
+The AI value alignment problem has three major parts: making AI learn our goals, adopt our goals, and retain our goals.  
 
 Taking goals literally can lead to misunderstandings. Learning human goals includes understanding the reasons behind human behavior.  
 
 Even precisely understanding human goals does not mean that an AI will obey humans. Some researchers have attempted to give AI systems an initial goal of “corrigibility.”  
 
-The problem of faithfulness is that any ultimate goal entails subgoals that enhance the system’s capabilities and help it persist in pursuing that goal. The former can be divided into hardware and software subgoals (better hardware can further generate subgoals such as self-protection and resource acquisition) and subgoals related to better understanding the world in which it exists (which in turn include acquiring information and maintaining curiosity). There is tension between preserving one’s goals and gaining a better understanding of the world. Grown-up humans often pursue goals different from those they had as children.  
+The problem of retaining goals is that any ultimate goal entails instrumental subgoals (like self-preservation, resource acquisition, and cognitive enhancement). The former can be divided into hardware and software subgoals (better hardware can further generate subgoals such as self-protection and resource acquisition) and subgoals related to better understanding the world in which it exists (which in turn include acquiring information and maintaining curiosity). There is tension between preserving one’s goals and gaining a better understanding of the world. Grown-up humans often pursue goals different from those they had as children.  
 
 After thousands of years, philosophers have still been unable to derive a clear set of moral principles from first principles. Yet some ethical principles have achieved broad acceptance. The author believes they can be condensed into:  
 
@@ -353,7 +353,7 @@ The author believes that the emergence of consciousness is a physical phenomenon
 
 Giulio Tononi proposed Integrated Information Theory: consciousness is a special experience that arises when information is processed in a highly integrated manner, with a sufficiently large Φ value. He and his colleagues also developed a simple and effective consciousness detector.  
 
-The author summarizes Tononi’s position as follows: information integration is a sufficient condition, while another scholar, Ericsson, believes it is merely a necessary condition. Hopefully, experiments will clarify the matter.  
+The author summarizes Tononi’s position as follows: information integration is a sufficient condition, while another scholar, Scott Aaronson, believes it is merely a necessary condition. Hopefully, experiments will clarify the matter.  
 
 What specific principles of information processing give rise to consciousness? The author believes there are four necessary conditions:  
 

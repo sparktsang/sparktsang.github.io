@@ -83,7 +83,7 @@ The search may involve a series of trial-and-error experiences and periods of te
 Three levels of thinking about what you want to do:  
 
 1. Desires at the level of life (BIG WANT): dreams, visions, and missions. For example, wanting to become a novelist someday. You can think about the following two points at the same time:  
-* The axis of your life: How will you live? What do you want to do for other people or society?  
+* Your Core Values: How will you live? What do you want to do for other people or society?  
 * Your future image (What kind of person do you want to become three, ten, or thirty years from now?)  
   　　Desires at this level become clearer over time. Although they take time to work out, realizing them can dramatically increase happiness and bring a feeling that continues.  
 
@@ -160,8 +160,8 @@ Everyone’s desires in life are different, so their resonance with the followin
 
 Needs can be divided into:  
 
-* Needs relating to the self:  
-  Also called “self-completion needs.” They lie hidden in things that you enjoy doing even when you do them alone. They are needs for excitement and anticipation.  
+* Intrinsic Needs:  
+  They lie hidden in things that you enjoy doing even when you do them alone. They are needs for excitement and anticipation.  
   　* They are usually grounded in genetics or childhood experiences and do not change easily even as you grow older.  
   　* Recalling childhood experiences is particularly effective for finding your own needs. When you are young, you have not yet learned to care about other people’s eyes, so your own needs can be fully active.  
   　* The author recalls going camping with his family as a child, turning on lights on a pitch-black beach and toasting while listening to the sound of the waves, which gave him immense joy. Presumably, this was because he had a self-need for encountering an unknown world. Later, when the author first traveled abroad as a young man, he also felt a sense of anticipation; as an adult, he became especially fond of traveling to new places for the same reason.  
@@ -171,7 +171,7 @@ Needs can be divided into:
   　* List: adventure, encountering unknown worlds, stimulation, creation, imagination, guidance, exploration, influence, effort, control, investigation, design, organization, collection, contribution, giving, balance, stability, care, observation, persuasion, courage, finding motivation, teaching, devotion, inspiring creativity, awareness, analysis, flashes of insight, resonance, fashion, growth, risk, action, change, domination, maintaining freedom, exercise, achievement, setting goals, learning, contact with others, experiencing the sacred, encountering new things, reflection, systematization, familiarity, improvement, experimentation, training, honing oneself, sparking ideas, promoting growth, sensing, thinking, combining, excellence, support, mastery, painstaking effort, putting into words, listening, distinguishing, development, decision-making, speaking, encouragement, giving courage, nurturing, making an impact, decomposition, expressing originality, writing, insight, prediction, depicting, adding playfulness, interviewing, invention, problem-solving, strategizing, luxury, immersing oneself in silence, self-management, self-dialogue, becoming one with nature, ［other keywords］  
   　* Circle the words on the list that resonate with you  
 
-* Needs relating to others:  
+* Interpersonal Needs:  
   Needs fulfilled through relationships with other people. Also called “relational needs.”  
   　* People naturally belong to groups, and everyone wants to maintain relationships with others. When, for example, the author does something for someone and can clearly see that the other person is pleased, he becomes even more motivated. When no one responds during a speech, he feels discouraged.  
   　* Unlike self-needs, these are difficult to control by oneself.  
@@ -280,7 +280,7 @@ Taking action brings you closer to what you want to do
     　　　   * For work and social obligations that are difficult to refuse, decline them skillfully.  
     　   * Increase efficiency: concentrate attention, schedule breaks, and set time limits for work.  
 
-* Eliminate CAN'T: solve the problem of self-imposed limitations.  
+* Eliminate CAN'T: solve the problem of limiting beliefs.  
   　　　‧Cause One: Imagination is constrained  
   　　   * Thoughts such as “I wonder what I should do” or “I don’t even know whether it is possible” prevent you from finding what you desire.  
   　　   * This is usually underpinned by thoughts such as “It is better to be realistic” and “Talking about impossible dreams will only make me suffer.”  
@@ -377,7 +377,7 @@ The form is not important. Just regard it as a ritual that directly connects you
 3. Solo travel: travel abroad, take a forest bath, or go hiking. Concentrate on scenery, voices, smells, the taste of food, and the sensations in your hands. Slowly immerse yourself in the present instead of rushing through sightseeing. Make use of the time to meet yourself.  
 4. Fantasy: imagine yourself as someone in the profession you want to pursue, and imitate their clothes or working situation. Visit an ideal home or test-drive an ideal car. Or use other concrete materials, props, or actions to make the fantasy real. There is nothing wrong with fantasy in your mind, so there is no need to fear being laughed at.  
 5. Dialogue: confide in someone who is willing to listen to you talk for half an hour. Do not care about their reaction; focus your attention on your own emotions. This can make vague impressions concrete and generate new realizations.  
-6. The non-everyday: go somewhere far removed from the noise of everyday life and different from your normal surroundings, such as a quiet bar or a hotel lounge. Or rearrange your own home in an unconventional way, light candles, play nature sounds, and so on. Create an environment that helps you relax. Face your deeper self.  
+6. A Change of Scenery: go somewhere far removed from the noise of everyday life and different from your normal surroundings, such as a quiet bar or a hotel lounge. Or rearrange your own home in an unconventional way, light candles, play nature sounds, and so on. Create an environment that helps you relax. Face your deeper self.  
 The switch that works for each person is different. Once you find a suitable method, make it a habit. For habit formation, see the author’s previous work.  
 
 By naturally switching between the two modes of “just feel” and “just think,” intuition will naturally emerge in your mind.  
@@ -397,7 +397,7 @@ Once this naturally becomes a pattern, the three habits can repeat themselves an
 
 Person A studied hard to enter his ideal university. His parents wanted him to work for a stable major corporation, and he had made that his own goal as well, but he always felt uneasy inside. Due to the economic downturn, he was not hired in his job search, with interviewers saying that his aspirations were unclear. He went along with the flow and attended interviews, but because he was not genuinely pursuing anything he wanted, the interviewers could surely see through him immediately.  
 
-After clarifying his needs, A discovered that his self-needs were: adventure, achievement, coming up with ideas, action, change, and problem-solving; his other-people needs were: freedom from restrictions, recognition, being needed, and winning. No wonder he could not summon much enthusiasm for interviewing with large corporations. So he added dynamic, growing venture companies to his list of potential employers. He also realized that sales positions would better satisfy his needs for winning and achievement. On his desire list, he wanted to own his own company ten years from now, while the axis of his life was to change the educational environment for children in the future and make learning more enjoyable. He therefore chose to target venture companies engaged in education, as well as energetic small and medium-sized enterprises.  
+After clarifying his needs, A discovered that his self-needs were: adventure, achievement, coming up with ideas, action, change, and problem-solving; his other-people needs were: freedom from restrictions, recognition, being needed, and winning. No wonder he could not summon much enthusiasm for interviewing with large corporations. So he added dynamic, fast-growing startups to his list of potential employers. He also realized that sales positions would better satisfy his needs for winning and achievement. On his desire list, he wanted to own his own company ten years from now, while the axis of his life was to change the educational environment for children in the future and make learning more enjoyable. He therefore chose to target education startups, as well as energetic small and medium-sized enterprises.  
 
 At the same time as changing his target companies, he asked ten senior alumni whether they knew of any work that matched his aspirations. An alumnus from his university club introduced him to three companies, all of which had people he knew working there. A therefore visited each one and asked its employees for advice. The philosophy of Company W and the enthusiasm of its employees strongly resonated with him.  
 
@@ -433,7 +433,7 @@ C used the weekend to create a needs map. Her self-needs were analysis, learning
 
 Using this map as the basis, she spent a month completing her desire list for life point by point each evening. The axis of her life was to bring smiles back to unhappy children. Three years from now, she wanted to be married, raising a child, and promoted to department manager. Within a year, she wanted to leave work on time, look five years younger than her actual age, completely redesign her home, improve her relationship with her partner, save thirty thousand yen per month, and participate in activities supporting children with physical and mental disabilities. Her desires at the daily level included taking a half-hour bath every day, using essential oils while sleeping, watching a comedy program every day, and talking on the phone with her boyfriend for half an hour, among other things.  
 
-C decided to challenge herself to a morning-work routine for one week. She discovered that arriving early meant the first two hours were free from interruptions, greatly increasing her work efficiency and allowing her to leave earlier. Half-body bathing also greatly reduced her work stress. Once she made time to be with her boyfriend, her need to feel valued was also satisfied, and their relationship quickly improved. In the end, she participated in a volunteer activity, and when she mentioned it to her boyfriend, he also resonated with it and joined her.  
+C decided to challenge herself to a morning-work routine for one week. She discovered that arriving early meant the first two hours were free from interruptions, greatly increasing her work efficiency and allowing her to leave earlier. Taking a long soak in the tub also greatly reduced her work stress. Once she made time to be with her boyfriend, her need to feel valued was also satisfied, and their relationship quickly improved. In the end, she participated in a volunteer activity, and when she mentioned it to her boyfriend, he also resonated with it and joined her.  
 
 As for the intuition switch, every Saturday morning C took a notebook to a café to review the week’s events and her feelings. Through this, she came to deeply realize that seeing the children smile during volunteer activities was her greatest source of happiness. Solo travel had an astonishingly healing effect, and she became certain that her boyfriend was her lifelong partner, giving rise to the thought of accepting his marriage proposal.  
 

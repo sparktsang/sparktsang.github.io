@@ -15,7 +15,7 @@ Original notes [here](/library/life-ascending/chi){:target="_blank"}.
 
 ---
 
-Conditions for an evolutionary innovation to rank among the greatest innovations in the history of the book:  
+Conditions for an evolutionary innovation to rank among the greatest innovations in the history of life:  
 1. It transforms the entire living world of the planet.  
 2. It goes beyond our understanding of what is important (such as the addictive power of sex and the mystery of death).  
 3. It is the result of natural selection (rather than cultural evolution).  
@@ -57,7 +57,7 @@ This is related to the way tRNA works during translation. Combinations such as A
 But why this particular genetic code? There seems to be no physical or chemical connection between an amino acid and its corresponding codon.  
 It turns out there is a code within the code: amino acids synthesized from pyruvate all have T as their first letter; the second letter is related to whether the amino acid dissolves easily in water, with hydrophilic amino acids all having A; for eight amino acids, the third letter of the codon has no meaning and therefore allows greater flexibility, because the third codon position arose later.  
 
-The problem that DNA and proteins cannot evolve without one another: in the mid-1980s came the astonishing discovery that RNA can act as a catalyst. In the hypothetical RNA world, RNA could play both roles, serving as both DNA and protein.  
+ The chicken-and-egg problem of DNA and proteins: in the mid-1980s came the astonishing discovery that RNA can act as a catalyst. In the hypothetical RNA world, RNA could play both roles, serving as both DNA and protein.  
 This hypothesis shifted the problem from “How does the DNA code correspond to proteins?” to “What is the concrete reaction between RNA and amino acids?” Yet there is still no definitive answer.  
 More recently, American biochemist Harold Morowitz and others have suggested that very short fragments of RNA may also have catalytic power. The author points out that this is the line of reasoning that should be adopted for explaining the origin of the genetic code.  
 
@@ -131,7 +131,7 @@ Allen: mitochondria need constant feedback to provide energy, so they cannot be 
 Thus the two bacteria formed an alliance, breaking the energy constraint that had kept bacteria forever as bacteria. It was a fantastically rare encounter in which chance and necessity converged.  
 Once the encounter occurred, just as in symbiotic relationships among prokaryotic cells, the two would evolve together, redundant functions would disappear, and the engulfed bacterium would ultimately be left responsible only for its core service.  
 
-Why is a nucleus necessary? Martin and Funnell: early eukaryotes were constantly disrupted by introns produced by jumping genes that replicated themselves furiously and infected other genomes. Half of the human genome consists of intact jumping genes or their decayed remnants.  
+Why is a nucleus necessary? Martin and Koonin: early eukaryotes were constantly disrupted by introns produced by jumping genes that replicated themselves furiously and infected other genomes. Half of the human genome consists of intact jumping genes or their decayed remnants.  
 An intact jumping gene cuts itself out, but a remnant does not. To solve the disturbance they caused, eukaryotic cells evolved a system that uses the jumping genes' own RNA scissors to cut out unwanted RNA.  
 But the scissors were too slow. To give them enough time, a membrane with a large opening could be used to separate ribosomes from neighboring genes.  
 Once jumping genes ceased to be a threat, introns became useful. They allowed genes to be combined and recombined in novel ways to splice together different proteins, turning eukaryotic cells into tireless experimenters: just 25,000 human genes can produce at least 60,000 different proteins.  
@@ -147,7 +147,7 @@ Weismann: sex can collect multiple beneficial mutations and pass them on to futu
 Muller: under asexual reproduction, harmful mutations accumulate because mutants happen to encounter periods of abundant food and survive. This degeneration of fitness is known as Muller's ratchet. Sex can recombine the mutation-free genes.  
 Kondrashov: two premises. First, the mutation rate is faster than previously imagined, with every individual acquiring at least one harmful mutation per generation. Second, most organisms can tolerate a collection of mutations before they begin to deteriorate. Therefore: first, even populations of enormous size cannot escape Muller's ratchet; second, sex can eliminate multiple harmful mutations at once by removing the affected individuals.  
 By the first half of the twentieth century, the idea that sex could combine benefits and eliminate harmful mutations, thereby benefiting populations, had become a consensus.  
-Fisher's concern emerged in the mid-1960s: natural selection acts on individuals, not populations.  
+Fisher's concern emerged in the mid-1960s: natural selection acts on the level of the individual, not the population.  
 Williams: initially, sexual organisms must have an advantage beneficial to individual organisms before sex can spread through the whole population.  
 He also proposed that sex is advantageous under dramatic environmental change, but this did not fit actual environmental data.  
 Hamilton argued that sex was beneficial in competition with parasites, but Maynard Smith, based on computer simulations, pointed out that infection rates would have to be extremely high and their effects on hosts enormous before sex would necessarily become advantageous.  
@@ -202,7 +202,7 @@ Large reptiles have higher body temperatures because they have a lower surface-a
 The advantages of warm-blooded animals include nocturnal activity, expansion of territory, and support for larger brains. But they produce far fewer offspring, the cost remains severe, and most animals still have to sleep at night.  
 The core advantage is endurance: cold-blooded animals rely on anaerobic respiration and cannot sustain activity for long, quickly becoming immobilized by lactic acid buildup.  
 The more muscle fibers there are, the greater the force, but the less room there is for capillaries and mitochondria, so endurance declines.  
-Bennett and Ruben's 1979 aerobic-capacity hypothesis: natural selection did not select for body temperature itself, but for increased activity. Kotia supplemented this with the resulting advantage of intensive parental care.  
+Bennett and Ruben's 1979 aerobic-capacity hypothesis: natural selection did not select for body temperature itself, but for increased activity. Pawel Koteja supplemented this with the resulting advantage of intensive parental care.  
 Bennett and Ruben connected the two into an explanation of warm-bloodedness: maximum metabolic rate is correlated with resting metabolic rate. Animals that metabolize rapidly even at rest are therefore warm-blooded.  
 Recent research: the emergence of warm-bloodedness was mostly associated with enhanced organs and dense populations of mitochondria.  
 At the beginning of the Triassic, 95% of herbivorous land animals were Lystrosaurus. By the middle, cynodonts had gradually replaced them. They displayed characteristics of high aerobic capacity: hard palates, broad chests, and respiratory turbinates, which occur in birds and mammals but not reptiles. By the late Triassic, archosaurs dominated.  
@@ -226,7 +226,7 @@ Yet none of the above explains how neurons produce sensations, nor what the mate
 Chalmers: if feelings correspond to none of the known properties of matter, then matter must possess additional subjective properties that can be selected by natural selection as our internal experiences.  
 Cairns-Smith: feelings are produced by a group of proteins vibrating coherently through quantum effects. But it is difficult to explain how quantum vibrations could leap across the synaptic gap; replacing the universe of neural networks with a quantum universe does not solve any problem either.  
 Edelman: a particular pattern of neural signals must necessarily be accompanied by a particular sensation.  
-Musaccio: brain surgery is completely painless. The mind does not feel the existence of the brain. The basis of consciousness is that “you only need to know this much.”  
+Musacchio: brain surgery is completely painless. The mind does not feel the existence of the brain. The basis of consciousness is that “you only need to know this much.”  
 It is like natural selection selecting proteins rather than gene sequences. Protein-coding genes are subject to strict constraints, but only genes can be inherited, so there is no difference in the end. If a particular group of neurons consistently produces the same sensation when firing a particular signal, then natural selection can effectively select for the neural property itself.  
 The author: sensation is a complex and ineffable language. Red itself does not actually exist; it is simply a particular structure of neural signals. The language used to describe sensations is itself the product of another pattern of neural signals, like translation between languages.  
 Children with hydrocephalus who lack most of the cerebral cortex can nevertheless display clear signs of consciousness. The roots of consciousness therefore seem not to lie in the cortex but in older regions, although the cerebral cortex certainly makes consciousness vastly more sophisticated.  
@@ -237,7 +237,7 @@ Feelings seem so real because of the significance forged through the brutal test
 Algal blooms three billion years ago could disappear without warning, just as they can today, because they could kill themselves in complex ways.  
 Death may have originated as something driven by viruses, causing the strongest individuals to become spores ready to form the next algal bloom, while their weaker siblings killed themselves to avoid suffering the consequences.  
 Caspases, enzymes capable of shredding cells from within, may have evolved in cyanobacteria.  
-Weismann's distinction explains the mystery of death in multicellular organisms: somatic cells are supporting actors whose function is to help immortal germ cells, and their time of death is determined by the needs of the latter.  
+The Weismann Barrier explains the mystery of death in multicellular organisms: somatic cells are supporting actors whose function is to help immortal germ cells, and their time of death is determined by the needs of the latter.  
 Mitochondria also possess caspases, inherited perhaps from cyanobacteria or from the common ancestor of the two.  
 Eukaryotes independently evolved multicellularity five times: red algae, green algae, plants, animals, and fungi. Yet all use a caspase-based death machinery to regulate cells and punish those that overstep the bounds.  
 Medawar: individuals that mature and die earlier are more likely to leave more descendants than those that move more slowly through life.  

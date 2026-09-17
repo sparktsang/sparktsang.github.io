@@ -33,7 +33,7 @@ It is useful to make greater use of color palette sites such as Adobe Color CC.
 ### Typography  
 
 Typography refers to anything that makes text easier to read. Each typeface family, such as Arial, is divided into different fonts.  
-Serifs are decorative strokes at the ends of letterforms, and typefaces are divided into those with or without serifs. Body text should not be right-aligned (because the spacing looks awkward, with large gaps appearing in succession) or centered (because it is not left-aligned and is difficult to read).  
+Serifs are decorative strokes at the ends of letterforms, and typefaces are divided into those with or without serifs. Body text should not be right-aligned (because it creates awkward, uneven spacing and "rivers" of white space) or centered (because it is not left-aligned and is difficult to read).  
 Free fonts are available from Google Fonts and Adobe Fonts.  
 Curated font sites can narrow down the choices, including Beautiful Web Type, Typewolf, Brick.im, and Font Pair.  
 
@@ -41,14 +41,14 @@ Curated font sites can narrow down the choices, including Beautiful Web Type, Ty
 
 If you can use only one tool, use white space:  
 A cluttered, crowded website performs far worse than one that is simple, has room to breathe, and contains less information.  
-White space improves how easily a website can be understood, increases readability, improves calls to action, and establishes the overall tone of the design.  
+White space improves website comprehension, increases readability, makes Calls to Action (CTAs) stand out, and establishes the overall tone of the design.  
 White space includes the space between lines, between elements, and between groups of elements.  
 Beginners should err on the side of too much white space and double the amount of space they think they need.  
 
 ### Layout and Hierarchy  
 
 Layout determines how information is arranged on a page and the order in which information is presented.  
-Most readers browse websites in an F-shaped pattern.  
+Most users scan websites following the "F-pattern".  
 Hierarchy makes a page more interesting. Options include size, color, position, contrast, white space, and typography: larger items, highly saturated colors, elements placed in the upper-left corner, high-contrast items, elements with more surrounding white space, and heading typefaces all appear more important.  
 The squint test: blur the page, and the visual hierarchy becomes clearer.  
 If you cannot establish a visual hierarchy, readers cannot tell where the overall design begins or ends. This confusion reduces engagement and action.  
@@ -71,7 +71,7 @@ Prototype testing can save time. A/B testing can improve the design. Add analyti
 
 Most countries follow the Berne Convention, under which copyright belongs to the original creator even if they have not explicitly claimed it. Therefore, in practice, there is no need to put a copyright notice in the footer.  
 You can create excellent designs using nothing but typography, or simply screenshots of a software product.  
-File size affects loading speed. Keep the following principles in mind: make sure images are no larger than necessary, and separate images for Retina and non-Retina resolutions.  
+File size affects loading speed. Keep the following principles in mind: make sure images are no larger than necessary, and serve different image sizes for Retina (high-DPI) and non-Retina displays.  
 Icons can make abstract content more concrete. Fiverr can be used to find people to design icons.  
 iStock has many assets, as do Unsplash, IM Free, picjumbo, Gratisography, and PhotoPin.  
 
@@ -88,8 +88,8 @@ Real-world design often requires compromises between simplicity and functionalit
 ### Design Process  
 
 The first step is finding inspiration. Examples include The Best Designs (note: now defunct), Unmatched Style, Awwwards, and Site Inspire.  
-Planning: determine which pages the website needs, such as Home, About, Portfolio, and Contact, as well as elements that appear every month, such as the Logo, top navigation, and footer navigation.  
-Prototyping: turn your ideas into wireframes; they can be quick, messy, and simple. Sketching wireframes helps build out more detail. Use real copy so you know how much space it will require. Free software for this stage includes GIMP and Inkscape, while paid options include Illustrator and others. When necessary, use design software to create high-fidelity mock-ups so you can work through the details of the layout, but if you are unfamiliar with the software, this can take more time than coding.  
+Planning: determine which pages the website needs, such as Home, About, Portfolio, and Contact, as well as sitewide elements, such as the Logo, top navigation, and footer navigation.  
+Prototyping: turn your ideas into wireframes; they can be quick, messy, and simple. Sketching wireframes helps build out more detail. Use real copy so you know how much space it will require. Free software for this stage includes GIMP and Inkscape, while paid options include Illustrator and others. When necessary, use design software to create hi-fi mockups to work through layout details, but if you are unfamiliar with the software, this can take more time than coding.  
 Get feedback: ask what people are dissatisfied with so you can improve. You can start with the design_critiques subreddit on Reddit, or use testing services such as Five Second Test.  
 Coding: smooth operation is more important than aesthetics. There is no need to insist on originality. The Bootstrap design framework is very common, as are frameworks such as Skeleton, Foundation, and PureCSS. They impose some limitations but save time. Pay attention to compatibility across different screens (media queries can specify different CSS rules for different screen sizes, while Chrome DevTools lets you preview how the site looks at different screen dimensions). Also note that file size affects loading speed.  
 Analytics: the gold standard is Google Analytics, with Segment among the other options.  

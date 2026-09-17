@@ -21,7 +21,7 @@ The author’s thinking for this book began when her boyfriend at the time chall
 ### The Fresh Start Effect  
 
 Google’s HR department wanted to help employees make better decisions about working from home, but few employees signed up for the company’s free course, so they sought advice from a group of experts, including the author.  
-Many government health campaigns have had little effect, but the campaign encouraging parents to put babies to sleep on their backs to reduce the risk of sudden infant death was highly successful, leading the author to think about the blank-slate effect.  
+Many government health campaigns have had little effect, but the campaign encouraging parents to put babies to sleep on their backs to reduce the risk of sudden infant death was highly successful, leading the author to think about the Fresh Start Effect.  
 Ray Zahab, who had repeatedly failed to quit smoking, made a vow to quit again at the turn of the millennium—and succeeded.  
 Bob Pass had long wanted to give up his legal career and become a tennis instructor but never acted on it; only after narrowly escaping death did he finally make the change.  
 Data show that college students exercise more at the beginning of January, at the start of a week, after holidays, at the beginning of a new semester, and after their birthdays.  
@@ -35,7 +35,7 @@ Only 20% of the goals people set each January are successfully achieved, but tha
 ### Temptation Bundling  
 
 Present bias—that is, impulsiveness—is ubiquitous in shaping behavior. So making an activity immediately more pleasurable or gamified can increase people’s motivation to act.  
-At Odenplan subway station in Stockholm, a staircase was transformed into playable piano keys, and the number of people choosing the stairs increased by 66%.  
+At Odenplan subway station in Stockholm, a staircase was transformed into the famous "Piano Stairs", and the number of people choosing the stairs increased by 66%.  
 In Disney’s classic animated film *Mary Poppins*, sugar is added to medicine to get children to take it willingly.  
 Many people overestimate their future selves’ ability to make rational choices and underestimate the lessons of past failures, which is why they confidently prepay for a full year of gym membership.  
 When an unpleasant task is paired with a reward, motivation can increase dramatically.  
@@ -56,19 +56,19 @@ When a plan is complicated, it is better to use a checklist.
 
 Habits make good behavior automatic, but excessive rigidity can reduce the sustainability of those habits.  
 
-### The Power of Saying It  
+### The Advice-Giving Effect  
 
-Giving people advice can undermine their confidence; asking them for advice can instead help build it.  
+Giving people advice can undermine their confidence; asking them for advice can instead help build it.    
 Forming an advisory group in which members serve as one another’s mentors and friends can help people make progress in life.  
 Expectations can shape reality: one group of hotel housekeepers were told that their daily work helped them achieve their recommended amount of daily exercise, while another group received no such information. With the same workload, the first group lost an average of five kilograms, while the second group showed no change.  
-Allowing reasonable lapses in pursuit of a goal can effectively maintain a healthy level of self-confidence and help sustain a long-term effort.  
+Building mulligans into your goals—allowing for reasonable lapses—can effectively maintain a healthy level of self-confidence and sustain long-term effort.  
 Develop a growth mindset, and you will be better able to rise from failure.  
 Focusing on experiences you are proud of can eliminate self-doubt and build resilience.  
 
 ### Copy and Paste  
 
 When facing a challenge, you can copy the experience of someone who is skilled in the relevant field. Some people who wanted to become vegetarian initially had no idea where to start, but they found it easy to make the transition by following the ordering habits of vegetarians.  
-A hotel-room notice saying that 75% of guests reuse their towels increased reuse by 18%; when the notice instead said that most guests who stayed in that particular room reused their towels, reuse increased by another 33%.  
+A hotel-room notice saying that 75% of guests reuse their towels increased reuse by 18% (a classic example of Social Proof); when the notice instead said that most guests who stayed in that particular room reused their towels (local social proof), reuse increased by another 33%.    
 Facebook telling users that their friends had already voted increased those users’ likelihood of voting.  
 Peer effects are enormous: people imitate others without even realizing it. To achieve major goals, a peer group is important, and the closer the people are to us, the more influence they have. But when the gap between us and the person we are trying to emulate is too large, it can severely damage our confidence and make us give up altogether.  
 A get-out-the-vote letter stating that voting records would be made public across the entire district increased turnout by 8.1 percentage points. The author notes that she had never seen such an effect from conventional campaign materials.  

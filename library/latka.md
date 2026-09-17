@@ -42,7 +42,7 @@ If even a middle-school student can execute them, you have successfully turned i
 
 Two mental constraints: No one is as good as me; if I replace myself, then I won't have any value  
 Even if you are the best in the world, two people who are each 60% as good as you will still be better than you combined  
-Replaceability thinking and systems thinking are enemies  
+The "irreplaceable" mindset and systems thinking are enemies  
 Systems thinking requires you to reduce costs and increase output  
 Costs include your own time and energy  
 
@@ -108,7 +108,7 @@ Then find the landlord and offer no more than 100 times the monthly rent
 Banks will lend 75% to 95%, depending on whether you are living there yourself or investing; for owner-occupied property, they may lend 95%  
 If you don't have much principal, you can try living in one room yourself and renting out all the others, minimizing costs and maximizing cash flow  
 If you have zero capital: using a $200,000 house as an example, ask your family to help you borrow $5,000, and pay them 2% interest above the bank rate—a win-win  
-Borrow from the seller: tell them, "I just bought your house, and you've got $200,000 in your pocket now. Can you lend me $10,000? I can start paying you interest immediately."  
+Use Seller Financing: tell them, "I just bought your house, and you've got $200,000 in your pocket now. Can you lend me $10,000? I can start paying you interest immediately."  
 Borrow from the property management company: "If you're willing to lend me $10,000, I'll use your services, and I'll start paying you interest immediately."  
 Remember to factor in PMI, private mortgage insurance, and other miscellaneous costs such as property management and repairs (always assume 2%; in experience, that's fairly accurate)  
 Before bidding on the property, you have to make a deal with the property management company: "If you charge me 5% of the monthly rent as the property management fee, I'll use you for every property I buy from now on. If you can't do that, I won't be able to buy this property."  
@@ -119,7 +119,7 @@ It is best to buy property before starting a family; you can live in a one-bedro
 
 Making money by buying companies is simpler than you might think—three steps  
 First, buy a free information-technology product company with a huge user base; ideally, it has a very high valuation and many users, but hasn't been updated for a while  
-Second, hire a Toptal developer to build a paywall that automatically appears after users have used it many times  
+Second, hire a Toptal developer to implement a metered paywall (or usage-based paywall)    
 Third, reinvest the money you make and buy new companies  
 Zero to One has said that companies with monopolistic characteristics are the best buys, but these kinds of companies are hard to find and hard to buy  
 The closest option is to find a company that requires no employees and has a monopoly over its distribution channel; these are relatively easy to find and buy  
@@ -131,7 +131,7 @@ At least that got them interested in selling, and then he would say: "I really w
 Then figure out whether they are full-time or doing it as a side business, whether they are under financial pressure, and understand the scale of the company; understand the other party's motivations. If they need money to pay off a mortgage, for example, you can pay it off for them in installments directly, saving money while solving their problem  
 If the other party uses revenue to push up the price, tell them that after you buy the company, you will shut down the paid tier and focus on growth, leaving them unable to use it to drive up the price  
 An example of the payment terms: pay only the initial payment, then pay 50% of annual revenue each year until a total of $1 million has been paid  
-After the acquisition, use dual pricing for addicted users and find ways to get customers to pay more  
+After the acquisition, implement price segmentation for power users and find ways to get customers to pay more  
 Strengthen SEO with content; there are human-resources websites that focus on just one thing. Ask yourself: What are people looking for when they hire? Build content around that  
 If you don't want to rely on content alone, another recommended tool is SEMrush  
 An important adjustment is where the paywall appears; understand which activities customers have done that make them more likely to pay  
@@ -166,12 +166,12 @@ His GetLatka could never have one million customers, so he simply capped the num
 
 Clate Mask, CEO of Infusionsoft, found that an 8% monthly customer churn rate was extremely serious in 2014  
 He discovered that many users had signed up simply to use it for free and left as soon as the trial ended  
-So he did something counterintuitive: he charged customers more. He collected $2,500 at the very beginning of the sales process, making customers take the decision seriously, and finally attracted serious customers  
+So he did something counterintuitive: he charged customers more. He charged a $2,500 upfront setup fee (creating friction) to filter for high-intent customers, and finally attracted serious customers  
 If you still don't understand your customers well enough, first bring in more customers and study their behavior over a few months  
 
 Segment and analyze churned customers by signup month (also called cohort churn analysis), and they found that 15.3% of Heyo's business had remained churn-free from June 2014 to the present. In the end, they discovered that these loyal customers were companies that generated the most sales leads through Facebook contests run by Heyo, so they priced according to the number of sales leads customers obtained, immediately increasing profits  
 
-Increase your share of customers' wallets: discover what other products customers are also buying; you can partner with the vendor of the other product and earn advertising revenue, or develop that type of product yourself  
+Increase your Wallet Share: discover what other products customers are also buying; you can partner with the vendor of the other product and earn advertising revenue, or develop that type of product yourself  
 
 Cut expenses dramatically: tell your most expensive service provider, "I can't afford this. I have no choice but to find something cheaper, so please cancel my account." Almost every company has a process that will do everything possible to persuade you not to leave. ActiveCampaign cut the fee in half. This trick doesn't work on big companies.  
 
@@ -181,7 +181,7 @@ If a business fills up your schedule and has no future, sell it
 The most obvious buyers are competitors. Contrary to common sense, acting extremely eager makes the other party think this is an easy opportunity to swallow up a competitor: "I have to sell the business so I can free up time to deal with my personal affairs. Talk to me."  
 Give them a discount at the beginning, making them extremely happy and encouraging them to spread the word everywhere  
 Once they take the bait, say that other people also want to buy it, creating a competitive situation, then use your responsibility to the investors as leverage to get the other party to raise the price  
-If you are cheese and can't find another piece of cheese to acquire you, go find something complementary, such as bread  
+If you are cheese and can't find another piece of cheese to acquire you, look for a strategic acquirer (something complementary, like bread)    
 Companies in the sales channel are also an option; Square, which bought Weebly, sold a lot of Weebly products  
 If the proceeds from selling the company exceed what you would earn by working at the company for more than three years, sell it  
 You have to believe that you are smart enough to come up with a better idea  

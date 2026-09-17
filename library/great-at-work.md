@@ -21,7 +21,7 @@ Empirical research has identified seven factors behind high performance, explain
 
 Smoking accounts for only 18% of the variation in life expectancy (Audre Biciunaite, 2014), while salary accounts for only 33% of the factors affecting differences in individuals’ net worth (PK, “Correlation of Wealth and Income by Age,” 2016).  
 
-### I. Double Focus: Concentrate Single-Mindedly and Strive for Excellence in What Matters Most  
+### I. Do Less, Then Obsess: Concentrate Single-Mindedly and Strive for Excellence in What Matters Most  
 
 Two teams simultaneously attempted to reach the South Pole. The team with far fewer resources and less funding won. Unlike its rival, which used five different means of transportation, it relied solely on dogs, pouring its effort into training the best sled dogs: the more you do, the less you actually get done.  
 
@@ -35,7 +35,7 @@ Multitasking is less efficient; judges who handle cases one at a time are more p
 
 Companies can become too complicated, creating severe internal friction: additional goals, priorities, and checkpoints make it harder to do anything well.  
 
-When Jiro Ono, the “Sushi Chef God,” prepares sushi for customers, he massages an octopus by hand for 40 to 50 minutes to make its flesh tender. Apprentices can spend eight years learning before they are even allowed to prepare the most basic tamagoyaki, and by the time they are permitted to serve it to customers, they have already practiced it extensively.  
+When Jiro Ono, the sushi master from the documentary *Jiro Dreams of Sushi*, prepares sushi for customers, he massages an octopus by hand for 40 to 50 minutes to make its flesh tender. Apprentices can spend eight years learning before they are even allowed to prepare the most basic tamagoyaki, and by the time they are permitted to serve it to customers, they have already practiced it extensively.  
 
 The famous bathroom murder scene in *Psycho* lasts only 45 seconds, yet it took seven days and more than seventy takes to shoot. Dyson spent 15 years building 5,000 prototypes before developing its first bagless vacuum cleaner.  
 
@@ -81,15 +81,15 @@ Strategies: spend fifteen minutes each day focusing on practicing the same skill
 
 Technological innovation is disrupting the workplace, and traditional skills are nearing obsolescence. To remain unbeatable, one must combine the learning loop with work redesign and keep improving continuously.  
 
-### IV. Passion and a Sense of Mission  
+### IV. Passion and Purpose (P-Squared)  
 
-Among the seven high-performance mindsets identified in the book, this ranks second in importance. People who lack passion or a sense of mission rank 18 percentile points lower in performance.  
+Among the seven high-performance mindsets identified in the book, this ranks second in importance. People who lack passion or a purpose rank 18 percentile points lower in performance.  
 
-Passion means doing what you love; a sense of mission means making a contribution. People with passion ask, “What can the world give me?” People with a sense of mission ask, “What can I do for the world?” Unlike the simplistic idea that passion alone is the key to success, both are indispensable to a good life and strong work performance.  
+Passion means doing what you love; purpose means making a contribution. People with passion ask, “What can the world give me?” People with purpose ask, “What can I do for the world?” Unlike the simplistic idea that passion alone is the key to success, both are indispensable to a good life and strong work performance.  
 
 Research reveals that the reason for dramatically higher performance is not working very long hours, but working very hard at one’s work: Gui Yi, a concierge at a five-star hotel in Quebec, went to great lengths to help a documentary filmmaker who was staying there. She seriously searched locally for unusual items, made numerous phone calls, and secured the loan of many valuable specimens and local specialties. She went on to become one of the finest hotel service professionals in the world.  
 
-People in almost every occupation can find passion and a sense of mission. Whether they can find them has nothing to do with the size of the company or their tenure.  
+People in almost every occupation can find passion and purpose. Whether they can find them has nothing to do with the size of the company or their tenure.  
 
 Three steps:  
 
@@ -99,7 +99,7 @@ Broaden your passion across six dimensions: enjoy the work itself, experience su
 
 Climb the pyramid of purpose: create extraordinary value without causing harm, discover personal meaning (some cleaners felt deeply about protecting animals, while some hospital workers enjoyed making patients feel a little better), and develop a powerful social mission.  
 
-### V. Smart Grit in Persuasion  
+### V. Forceful Champions (using smart grit)  
 
 Persuading others determines whether goals can be achieved. The most important thing about being persuasive is the ability to win people’s hearts and make them excited.  
 
@@ -117,11 +117,11 @@ In 2009, celebrity chef Jamie Oliver wanted to improve eating habits in Huntingt
 
 A procurement employee trying to persuade the CEO to go paperless stacked several thousand pages of paper on the conference-room table.  
 
-Strategies for persuading people when blocked: understand the other side’s thoughts and concerns; decide what you are determined to fight for and where you are willing to compromise; if possible, turn enemies into allies (find ways to get the other side to cooperate with you); harness the collective power of many (the Indian “Pad Man” recruited a group of village women to manufacture and promote low-cost sanitary pads).  
+Strategies for persuading people when blocked: understand the other side’s thoughts and concerns; decide what you are determined to fight for and where you are willing to compromise; if possible, turn enemies into allies (find ways to get the other side to cooperate with you); harness the collective power of many (the Indian social entrepreneur Arunachalam Muruganantham, known as the “Pad Man”, recruited a group of village women to manufacture and promote low-cost sanitary pads).  
 
-Persuasive masters are good at arousing intense emotions, then using actions, images, pictures, and demonstrations to shock people, while also inspiring others through a sense of mission.  
+Persuasive masters are good at arousing intense emotions, then using actions, images, pictures, and demonstrations to shock people, while also inspiring others through a purpose.  
 
-### VI. Argue Well and Unite Well  
+### VI. Fight and Unite  
 
 In 1961, a government-backed group of Cuban revolutionaries landed in Cuba, only for the invasion to end in disaster. Yet the leaders of the operation were supposedly a first-rate team. During meetings, everyone had doubts, but they followed the crowd.  
 
@@ -151,7 +151,7 @@ Team members should have diverse backgrounds so that more perspectives are broug
 
 Women who are good at arguing with others score nearly 32%, compared with 30% for men. Thirty-eight percent of women score highly in bringing people together, compared with 34% of men.  
 
-In 2009, the Heineken Group, trying to turn around its performance, encouraged everyone to speak honestly in meetings. Each person had three cards: a red card reading “Challenge — Have another solution,” a green card reading “All in — Ask me why,” and a gray card reading “Shiny objects alert — Get back on track.” They were used to express opposition, support, and digression.  
+In 2009, the Heineken Group, trying to turn around its performance, encouraged everyone to speak honestly in meetings. Each person had three cards: a red card reading “Challenge — Have another solution,” a green card reading “All in — Ask me why,” and a gray card reading “Shiny object alert — Get back on track.” They were used to express opposition, support, and digression.  
 
 There was also a toy horse in the meeting room, which could be thrown at anyone who talked on and on. Later, even people with unusual ideas who were extremely introverted dared to share them with everyone.  
 
@@ -169,15 +169,15 @@ The research in this book found that people who actively eliminate political tac
 
 An assessment question for mastering this principle: Can I (or the team I lead) argue for my own views and say what I truly think? Can I accept the final decision and work hard to put it into practice?  
 
-### VII. Master the Art of Collaboration  
+### VII. Disciplined Collaboration  
 
-In 2012, Dodge Fort Hospital had numerous specialties that could not coordinate with one another, wasting resources and causing errors. This was the silo effect.  
+In 2012, a hospital in Fort Dodge had numerous specialties that could not coordinate with one another, wasting resources and causing errors. This was the silo effect.  
 
 Too much collaboration is no better. It leaves people unable to keep up with everything and severely reduces efficiency.  
 
 Before collaborating, one must consider whether it can actually create value: “collaboration value” = benefit of the proposal − opportunity cost − collaboration cost. Collaboration must also have a specific, measurable, time-bound shared objective, such as “send humans to the Moon within ten years and return them safely to Earth.” Reward the results of collaboration, not collaboration itself, to avoid encouraging excessive collaboration.  
 
-In 2003, Mike McMullen became manager of Agilent Technologies’ chemical analysis division and discovered strong demand for a three-stage, four-level analysis instrument, but its development depended on the life sciences division. He therefore strongly promoted collaboration between the two sides, persuading them with sufficient market information. He also gave that division a share of the business results, while ensuring that top-tier talent from the division was fully committed throughout rather than merely going through the motions. The teams reviewed progress regularly, and the project ultimately achieved great success. McMullen later took over leadership of the entire company based on his performance.  
+In 2003, Mike McMullen became manager of Agilent Technologies’ chemical analysis division and discovered strong demand for a triple quadrupole mass spectrometer (QQQ), but its development depended on the life sciences division. He therefore strongly promoted collaboration between the two sides, persuading them with sufficient market information. He also gave that division a share of the business results, while ensuring that top-tier talent from the division was fully committed throughout rather than merely going through the motions. The teams reviewed progress regularly, and the project ultimately achieved great success. McMullen later took over leadership of the entire company based on his performance.  
 
 In another case, a company partner brought together three experts from the company to discuss a problem, only to discover that their opinions contradicted one another. The company ultimately lost the contract: the team already had sufficient professional expertise, so this collaboration produced a negative return.  
 
@@ -191,7 +191,7 @@ Leaving work on time, shutting everything off when work ends, and defending your
 
 There are many factors affecting happiness—where you live, how you get around, health, people, salary, and so on—but the seven mindsets account for 29% of the variation in happiness.  
 
-Double focus and collaboration are particularly conducive to work-life balance. Passion and a sense of mission can easily lead to imbalance, but they are especially important for increasing job satisfaction (the other three are redesigning work, smart grit, and collaboration). The ability to argue and unite can easily lead to burnout.  
+Double focus and collaboration are particularly conducive to work-life balance. Passion and purpose can easily lead to imbalance, but they are especially important for increasing job satisfaction (the other three are redesigning work, smart grit, and collaboration). The ability to argue and unite can easily lead to burnout.  
 
 Three strategies for preventing negative effects: make good use of the time dividend (use the time gained through higher efficiency to rest); harness passion while balancing life (do not keep thinking about work at home); reduce emotional conflict.  
 

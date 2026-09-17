@@ -83,7 +83,7 @@ The harshness of Qin rule caused popular rebellions. The institutional system of
 
 A government of literati controlled the military, unlike in other countries. This benefited from the lower degree of institutionalization of the military compared with the civilian bureaucracy, as well as from strong normative ideas.  
 
-The Liang clan of imperial relatives installed Emperor Huan. Emperor Huan then used the eunuchs to stage a coup and massacre the Liang clan, after which the Confucian scholars eliminated the eunuchs.  
+The Liang consort clan installed Emperor Huan. Emperor Huan then used the eunuchs to stage a coup and massacre the Liang clan, after which the Confucian scholars eliminated the eunuchs.  
 
 Wang Mang’s land reform failed, and the disparity in landholding grew increasingly severe. By the end of the Han, aristocratic clan power had already been restored; Cao Pi’s Nine Ranks system accelerated the trend. Official positions became far more likely to be hereditary than before, and holding office became the only route to high status. The patrimonial system flourished until the end of the Tang.  
 
@@ -143,7 +143,7 @@ The Mamluks eventually escaped government control and took over the state, fores
 
 The Mamluk regime had two major defects: it lacked a mechanism for selecting the sultan, and it lacked a political authority capable of commanding the entire realm.  
 
-The Mamluks served the sultan while also being contenders for the throne themselves, making ruler and agent one and the same. Once powerful Mamluks gained control, they also worked to preserve the status of their descendants, donating land to endowments and placing their descendants in charge, thereby circumventing the principle that noble status ended with death. An institution created to combat tribalism thus ended up retribalizing itself.  
+The Mamluks served the sultan while also being contenders for the throne themselves, making the principal and the agent one and the same. Once powerful Mamluks gained control, they also worked to preserve the status of their descendants, donating land to endowments and placing their descendants in charge, thereby circumventing the principle that noble status ended with death. An institution created to combat tribalism thus ended up retribalizing itself.  
 
 The Ottoman Empire, which replaced the Mamluk regime, improved and expanded the slave military system. Unlike European feudal lords, its enfeoffed nobles could not inherit their positions; they were responsible for recruitment and taxation.  
 
@@ -269,7 +269,7 @@ The financial system encouraged self-dealing. Elites invested in privileges that
 
 The long-running transfer of wealth from the poor to the rich produced a series of tax revolts, all of which were brutally suppressed.  
 
-Although France’s high courts could reject legislation imposing new taxes, the king could summon a royal session to force passage of such laws. In 1648, leaders of the high courts were arrested, triggering the Fronde. The nobles rebelled militarily but failed because they could not act together. Afterward, centralization became even stronger. In 1692, the election of local magistrates was abolished and appointments were made centrally.  
+Although France’s high courts could reject legislation imposing new taxes, the king could summon a *lit de justice* (bed of justice) to force passage of such laws. In 1648, leaders of the high courts were arrested, triggering the Fronde. The nobles rebelled militarily but failed because they could not act together. Afterward, centralization became even stronger. In 1692, the election of local magistrates was abolished and appointments were made centrally.  
 
 Louis XIV died in 1715, leaving enormous debts. The government, behaving almost like a protection racket, summoned a special court and threatened creditors with investigations into their finances in exchange for reducing their claims.  
 
@@ -293,13 +293,13 @@ In 1469, Ferdinand and Isabella married, and the Spanish state rapidly rose to p
 
 Although precious metals poured continuously into Spain from the Americas, constant warfare left Spain financially strained. In the 1520s, national debt reached one-third of annual revenue; by 1560 it exceeded 100 percent. Spain later defaulted repeatedly and continually renegotiated its debts.  
 
-In 1519, Charles V packed the assembly with his supporters and imposed a new tax system. Urban citizens revolted and established an elected assembly, but because it attacked the aristocracy, the aristocrats switched their allegiance to the king. The royal family regained control of the military. The king, recognizing popular discontent, restored the previous system of tax-sharing.  
+In 1519, Charles V packed the *Cortes* (assembly) with his supporters and imposed a new tax system. Urban citizens revolted and established an elected assembly, but because it attacked the aristocracy, the aristocrats switched their allegiance to the king. The royal family regained control of the military. The king, recognizing popular discontent, restored the previous system of tax-sharing.  
 
 In 1557, the government suffered its first bankruptcy. The king sent people to sell offices, and by 1650 some thirty thousand offices had been created as de facto private property.  
 
 In 1533, Castilian soldiers repelled an Ottoman attack during the defense of Vienna. By the middle of the seventeenth century, however, because the military had been increasingly outsourced, the crown had almost no control over its own armed forces.  
 
-Under the *Recopilación de las Leyes*, the king was required to obey the law. Royal decrees that conflicted with traditional rights could be resisted through the established practice of “obey but do not execute,” meaning that, as in France, the king could infringe property rights only within the existing legal framework.  
+Under the *Recopilación de las Leyes*, the king was required to obey the law. Royal decrees that conflicted with traditional rights could be resisted through the established practice of “I obey but I do not comply” (*obedezco pero no cumplo*), meaning that, as in France, the king could infringe property rights only within the existing legal framework.  
 
 The sale of offices reached its peak in the seventeenth century and was exported to the Americas by colonial elites seeking to increase their own privileges. Although the central government wanted to establish a merit-based system of appointment, it was too weak and too distant to stop them. The Spanish system of primogeniture, which helped prevent the breakup of large estates in Spain, was also introduced into the Americas.  
 
@@ -325,7 +325,7 @@ The modern Russian government is fundamentally authoritarian. Although elections
 
 Russia originated in Kievan Rus'. In the 1230s, Batu and Subutai invaded, leaving the land devastated and severing its religious and cultural connections with Byzantium and the Middle East. Political development had to start over.  
 
-As in Western Europe, the descendants of the ruling Kievan princes multiplied and spread across the territory. After the Mongol invasion, Kievan Rus' fragmented into numerous small principalities.  
+As in the Zhou Dynasty in China, the descendants of the ruling Kievan princes multiplied and spread across the territory. After the Mongol invasion, Kievan Rus' fragmented into numerous small principalities.  
 
 The Mongols were pure predators—thorough and honest ones. Russian leaders learned their methods over generations and intermarried with them.  
 

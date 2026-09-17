@@ -15,7 +15,7 @@ Original notes [here](/library/ivan/chi){:target="_blank"}.
 
 ---
 
-### “Where There Is Love, There Is God”  
+### “Where Love Is, God Is”  
 
 Every day, the shoemaker Martin sees many boots he has worked on through the basement window. After losing both his wife and son, he despairs and wants to die. An old man tells him that his despair comes from living only for his own happiness; he should live for God instead. Then he will have nothing to worry about and will feel light and at peace.  
 He follows the old man’s advice and buys a Gospel to read. As he reads, his heart fills with light and happiness. He hears a voice saying that someone will come to see him the next day. In the end, he gives shelter to an old man, cooks food for a starving woman carrying a child, and reconciles an old woman with the child who wanted to steal her apples. Finally, Christ appears and tells him that He is the old man, the woman, and the old woman and child.  
@@ -39,27 +39,27 @@ His neighbors’ cattle and horses damage his crops. He is willing to sue them, 
 He keeps looking for more and better land, and learns that the Bashkirs are selling a great deal of land cheaply.  
 He visits them with gifts, and the chief agrees to sign a deed for the land. The chief tells him that he may mark off as much land as he can walk around in a day, however he likes, but if he has not returned to his starting point by sunset, he will get nothing.  
 He spends the whole night thinking about how to enclose the largest possible area, unable to sleep. The next day, the farther he goes, the better the land becomes. He cannot bear to leave it unused, so whenever he is about to turn, he keeps going farther. In the end, even a sloping patch of land seems too good to give up, and he has to hurry back.  
-He races desperately, making it back just in time, then collapses on the ground and dies after vomiting blood. His hired hand digs a three-foot-deep grave and buries him.  
+He races desperately, making it back just in time, then collapses on the ground and dies after vomiting blood. His hired hand digs a grave long enough to cover him from head to heels—six feet in all—and buried him.   
 
 ### “A Prisoner in the Caucasus”  
 
-An officer receives a letter from home asking him to return and get married. On the way, he and a companion are captured by Tatars. They are confined at night and made to wear leg irons during the day.  
+An officer receives a letter from home asking him to return and get married. On the way, he and a companion are captured by Tatars. They are confined at night and made to wear shackles during the day.  
 Another Tatar buys them from the men who captured them and orders them to write home asking for ransom. The officer’s family has no money, so even after bargaining, they can only write something absurd.  
 He makes clay dolls for the Tatar girl, who likes them very much. His craftsmanship attracts many villagers, who come to him to have things repaired.  
 An old man urges the master to kill them. The master tells the officer that the old man had had seven sons killed by Russians; the last one surrendered to the Russians, and he himself also went over to surrender, found his son, and killed him with his own hands before fleeing back.  
 One day, the master’s son takes him along. He persuades the boy to go farther away to gather herbs, but in fact he is using the opportunity to scout the area.  
 One night, he persuades his companion to escape with him. His companion is too heavy to walk, so he carries him, but they are captured by the Tatars.  
-The master orders them to write another letter home, saying that if the ransom does not arrive within two weeks, they will be killed. They are thrown into a deep pit, five feet deep, and must wear leg irons day and night.  
+The master orders them to write another letter home, saying that if the ransom does not arrive within two weeks, they will be killed. They are thrown into a deep pit, five feet deep, and must wear shackles day and night.  
 The girl brings him food. He persuades her to bring a long pole to help him escape. This time his companion cannot go.  
-Still wearing his leg irons, he travels by day, rests, then walks at night. Near the end of the second night, he sees the two opposing armies and cries out that he has been rescued.  
+Still wearing his shackles, he travels by day, rests, then walks at night. Near the end of the second night, he sees the two opposing armies and cries out that he has been rescued.  
 A month later, his companion is ransomed and returned, but is already at death’s door.  
 
-### “Good Triumphs over Evil”  
+### “Evil Allures, But Good Endures”  
 
 Master and servant live harmoniously together, which makes the devil jealous. He takes control of one servant and stirs up trouble, betting with the other servants that he can successfully make the master angry. The master takes his guests to see his prized rams, and the servant pretends to disturb the flock accidentally. The master orders him to catch the breeding ram, but he breaks its leg instead.  
 The master says, “Your master ordered you to make me angry, but my master is stronger.” He sets the servant free. The devil sinks into the ground.  
 
-### “The Little Girls Are Wiser Than the Grown-Ups”  
+### “Little Girls Wiser Than Men”  
 
 A girl jumps into muddy water and splashes her friend’s clothes, and the two girls begin to quarrel. The mother of the girl with the wet clothes hits the girl who jumped into the water, provoking her mother to come out. The men also come out and begin fighting, until the grandmother of the girl with the wet clothes points out that the two girls have already forgotten their quarrel and are loving each other again. They are wiser than the grown-ups.  
 The men look at the girls, feel ashamed, laugh at themselves, and go home.  
@@ -85,12 +85,12 @@ The godson leads him to the charred wood. The last piece has finally sprouted.
 The godson remembers teaching the herdsman to wait until the fire was burning strongly before adding more branches. Only when one’s own heart is burning fiercely can one set another heart ablaze.  
 The godson has fully atoned for his sins. After telling the bandit everything, he dies. The bandit buries him and lives and teaches others according to his words.  
 
-### “The Little Devil’s Redemption”  
+### “The Imp and the Crust”  
 
-A little devil steals a loaf of bread from a farmer, but the farmer says that perhaps the person needed it more. The great devil is furious and orders the little devil to make amends. The little devil disguises himself as a laborer and gets himself hired by the farmer. He teaches the farmer to grow rice and brew wine, making him rich.  
-Once wealthy, the farmer yells at his wife and treats his poor neighbors coldly. When first drunk, he is like a wolf, cursing people and picking fights; when completely drunk, he is like a pig, collapsing in a muddy ditch. The great devil rewards the little devil by promoting him.  
+A imp steals a loaf of bread from a farmer, but the farmer says that perhaps the person needed it more. The great devil is furious and orders the imp to make amends. The imp disguises himself as a laborer and gets himself hired by the farmer. He teaches the farmer to grow rice and brew wine, making him rich.  
+Once wealthy, the farmer yells at his wife and treats his poor neighbors coldly. When first drunk, he is like a wolf, cursing people and picking fights; when completely drunk, he is like a pig, collapsing in a muddy ditch. The great devil rewards the imp by promoting him.  
 
-### “Esarhaddon”  
+### “Esarhaddon, King of Assyria”  
 
 Esarhaddon conquers King Lailie and kills all his men, thinking about how to kill Lailie himself.  
 An old man appears and makes him submerge himself in a basin of holy water. He becomes Lailie and sees his wife ask him to discuss state affairs with their sons. The sons want to fight Esarhaddon, but Lailie wants to make peace. Esarhaddon, however, has the envoys’ noses and ears cut off and demands tribute. Lailie follows his sons into battle, is defeated, and captured. All he can do is keep the enemy from seeing his suffering and endure whatever happens to him. His relatives and friends have their hands and feet chopped off and are flayed alive; his beloved wife is made a slave. On the torture rack, he forgets his original conviction and begs for mercy. Suddenly, he looks up and awakens.  
@@ -122,14 +122,17 @@ This records a real bear-hunting experience. The bear has been wounded by a guns
 ### “Ivan the Fool”  
 
 Ivan’s old father is a wealthy peasant. His elder brother is a soldier, his second brother is a merchant, and his sister is mute. The elder and second brothers return home one after another to claim their share of the family property. Their father lets Ivan, who works the land at home, decide. Ivan is a fool, and he agrees to divide the property with them.  
-An old devil sees them dividing the estate harmoniously and orders three little devils to stir things up. The little devils cause the soldier to lose battles and the merchant to fall into debt, so both flee back home. Ivan alone remains unaffected, working his fields with full attention. One by one, he catches the little devils and obtains three underground roots that can cure all illnesses. He takes one root himself and acquires the spells that can turn wheat into an army and restore things to their original state, as well as a method for shaking out gold.  
+An old devil sees them dividing the estate harmoniously and orders three imps to stir things up. The imps cause the soldier to lose battles and the merchant to fall into debt, so both flee back home. Ivan alone remains unaffected, working his fields with full attention. One by one, he catches the imps and obtains three underground roots that can cure all illnesses. He takes one root himself and acquires the spells that can turn wheat into an army and restore things to their original state, as well as a method for shaking out gold.  
 The two brothers order Ivan to build them houses and live in separate estates, and later refuse to attend his feast. Ivan invites all the peasants instead, brings out gold, and produces an army to provide music.  
 Hearing about this, the two brothers ask Ivan for armies and gold. The elder brother becomes a king, and the second brother becomes wealthy. The soldier needs money to pay his troops; the merchant needs men to guard his wealth. They therefore come back to ask Ivan again. Ivan says that he has seen people killed by soldiers, while the merchant has bought away people’s cattle and children, leaving them without milk, so he refuses to give them anything more. The two brothers have no choice but to exchange half their armies and half their gold, leaving each as a king.  
 Ivan uses one of the underground roots to cure a sick dog. The tsar announces that whoever cures the princess will become her husband. His parents tell him to save the princess. Just as he is about to set out, he sees a crippled old beggar woman. Ivan uses the last root to heal her and then goes to the capital empty-handed. The moment he steps through the palace gate, the princess is cured. The tsar dies, and the son-in-law succeeds him. All three brothers become kings.  
+
 The soldier imposes conscription and the merchant imposes taxes to consolidate their power. Ivan removes his royal robes and returns to work. The ministers say there is no money to pay the troops and the people are unwilling to serve. Ivan says he will handle it. The people come to Ivan to judge a theft. Ivan asks what is wrong with that and says that the man needs the money. Everyone knows that he is a fool. The wise move elsewhere; the fools stay behind.  
 The old devil enters the scene himself, disguising himself as a general and urging the soldier to invade India. India conscripts both men and women and also has new weapons, so it wins easily, and all the soldiers flee. The devil then disguises himself as a wealthy merchant and settles in the merchant’s country. Whatever the merchant buys, the devil offers a higher price. He accumulates nothing but wealth, and eventually cannot even buy food and is on the verge of starvation.  
+
 The devil urges Ivan to force the people into military service. Ivan lets them. The people come to Ivan, and Ivan lets them decide for themselves. The conscription fails.  
 The devil urges a neighboring country to invade. The people allow the soldiers to plunder their wealth and even encourage them to stay. The neighboring king orders his army to raze the villages and destroy the houses. The people merely weep, and the soldiers cannot bear it and disperse.  
+
 The devil disguises himself as a gentleman and brings a great quantity of gold coins. The people, who have no taxes and no bills, buy enough gold coins to play with them as toys. The gentleman tries to buy things but is refused. The people tell him that he may take anything he wants in God’s name, but he refuses. The people ask Ivan what should be done with him, and Ivan tells them to have him go from house to house and eat. The gentleman eats his way to Ivan’s house. Because his hands have no calluses, the rules set by the mute girl, who has learned to be wary after being deceived by lazy men, allow him only to eat leftovers.  
 The gentleman tells Ivan that clever people use their brains to work. Ivan tells him to climb the bell tower and teach the people to work with their brains. The people hear only instructions on how to live without working and gain nothing from it. Everyone thinks that since the gentleman can work with his head, he can prepare bread with it, so no one sends him any food. The gentleman grows desperately hungry and faints, his head falling forward as he tumbles down the steps. Ivan thinks that he is working with his brain. But the devil falls straight down to the underworld, leaving behind only a hole in the ground.  
 
