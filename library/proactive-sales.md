@@ -42,7 +42,7 @@ The sales process is extremely important. There are only two steps: first, elimi
 
 The first step can be further divided into three stages: identify the customer's type, infer the reason they do not want to buy, and reverse-engineer a way to overcome it.  
 
-There are three types of customers: those who respond enthusiastically, those who respond coldly, and those who refuse with excuses.  
+There are three types of customers: those who respond enthusiastically, those who respond coldly, and those who raise objections.  
 
 A. **Enthusiastic customers:** They appear relaxed because they are in no hurry to make a decision. The reason they do not buy is that they see the product as irrelevant to them. Come up with three unexpected ways they could use the product, and you can capture their attention.  
 
@@ -87,7 +87,7 @@ You can use the company's corporate philosophy, or write your own sales mission 
 
 The reason new salespeople can quickly sign contracts with customers whom even veteran salespeople cannot win over is that they still possess a genuine concern for the customer.  
 
-**Fourth: Practice keeping your ankles three centimeters off the ground**  
+**Fourth: Practice lifting your heels three centimeters off the ground**  
 
 This allows you to concentrate, remain emotionally composed, and feel physically and mentally at ease, thereby creating results.  
 
@@ -113,13 +113,13 @@ Almost all customers can talk with a salesperson for, at most, one hour.
 
 Sell quickly while building trust during the sales process. Do not establish trust first and only then sell the product.  
 
-Customers can only concentrate for 50 minutes. Once that time is exceeded, they will begin to stop thinking actively and become unable to decide whether to buy.  
+Customers can only concentrate for 50 minutes. Once that time is exceeded, they will experience "decision fatigue" and lose the ability to commit.  
 
-Set up a one-minute promotional preview:  
+Set up a one-minute teaser:  
 
 “We have many students who were originally not considered likely to succeed but went on to gain admission to the University of Tokyo. So in today's seminar, we will explain the three key points that allowed students aiming for the University of Tokyo to rapidly improve their abilities. Simply by attending this seminar, you will gain a general understanding of how your child should study in order to quickly gain admission to their first-choice university. This information is available only from our cram school. Please take notes as you listen so that you do not miss the key points highlighted by the teacher.”  
 
-Learn from variety shows: use puzzles to manipulate the customer's psychology, pose a question, then break it down after the commercial, leaving the audience desperate to know the answer.  
+Learn from variety shows: use cliffhangers to manipulate the customer's psychology, pose a question, then reveal the answer after the commercial, leaving the audience desperate to know the answer.  
 
 The process: make small talk, pose a question that makes the customer think, then announce the correct answer while introducing the product.  
 
@@ -127,7 +127,7 @@ The process: make small talk, pose a question that makes the customer think, the
 
 Once the customer's appetite for information has been fully satisfied, they will not buy. Therefore, you must keep the customer in a state of hunger and anticipation that is just right.  
 
-Let the customer discover the shortcomings for themselves, then use the purchase of the product to address them.  
+Let the customer discover their own pain points, then use the purchase of the product to address them.  
 
 The formula: “Because of your [particular blind spot], you don't realize [the product's advantage]. What a shame.”  
 
@@ -137,7 +137,7 @@ When the customer speaks their true feelings, it means they will sign the contra
 
 Use the final ten minutes to confirm the customer's concerns and willingness to sign.  
 
-When the customer keeps talking endlessly, interrupt with the phrase “For example,” and reclaim control of the conversation.  
+When the customer keeps talking endlessly, use the phrase "For example" to pivot, and reclaim control of the conversation.  
 
 Customer: “I recently got a girlfriend. She's very considerate.”  
 
@@ -149,7 +149,7 @@ Salesperson: “She'll definitely grow up to be a beautiful woman. For example, 
 
 In the end, the customer will decide to buy at the moment when their heart is moved.  
 
-You need a dramatized meeting script with a clear beginning, development, turning point, and conclusion.  
+You need a dramatized meeting script with a clear narrative arc: Introduction, Build-up, Climax, and Conclusion.  
 
 **Prologue:** Like a kindergarten teacher, take control through the eye contact of casual conversation and a ten-degree bow.  
 
@@ -173,7 +173,7 @@ The customer can choose whether to buy or not; the salesperson can choose whethe
 
 Only by not bowing your head can you convey genuine sincerity.  
 
-Making it easy to purchase is equivalent to reducing the customer's burden, which makes selling easier.  
+Making it easy to purchase is equivalent to removing friction from the buying process, which makes selling easier.  
 
 Do not become overly fixated on techniques. Sales is a lively, human-to-human profession.  
 

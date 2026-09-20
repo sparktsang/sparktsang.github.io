@@ -45,7 +45,7 @@ This method does not analyze existing data; it creates data in order to obtain a
 
 If the above methods are impossible, one can instead make good use of situations that are almost as if an experiment had been conducted.  
 This book uses the term natural experiment for a method called regression discontinuity design.  
-In Japan, once elderly people pass their 70th birthday, their out-of-pocket share of medical expenses falls from 30% to 10%.  
+In Japan, once elderly people pass their 70th birthday, their out-of-pocket cost of medical expenses falls from 30% to 10%.  
 The data show a jump in the number of patients seeking medical care immediately before and after age 70.  
 The assumption that this is caused by the reduction in out-of-pocket expenses cannot actually be proved completely. But for it not to be true, there would need to be other discontinuous factors—for example, pension payments would have to increase substantially from the 70th birthday onward. Yet no such problematic factor exists. Nor is there evidence that subjects could simply lie about their age and indirectly manipulate the data.  
 The drawback of the method is that it can only establish causal relationships for people close to the age-70 cutoff.  
@@ -55,13 +55,13 @@ Another natural-experiment method is called bunching analysis, proposed by Emman
 Fuel-economy regulations change in steps, and the distribution of automobile weights bunches tightly to the right of the cutoff.  
 The hypothesis for establishing causality is that if fuel-economy regulations did not change in steps, the distribution of automobile weights should be smooth and continuous, without bunching.  
 The hypothesis cannot be proved completely, but it can be shown to be very likely true because the distribution is smooth away from the cutoff; the cutoff applies only to the fuel-economy policy; and when the fuel-economy policy changes, the location of the bunching also shifts neatly.  
-For a more detailed and accurate explanation, see Iro and Salle (forthcoming) or Kleven (2016).  
+For a more detailed and accurate explanation, see Ito and Salle (forthcoming) or Kleven (2016).  
 The results show that the average weight of one-tenth of the cars on the market increased by 110 kilograms, further reducing fuel efficiency.  
-Weight is not determined by the market; this inefficiency creates a deadweight loss in economics, while greater weight also reduces safety in car accidents.  
+Since weight is distorted by regulation rather than determined by the market, this inefficiency creates a deadweight loss. Furthermore, heavier cars reduce road safety for others.  
 Its advantages and disadvantages are similar to those of RD, and it is only effective for data close to the cutoff.  
 Income-tax brackets also affect bunching in taxpayers' income, but not as markedly as expected (Cherry, Friedman, Olsen, and Pistaferri, 2011).  
 
-There is also panel-data analysis, whose assumption is that if the intervention had not occurred, the average outcome of the treatment group and the average outcome of the control group would have continued to move in parallel.  
+Another method using panel data is Difference-in-Differences (DiD), which relies on the "parallel trends" assumption: if the intervention had not occurred, the average outcomes of the treatment and control groups would have continued to move in parallel.  
 The two groups must already have been moving in parallel before the intervention, and no other factor can affect the treatment group.  
 The advantage of this method is that it can analyze not only subjects near a cutoff, but even if the two groups originally differed before the intervention began, that does not matter as long as the parallel-trends assumption holds, so it can be used in any situation.  
 The weakness is that the assumption is very easy to violate, and data from multiple periods for both groups are required.  
@@ -71,7 +71,7 @@ The results found a short-term buying surge among those affected, but no stimula
 Technology companies routinely use RCTs to analyze business strategies. Google used an RCT to select, from 41 shades of blue, the blue with the highest click-through rate. The U.S. government also promoted evidence-based policymaking internally and formally enacted legislation for it under the Obama administration.  
 The author points out that the key to success lies in working with information-analysis experts and making data widely available.  
 Uber successfully used an RCT to derive an accurate demand curve, which helped with business policy-making.  
-The University of Chicago Crime Lab used an RCT to demonstrate that, compared with harsher punishment, providing high school students with a “becoming-a-man program” was more effective at reducing crime, and, even more unexpectedly, increased the high school graduation rate by 15% (Heller et al. 2015).  
+The University of Chicago Crime Lab used an RCT to demonstrate that, compared with harsher punishment, providing high school students with the "Becoming A Man" (BAM) program was more effective at reducing crime, and, even more unexpectedly, increased the high school graduation rate by 15% (Heller et al. 2015).  
 
 If the data themselves are problematic, even the most outstanding analysis cannot compensate for that. One must also pay attention to the scope of the analytical method. RD design can only target subjects near the cutoff, while bunching analysis can only target subjects where bunching occurs. This is known as the problem of external validity, while the reliability of the analytical results is called internal validity.  
 Research results sometimes suffer from publication bias. If one finds a result showing absolutely no causal relationship, that should also be a useful scientific finding, yet it is considered difficult to publish and is left to languish.  

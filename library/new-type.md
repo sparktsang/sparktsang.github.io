@@ -26,7 +26,7 @@ The exhaustion of meaning: products are in excess, everything we need is readily
 Fewer and fewer problems: there are already few problems left that still need solving (so much so that applications to elite MBA programs are declining year after year, and the degrees are losing their halo)  
 Meaningless work: statistics show that most people feel their jobs bring no value to society, reflecting the consequences of the two trends above  
 Society becoming VUCA: society is unstable, uncertain, complex, and ambiguous, while also changing rapidly; past experience is no longer valuable, and plans must incorporate adaptability to circumstances, making optimization for specific environments obsolete  
-The disappearance of economies of scale: Jeremy Rufkin's *The Zero Marginal Cost Society* points out that with marginal costs approaching zero and networks becoming widespread, the once-foolproof model of mass production, mass promotion, and large-scale sales is increasingly strained  
+The disappearance of economies of scale: Jeremy Rifkin's *The Zero Marginal Cost Society* points out that with marginal costs approaching zero and networks becoming widespread, the once-foolproof model of mass production, mass promotion, and large-scale sales is increasingly strained  
 Lifespans are getting longer while corporate lifespans are getting shorter: flexible careers will become the norm  
 
 ### The Fallacy of Innovation  
@@ -51,7 +51,7 @@ Based on the author's 20 years of experience in the management consulting indust
 In 1984, AT&T, acting on McKinsey's forecast of the size of the mobile-phone market in 2000 (900,000 units, when the actual market size easily surpassed 100 million), sold its mobile-phone business; ultimately, it failed to keep up with the mobile communications trend and was acquired by SBC, the company spun off and sold by AT&T  
 Old Types who predict whose jobs will be taken by artificial intelligence will only be led around by changes in the environment; New Types instead think about how to use technology to solve issues, turn change into opportunity, and create abundance  
 
-### A Hymn to Meaning  
+### In Praise of Meaning  
 
 According to Gallup polls, only 13% of employees worldwide are actively engaged with their work; the lack of engagement stems from a scarcity of meaning  
 Old-Type managers often complain that their subordinates are lax, when what they should really complain about is their inability to give their subordinates meaning and inspire them to want to work  
@@ -75,7 +75,7 @@ The difference in economic value between the two can be seen in the automobile m
 Technology and design are both easy to imitate; only meaning cannot be counterfeited  
 Some works acquire meaning only after being endowed with it: works ignored during their creators' lifetimes can become enormously valuable after their deaths; for how to cross the line between having meaning and not having it, see Takashi Murakami's *Geijutsu Kigyō-ron*  
 
-### A Hymn to Vision  
+### In Praise of Vision  
 
 In the new era, WHAT—the objective—and WHY—the meaning—are far more important than HOW; in the past, the objectives had already been exemplified by advanced European and American companies, and the meaning of attaining a happy life was self-evident, but economic affluence has made both objectives and meaning scarce  
 Although many companies appear to have visions on the surface, they lack the most important condition for a vision: the ability to inspire resonance; from the Apollo Program to Google's vision, such visions have deeply moved people, while Churchill gave meaning to going to war in a cabinet meeting and thereby changed the fate of all Europe  
@@ -87,7 +87,7 @@ Logic and intuition, as studied by Daniel Kahneman, are different modes of thoug
 Gerd Gigerenzer argued in the journal *Topics in Cognitive Science* that heuristics and intuition can, in some situations, make more accurate predictions of the future than logical thinking, because when there is too much reference information, predictions become influenced by the variance of each piece of information  
 When should each be used? We can look at whether something is "useful" or "meaningful," and also whether it is abundant or scarce; in today's world, whatever is scarce is the product of intuition and sensibility  
 
-### A Hymn to Error  
+### In Praise of Error  
 
 Error brings leaps forward: worker ants following pheromone trails can accidentally discover a better route, and their long-term efficiency is better than that of ants that can follow the trail successfully 100% of the time  
 Only by deliberately allowing mistakes and play can we increase serendipity through unexpected discoveries and make sustained progress  
@@ -96,9 +96,9 @@ Edison worked tirelessly to invent the phonograph, but he had not thought about 
 Palo Alto Research Center developed the mouse, the graphical user interface, and object-oriented programming, all of which have since become standard computer equipment, yet it failed to commercialize them  
 This shows that both excessive clarification of the market for a product's uses and a lack of clarity about that market are misguided; being able to prepare based on intuition will become an essential competency  
 
-### A Hymn to Capriciousness  
+### In Praise of Capriciousness  
 
-Nobel Prize-winning writer Hermann Hesse pointed out that capriciousness is the highest virtue; Rosa Parks's "capricious" refusal to give up her seat triggered the civil rights movement and radically changed the prevailing norms, whereas people before the event now appear ignorant, foolish, and barbaric  
+Nobel Prize-winning writer Hermann Hesse pointed out that capriciousness is the highest virtue; Rosa Parks's "unreasonable" refusal to give up her seat triggered the civil rights movement and radically changed the prevailing norms, whereas people before the event now appear ignorant, foolish, and barbaric  
 Old norms have failed to keep pace with the new era and can produce devastating consequences  
 Young people have gone bankrupt collecting capsule toys, while the WELQ website provided medical information but was flooded with errors and punished by society, showing that existing regulations cannot keep up with the times; natural-law theory (in which the rightness or wrongness of the law itself is subject to review, in contrast to the "legal positivist" way of thinking that relies only on written laws), and a way of thinking that makes "capricious" judgments by following internalized values of truth, goodness, and beauty, will become increasingly important  
 Google's "Don't Be Evil" credo proved effective: when the company provided the U.S. military with drone image-recognition technology, it faced massive internal protests, and top management ultimately established the principle that artificial intelligence would not be used for weapons  
@@ -156,7 +156,7 @@ Combining the two arguments, we can see that what truly matters is not making ra
 Amazon is an outstanding example of extensive experimentation and knowing when to let go, as if introducing a mechanism of biological evolution into corporate management; many companies cannot experiment because they believe the risk is too great, when the real reason is that they are poor at withdrawing from markets  
 Stanford University's Kathleen M. Eisenhardt studied 72 product-development projects at 36 computer manufacturers with annual revenues of more than $50 million and found that the teams with the best innovation outcomes spent less time in the planning phase and more time in the execution phase  
 
-### A Hymn to Running Away  
+### In Praise of Running Away  
 
 Pain is crucial to survival, while deliberate learning after the fact is far inferior to an acute sense of touch; the same applies when facing danger  
 When animals face danger, they instantly choose between fighting and fleeing, whereas humans often choose to grit their teeth, endure, and tough it out  
@@ -165,14 +165,14 @@ In Japan's 1942 Battle of Midway, had it made peace immediately after losing fou
 The Thirty-Six Stratagems: retreat is the best stratagem; *The Art of War*: when there is no chance of victory, withdraw quickly; strategically, this is entirely correct  
 For society, the more people flee meaningless work, the more overall social health improves  
 
-### A Hymn to Sharing  
+### In Praise of Sharing  
 
 Old Types advocate exclusive private ownership; Bill Gates once harshly criticized advocates of free software, calling them modern neo-communists, but this view has been greatly shaken by the rise of the sharing economy  
-Before modern times, human beings did not have the concept of private ownership; agricultural life in Britain centered on the commons, and Garrett Hardin, in "The Tragedy of the Commons," argued that human selfishness would cause overgrazing and destroy the commons, but this view of human nature was merely theoretical and offered no empirical evidence  
+Before modern times, human beings did not have the concept of private ownership; agricultural life in Britain centered on the commons, and Garrett Hardin, in "The Tragedy of the Commons," argued that human selfishness would cause overgrazing and the depletion of shared resources, but this view of human nature was merely theoretical and offered no empirical evidence  
 Elinor Ostrom collected a thousand years of historical evidence from Europe and proved that in most cases, even when individuals were struggling economically, they would put the interests of the community ahead of their own, making her the first woman to win the Nobel Prize in Economics  
 Adam Grant's large-scale research found that among people who achieve extraordinary accomplishments, givers overwhelmingly outnumber takers  
 
-### A Hymn to the Humanities  
+### In Praise of the Humanities  
 
 Although the median starting salary of university graduates is still dominated by STEM fields, the disciplines represented among the top 10% of annual salaries in the United States are often in the humanities  
 This reflects the fact that in the new era, meaning creates more value than usefulness, and defining problems is in greater demand than solving them  
@@ -182,13 +182,13 @@ Questioning common sense comes at a high price; distinguishing between the commo
 Shūichi Katō, *For the Renewal of Humanistic Literacy*: humanistic literacy allows us to move freely and flexibly… as specialization becomes increasingly fine-grained, the ability to cross professional boundaries becomes ever more important  
 Many of the world's advances have come from the ideas of outsiders; Thomas Kuhn, the American historian of science who proposed the concept of paradigm shifts, pointed out in *The Structure of Scientific Revolutions* that paradigm shifts are often initiated by newcomers or very young people  
 
-### A Hymn to Others  
+### In Praise of Others  
 
 The pattern-recognition, analytical categorization, and ability to filter out the essentials that Old Types pride themselves on can easily create boundaries and confine one's worldview  
 According to C. Otto Scharmer's "Theory U" at MIT, the above is only Level One: thinking from within one's own framework  
 Level Two: the perspective lies at the boundary between oneself and the surrounding environment  
 Level Three: possessing a perspective located outside oneself; Level Four: a free perspective  
-Emmanuel Lévinas developed a philosophy of the incomprehensible "Other"; although the networked age has eliminated distance from the world, Old-Type patterns of behavior often simply like things within their echo chambers and shut Others out, causing the world to become increasingly isolated and fragmented, threatening the foundations of democracy  
+Emmanuel Lévinas developed a philosophy of the incomprehensible "Other"; although the networked age has eliminated distance from the world, Old-Type behaviors simply reinforce their own echo chambers (or filter bubbles) and shut Others out, causing the world to become increasingly isolated and fragmented, threatening the foundations of democracy  
 Only by treating Others as opportunities for learning can we broaden our worldview and continue to grow  
 
 ### The Uselessness of Experience  
@@ -199,9 +199,9 @@ Heuristics based on experience work only when similar cases have occurred in the
 Psychologist Raymond Cattell's framework of "fluid intelligence" (analysis, logic) and "crystallized intelligence" (wisdom, experience): the former peaks before age 20, while the latter peaks around age 60; therefore, in stable societies, elders around 60 are respected, and unprecedented problems are solved by young people, but today's society has changed radically  
 In an age when experience rapidly depreciates, it is replaced by learning agility; the point of this kind of "learning" is not "remembering" but "forgetting," resetting experience to zero  
 The difficulty is that acquiring a pattern-recognition framework in the first place required considerable cost, creating what is known as the sunk-cost cognitive bias; and the pressure of admitting failure is enormous  
-Before Google, Apple, and Amazon, many pioneering companies accumulated extensive experience, knowledge, and talent, yet ultimately lost precisely because of the experience and knowledge they had accumulated  
+Before GAFA (Google, Apple, Facebok and Amazon), many pioneering companies accumulated extensive experience, knowledge, and talent, yet ultimately lost precisely because of the experience and knowledge they had accumulated  
 
-### Declaring War on the Old Farts  
+### Declaring War on the Old Guard   
 
 All kinds of organizations have older people who lack a sense of aesthetics and morality, and holding power causes them to lose control over their words and actions  
 In such circumstances, the choice should be to make one's recommendations and leave, making good use of social mobility; just as one should complain when a product is defective and stop being a customer if nothing comes of it  
@@ -221,7 +221,7 @@ Dutch psychologist Geert Hofstede, commissioned by IBM, studied the "Power Dista
 This culture of power is reflected in disaster films: in American disaster movies, the saviors are usually located at the margins of power, whereas Japan is the opposite, reflecting the deep-rooted worship of authority  
 Power distance has a fatal impact on decision quality; the great leaders who have emerged throughout history were not people of high rank and power: Jesus, Martin Luther King Jr., Gandhi  
 
-### A Hymn to Change  
+### In Praise of Change  
 
 Most people assume that "the world is simply like this," adapting themselves to the system in order to survive, thereby strengthening dysfunctional institutions; at the same time, those who "over-adapt" will collapse as the system changes, as in the Lehman Brothers crisis  
 Old Types look for jobs with price before value, trying to maximize their benefits through dysfunctional arrangements  

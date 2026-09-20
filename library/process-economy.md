@@ -35,13 +35,13 @@ Kotler’s *Marketing 4.0* theory: at first, people were simply happy to have ne
 | Value | Functional value | Differentiated value | Participation value | Co-creation value |
 | Interaction | Promotional activities | Sales emails | Community participation | Co-creation community |
 
-AIDA: awareness, interest, desire, action  
+AIDA: Attention, Interest, Desire, Action  
 
 The founders of Singularity University proposed the 6D theory, arguing that digital technology will ultimately eliminate revenue, eliminate physical products, and democratize everything, just as the smartphone replaced radios, telephones, maps, books, cameras, cassette recorders, and a whole host of other physical products.  
 
 ### Five Major Frameworks for Resonating with the Process  
 
-The *Self, Us, Now* theory that helped propel Obama to prominence: the reason I am here, the reason we are here, and the reason we must act now. This is the structure of Obama’s speeches. You explain your own process or way of surviving and growing, then make it something everyone can share. After shortening the distance between people, discovering common ground, and creating a sense of unity, you explain what you are going to do now.  
+The Public Narrative framework (Story of Self, Story of Us, Story of Now) that helped propel Obama to prominence: the reason I am here, the reason we are here, and the reason we must act now. This is the structure of Obama’s speeches. You explain your own process or way of surviving and growing, then make it something everyone can share. After shortening the distance between people, discovering common ground, and creating a sense of unity, you explain what you are going to do now.  
 *Thinking, Fast and Slow*: the human brain has two systems. When we begin to act, we often follow System 1, which relies on intuition. Obama’s call to “act with me” works on the emotional brain, bringing people together around a shared vision.  
 Brand storytelling: see David Aaker, the authority on brand strategy and marketing, and his book *Creating Brand Stories*. A powerful true story that moves people should make listeners want to take the next step forward together. In Naoyuki Sato’s *The Basics of Fans*, a book by a prominent figure in Japanese advertising, he points out that strengthening fan support requires improving three things: resonance into passion, attachment into uniqueness, and trust into support.  
 Altruism: purely personal desires cannot generate resonance. Human beings naturally possess an altruistic spirit and behavioral patterns that drive us to act for others. Altruistic actions produce more chains of altruism between people; from the perspective of neuroscience, this is a structure that naturally makes it easier to attract others to join.  
@@ -55,7 +55,7 @@ Five keys to effectuation:
 
 The bird in the hand: the bluebird of happiness we seek outside is actually already at home.  
 Affordable loss: when failure remains within an acceptable range, you can keep taking on challenges.  
-Patchwork quilt: scraps of fabric that cannot be used individually can be stitched together into an enormous work.  
+Crazy Quilt: scraps of fabric that cannot be used individually can be stitched together into an enormous work.  
 Lemonade: lemon juice is sour and bitter, yet it can be turned into a delicious drink.  
 The pilot of an airplane: the central figure controls the atmosphere of the whole group, making partners feel that not dancing would mean missing out.  
 
@@ -69,12 +69,12 @@ The communication style of boxing sparring partners: in the marketing world, the
 ### Nine Ways to Put the Process Economy into Practice  
 
 Why: if publicly sharing the process merely means showing how a product is made, it is difficult for people to feel its appeal. The key is therefore to reveal the “why” in your heart: why you do it this way, your philosophy, and your distinctive character. In a red-ocean market crowded with competitors, it is difficult to stand out by winning on *what* alone. *What* and *how* can be measured according to certain standards, but a way of living that comes from the individual can gain deep support even if its supporters are limited to a particular group of people.  
-Alignment of heart, skill, and body: Why, How, and What are very similar to the Japanese concept of *shin-gi-tai*—heart, skill, and body. The most important is the heart, because it possesses the power to move people beyond its own era. A craftsperson’s commitment to a philosophy or creative vision can make people fall in love with the works it gives birth to.  
+Why, How, and What are very similar to the Japanese martial arts concept of *shin-gi-tai*—mind, technique, and body. The most important is the mind, because it possesses the power to move people beyond its own era. A craftsperson’s commitment to a philosophy or creative vision can make people fall in love with the works it gives birth to.  
 Passion, a powerful source of support: Steve Jobs said, “I believe passionate people can change the world and make it better.” This is Apple’s core value: the heart in *shin-gi-tai*. Jobs pointed to Nike advertisements, which praise only great athletes and celebrate the beauty of sport. That is their reason for being and their spirit.  
 Brand religion: religion is the strongest brand in the world. Yet neither Jesus, the sages nor the Buddha wrote books; religious leaders think about how to turn the *why* into everyday habits.  
-Set the Why clearly from the beginning: Simon O. Sinek: “people don't what you do, they buy why you do it.”  
+Set the Why clearly from the beginning: Simon Sinek: “people don't buy what you do, they buy why you do it.”  
 Three rules of successful e-commerce: interests and distinctive character; responsibility. The author cites a Rakuten store manager specializing in Chilean wine, whose passion for the products and sense of responsibility are evident in the extraordinary effort he puts into packaging the boxes.  
-The third rule: publicly reveal weaknesses and admit failure. An online magazine revealed that products he loved could not be imported and that the company was close to going out of business, but through sheer effort it managed to break through the predicament. In this way, persistence, conviction, and charm can be conveyed.  
+The third rule: publicly reveal weaknesses and admit failure. An online magazine revealed that products he loved could not be imported and that the company was on the verge of bankruptcy, but through sheer effort it managed to break through the predicament. In this way, persistence, conviction, and charm can be conveyed.  
 Resonance: *sympathy* and *compassion* are both involved. People who resonate with the Why will then want to provide support.  
 Two types of sharing: the Jungle Cruise type and the barbecue type. The former is about achieving a dream together; in the latter, everyone has a role.  
 

@@ -20,7 +20,7 @@ The author, who was called upon to take over TED in a crisis, spoke from the hea
 This talk turned TED's fortunes around  
 After three failed rocket launches at SpaceX, Elon Musk gave a speech to his employees that turned the company's fortunes around  
 
-At first glance, the boy who invented the lion light looked completely unsuitable as a speaker: timid and shy, not fluent in English, and unable to explain his invention concretely, but the story was so moving that the audience melted  
+Richard Turere, the boy who invented the lion lights, at first glance looked completely unsuitable as a speaker: timid and shy, not fluent in English, and unable to explain his invention concretely, but the story was so moving that the audience melted  
 Conversational sharing can also be moving; if you know how to talk to a group of friends over dinner, you already have enough ability to give a speech  
 Everyone's personal experience is unique; among the seven billion people on Earth, you are 100 percent the only person who possesses yours, and many of the best talks are based simply on personal experience and one simple insight drawn from the story  
 A 2015 experiment by Princeton University psychologist Uri Hasson confirmed the extraordinary power of language: even when listeners merely heard an audio recording of someone recounting the film, their brain-response patterns matched those of volunteers who actually watched the film  
@@ -90,13 +90,13 @@ A solid argument may not have an immediate effect. It is not a fast-growing weed
 
 ### Reveal  
 
-You can present your work in the form of a journey of discovery, with a single theme running throughout and language that is warm and easy to understand  
+You can present your work in the form of a "Wonder Walk", with a single theme running throughout and language that is warm and easy to understand  
 Lively demonstrations, such as inventor Michael Pritchard having the author drink from a life-saving water bottle filled with water filtered through it  
 Make good use of dreams and visions to vividly sketch possible futures: Martin Luther King's speech at the Lincoln Memorial, and Kennedy's speech when promoting the plan to land on the moon  
 
 ### Visuals  
 
-No slides are better than bad slides  
+No slides at all are better than bad slides  
 Traditional slides filled with a great deal of text are absolutely the easiest format for making audiences lose attention, and by the time the speaker gets to a particular point, there is already no freshness left  
 Each point should instead become an independent slide, reduced to one sentence or one image  
 Three presentation programs: PowerPoint, Keynote, Prezi  
@@ -126,7 +126,7 @@ A small number of speakers, through a lifetime of experience and an ability to a
 Most people pay terrible prices in the form of losing focus, missing key points, lacking clarity, and running over time  
 Even speakers who do not believe in the need to write a script in advance emphasize the importance of rehearsal very strongly  
 One of the busiest people in the world, Bill Gates, also puts a great deal of effort into rehearsing for a TED talk  
-Oral artist Leif: the content of a talk should take up 90 percent of the available time  
+Spoken-word poet Rives: the content of a talk should take up 90 percent of the available time  
 
 ### Opening  
 
@@ -159,7 +159,7 @@ Poetic inspiration: use lyrical, poetic language to reach people deeply. It shou
 
 ### Attire  
 
-TED talks originally strictly prohibited speakers from appearing without a tie. Co-founder Richard Wurman once cut off a speaker's tie for violating the rule, but later the rule was no longer enforced rigidly; what matters most is that the speaker feels comfortable  
+TED originally strictly prohibited speakers from wearing ties. Co-founder Richard Wurman once cut off a speaker's tie for violating the rule, but later the rule was no longer enforced rigidly; what matters most is that the speaker feels comfortable  
 
 ### Mental Preparation  
 
@@ -207,7 +207,7 @@ Use your own style; trying to imitate others will only make you dull, vulgar, an
 Innovative tools for supporting a talk: a dance troupe, dry beans used to simulate nuclear weapons (first one bean, then a generation of them), a real human brain connected to a spinal cord, Bill Gates opening a can of mosquitoes, the author also once used a Burmese python, food cooked live on stage, handing the audience 3D glasses or samples they can taste, musical accompaniment, using slides sentence by sentence as a visual tool like Lawrence Lessig (requiring extreme attention to detail and timing; do not imitate blindly)  
 A radio host simply took on the role of a DJ during the talk  
 The finest visual artists believe that if they are invited to give a talk, they must speak, without thinking about how to immerse the audience in the work; they hope that in the future there will be less talking and more showing  
-In 2014, a telepresence robot, Beampro, was used to let Snowden attend a TED conference virtually; during the break, participants could even chat and take photos with the Snowden robot  
+In 2014, BeamPro telepresence robot, was used to let Snowden attend a TED conference virtually; during the break, participants could even chat and take photos with the Snowden robot  
 Many innovations work well, but they should not be overused. The basic technology of human beings talking to one another dates back hundreds of thousands of years. Be careful not to throw the baby out with the bathwater  
 
 ### The Revival of Public Speaking  

@@ -27,10 +27,10 @@ Both the left and the right should agree that competition helps improve employme
 Warren Buffett, the stock-picking god regarded as a hero of capitalism, recommends monopolistic companies with powerful moats and very high competitive advantages as his first choice for stock investments  
 In his annual letters to shareholders, he once quoted Peter Lynch as saying, “Competition turns out to be harmful to human wealth”  
 Billionaire and author of *Zero to One*, Peter Thiel: “Capitalism and competition are opposites. Without substantial profits, where would the money to fund innovation come from?”  
-Economist Joseph Schumpeter coined the term “creative destruction” to disparage competition, arguing that firms in perfect competition are more easily brought down and spread the germs of economic depression  
+Economist Joseph Schumpeter coined the term “"gales of creative destruction" to disparage competition, arguing that firms in perfect competition are more easily brought down and spread the germs of economic depression  
 *Monopoly Rules* openly recommends monopolies, while *Big Is Beautiful* defends monopolies that have been given a negative label  
 The collapse of competition has spread throughout every layer of the economy. An *Economist* study found that between 1997 and 2012, two-thirds of U.S. industries became concentrated in the hands of a small number of companies, while the number of publicly listed companies plummeted  
-In the 1990s, the United States averaged 436 IPOs a year; by 2016, only 74 remained: America’s gigantic economic machine was slowly grinding to a halt  
+In the 1990s, the United States averaged 436 IPOs a year; by 2016, only 74 remained: a severe decline in "business dynamism" as America’s economic machine ground to a halt  
 The number of times the word “competition” appeared in corporate annual reports fell sharply, and CEOs no longer needed to touch on the subject  
 More frightening still, MBA training teaches managers to keep competitors out as much as possible  
 When everyone does this, wages are driven down, inequality worsens, growth slows, investment shrinks, and everyone becomes poorer and poorer—except the monopolists, who keep expanding  
@@ -46,7 +46,7 @@ When real interest rates rise, the probability of collapse is very high
 Even when competitors no longer communicate with one another, they can independently make decisions using game theory and still achieve the effect of collusion  
 Scholars found that in the long-run version of the Prisoner’s Dilemma, the optimal strategy is surprisingly simple: cooperate if the other side cooperated last time; retaliate if the other side betrayed you last time  
 Therefore, when there are only a handful of competitors, the ideal strategy is obviously cooperation  
-The fact that collusion can happen without any explicit agreement is already common knowledge. Hermann Simon, a globally recognized management guru, spent decades setting prices for numerous companies. His book *Confessions of the Pricing Man* explains how companies can circumvent antitrust laws by following price leaders or sending signals to raise prices  
+The existence of "tacit collusion" without any explicit agreement is already common knowledge. Hermann Simon, a globally recognized management guru, spent decades setting prices for numerous companies. His book *Confessions of the Pricing Man* explains how companies can circumvent antitrust laws by following price leaders or sending signals to raise prices  
 Such coordinated price increases were almost never prosecuted  
 Thanks to the McCarran-Ferguson Act, which prohibits the interstate sale of insurance, the insurance industry divided the American market up by state and then guarded its own territory  
 For decades, Walmart has followed the same cunning strategy: seek out small towns, then use low prices to drive out competitors  
@@ -78,7 +78,7 @@ This weakens employees’ ability to bargain for higher wages, amounting to a mo
 Data from the U.S. Treasury shows that states that strictly enforce non-compete clauses have lower wages  
 Since the 1980s, regional equalization policies have been neglected or even reversed, widening the gap between cities and rural areas and concentrating wealth  
 The counties where Trump received votes overlap heavily with those suffering from high industry concentration, so his election was hardly surprising  
-The proportion of temporary workers keeps rising, and the phenomenon is spreading around the world; unpaid overtime is widespread  
+The rise of the "gig economy" and contingent workers keeps accelerating, spreading around the world; unpaid overtime is widespread  
 Unions are enormously important. Historically, the lower the union membership rate, the higher the income ratio of the richest 10%  
 The Federal Arbitration Act gives companies the right to bypass the court system. Eighty of America’s 100 largest companies have employment contracts containing mandatory arbitration clauses, and countless workers are forced into arbitration and stripped of their right to sue  
 SWAT teams are even deployed to catch unlicensed barbers. The share of U.S. occupations requiring a license rose from 1 in 20 in the 1950s to 1 in 4, and Louisiana requires 500 hours of training just to braid hair—more than is required of an EMT  
@@ -95,7 +95,7 @@ In 2017, Silicon Valley’s Big Four—Apple, Facebook, Amazon, and Google—spe
 Google and Facebook are actually publishers, yet refuse to acknowledge it, enjoying the benefits of publishers at no cost. Creators even have to pay to reach readers, while advertising impressions are exaggerated. A comScore survey found that 54% of Google ads never appeared in front of a real human being  
 Amazon is flooded with counterfeit goods while avoiding responsibility, financially draining legitimate merchants  
 At the same time, because Amazon acts both as a sales platform and as a seller, it has access to the business data of competing merchants and quickly begins selling hot-selling products itself  
-The giants are obsessed with acquisitions, and those who refuse can be considered doomed. Diapers.com tried to compete head-on, so Amazon was willing to lose $100 million in a quarter to launch a brutal price war, eventually forcing it to surrender  
+The giants are obsessed with acquisitions, and those who refuse can be considered doomed. Diapers.com tried to compete head-on, so Amazon was willing to lose $100 million in a quarter using "predatory pricing", eventually forcing it to surrender  
 Today, no venture capitalist is willing to invest in developing a new search engine, just as in the 1990s when Microsoft held a monopoly  
 The founder of Yelp says that if he were only deciding to start the business now, he would have no chance of founding Yelp  
 
@@ -150,7 +150,7 @@ Government and business become one: Goldman Sachs, the biggest winner of Washing
 J. P. Morgan, the great banker who eliminated competition, built moats, and acquired companies everywhere, single-handedly saved the country from economic collapse during the Panic of 1907. Only then did Americans begin to realize the vastness of his power  
 Nearly half of Americans have not benefited from the rise in the stock market. The richest 1% own nearly 50% of stocks; the richest 10% own more than 81% of stocks, while the middle class owns only 8%  
 Buffett, who still called the airline industry a death trap as late as 2013, made large investments in all four major U.S. airlines only after all American airlines had merged into four major companies  
-Economist Martin Schmalz’s research proved that horizontal shareholding raises airfares by 3% to 12%  
+Economist Martin Schmalz’s research proved that common ownership (or horizontal shareholding) raises airfares by 3% to 12%  
 Through passive index funds, the five largest institutional investors collectively hold 80% of the stocks in the S&P 500  
 The popularity of passive index funds has also caused the assets of the largest funds to surge  
 Horizontal shareholding also produces the bizarre phenomenon of CEOs being rewarded for the performance of the industry rather than the performance of their own companies, eliminating the incentive to compete  
@@ -170,7 +170,7 @@ Nick Hanauer, who belongs to the top 0.01%, warns that society has never tolerat
 
 Economic freedom is a prerequisite for political freedom  
 Franklin once said that those who give up freedom for security will ultimately have neither  
-In 1649, John Lilburne wrote the first written constitution, declaring for free trade and against monopoly  
+In 1649, John Lilburne co-authored the *Agreement of the People* (often considered the first written constitution), declaring for free trade and against monopoly  
 Americans inherited a hatred of monopoly. The Declaration of Independence severing ties with Britain was originally rooted in hatred of the East India Company’s monopoly  
 If we do not choose reform, we will be forced into revolution  
 Capitalism has given us the best system available to us today. Capitalism without competition is not capitalism  

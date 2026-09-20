@@ -38,7 +38,7 @@ Accuracy International AX308: machined from a single piece of metal, rugged, saf
 Ashbury Precision Ordnance ASW 338LM: “Asymmetric Warrior,” the most customizable rifle.  
 Barrett M107A1: capable of penetrating concrete walls.  
 SIG SAUER S5G 3000: one of the most accurate production rifles, at only US$1,400.  
-TAC II: made using notoriously difficult-to-work-with carbon fiber, rugged yet considerably lighter.  
+Proof Research TAC II: made using notoriously difficult-to-work-with carbon fiber, rugged yet considerably lighter.  
 
 The art of reading the wind in long-range shooting: observe the environment (3–5 mph: a slight breeze across the face; 5–8: leaves begin moving; 8–12: dust rises; 12–15: small trees sway; 17: whitecaps), and use mirage (heat refraction that distorts light).  
 Practice being able to quickly push, pull, or adjust the windage or elevation without having to look up.  
@@ -49,8 +49,8 @@ Bipod: when necessary, use a knife to dig a one- to two-inch hole and place the 
 Night equipment NVDs: modern versions are extremely sophisticated, and extremely expensive.  
 Safety: a two-position safety lets you switch between SAFE and FIRE to prevent accidental discharge; a three-position safety adds a setting for unloading.  
 
-Bolt-action rifles: originally military weapons, but now a mainstay of hunting. They have manually operated bolts, mainly divided into two-lug and three-lug bolt designs; the former is traditional and by far the most common.  
-There are also other types: single-shot rifles (a synonym for the marksman, with an old-fashioned design but still the most robust action), lever-action rifles (light and convenient, suitable for dense woodland), straight-pull bolt-action rifles (using air pressure, uncommon but beloved by enthusiasts), takedown rifles (both the cheapest and the most expensive, with many allowing interchangeable barrels to change calibers), and semi-automatic rifles (gas-operated, with soft recoil and rapid follow-up shots).  
+Bolt-action rifles: originally military weapons, but now a mainstay of hunting. They feature manually operated actions, mainly divided into two-lug and three-lug bolt designs; the former is traditional and by far the most common.  
+There are also other types: single-shot rifles (a synonym for the marksman, with an old-fashioned design but still the most robust action), lever-action rifles (light and convenient, suitable for dense woodland), straight-pull bolt-action rifles (uncommon but beloved by enthusiasts), takedown rifles (both the cheapest and the most expensive, with many allowing interchangeable barrels to change calibers), and semi-automatic rifles (gas-operated, with soft recoil and rapid follow-up shots).  
 Ammunition: .30-06 is versatile, multipurpose, and practical, but there are many other choices for adding a little more style and flair. The simplest way to improve accuracy is to try different ammunition and projectiles.  
 
 **The best rifles**  
@@ -91,7 +91,7 @@ America’s favorite cartridge, the .223 Remington: excellent for both small and
 Accessory options are virtually endless, including: muzzle brakes, hand stops, lasers (red dots), weapon lights, and charging handles.  
 
 **The best assault rifles**  
-Daniel Defense M4 ISR-300 Surrender: virtually silent.  
+Daniel Defense M4 ISR-300 Blackout: virtually silent.  
 JP GMR-13: extremely stable, with almost nonexistent recoil.  
 PWS MK 107 DIABLO: an excellent close-quarters rifle, sacrificing muzzle velocity for mobility and handling.  
 Nosler Varmageddon AR: a prairie dog’s nightmare.  
@@ -138,7 +138,7 @@ Ruger MK III: a classic standard, with different configurations and capable of d
 Magnum Research Baby Desert Eagle: an excellent compact self-defense pistol.  
 Browning Buck Mark: an excellent choice for handgun shooting enthusiasts.  
 Springfield Armory XD[m]: polymer frame; the “m” denotes a competition-grade pistol.  
-Colt Defender: smaller than a compact pistol, with a rugged ceramic-coated package.  
+Colt Defender: smaller than a compact pistol, with a rugged Cerakote finish.  
 
 Controlling recoil is one of the most important areas of handgun training. Footwork and grip are also key elements of recoil control; the smaller the shooter’s body, the wider the stance should be. Use a high grip, hold firmly but do not squeeze excessively hard.  
 Knowing the trigger reset point of each handgun can help you gain more speed.  
@@ -170,7 +170,7 @@ Powerful enough for dangerous game, equipped with a scope, with three barrel len
 
 Semi-automatics are superior in magazine capacity and speed, but are more prone to malfunctions (weak slide movement, jams) and require regular cleaning (the spring can become sticky, and lubricant can dry out). Revolvers are less demanding: they can sit in a drawer for ten years without being fired and still work, making them suitable for home defense. FBI data indicate that in civilian self-defense incidents, the average number of rounds fired is no more than three.  
 Research shows that when confronted with violence, a shooter’s eyes tend to focus on the threat rather than the sights. Lasers can provide effective aiming and targeting, and all of the author’s defensive handguns have lasers and weapon lights.  
-Ammunition: in urban areas, soft-point hollow-point ammunition is the top choice, expanding the entry point while avoiding excessive penetration; in the forest, however, the bigger and heavier, the better.  
+Ammunition: in urban areas, Jacketed Hollow Point (JHP) or Soft Point (SP) ammunition is the top choice, expanding the entry point while avoiding excessive penetration; in the forest, however, the bigger and heavier, the better.  
 
 ### Shotguns  
 

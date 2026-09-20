@@ -21,11 +21,11 @@ Schools and workplaces place excessive emphasis on facts, making communication f
 The psychology of communication once held that good communication should be “beautifully packaged,” but this denied genuine emotions and did little for either party’s psychological well-being. Dissatisfaction that never surfaces only grows beneath the surface. Metacommunication (communication about communication) offers a possible way out of dysfunctional communication  
 Readers can begin improving communication from three angles: the individual (improving communication skills), the mode of interaction (how people interact within groups), and social conditions (the ways people come together—for example, colleagues cooperating within a rigidly hierarchical workplace, while at the same time being forced to compete for promotion)  
 
-Fact: what I want to tell you  
+Factual information: what I want to tell you  
 Self-revelation: what I want to make known about myself  
 Relationship: how the two parties see each other  
 Appeal: what I want you to do  
-These can be drawn as a four-sided communication model  
+These can be drawn as the Four-Sides Model  
 Husband to driving wife: “The light ahead is green.” The four aspects are respectively: “It’s green,” “I’m in a hurry,” “You need me to help,” “Step on the gas!”  
 Crying: (nothing), “I’m very sad,” “You’ve really gone too far!”, “Please comfort me!”  
 Silence: (nothing), “I want some quiet,” “You’re not someone I’m interested in talking to,” “Don’t talk to me”  
@@ -51,11 +51,11 @@ Over-sensitivity to a single aspect—the four “ears”:
 Fact: Wife: “Do you still love me?” Husband: “We first need to define love.”  
 → Talking past each other  
 Self-revelation: “*&$--&*” “You seem to have been upset and are taking it out on me.”  
-→ Making everything about the other person (psychologizing)  
+→ Psychologizing (interpreting everything as the other person's issue)  
 Relationship: “You look very energetic today.” “I know. I always look so gloomy and dispirited…”  
 → Excessive sensitivity  
 Appeal: “Is there any coffee left in the pot?” “I’ll make some more right away!”  
-→ Paying too little attention to oneself (functionalization)  
+→ Functionalization (paying too little attention to one's own needs).  
 
 Misreading a message  
 Example: Husband: “What are those green things in the soup?”  
@@ -76,7 +76,7 @@ This allows the other person to confirm it (“Yes, and there’s more…”) or
 
 Testing one’s assumptions  
 Imagination arises within oneself; it may be true or false. It can be kept inside or brought out for examination  
-When kept inside, a false assumption can become a self-fulfilling prophecy: believing that one will disturb others, one ruins the atmosphere, and the prophecy comes true  
+When kept inside, a false assumption can become a self-fulfilling prophecy: for instance, fearing that you will disturb others makes you act awkwardly, which ruins the atmosphere, thereby making the prophecy come true  
 Four principles:  
 Keeping things inside places an even greater burden on communication and makes the atmosphere tense  
 Unexpressed feelings become poison, attacking body and mind from within  
@@ -118,10 +118,10 @@ Contempt includes treating the other person as an inferior: rejection, belittlin
 The other dimension alongside “respect/contempt” is “control.” Combined, they produce four types of interaction: controlling and contemptuous (authoritarian style), controlling and respectful, permissive and respectful, permissive and contemptuous  
 The reason “beautifully packaged” messages cannot deal with genuine feelings is that they conceal desires to belittle others and elevate oneself, while also assuming an ideal behavior unaffected by circumstances, individuals, or relationships, as though interpersonal conduct were a tennis technique. But the problem is that interpersonal behavior only has meaning when behavior is consistent internally and externally. The “ideal” inner emotional state cannot be trained: the actual learning objective of “communication skills” should be a complete course aimed at promoting overall personality and psychological health  
 Behavior is also influenced by the following: relational interdependence (different personalities emerging with different people), institutional factors  
-The tool known as “transactional analysis” says that everyone has three ego states:  
-Parent ego: helps, protects, advises, and lays down rules  
-Child ego: three forms—compliant, rebellious, and spontaneous/natural  
-Adult ego: assesses the actual situation and checks whether impulses coming from the other two are appropriate  
+The tool known as “Transactional Analysis” posits that everyone has three ego states:  
+Parent (P): helps, protects, advises, and lays down rules  
+Child (C): three forms—compliant, rebellious, and spontaneous/natural  
+Adult (A): assesses the actual situation and checks whether impulses coming from the other two are appropriate  
 In the green-light example, the husband appears to speak from Adult to Adult, but covertly is speaking from Parent to Child  
 The wife can respond in various ways: compliant Child (“Oh, sorry”), rebellious Child (“Who’s driving here—you or me?”), Adult to Adult (“Thanks”), Parent to Child (“Don’t be so impatient!”)  
 Four possible responses to relationship proposals: acceptance, accommodation, rejection, and ignoring  
@@ -142,7 +142,7 @@ Appeals for total transformation: for example, telling a jealous husband to stop
 Stealing the experience: generally, when an action arises in response to an appeal, the psychological quality of the action changes. The feeling of acting spontaneously is a basic human desire, so a well-intentioned appeal deprives the initiator of that experience  
 Making spontaneous behavior impossible: the paradox of spontaneity, as in “I wish that just once you would buy me flowers of your own accord!” and “You should love me!”  
 Inappropriate appeals to oneself: for example, demanding that one be happy when sad. Feelings only become visible when they are genuinely experienced; when negative emotions are allowed to be expressed, they are therefore “lived through,” and the path toward positive emotions becomes accessible  
-Interfering with inner peace: if an appeal is correct, it can still disturb one’s inner peace. For example, someone accustomed to hitting children hears an educationalist say that corporal punishment is counterproductive and inappropriate. There are three solutions: tolerate the dissonance, change one’s behavior and beliefs, or reject the appeal. Otherwise, one can denigrate the person making the appeal and forcibly recreate a sense of peace  
+Interfering with inner peace: if an appeal is correct, it can still disturb one’s inner peace. For example, someone accustomed to hitting children hears an educationalist say that corporal punishment is counterproductive and inappropriate. There are three solutions: tolerate the cognitive dissonance, change one’s behavior and beliefs, or reject the appeal. Otherwise, one can denigrate the person making the appeal and forcibly recreate a sense of peace  
 Hidden appeals are often more effective than openly expressed ones, while also allowing the speaker to avoid responsibility. For example, when a younger brother sees his sister, with whom he has an inheritance dispute, he says, “After our last conversation I felt as though I’d been knocked flat; I couldn’t sleep for several days,” which is more effective than directly saying, “I don’t want to talk about the inheritance today.” Hidden appeals are also common in attempted suicide, anxiety, and children’s bad habits  
 Responding to hidden appeals: one can monitor oneself to understand where the wind is coming from, then identify what private interests are enticing oneself to dance along with it, and finally ask what alternatives are available. For example, the sister could state the appeal openly: “I hear you saying that you don’t want to talk about the inheritance today. Is that right?”  
 Common advertising strategies include demonstration (inviting imitation), promise (a certain floor-cleaning product makes everything shine brilliantly, surrounded by happy faces), and association (hard liquor placed against a mountain landscape)  

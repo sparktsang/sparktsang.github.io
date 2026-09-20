@@ -22,9 +22,9 @@ He put forward no doctrine and advocated no particular method. He began with no 
 
 He spoke only with individuals: those who devote themselves exclusively to addressing crowds lack confidence in their own lives.  
 
-The foundation of his life was "reverence": first, truth will reveal itself to those who continually question, and acknowledging one's ignorance makes genuine knowledge possible; second, faith in the gods of Athens and in the sacredness of the polis; third, a profound belief in the voice of the daimon, which at critical moments would tell him that he must not act.  
+The foundation of his life was "reverence": first, truth will reveal itself to those who continually question, and acknowledging one's ignorance makes genuine knowledge possible; second, faith in the gods of Athens and in the sacredness of the polis; third, a profound belief in the voice of the *daimonion* (inner divine voice), which at critical moments would tell him that he must not act.  
 
-The midwife: his mother worked as one, and Socrates compared himself to her. What was being delivered was knowledge. He did not impart wisdom; he enabled people to discover it. When someone believed himself to possess knowledge, he made him recognize his ignorance and guided him toward discovering genuine knowledge within himself.  
+The *Maieutics* (spiritual midwifery): his mother worked as one, and Socrates compared himself to her. What was being delivered was knowledge. He did not impart wisdom; he enabled people to discover it. When someone believed himself to possess knowledge, he made him recognize his ignorance and guided him toward discovering genuine knowledge within himself.  
 
 The polis was founded on law, and he remained unfailingly loyal to it. He refused to escape from prison and calmly accepted death. It never occurred to him to rebel against the polis or disobey the gods.  
 
@@ -86,7 +86,7 @@ Respect excellence while accepting the multitude: "Praise what is good and take 
 
 Serve the ruler according to the right path rather than by flattery: when the state is well ordered, one should speak boldly and act boldly; when the state is disordered, one should still act boldly but speak with restraint. ("When the state follows the Way, speak boldly and act boldly; when the state does not follow the Way, act boldly but speak gently.")  
 
-The translator points out that "Women and small men are the most difficult to deal with" reflects the objective conditions of ancient society. Women in antiquity had no educational opportunities and no economic independence, and their horizons and breadth of mind were therefore severely constrained. Had Confucius been born today, he would only say, "Small men are difficult to deal with."  
+The translator points out that "Women and petty men are the most difficult to deal with" reflects the objective conditions of ancient society. Women in antiquity had no educational opportunities and no economic independence, and their horizons and breadth of mind were therefore severely constrained. Had Confucius been born today, he would only say, "Small men are difficult to deal with."  
 
 Good government must care for the people: provide sufficient food, sufficient military strength, and the people's trust. If one must be removed, remove the military first and food second; the people's trust must never be abandoned. Yet when policies are designed, the people's trust can only grow spontaneously; it cannot be demanded by force. One should first make the people prosperous and then educate them.  
 
@@ -98,7 +98,7 @@ The character of the gentleman: concern himself with righteousness, not profit; 
 
 Between withdrawing from the world to cultivate oneself and entering the world in an effort to improve it, Confucius made his choice with complete clarity: "I cannot associate with birds and beasts. If I do not belong to these human beings, with whom should I associate?"  
 
-Translator: Benevolence is the central concept running consistently through Confucius's thought, and it has three levels. First, human nature: as long as a person is sincere, a power can arise from within that moves him spontaneously toward good—the meaning of "Is benevolence really far away? I desire benevolence, and benevolence is here." Second, the human way: choosing the good and holding firmly to it; hence teaching according to individual aptitude, giving disciples the means by which they might choose the good. Third, human fulfillment: resting in the highest good. The author treats "the Mean" as benevolence; the translator believes this can be sustained if the Mean is understood as choosing the good and holding firmly to it.  
+The Chinese Translator's Note: Benevolence is the central concept running consistently through Confucius's thought, and it has three levels. First, human nature: as long as a person is sincere, a power can arise from within that moves him spontaneously toward good—the meaning of "Is benevolence really far away? I desire benevolence, and benevolence is here." Second, the human way: choosing the good and holding firmly to it; hence teaching according to individual aptitude, giving disciples the means by which they might choose the good. Third, human fulfillment: resting in the highest good. The author treats "the Mean" as benevolence; the translator believes this can be sustained if the Mean is understood as choosing the good and holding firmly to it.  
 
 Do not make unfounded conjectures, do not insist on your own views, do not cling stubbornly to fixed positions, and do not exaggerate your own importance. ("Do not be opinionated; do not be absolute; do not be rigid; do not be self-centered.") The gentleman stands in the world with no particular person or position he must favor and none he must reject; he simply stands alongside righteousness. ("In dealing with the world, the gentleman has neither what he is set upon nor what he rejects; he follows righteousness.")  
 
@@ -110,13 +110,13 @@ He stood in profound and fundamental opposition to Laozi. Laozi said that Heaven
 
 The author believes that Confucius established human ethical order through good and evil, but never entered the realm beyond good and evil, whereas Laozi's Dao stands prior to and above all things. The translator believes the following formulation is more persuasive: during the Warring States period, the world was in profound disorder, and human beings faced two crises—value nihilism and existential nihilism. Confucius addressed the former, arguing that human sincerity could awaken the power to act according to an inherently good nature and thereby reestablish values within human nature. Laozi addressed the latter, affirming that the Dao was the source and destination of all things and that human life was arranged through the Dao; therefore, human beings should cherish this life and experience the beauty of existence. There is no need for the two to complement one another. Each had its own central concern.  
 
-The decline of later Confucianism manifested itself in the following ways: an attitude of acknowledging the unknowable degenerated into superstition; it was transformed into utilitarianism, with no room left for the value of the independent individual; the tension between benevolence and ritual, which implicitly contained the possibility of free norms, was transformed into ritualistic dogma; the openness of thought degenerated into doctrinal theories; and knowledge that had originally been embodied in inner action degenerated into rote learning.  
+The decline of later Confucianism manifested itself in the following ways: an attitude of acknowledging the unknowable degenerated into superstition; it was transformed into utilitarianism, disregarding the value of independent personhood; the tension between benevolence and ritual, which implicitly contained the possibility of free norms, was transformed into ritualistic dogma; the openness of thought degenerated into doctrinal theories; and knowledge that had originally been embodied in inner action degenerated into rote learning.  
 
 ### Jesus  
 
 It is impossible to establish his historical reality on the basis of definitive historical sources; once critical historiography is applied, his historical authenticity can be entirely erased.  
 
-The most reliable thing is the message he brought: the end of the world is approaching.  
+The most reliable thing is his eschatological message: the end of the world is approaching.  
 
 But the end is not merely a threat or destruction; it is also a promise: after the end comes the Kingdom of God.  
 
@@ -150,11 +150,11 @@ The results of Jesus's preaching were unimpressive. Once he was killed, his disc
 
 ### Conclusion  
 
-Why were these four people, rather than others, the ones who exerted such enormous influence?  
+Why were these four figures, rather than others, the ones who exerted such enormous influence?  
 
 Historical criticism cannot answer this. None of the four possessed worldly power, nor did they possess the kind of charisma sufficient to stir the masses and the intellectuals. They themselves suffered and were abandoned, yet they possessed an irresistible spiritual attraction. Later generations were inspired by them; strength continually welled up in response, driving people to seek the deeper meaning of life. Their words and deeds remain exemplary across the centuries, and their influence never ceases.  
 
-Why choose these four?  
+Why choose these four as **"The Paradigmatic Individuals"?  
 
 Other people worthy of consideration cannot match these four in either the depth or breadth of their historical influence. Only Muhammad comes close in historical importance, yet in terms of personal depth he still falls somewhat short.  
 
@@ -184,7 +184,7 @@ They were original and did not present themselves as the standard to be imitated
 
 The author:  
 
-The core of life lies in experiencing the fundamental human condition, discovering humanity's task in the world, leading us to confront extreme questions, pointing toward answers, and bringing each of the ultimate potentials of human nature to fulfillment.  
+The core of life lies in experiencing the fundamental human condition, discovering humanity's task in the world, leading us to confront boundary situations, pointing toward answers, and bringing each of the ultimate potentials of human nature to fulfillment.  
 
 In them, human experience and human ideals were expressed to their greatest possible extent.  
 

@@ -90,12 +90,12 @@ To strengthen the banking system, the United States passed new banking regulatio
 One unintended consequence of the new rules was to restrict bank lending. Economic pressure failed to ease, and cutting interest rates failed to stimulate growth. Central banks therefore turned to a new tool to stimulate the flow of funds: quantitative easing.  
 The Federal Reserve chairman proposed exchanging the assets on the balance sheets of banks and other financial institutions for central-bank reserves. The principle was the same as the post-crisis response in every cycle: write off bad debts from bank balance sheets, release funds so banks could continue lending, push down long-term interest rates, and drive asset prices back up. Inequality increased sharply: bankers were saved while ordinary people suffered.  
 During crises, fraud committed during the boom always comes to light. At the end of 2008, the largest Ponzi scheme in history, involving $50 billion, was exposed.  
-Banks had been manipulating interbank lending rates for the previous 20 years, but the practice was not exposed until 2012. Public trust was repeatedly betrayed. Although banks worldwide paid $32.1 billion in fines, very few people went to prison for their crimes.  
+Banks had been manipulating interbank lending rates (the LIBOR scandal) for the previous 20 years, but the practice was not exposed until 2012. Public trust was repeatedly betrayed. Although banks worldwide paid $32.1 billion in fines, very few people went to prison for their crimes.  
 Youth unemployment reached 30% in Ireland, while half of young people were unemployed in Spain and Greece. High prices helped trigger the Arab Spring in 2011. Riots began in London in 2011, Occupy Wall Street erupted in New York, three million Spaniards took to the streets, and protests in Athens turned violent in June 2011.  
 The market paid little attention. Although problems related to the euro triggered a sell-off from July to September 2011, markets later rebounded. On March 15, 2013, the Dow returned to an all-time high. Billionaire John Paulson had not anticipated the recovery in land prices and lost nearly $1 billion in two days.  
 Signs of the start phase of a cycle: for the past hundred years, the U.S. economy has led the world into and out of every land cycle. Once land prices reach a bottom, the start phase can be confirmed, usually about four years after the previous cycle's peak; problems in the banking system must be resolved for the cycle to begin properly; the government launches a major economic stimulus package; new technologies emerge (smartphones beginning in 2007, the internet in 1993, the personal computer in 1977, highways and aviation in the late 1950s, the Model T in 1908, electricity in 1881, and railways in the 1830s); new leaders take power (Clinton in 1993 and Blair in 1997 with the Third Way, Thatcher in 1979 and Reagan in 1981 with monetarism, and Roosevelt's New Deal in 1933); the yield curve steepens as interest rates move; the stock market is a discounting mechanism, reflecting not only current news but also future news, and the stock-market bottom is the first sign that the previous cycle is ending; demand for rental space increases, driving rents higher, with residential property recovering earlier than commercial property. Land prices then generally continue rising for about 14 years.  
 
-The Wealth Manual, Part One: The Best Time to Buy  
+The Wealth Playbook, Part One: The Best Time to Buy  
 Start phase; Timing: Years 1–2; Market sentiment: Denial  
 Bad news keeps arriving, no one believes conditions have reversed, and investors are ruled by fear and afraid to act.  
 But what follows is a 14-year expansion, interrupted only temporarily during the mid-cycle phase.  
@@ -121,7 +121,7 @@ Over the past few decades, the house-price-to-income ratio has risen dramaticall
 The scarcer an asset is, the more expensive it becomes, creating the perverse incentive for landowners to increase scarcity. This results in large amounts of idle land; the proportion of vacant buildings in cities is typically 10% to 20%.  
 The Law of Economic Rent is the law of universal gravitation of economics. Later chapters will explain the following process in detail: banks lend money, borrowers' purchasing power rises, land prices rise, a construction boom is triggered, growth accelerates, the land market expands, and high land prices ultimately become too burdensome for businesses to bear.  
 
-The Wealth Manual, Part Two: Use the Law of Economic Rent  
+The Wealth Playbook, Part Two: Use the Law of Economic Rent  
 First, you must own some land in order to benefit from rising land prices.  
 Second, buy land whose future value has not yet been priced in. The best time to buy is two years before infrastructure arrives. Long-term investors should ideally buy land on the edge of a growing city and wait for the city to expand.  
 Third, do not buy land whose future appreciation has already been priced in.  
@@ -157,7 +157,7 @@ Sixth, the yield curve flattens: after strong growth, markets expect short-term 
 Seventh, stock markets that rebound from a low usually rise for at least four years. Bank stocks take even longer to recover because they need time to work through bad debts from the previous cycle. If the market takes off from its low for more than four years and quickly breaks through the previous cycle's peak, the first half of the entire cycle will be a bull market.  
 Eighth, the dollar strengthens: so far, the United States has led the world into and out of every property cycle. As the United States moves through the expansion phase first, demand for dollars rises.  
 
-The Wealth Manual, Part Three: Expand the Investment Portfolio  
+The Wealth Playbook, Part Three: Expand the Investment Portfolio  
 Expansion phase; Timing: Years 2–6; Market sentiment: Optimism  
 Now is the time for optimism and action.  
 First, diversify: technology stocks are leading, but many industries are beginning to take off. Buy stocks that are trending upward, and remember to think long term. Money rotates among sectors: consumer goods, raw materials, and energy, followed by cyclical industries such as construction and real-estate stocks. Bank stocks lag, but will recover in a few years; buy them then. You can continue holding U.S. index-tracking funds, but you can also diversify into other markets.  
@@ -177,7 +177,7 @@ Digital platforms are becoming an increasingly important source of economic rent
 In the nineteenth century, tycoons such as Vanderbilt and Rockefeller collected rent through private enterprise. The same history is playing out in the twenty-first century, only with a different cast: Bezos, Musk, and Zuckerberg.  
 Network-platform companies are even better able to aggregate vast datasets of user behavior for commercial purposes—something even the great colonial powers of the past could never have imagined.  
 
-The Wealth Manual, Part Four: Buy Companies with Digital, Natural, or Legal Advantages  
+The Wealth Playbook, Part Four: Buy Companies with Digital, Natural, or Legal Advantages  
 First, the value of digital rent represents the degree of control over cyberspace. Rent in the digital world will come to resemble economic rent in the real economy.  
 Second, invest in companies with moats: companies that control digital space, benefit from natural resources (such as the ability to mine asteroids or exclusive rights to access space), or hold licenses that allow them to serve increasingly active areas of the economy.  
 
@@ -185,7 +185,7 @@ Second, invest in companies with moats: companies that control digital space, be
 ### Chapter Five — The Corruption of Economics  
 
 The story of Monopoly's invention is fascinating. The game demonstrates that the first player to monopolize land can control the entire game. The true inventor, Elizabeth Magie, created it to embody the ideas of the famous economist Henry George. Driven by a mission to eradicate poverty, he discovered that Ricardo's Law of Economic Rent caused the rich to become richer and the poor poorer, and was also why industrial economies were periodically destroyed, leaving most people bankrupt and the economy permanently unstable.  
-Under the existing system, value created by the public is siphoned off by a small minority because land is concentrated in the hands of a few. Henry George's solution to inequality and the business cycle was straightforward: since the problem arises from land speculation and publicly created value is privately appropriated, the solution is to impose a service charge or land tax and return that value to the public. This would eliminate the incentive to speculate in land, so no one could capture unearned income from rising land prices. The gains would instead be returned to the public and invested in infrastructure and public services to increase productivity.  
+Under the existing system, value created by the public is siphoned off by a small minority because land is concentrated in the hands of a few. Henry George's solution to inequality and the business cycle was straightforward: since the problem arises from land speculation and publicly created value is privately appropriated, the solution is to impose a Land Value Tax (or the "Single Tax") and return that value to the public. This would eliminate the incentive to speculate in land, so no one could capture unearned income from rising land prices. The gains would instead be returned to the public and invested in infrastructure and public services to increase productivity.  
 This solution was embodied in a second version of the inventor's game: players paid land rent to the entire population while paying rent on houses to landlords. No matter how long the game continued, no player could monopolize land and bankrupt everyone else; every player could benefit.  
 Henry George, who had received no formal education, published *Progress and Poverty* in 1879 to explain his findings. It received widespread acclaim, and movements supporting the solution sprang up around the world. In the 1890s, the book sold three million copies, making it the second-best-selling book after the Bible. In 1891, the British prime minister also endorsed its ideas.  
 The Liberal government's 1909 budget included the first tax-reform provisions based on Henry George's proposals, known as the “People's Budget.” But its real opponents were the aristocrats who controlled public affairs, the hereditary landowners who made up the House of Lords.  
@@ -206,7 +206,7 @@ The 30 prominent signatories could not withstand pressure from Western instituti
 The result was that Russian life expectancy fell sharply, infant mortality rose, suicide and alcoholism increased, and disorder spread everywhere. In 1995, the government was on the verge of bankruptcy. Oligarchs lent money to keep the government alive, taking shares in state-owned enterprises as collateral. By 1996, these oligarchs knew that Yeltsin was a burden and arranged for the compliant professional bureaucrat Vladimir Putin to succeed him.  
 But Putin was not a puppet who could be manipulated at will. He took control of politics, suppressed his financial backers, seized political power and wealth, and consolidated his authority.  
 
-The Wealth Manual, Part Five: Control Rent, Control the World  
+The Wealth Playbook, Part Five: Control Rent, Control the World  
 First, consult only analyses by experts who understand economic rent.  
 Second, acknowledge the existence of the Law of Economic Rent.  
 Third, whenever anyone advocates reform, support them.  
@@ -224,7 +224,7 @@ Fourth, bank lending: in most places, lending has returned to normal. Bank profi
 Fifth, an inverted yield curve: economic indicators are broadly optimistic, but there are also warning signs that a slowdown is approaching. An inverted yield curve is one such warning and one of the most reliable leading indicators of an economic slowdown, yet few people pay attention to it at the time.  
 Sixth, exaggerated public pronouncements: whenever a prominent politician or business leader publicly boasts about the prosperity of the moment, it means the peak phase is about to end. In October 1999, a widely promoted book claimed that the Dow was severely undervalued. Two months later, the market reached its peak and then plunged 40%.  
 
-The Wealth Manual, Part Six: Do Not Lose Yourself in Vanity  
+The Wealth Playbook, Part Six: Do Not Lose Yourself in Vanity  
 Peak phase; Approximate timing: Years 6–7; Market sentiment: Excessive confidence  
 First, stop buying stocks. Keep spare cash ready to seize opportunities during the recession.  
 Second, maintain a margin of safety in real-estate investment: the cash generated must be sufficient to withstand every problem that may arise in the next phase of the cycle, such as falling rents and overdue debts. If you want to reduce the size of your portfolio, now is the time to sell—do not miss it. Real-estate developers should ideally sell their inventory; otherwise, they need to be prepared to hold it for the long term. Even though borrowing is easy, do not accumulate debt.  
@@ -251,7 +251,7 @@ Fourth, banks and property remain stable: bank lending remains strong, without e
 Fifth, migration: the basic dynamic remains the same—people move out of city centers because prices keep rising.  
 Sixth, a “new era”: during the recession and the relatively rapid recovery, many people feel that we are entering a new era, that we need to think in new ways, and that new social movements will emerge.  
 
-The Wealth Manual, Part Seven: Stay Stable  
+The Wealth Playbook, Part Seven: Stay Stable  
 Recession phase; Approximate timing: Years 7–8; Market sentiment: Fear  
 First, sell stocks at high levels and buy them back at the lows.  
 The stock market will lead the way out of the recession. Property and bank stocks are also supported because there is no land crisis at this point.  
@@ -300,7 +300,7 @@ Shadow banks that do not create money also enter the market. They are not subjec
 Most lending flows into real estate, reducing the amount of credit available to productive businesses. Even when the sums are enormous, system liquidity declines because real-estate loans have longer repayment periods. Over time, this pushes interest rates higher. Near the end of a boom, businesses are squeezed from both sides: rents and borrowing costs both rise, reducing investment and directly affecting major sectors, especially construction.  
 Once construction slows, employment and demand decline with it, triggering a crisis. Bank balance sheets are loaded with real-estate loans, and writing them off would cause enormous losses or even bankruptcy. The solution is to squeeze credit from small businesses, setting off a wave of corporate failures and unemployment.  
 
-The Wealth Manual, Part Eight: Banks Can Profit from the Law of Economic Rent—Why Not Invest in One?  
+The Wealth Playbook, Part Eight: Banks Can Profit from the Law of Economic Rent—Why Not Invest in One?  
 Money is created, and the second half of the cycle is when banks earn enormous profits from lending.  
 The financial system is interconnected, so problems spread like wildfire.  
 Borrowing money to invest in high-return real assets is an ideal strategy, but you have to act at the right time.  
@@ -335,7 +335,7 @@ Some argue that increasing public spending will lead to higher interest rates an
 In most cases, the ratio of government debt to GDP is not the most important thing to watch. What really matters is private debt as a share of GDP (data source: bankingcrisis.org; editor's note: a quick look at the chart suggests that the rise in this ratio in the United States does not appear to have an obvious relationship with the years of major economic peaks). In reality, the more fiercely the former is debated, the less attention is paid to the latter and its main use: real-estate speculation.  
 This is the new reality since the end of the Bretton Woods system in 1971, and many people still have not grasped it. At a 2005 U.S. congressional hearing, Greenspan noted that the government could continue paying people as much money as it wanted and no one could stop it. Therefore, funding for subsidies that would be spent whenever there was demand would not run short. In other words, the chairman of the U.S. Federal Reserve believed that government funding had no upper limit.  
 
-Cambridge University's Economic Policy Group began studying this in the 1970s, tracing the flow of money through the economy and dividing the economy into three mutually exclusive sectors: private, external, and government.  
+Cambridge University's Economic Policy Group began studying this in the 1970s, tracing the flow of money through the economy and dividing the economy using the Sectoral Balances framework (comprising the private, external, and government sectors).  
 Its research demonstrated that total income in the economy, or GDP, is the sum of the contributions of these three sectors. This means that for the private sector to have positive net income, the trade balance must be positive, or the government sector must spend more than it collects in taxes. Conversely, if the government runs a surplus while the country runs a trade deficit, the private sector must contract. From this perspective, a government surplus is not necessarily a good thing.  
 If private-sector net income is negative, spending will fall and the economy will enter recession, or the private sector will have to exhaust its savings or borrow more money.  
 If investors want the private sector to have positive net income, they should therefore want the government to spend heavily and cut taxes, while also running a large trade surplus.  
@@ -346,7 +346,7 @@ Inflation: excessive money creation can cause inflation, but it should be noted 
 Exchange rates: increasing the money supply causes the domestic currency to depreciate, creating more export opportunities, but imports become more expensive, so a balance must be maintained.  
 Land: many people do not understand that unemployment in an economy is mainly caused by land being left idle instead of being used for production. The more the government invests in infrastructure, the more land prices rise, encouraging speculative behavior that distorts the market.  
 
-The Wealth Manual, Part Nine: The Government Will Create Money—Follow Government Investment  
+The Wealth Playbook, Part Nine: The Government Will Create Money—Follow Government Investment  
 First, the government is part of the cycle, not above it: much of what governments do is to push up asset prices.  
 Second, the government will create as much money as it can as long as nothing goes wrong.  
 Third, a government committed to the economy will drive economic growth higher: when new money enters the economy, the market turns upward, making it the best time to invest. By the same logic, government spending cuts, especially at the peak of the cycle, may cause the economy to slow, so caution is required.  
@@ -361,7 +361,7 @@ The policy worked. The recession ended the following year, corporate profits rec
 Banks lent freely. In 1845, as many as 1,238 railway construction schemes were seeking funding. From 1843 to 1846, the railway-stock market index doubled, while land prices along railway routes soared. *The Economist* called it the greatest bubble in history. Many members of Parliament also participated, trading supportive votes for shares. Many of the schemes were outright frauds, promoting shares for railways that would never actually be built.  
 
 Features of a boom:  
-First, it begins with a substitute event, such as the Queen traveling by train. Other substitute events in other cycles include interest-rate cuts, financial deregulation (Japan in the 1980s), major tax cuts (the United States in 2001), the end of a war (1815 and 1921), and pandemics and international crises (1921 and 2021).  
+First, it begins with a displacement, such as the Queen traveling by train. Other substitute events in other cycles include interest-rate cuts, financial deregulation (Japan in the 1980s), major tax cuts (the United States in 2001), the end of a war (1815 and 1921), and pandemics and international crises (1921 and 2021).  
 Second, it centers on new technology. Every start phase is driven by new technology, but the impact of new technology on the economy as a whole becomes much more pronounced only in the second half of the boom. Besides railways, examples include canals in the 1820s, automobiles, telephones, and electricity in the 1920s, personal computers in the 1980s, and the internet in the 2000s.  
 Third, infrastructure: governments invest heavily to sustain the boom, including paving roads for automobiles in the 1920s, highways in the 1950s, interstate highways and airports, and fixed-line and mobile networks in the 2000s.  
 Fourth, the property boom spreads into new areas.  
@@ -371,7 +371,7 @@ Seventh, the stock market rises sharply: the stock market can anticipate the fut
 Eighth, global prosperity: capital is always looking for new opportunities, and many of the best opportunities are overseas. In the nineteenth century, British capital created prosperity in the United States, including the railway booms before the cycle peaks of 1854, 1872, and the 1890s, as well as the boom of the 1920s. After the Second World War, U.S. capital drove prosperity in Latin America, East Asia, and Europe. In the second half of the cycle, the dollar usually depreciates against other currencies, further driving the global boom.  
 Ninth, investor euphoria: speculation becomes emotional demand, and the media fan the flames.  
 
-The Wealth Manual, Part Ten: Make the Most of the Boom  
+The Wealth Playbook, Part Ten: Make the Most of the Boom  
 Land boom; Timing: Years 9–12; Market sentiment: Euphoria  
 Asset prices are soaring. Keep an eye on your emotions and beware of all kinds of fraud.  
 First, continue buying stocks.  
@@ -407,9 +407,9 @@ Second: 1849, 1873, 1896 — heavy machinery, railways, and telegraphy
 Third: 1896, 1920, 1955 — heavy industry and machinery, automobiles, and telephones  
 Fourth: 1955, 1975, 2001 — automated production and commercial aviation  
 Fifth: 2001, 2027 (projected), the 2050s (projected) — the internet, mobile phones, and the near-space economy  
-The direction of capital investment determines each long cycle. Returns on investment are low during the downturn, but it is accompanied by new technologies, creating opportunities for higher returns and completely transforming the economy, communications, transportation, and the way people interact.  
+The direction of capital investment determines each Kondratiev wave (K-wave). Returns on investment are low during the downturn, but it is accompanied by new technologies, creating opportunities for higher returns and completely transforming the economy, communications, transportation, and the way people interact.  
 As a new cycle begins, capital flows from mature industries into emerging industries. Massive investment is required for new technologies to emerge.  
-The upswing of a long cycle produces exceptionally intense social movements. The current cycle has challenged issues such as same-sex marriage, race relations, sexual harassment, and gender identity. The previous long-cycle upswing produced the civil-rights movement, the feminist movement, the environmental movement, and successive waves of decolonization.  
+The upswing of a K-wave produces exceptionally intense social movements. The current cycle has challenged issues such as same-sex marriage, race relations, sexual harassment, and gender identity. The previous long-cycle upswing produced the civil-rights movement, the feminist movement, the environmental movement, and successive waves of decolonization.  
 The downturn lasts longer and is larger in magnitude, especially for commodity-exporting countries.  
 
 During downturns, investment opportunities become fewer. Capital accumulates within the system, waiting for new avenues of production, while investment becomes increasingly speculative.  
@@ -433,7 +433,7 @@ Kondratiev: wars and revolutions do not fall from the sky; they grow out of the 
 
 Political leaders may provoke conflicts abroad when the domestic economy is weak in order to divert the people's attention. The property crisis at the end of the 2020s will occur around the peak and downswing of the long cycle, so the final years of the 2020s will bring serious geopolitical crises.  
 
-The Wealth Manual, Part Eleven: Invest in Natural Resources and Infrastructure  
+The Wealth Playbook, Part Eleven: Invest in Natural Resources and Infrastructure  
 During the upswing of the long cycle, innovation and disruption occur on a large scale across many fields.  
 First, sentiment is more exuberant during the upswing, and market volatility is greater.  
 Second, invest in the long cycle.  
@@ -471,7 +471,7 @@ Seventh, the yield curve inverts: the public and experts have already been distr
 Eighth, everyone speculates, and speculation becomes everyday conversation: magazines promoting luxury goods reach their greatest thickness in history.  
 Ninth, extravagant behavior: artworks sell for astronomical prices. In 1990, a Japanese buyer purchased a Van Gogh painting for a world-record price. The record was not broken until 2004, when it was surpassed by Picasso's *Boy with a Pipe*. It was the first record-breaking transaction in the cycle leading up to the 2007 peak.  
 
-The Wealth Manual, Part Twelve: Do Not Follow the Crowd; Be Cautious  
+The Wealth Playbook, Part Twelve: Do Not Follow the Crowd; Be Cautious  
 Investors are driven by herd instincts. Everyone believes high growth will never end and fears missing out. The priority at this point is to ensure that capital is properly allocated and safe when the frenzy ends.  
 First, prepare to sell overheated land and the stocks most closely tied to the frenzy: pay particular attention to stocks that will be most vulnerable when the crisis arrives. Remember that property stocks peak before the broader market. You do not need to sell your entire stock portfolio before the frenzy ends, but you should shift capital toward strong large-cap stocks with stable profits.  
 Second, be cautious with real-estate investment: the property market is very hot, so do not buy more or expand your exposure. Before the frenzy ends, real-estate developers must sell all their inventory and should not start new construction. Commercial-property investors need to make sure their tenants are financially sound businesses capable of surviving the crisis.  
@@ -496,7 +496,7 @@ Because he believed in automatic adjustment, he did not intervene. He even regar
 The flaw he failed to identify was precisely that financial markets cannot self-correct when they are tied to the land cycle.  
 What is astonishing is that nothing has changed since the crisis. Investors remain stubbornly convinced of themselves, maintaining the illusion that they can control things. That is why investors continue rushing into the market before the peak.  
 
-The Wealth Manual, Part Thirteen: Market Timing Can Be Mastered  
+The Wealth Playbook, Part Thirteen: Market Timing Can Be Mastered  
 Toward the end of the business cycle, you must understand the limitations of standard investment methods.  
 First, always know which phase of the 18-year business cycle you are in.  
 Second, market timing can be mastered: the deepest declines occur precisely around the peaks of the cycle, especially the mid-cycle and final peaks. Years when the stock market performs exceptionally well also tend to occur at key points in the cycle, mostly during the start phase and the land-boom phase. Major bull markets appear during the start and expansion phases, as well as during the land-boom and frenzy phases. Do not increase your investment exposure toward the end of the expansion or frenzy phases.  
@@ -515,7 +515,7 @@ Third, real estate slows: land prices have peaked, but market signals are confus
 Fourth, central banks around the world intervene to suppress overheating and tighten lending, planning a soft landing: the economy does not cool. Central banks deploy multiple measures to control inflation and runaway lending, but they cannot succeed because land prices have already peaked, interest rates keep rising, and eventually land prices fall.  
 Fifth, investment and lending slow: the first warning sign, or a small one, may come from far away and seem unimportant, such as fraud, accidents, weather, or other bad news. Yet these can cause economic losses, and experienced investors begin quietly leaving. The market falls because there is no longer idle capital available to enter it. There may be many such events, but people's attention is scattered, and when a crisis emerges, governments will do everything they can to conceal it, just as WikiLeaks founder Julian Assange exposed improper lending by Icelandic banks in 2007.  
 
-The Wealth Manual, Part Fourteen: The Last Chance to Sell  
+The Wealth Playbook, Part Fourteen: The Last Chance to Sell  
 Phase: Peak; Timing: Around Year 14; Sentiment: Delusion  
 Be vigilant: delusion is everywhere, and the temptation to speculate is difficult to resist. Do not buy more. Do not increase debt.  
 First, sell stocks and hedge: if you are still holding stocks, this is your last chance to sell; identify weak stocks and short them during the crash that follows. Banks are the best candidates because they have the highest debt, expand fastest during the boom, and need to borrow in order to expand.  
@@ -546,12 +546,12 @@ The stock market usually falls before problems become visible, rapidly reflectin
 Seventh, the property crash  
 After a crisis, residential property falls by about 35% in real terms on average. The decline lasts six years, longer than a stock-market bear market, while land prices in peripheral areas fall even more severely. The crash usually begins at the peak and takes two years to reach the cycle's low. During this period, major frauds also come to light one after another.  
 
-The Wealth Manual, Part Fifteen: Stay Calm and Wait for the Bottom  
+The Wealth Playbook, Part Fifteen: Stay Calm and Wait for the Bottom  
 Phase: Crash; Timing: Around Years 15–16; Sentiment: Panic  
 If you have prepared properly, your profits are protected, the assets you hold are high quality, and you do not have excessive leverage. Have confidence and remain firm. Things will eventually improve.  
 Success at this stage depends largely on the preparations made earlier. Above all, do not end up selling during the crash.  
 First, wait for the bottom: do not count on loans being rolled over, because borrowing is almost completely impossible at this stage, especially for businesses. Keeping cash reserves is extremely important. Survival is the key.  
-Second, short weak stocks: take advantage of extreme market volatility. If possible, short the stock market using index-tracking funds; such funds rise when the market falls. Short property and bank stocks: they will encounter all kinds of problems during a market decline, but bear markets do not last, so do not wait too long. Do not buy the dip, especially the rebound after the first wave of panic. If the U.S. stock market has not yet fallen by half, the crash phase is not over. Patiently wait for the next phase of the cycle, when the government sells rescue assets to stabilize the system.  
+Second, short weak stocks: take advantage of extreme market volatility. If possible, short the stock market using Inverse ETFs. Short property and bank stocks: they will encounter all kinds of problems during a market decline, but bear markets do not last, so do not wait too long. Do not buy the dip, especially the rebound after the first wave of panic. If the U.S. stock market has not yet fallen by half, the crash phase is not over. Patiently wait for the next phase of the cycle, when the government sells rescue assets to stabilize the system.  
 Third, manage the property portfolio well: rents on quality properties will rise because many people move in search of work, leaving more tenants than buyers.  
 Fourth, continue holding safe assets: government bonds and safe-haven currencies will appreciate during this period.  
 Fifth, continue holding gold and sell commodities: continue holding gold and silver; if deflation occurs, they will rise. But sell commodities. From 1800 to the present, commodity prices have peaked later than the U.S. stock market in every cycle except one. As the economy falls into recession, commodity prices will decline. Do not hold them for too long.  
@@ -561,7 +561,7 @@ Fifth, continue holding gold and sell commodities: continue holding gold and sil
 
 The author shares the story of an investor who fell victim to a scam. An “acquaintance” introduced him to an “exclusive” “investment” opportunity: a Bitcoin “mining” scheme that guaranteed enormous profits and offered a seemingly fair profit-sharing arrangement. The investor thought there was no harm in putting in only a small amount. Once he had invested, however, he was persuaded to put in more. The returns were excellent. When the time came to withdraw his money, he was told that he first had to pay a ten-percent commission upfront. Given the huge profits, that amount was already more than his original investment. He eventually agreed to pay half, with the “acquaintance” promising to “lend” him the other half. In the end, he got nothing back. The author then reveals that the victim was himself.  
 
-The Wealth Manual, Part Sixteen: Protect Yourself and Avoid Scams  
+The Wealth Playbook, Part Sixteen: Protect Yourself and Avoid Scams  
 Phase: All phases before the peak; Timing: Years 1–14, especially Years 10–14; Sentiment: Excitement, fear of missing out  
 Do not fall into a fear-of-missing-out mindset; do not have unrealistic expectations; understand what you are investing in; seek your friends’ opinions; assess the risks; the person making the investment decisions and the institution holding the account should never be the same entity; make sure the investment is held in your name; do not blindly trust anyone; do not act in haste; intermediaries increase the risk of fraud; beware of fabricated accounts; keep asking questions; never put in more money; once you confirm that you have been defrauded, walk away; forgive yourself.  
 
@@ -570,7 +570,7 @@ Do not fall into a fear-of-missing-out mindset; do not have unrealistic expectat
 
 Officially, the oil crisis is said to have caused the financial crisis of 1973–74. Anyone familiar with the cycle knows that this was not the real culprit. During the frenzy phase, lending had already been restricted while asset prices were rising, and when central banks finally intervened, it was too late. U.S. stocks had peaked in January 1973, while the oil crisis did not erupt until several months later. Economies around the world entered recession and lending contracted sharply. Crises are a recurring consequence of the peak; the system was already primed to collapse. War and politics merely added fuel to the fire. The real cause was the continuing decline of the property market.  
 The rescue began, with central banks around the world launching massive relief measures, and the recovery was remarkably fast. 1975 turned out to be an excellent year for the stock market.  
-This is precisely why 1973 changed modern history. Before then, governments had responded slowly to financial crises. Now the speed and scale of market intervention became a model for others to follow. The moral concern that “every time the government steps in, banks will take more risks” quickly faded. Attention shifted instead to how quickly governments should intervene and how far-reaching the rescue should be.  
+This is precisely why 1973 changed modern history. Before then, governments had responded slowly to financial crises. Now the speed and scale of market intervention became a model for others to follow. The "Moral Hazard" concern that “every time the government steps in, banks will take more risks” quickly faded. Attention shifted instead to how quickly governments should intervene and how far-reaching the rescue should be.  
 
 First, lower the cost of borrowing  
 The first step in relieving a crisis is to cut interest rates, but during a crisis no one wants to borrow. Banks are still loaded with bad debts, collateral values continue to fall, and banks have to unlock their funds before they can resume lending.  
@@ -580,11 +580,11 @@ The first two measures can prevent an even more severe panic-driven sell-off and
 Third, prevent bank failures  
 The rescue measures differ from one cycle to another: selling banks, writing off bad debts, nationalizing banks, or requiring bank shareholders to inject more capital. Examples include the Bank of England's 1973 rescue of secondary banks and the U.S. Congress's 1990 bailout of savings and loan institutions. In the latest crisis, the response was quantitative easing. But the objective is always the same: to promote the recovery and recapitalization of the banking system. Once the rescue operation is completed, banks can begin lending again, but recovery must wait until their balance sheets have been repaired, while bad debts can quietly be written off when the time is right.  
 Fourth, rescue the property market  
-Cutting interest rates and providing liquidity can stop the decline, at least in the best locations. Rescue measures include mortgage relief, shared-equity schemes, tax cuts, subsidized housing construction, stamp-duty reductions, and grants for first-time buyers. The aim is to allow a new generation of buyers to re-enter the market once prices are higher again. Yet no one studies the true cause—the economic rent flowing into private hands—or the true solution: a properly designed land-value tax.  
+Cutting interest rates and providing liquidity can stop the decline, at least in the best locations. Rescue measures include mortgage relief, shared-equity schemes, tax cuts, subsidized housing construction, stamp-duty reductions, and grants for first-time buyers. The aim is to allow a new generation of buyers to re-enter the market once prices are higher again. Yet no one studies the true cause—the economic rent flowing into private hands—or the true solution: a properly designed Land Value Tax.  
 At this point, the world's tallest building is completed and opens for business. Construction began during the earlier frenzy phase, yet it cannot find tenants willing to pay the high rents, “bearing witness to the ultimate folly and hubris of mankind.”  
 Rescue measures usually continue for two years—the final two years of the 18-year cycle. The cause of the crisis remains undiscovered and unresolved; all the measures do is preserve the system and carry it safely into another cycle.  
 
-The Wealth Manual, Part Seventeen: Be Patient and Be Prepared  
+The Wealth Playbook, Part Seventeen: Be Patient and Be Prepared  
 Phase: Rescue; Timing: Around Years 17–18; Sentiment: Despair  
 Once the panic has passed, helpless despair takes its place. It can feel as though things will never get better. The news is bleak, the economy is barely alive, unemployment keeps rising, and businesses continue to fail. But ignore the noise and do not let emotion sway you. Prepare for the best buying opportunity of the next 20 years.  
 First, buy stocks: the stock-market bottom may arrive before the rescue is complete. Look for opportunities to buy at lower prices when bad news drives the market down. Any short positions taken earlier should now be closed for a profit.  
@@ -605,11 +605,11 @@ Technology may change where people choose to settle, bringing new land into the 
 Technology will have other effects: making transactions easier, creating new forms of money, completely transforming banking services, and perhaps even taking us into outer space. But the business cycle will remain.  
 The correlation between property prices in global cities and across countries has increased dramatically. The looser credit becomes, the stronger the correlation. Economies around the world reach their peaks together and crash together. By every indicator, each economy may appear healthy, yet once a problem erupts in one place, it can spread rapidly throughout the entire system.  
 
-The Wealth Manual, Part Eighteen: The More Things Change, the More They Stay the Same  
+The Wealth Playbook, Part Eighteen: The More Things Change, the More They Stay the Same  
 First, remember the Law of Economic Rent: the economy is driven by the Law of Economic Rent. The unique characteristics of land divert the gains created by progress, and urban land is the most important source of economic rent.  
 Second, do not blindly follow the crowd; they do not know the business cycle exists either: experts fail to see the cycle because their training has conditioned them not to. Governments around the world are captured by those who want to channel more of the economy into their own pockets, and their policies only make the cycle more likely to return. Political leaders are surrounded by yes-men, independent media depend on advertising from the wealthy, and a prosperous public does not want to hear the truth that “good times do not last forever.”  
 Third, the cycle will happen again: the only force that can disrupt its rhythm is the outbreak of a major war; the only force that can eliminate the cycle is a tax policy that returns economic rent to the public. Remove either one and the cycle will inevitably return—and it will return on schedule.  
-Fourth, understand how money is created and where it flows: money is created out of thin air, mostly by private banks. Much of it is unproductive, serving only to push up land prices and worsen inflation. Once land prices fall, banks become vulnerable and require large-scale bailouts funded by new money. Governments can create their own currency without limit; when it is used to improve productivity, it need not be inflationary. Otherwise, inflation is inevitable.  
+Fourth, understand how money is created and where it flows: Fiat is created out of thin air, mostly by private banks. Much of it is unproductive, serving only to push up land prices and worsen inflation. Once land prices fall, banks become vulnerable and require large-scale bailouts funded by new money. Governments can create their own currency without limit; when it is used to improve productivity, it need not be inflationary. Otherwise, inflation is inevitable.  
 Fifth, events may develop beyond anything you can imagine: in every cycle, the numbers are larger than in the previous one, and the eventual cost of rescuing the economy grows ever higher. When you hear that something has reached a new record high, do not assume it is unprecedented. Every situation is simply the cycle repeating itself.  
 Sixth, systems collapse at their weakest point: in the 2000s, the system was exposed to excessive risk from lending against property in marginal areas through the securitization of loans. In the 1980s, the biggest problem was Japan, whose strength had appeared virtually unassailable. In the 1920s, besides the devastating agricultural-loan crisis, there was also a severe oversupply of commercial real estate. It is difficult to predict where a system's weakness will emerge. The location and the mechanism will never be exactly the same as before, but the underlying cause is the same: land speculation.  
 Seventh, manage your emotions and stick rigorously to your plan: when people are afraid, have confidence; when people are excited, remain cautious.  

@@ -77,7 +77,7 @@ Anti-Structure echoes the anti-novel, the nouveau roman, and the Theatre of the 
 
 These seven forms are not rigid or immutable; together, they constitute a spectrum of structural choices.  
 
-Outside this triangle, below the line connecting Minimalism and Anti-Structure, the story remains unchanged. There is no transformation arc, and the characters’ life-value orientations are almost identical to those at the beginning. The story dissolves into characterization and becomes a portrait of a person. Such films are called **nonplots**.  
+Outside this triangle, below the line connecting Minimalism and Anti-Structure, the story remains unchanged. There is no transformation arc, and the characters’ life-value orientations are almost identical to those at the beginning. The story dissolves into characterization and becomes a "slice of life". Such films are called **Nonplots**.  
 
 **Classical Design:** *Seven Samurai* / Japan / 1954, *2001: A Space Odyssey* / United States / 1968, *The Godfather Part II* / United States / 1974, *Ju Dou* / China / 1990  
 **Minimalism:** *Tender Mercies* / United States / 1983, *To Live* / China / 1994, *Shall We Dance?* / Japan / 1996  
@@ -306,14 +306,14 @@ A turning point is a shift in the polarity of the character’s life-value orien
 A turning point has four effects: **surprise, insight, curiosity, and a new direction.**  
 
 A mediocre story merely provides information; a great story creates insight.  
-To trigger **insight**—a wholly new understanding that **surprises** the audience—there must first be **exposition**:  
+To trigger **insight (the payoff)**—a wholly new understanding that **surprises** the audience—there must first be a **setup**:  
 In *Kramer vs. Kramer*, the audience’s realization that the protagonist is somehow unable even to make breakfast comes from understanding that he is a workaholic and has always been spoiled by women;  
 In *Star Wars: Episode V*, Vader’s revelation that he is Luke’s father triggers one of the most famous gaps in film history, forcing the audience to recall the earlier exposition, such as why Luke repeatedly escaped by the skin of his teeth;  
 After the truth is revealed in *Chinatown*, we finally understand that when the suspect previously answered “for the daughter,” he meant something else, producing a wholly new understanding.  
 
 **Exposition** includes leading the audience into an expectation, allowing them to think they understand, and then breaking that expectation with reality: storytelling is a promise—“I am going to surprise you.”  
 **Insight** in turn triggers more questions: What will happen next? What will the final result be? This creates more **curiosity** and lays the groundwork for a **new direction**.  
-Thus, the result of **insight** is often the **exposition** of the next act.  
+Thus, The result of **insight** is often the **setup** of the next act.  
 Exposition and the creation of gaps form a feedback loop in the creative process: creativity comes first and inference second. Creativity means being willing to entertain any crazy idea; absurd exposition can always be revised afterward to make it logical.  
 
 The law of diminishing returns limits the effect of repeated emotional experiences: three consecutive tragic scenes will not make the audience sadder each time. The story needs **emotional change**.  
@@ -439,10 +439,10 @@ Human nature is conservative: we do not do unnecessary things or take unnecessar
 When the inciting incident occurs, the protagonist should be at a disadvantage.  
 
 To test whether the negative forces in the story are strong enough to force the positive forces to summon their strongest qualities, first identify the most important value that is in danger of collapse, such as **justice**.  
-Against it we have:  
-**Opposition:** injustice (the absence of justice, such as favoritism, racism, and inequality)  
-**Contrary:** evil (the complete opposite, such as violent murder)  
-**Double negative:** tyranny (the extreme limit of darkness)  
+Against it we have (The Value Square):  
+**The Contrary:** unfairness (the absence of justice, such as favoritism, racism, and inequality)  
+**The Contradictory:** injustice (the complete opposite, such as violent murder)  
+**The Negation of the Negation:** tyranny (the extreme limit of darkness)  
 The distinction between them is the difference between a world governed by law and a world in which might makes right.  
 In *Missing*, an American searches for his missing son in Chile. In the first act, he encounters injustice when the U.S. ambassador tells him to abandon the search. At the second-act climax, he discovers evil: his son was murdered by the military government, which also colluded with the U.S. government. In the third act, he suffers severe persecution, leaving him with no hope even of revenge.  
 In *The Right Stuff*, the protagonist faces both injustice and overwhelming power—the negative of the negative—and ultimately justice prevails.  
@@ -513,14 +513,14 @@ A story may still satisfy the audience without reaching the double negative, but
 
 ### Chapter 15 — Exposition  
 
-Show, do not explain: when the purpose is simply to present background information, do not put the information into the characters’ mouths.  
+Show, do not tell: when the purpose is simply to present background information, do not put the information into the characters’ mouths.  
 Turn exposition into a weapon. For example: “How can you do something this childish? Twenty years ago you were kicked out of school for exactly this. When are you ever going to wake up…?” The fact that the two characters have been classmates for twenty years is embedded in their interaction.  
 Exposition must progress gradually and step by step, revealing only the background information the audience absolutely needs—and wants—to know. In *Chinatown*, the heroine’s confession, “She is my sister and my daughter,” is hardly the sort of secret one would share at a cocktail party; in *Star Wars*, “You can’t kill me, Luke. I am your father” is something Vader would never reveal until he has exhausted every other possibility.  
 
 If exposition spans an entire life, you must create a powerful, enduring backbone. In *The Last Emperor*, the backbone is a man spending his entire life trying to answer, “Who am I?” In *Farewell My Concubine*, it is the protagonist’s desire to live in the truth.  
 There are not many stories whose backbone can carry a life from beginning to end. It is therefore worth taking Aristotle’s advice and starting in the middle. If the climax of the story is the protagonist’s thirty-fifth birthday, for example, there is no need to begin at birth; start a month earlier.  
 
-The “dusting the table” method of exposition used by nineteenth-century playwrights—a senior maid dusting the table while explaining the master of the house to a new maid—can still be found today, as in *Outbreak*, where the colonel lectures the doctor at length about the Ebola virus. Do not make this mistake. Ask yourself:  
+The “feather-duster exposition” (or "Maid-and-Butler dialogue") used by nineteenth-century playwrights can still be found today, as in *Outbreak*, where the colonel lectures the doctor at length about the Ebola virus. Do not make this mistake. Ask yourself:  
 Is this exposition dramatic?  
 Can it be used as a weapon?  
 If not, cut it.  
@@ -644,7 +644,7 @@ There are two methods:
 The least accomplished screenwriter uses the least creative method: as soon as an idea appears, he rushes to the keyboard and starts writing while imagining. Once finished, he shows it to his friends. They like certain scenes. He incorporates their reactions into his own ideas and writes a second draft, keeping the few scenes that both he and the others like and stitching them together, then asks for more feedback. He writes more and more versions this way. A year passes; he is physically and mentally exhausted. He gives it to an agent, who decides that the story is terrible and passes on it.  
 
 **Writing from the inside out:**  
-Use cards to write, in one or two simple sentences, what happens in each scene. Note how the events build toward the turn, and mark the scene’s function within the overall story design.  
+Create a "Step Outline" using index cards, writing in one or two simple sentences what happens in each scene. Note how the events build toward the turn, and mark the scene’s function within the overall story design.  
 Write many cards, knowing that ninety percent of them will be mediocre and must be discarded.  
 Weeks and months pass. Eventually you discover the climax of the story, then work backward from the climax and rewrite. From that point, the story begins to take shape.  
 Tell the story to friends and study their reactions: were they hooked by the inciting incident? Did they stay attentive? Did the turning points provoke strong responses?  

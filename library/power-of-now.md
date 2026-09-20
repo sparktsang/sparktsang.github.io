@@ -35,13 +35,13 @@ The greatest obstacle to perceiving Being is the belief that thinking is who you
 Even Descartes mistakenly identified the thinker with the self. This gives rise to every kind of illusion: images, judgments, definitions, filling the world with a veil.  
 Thinking has become a disease. The mind is an excellent tool, but once misused, it destroys everything. When you identify yourself with your thinking, you become controlled by your own tool. This is a form of addiction: once addicted, you have already lost the choice to stop.
 
-If you cannot stop yourself from thinking, then you are already a slave to the mind without realizing it, mistaking the ghost in your upper body for yourself. People become addicted to thinking because the thinker gives them the illusion of identity.
+If you cannot stop yourself from thinking, then you are already a slave to the mind without realizing it, mistaking the entity that possesses you for yourself. People become addicted to thinking because the thinker gives them the illusion of identity.
 
 You can break through the confinement of the mind and become free. You only need to observe your thoughts, and then you become aware not only that there is thinking, but that there is also an observer of thought; a higher level of awareness begins to emerge, and you can awaken.  
 There is no need for analysis or judgment. Simply observe and become aware. The moment you add analysis, it is the mind interfering again—one thought attacking another.
 
 At first, you may not be able to maintain observation for long. The more you practice, the longer you can sustain it.  
-This emptiness makes you intensely aware of yourself. Its joy is so powerful that all thoughts, sensations, the body, even the world itself, cease to matter. This is the state of no-self, taking you beyond the “I” you originally identified with.
+This emptiness makes you intensely aware of yourself. Its joy is so powerful that all thoughts, sensations, the body, even the world itself, cease to matter. This is the state of "no-mind", taking you beyond the “I” you originally identified with.
 
 Apart from observation, simply concentrating completely on the present moment has the same effect. You enter a state of intense awareness without thought, which is the essence of meditation. Even ordinary activities that have no inherent meaning can be practiced this way: observe your inner state completely and remain fully present.
 
@@ -89,7 +89,7 @@ With true wisdom, you can die before you die, and discover that there is no deat
 
 There is no need to gain a deep understanding of the structure of how the mind operates. It is enough to understand its fundamental dysfunction. Knowing its mechanisms may make you a psychologist, but it will not help you transcend upward. Studying insanity itself does not produce sanity.
 
-How do you let go of the mind? Drop the illusion of time and take hold of the present. There is not a single moment of life that is not the present; only in the present can you go directly to the timeless and formless Being.  
+How do you let go of the mind? Drop the illusion of time and anchor yourself in the Now. There is not a single moment of life that is not the present; only in the present can you go directly to the timeless and formless Being.  
 The mind cannot understand this because it needs time to operate. The past and future have never been real; everything can only appear in the present, just as the moon has no light of its own but merely reflects sunlight.
 Once you understand this, you can turn from the mind to Being, from time to existence, and truly live with radiance.  
 The Gospels say not to worry about tomorrow, but few people know their true meaning. Zen also emphasizes the present, using its methods to lead disciples directly to Being.
@@ -180,6 +180,6 @@ Observe thought and you withdraw awareness from form. Pure awareness grows stron
 
 At first, perhaps only a handful of people will awaken; afterward, the awakening should expand in scale, though there is no guarantee. If humanity cannot break free from thought, it will be destroyed by thought. The thinking self is like a sinking ship. Either leave it or sink with it. Humanity’s collective thinking self is the most destructive form of madness on this planet. Today, humanity anesthetizes itself with alcohol, drugs, and sex, returning to a level lower than thought itself. This slows self-destruction, but also prevents transcendence. Your reading of this book is already evidence that this new awareness has begun to gain a foothold in the world.
 
-Jesus said, “Before Abraham was, I am.” In the Bible, God says, “I am that I am.” The timeless void.
+Jesus said, “Before Abraham was, I am.” In the Bible, God says, “I am that I am.” The Unmanifested.
 
 *Finished reading on October 3, 2018*

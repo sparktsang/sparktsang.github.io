@@ -22,7 +22,7 @@ SCIENCE: stepladders, community, important, easy, neurohacking, captivating, eng
 
 The human brain craves efficiency. It wants to accomplish things with as little effort or thought as possible; work with these drives rather than against them, and you can achieve far more with far less effort.  
 
-### I. Step by Step  
+### I. Stepladders  
 
 Dreams are exciting, but merely dreaming can backfire: when the dream is too far away, people become discouraged and give up.  
 
@@ -86,6 +86,12 @@ Students who read detailed instructions were far more likely to get vaccinated t
 
 Establishing a clothing routine, like Steve Jobs, Zuckerberg, and Einstein, can save a great deal of time.  
 
+Experiments show that people's predictions of their friends' actions are no better than random guesses, yet they exhibit the overconfidence effect (D. Dunning et al., *The overconfidence effect in social prediction*, Journal of Personality and Social Psychology 58, 1990).
+
+Over 60% of engineers believe they rank in the top 10% of their peers (Todd R. Zenger, *Explaining organizational diseconomies of scale in R&D*, Management Science 40, 1994).
+
+Make things easy: live near a gym, stock your home with healthy food, set an alarm to remind yourself to practice an instrument, and provide a giant button to guide website visitors.
+
 In an E-Trade advertisement, a three-year-old child sits on a bed, taps a phone, and says that he has bought a stock.  
 
 In 2014, an app that let users send a simple “Yo!” to a friend went viral: even if something is extremely silly, people will use it if it is simple enough.  
@@ -112,7 +118,7 @@ Whether people agree or disagree with something is strongly affected by being in
 
 Writing about oneself with the non-dominant hand causes confidence to drop sharply.  
 
-The trick of taking your girlfriend to a horror movie has a scientific basis: people tend to attribute the physiological reactions they experience to other things.  
+The trick of taking a date to a horror movie has a scientific basis: people experience the "misattribution of arousal" (mistakenly attributing their physiological reactions to physical attraction instead of fear).  
 
 When people watched semi-nude women while hearing their own heartbeat speed up or slow down, they judged the women as more attractive, and the effect persisted.  
 
@@ -132,7 +138,7 @@ Those who move keep moving; those who remain still keep remaining still. Unless 
 
 When people do something and receive a reward, they will keep doing it.  
 
-Coupon-loving shoppers keep buying things they need. Sixty-five percent of America's wealthiest consumers (those earning more than $150,000 a year) would not shop at all without coupons.  
+Extreme couponers shoppers keep buying things they don't need. Sixty-five percent of America's wealthiest consumers (those earning more than $150,000 a year) would not shop at all without coupons.  
 
 People who are passionate about metal detecting first have to spend $500–$1,000 on equipment. Most never recover their investment, yet the anticipation of finding treasure keeps them happily engaged.  
 
@@ -168,9 +174,9 @@ The human brain is extremely efficient. Habits are designed so that people can a
 
 Babies prefer their mother's voice. To make the dog and his newborn daughter get along, the author recorded his wife's voice and attached it to the dog, and also made the dog think that the baby was giving it bones.  
 
-Trauma is precisely a deeply ingrained response in the brain, a result of preparing the brain to put that response to use the next time trauma occurs.  
+PTSD is precisely a deeply engrained response in the brain, a result of preparing the brain to put that response to use the next time trauma occurs.  
 
-Playing Tetris within six hours after a major psychological trauma can effectively reduce later trauma symptoms, demonstrating that the brain can be retrained. Mindfulness meditation can also help alleviate trauma symptoms.  
+Playing Tetris within six hours after a major psychological trauma can effectively reduce later PTSD symptoms, demonstrating that the brain can be retrained. Mindfulness meditation can also help alleviate PTSD symptoms.  
 
 ### Summary  
 

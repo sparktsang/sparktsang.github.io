@@ -56,7 +56,7 @@ The author found similar thinking in his predecessor Wentworth Thompson, who rec
 As mentioned earlier, increasing mass by four orders of magnitude increases metabolic rate by only three orders of magnitude  
 Many other relationships—including growth rate, heart rate, mitochondrial density, and lifespan—have relative exponents that are simple multiples of one-quarter  
 Biological energy is obtained through the conversion between ATP and ADP. Natural selection minimizes the energy required for daily life, producing the consistent mathematical results described above  
-The area-preserving branching principle determines that the total surface area before and after a blood-vessel branch remains the same, while the blood flow reflects in a way that avoids wasting energy, causing the radius of each pulsatile branch vessel to decrease successively by √2, while the succeeding non-pulsatile vessels decrease by the cube root of 2  
+The area-preserving branching principle determines that the total surface area before and after a blood-vessel branch remains the same, while preventing energy-wasting wave reflections, causing the radius of each pulsatile branch vessel to decrease successively by √2, while the succeeding non-pulsatile vessels decrease by the cube root of 2  
 The cube-root law of length interacts with the square-root law of radius, together with the linear law of blood volume and the invariance constraint of the terminal units, ultimately producing the 1/4-power allometric scaling exponent found throughout the organism  
 This reflects the fact that organisms behave as though they operate in four-dimensional space  
 Remarkably, mammals have the same blood pressure regardless of size. The tiny blood vessels of a mouse have to withstand the same blood pressure as ours. No wonder they have such short lifespans  
@@ -78,7 +78,7 @@ Experiments on mice confirmed that caloric restriction effectively extends lifes
 ### Chapter Five  
 
 Since the technological revolution, the doubling time of system growth has become shorter and shorter, indicating hyperexponential growth  
-The book revisits the astronomical numbers in the story of rice on a chessboard  
+The book revisits the astronomical numbers in the wheat and chessboard problem  
 Bacteria that divide once every minute will eventually fill a container, yet the jump from half-full to completely full happens only in the final minute  
 Because each person consumes many times more energy than is required for biological needs, the earth’s actual “effective population” is many times larger than its apparent population  
 The energy regime has shifted from obtaining energy directly from the sun in ancient times to obtaining it from the closed system of fossil fuels beneath the earth. True sustainability must ultimately return to an open system  
@@ -95,7 +95,7 @@ Great metropolises stimulate human interaction, create excitement, and nourish t
 City population and the number of gas stations follow a simple power law. Unlike the 0.75 exponent in biology, the exponent is 0.85, meaning that when a city’s population doubles, it needs only an 85% increase in the number of gas stations  
 Other forms of physical infrastructure show the same pattern, while socioeconomic quantities across different cities in the same country display a scaling exponent of 1.15, demonstrating increasing returns to scale  
 Lower costs and more opportunities: this is the gift of the city. The sublinear scaling of infrastructure and energy use mirrors the superlinear scaling of socioeconomic quantities, and the correspondence is not accidental  
-Research by a forerunner of Christaller showed that the diffusion of cities also forms a fractal geometry  
+The pioneering research of Walter Christaller showed that the diffusion of cities also forms a fractal geometry  
 The interstate highway network brings to mind our circulatory system  
 Unfortunately, we do not have sufficiently detailed data on traffic flows within cities to analyze this  
 Cities are giant social incubators. Stanley Milgram’s six degrees of separation theory makes us realize how small the world is  
@@ -104,7 +104,7 @@ Milgram, who experimentally demonstrated that people do not have to be bad peopl
 Human relationships also follow scaling laws and fractal patterns. The circles of closest family and confidants (people we turn to when faced with serious problems), friends (people we enjoy spending time with), acquaintances (people we usually only invite to gatherings), and ordinary friends (people with whom we have social contact) scale by a factor of three: 5–15–50–150  
 Robin Dunbar discovered that the maximum number of people one can regard as ordinary friends is 150, and throughout history, groups of all kinds have tended to cluster around this magical number  
 He and his colleagues also found that primate group size is related to neocortex volume, leading to the conclusion that the evolution of human intelligence was driven by the need to cope with large, complex social organizations. The author, however, proposes that it may instead be a consequence of metabolic ecology  
-Zipf’s law can be applied to city size, word frequency, and company frequency, attracting attention across disciplines. Ordinary people might naturally assume that everything follows the distribution pattern of the Gaussian bell curve rather than a power law  
+Zipf’s law can be applied to city sizes, word frequency, and company sizes, attracting attention across disciplines. Ordinary people might naturally assume that everything follows the distribution pattern of the Gaussian bell curve rather than a power law  
 The superlinear scaling of socioeconomic quantities with population size can be explained simply by the total number of connections between people: two people can have at most one relationship, three people three relationships, four people six relationships, given by p (p-1)/2. But because in reality the number of people one person can interact with is limited, the exponent is greatly reduced, and the number of interactions is constrained by physical, fractal infrastructure networks  
 
 ### Chapter Eight  
@@ -135,7 +135,7 @@ But even if a company itself grows exponentially, if its rate of expansion fails
 Because of investment capital and the ability to obtain relatively large loans compared with their size, the maintenance costs of new companies scale nonlinearly, helping drive rapid growth  
 That is why the ideal growth curve of a company shares characteristics with the typical S-shaped growth curve of an organism  
 After adjusting for inflation, all companies reach a ceiling once sales have reached five to six orders of magnitude in millions of dollars  
-The balance between an organism’s metabolism and the cost of its position is called homeostasis  
+The balance between an organism’s metabolism and its maintenance costs is called homeostasis  
 Companies die more often through mergers and acquisitions than through bankruptcy or liquidation, but surprisingly, companies’ survival and death curves are extremely similar despite different causes of death and therefore across different industries  
 Because the number of years covered was limited, the Kaplan–Meier estimator was used for survival analysis to avoid systematic error. The results showed that the assessment did not change much: a company’s half-life is nearly 10.5 years (half of companies are gone after 10.5 years)  
 The length of time companies remain on the list has been declining. In 1958, companies in the S&P 500 were estimated to remain listed for 61 years; today, the figure is only around 18 years  
@@ -152,7 +152,7 @@ Market feedback mechanisms also lead to narrower product spaces and greater spec
 ### Chapter Ten  
 
 The risk of continuing to pursue limited, single-system approaches without developing a unified framework is that on major issues, enormous amounts of financial and social capital may be wasted, ending in complete failure  
-We should develop a grand unified theory of sustainability, on the scale of Manhattan or the Apollo Program, to address global sustainability problems  
+We should develop a grand unified theory of sustainability, on the scale of the Manhattan Project or the Apollo Program, to address global sustainability problems  
 Superlinear scaling leads to a finite-time singularity: at some finite point in time, the quantity becomes infinite  
 This obviously cannot be sustainable. A transition period is necessary so that the system can escape its original “phase,” just as water becomes vapor or ice  
 Entirely new innovations must be initiated to reset the clock and avoid the singularity, allowing the system to keep growing instead of collapsing. But the intervals between innovations must become shorter and shorter, like being on a treadmill that is continuously speeding up: you must jump onto another treadmill that is accelerating even faster, and repeat the process at ever-increasing speed. What Ray Kurzweil describes in his book is highly persuasive and supported by more detailed analyses extending over hundreds of years  
@@ -161,7 +161,7 @@ A series of singularities will continue to accumulate, leading toward what mathe
 ### Afterword  
 
 The author discusses the aspiration to pursue a complex grand unified theory, as well as the achievements of the Santa Fe Institute, where he served as director and which has been internationally recognized as “the formal birthplace of interdisciplinary research on complex systems”  
-Jim Gray regarded the current data revolution as the fourth paradigm. The first three major paradigms are: empirical observation (the pre-Galilean era), theory based on models and mathematics (the post-Newtonian era), and computation and simulation. The author believes that in this sense, it is more like Paradigm 3.1 than 4.0. Yet many people, including Chris Anderson, believe that with the arrival of a new paradigm, traditional scientific methods are no longer necessary: “Correlation replaces causation”  
+Jim Gray regarded the current data revolution as the fourth paradigm. The first three major paradigms are: empirical observation (the pre-Galilean era), theory based on models and mathematics (the post-Newtonian era), and computation and simulation. The author believes that in this sense, it is more like Paradigm 3.1 than 4.0. Yet many people, including Chris Anderson, believe that with the arrival of a new paradigm, traditional scientific methods are no longer necessary: “Correlation supersedes causation”  
 The Large Hadron Collider generates 150 exabytes of data every day (the total amount of data generated by all devices in the world is only 2.5 exabytes), yet only around 100 of the 600 million collisions per second are important. From them came a crucial discovery about the fundamental laws of physics: the Higgs particle (the mass of all fundamental particles of matter is generated by this particle). This is sufficient evidence that neither science nor data are equal, or equally useful; big data needs a comprehensible theoretical framework in order to make predictions  
 
 *Finished reading on Nov 13 2020*  

@@ -21,10 +21,10 @@ Changing behavior takes two steps: examine the hidden forces that influence our 
 ### Let Go of Irrational Expectations  
 
 Modern dating problems include too many choices, leaving people at a loss; difficulty knowing whether a choice is right or wrong; social media creating a culture of comparison that makes people more prone to despair; a lack of relationship role models; a wider variety of relationship types; and overwhelming pressure to make the right choice.  
-Three major blind spots: romantics have unrealistic expectations about relationships; maximizers have unrealistic expectations about partners; and hesitators have unrealistic expectations about themselves.  
+Three major blind spots (The 3 Dating Tendencies): **The Romanticizer** has unrealistic expectations about relationships; **The Maximizer** has unrealistic expectations about partners; and **The Hesitator** has unrealistic expectations about themselves.  
 Romanticism has become widespread because of the romantic ideas that have prevailed over the past two centuries. The truth is that nobody is perfect, the idea of “happily ever after” is misleading, the beautiful meet-cute is a myth, and the perfect stories on social media are mostly illusions. In short, relationships require work.  
 Research shows that satisficers—people who stop once they have found something good enough—are far more satisfied than maximizers who insist on finding the best possible option.  
-Waiting too long to choose only means missing opportunities. Under conditions of limited choices and no chance to go back and choose again, the scientific optimal strategy is to identify the best option among the first 37%, then choose the next person who is better than that benchmark.  
+Waiting too long to choose only means missing opportunities. Under conditions of limited choices and no chance to go back and choose again, the scientifically optimal strategy, "Optimal Stopping", is to identify the best option among the first 37%, then choose the next person who is better than that benchmark.  
 Hesitation is a major mistake because it means missing opportunities to learn. Every skill requires practice. When facing hesitation, set a deadline, do your homework, and make the plan public. (Research has shown that publicly declaring a goal increases the likelihood of achieving it by 20%.) Identify yourself as “a dater” (people who see themselves as voters are 11% more likely to vote, demonstrating the effect of identity). Set specific, achievable goals, and practice self-compassion when you get hurt. Staying in constant contact with an ex makes it difficult to date seriously, so the recommendation is to delete everything.  
 
 ### Stop Loving the Wrong People  
@@ -34,13 +34,13 @@ Babies are naturally attached to their mothers. When the mother leaves, they bec
 Years later, researchers found that the theory applies to adults as well.  
 Anxiously attached people are filled with proximity-seeking tactics. They do everything they can to restore intimacy, obsess over the other person’s strengths while putting themselves down, and worry about abandonment when they do not receive an immediate response. Active communication is what allows them to let go of their anxiety. They are prone to suddenly falling into relationships, yet fear loneliness and may remain stuck for a long time without deciding whether to stay or leave.  
 People who feel they cannot rely on or trust their caregivers may grow into avoidant attachment. They pretend not to want connection with others to reduce the pain of rejection. When a relationship becomes too close, they pull away. This is a distancing tactic. They become fixated on the other person’s flaws and use them as reasons to break up.  
-The attachment trap: anxious and avoidant people are drawn to each other. The latter is skilled at pushing the other person away, and a relationship often develops only when they encounter someone who refuses to give up.  
+The Anxious-Avoidant Loop: anxious and avoidant people are drawn to each other. The latter is skilled at pushing the other person away, and a relationship often develops only when they encounter someone who refuses to give up.  
 Reliable, confident secure types are the ideal partners. They can prevent or defuse emotional drama in advance, communicate well, behave consistently, set healthy boundaries, and form intimate connections with others. They report greater relationship satisfaction than the other two types. Secure people make up half the population, while anxious types account for 20% and avoidant types 25%. Because secure types are more likely to have long-term, healthy relationships, the remaining two types are disproportionately represented among single people.  
 Key recommendation: look for a secure partner, manage your own emotions, and move yourself toward secure attachment.  
 
 ### The Ideal Life Partner  
 
-If you continue approaching the search for a life partner with the mindset teenagers use to find short-term partners, you are setting yourself up to fail.  
+If you continue searching for a life partner using a "prom-date mindset" instead of a "life-partner mindset", you are setting yourself up to fail.  
 Research has found that people tend to overestimate traits that are easy to quantify. In relationships, these include money and looks.  
 Financial hardship is a major cause of divorce, but that does not mean people should choose partners based on wealth, for two reasons: beyond a certain point, money cannot produce additional happiness; the happiness people derive from money comes through comparison; and people continually adapt to and become bored with new circumstances—the happiness of lottery winners is far lower than imagined.  
 Physical attractiveness can signal good genes, but modern science has made children’s survival rates very high, so reproductive fitness no longer needs to be the primary criterion for choosing a mate. Moreover, sexual desire inevitably fades. A 14-year study found that over seven years, sexual desire for one’s partner declined twice as fast as liking for that partner. Human adaptation works the same way with physical appearance: no matter how beautiful someone is, we eventually become accustomed to them.  
@@ -94,8 +94,8 @@ Tenth, after the date, ask eight questions to decide whether there should be a s
 ### Love at First Sight Is Not Necessarily True Love  
 
 Research shows that people usually do not feel swept off their feet or immediately click during the early stages of a relationship.  
-A spark may simply mean that the other person is extremely attractive or narcissistic; it does not necessarily mean there is a connection between the two of you. Ambiguous messages can easily lead anxiously attached people to mistake anxiety for chemistry.  
-Even when a spark is enough to initiate a relationship, it is not enough to sustain one. A slow burn that lets love deepen over time is better.  
+"The Spark" may simply mean that the other person is extremely attractive or narcissistic; it does not necessarily mean there is a connection between the two of you. Ambiguous messages can easily lead anxiously attached people to mistake anxiety for chemistry.  
+Even when "the Spark" is enough to initiate a relationship, it is not enough to sustain one. Look for a "Slow Burn" that lets love deepen over time is better.  
 
 ### Going on a Second Date  
 
@@ -148,7 +148,7 @@ Step eight: do not try to be the “good breakup person.” Do not overcare for 
 ### Getting Through Heartbreak  
 
 Framing effect: when the same surgery is presented in terms of a survival rate, 84% of doctors choose to perform it; when presented in terms of a mortality rate, only half choose to do so.  
-After a breakup, change the frame: turn the mourning party into a celebration, and recovery can happen faster.  
+After a breakup, change the frame: turn the pity party into a celebration, and recovery can happen faster.  
 Photos of a romantic partner activate the brain’s nucleus accumbens. Drug use in addicts activates the same region. After a breakup, the brain goes through something remarkably similar to withdrawal.  
 Breaking up increases cortisol and suppresses the immune system. People may experience insomnia, intrusive thoughts, depression, anger, anxiety that seriously damages mental functioning, lower intelligence, poorer reasoning and logic, and higher rates of drug use and crime. Even the person who initiated the breakup can experience the same effects.  
 Loss aversion: the brain is extremely sensitive to losses, and a breakup is a painful loss.  
@@ -263,7 +263,7 @@ Fill in the following: when you have time available to spend with your partner, 
 Set aside time to create it together. Ideally, choose a place that is both relaxing and romantic.  
 Share your answers to the self-reflection worksheet. Practice active listening by restating what your partner has said so they know their feelings have been heard. Take breaks when you need them. When you finish, sign the contract and kiss.  
 “Maintaining a relationship takes effort. We choose for both of us to invest in our love, happiness, and growth. We understand that strengthening a relationship while love is strong is better than repairing it only after problems arise. This promise is made for our shared happiness. Effective date: ___; review date: ___.”  
-“Bids are a fundamental element of emotional communication. Happy couples turn toward 86% of bids, while unhappy couples turn toward only 33%. We commit to making bids often and doing our best to respond to each other’s bids.”  
+"Bids for connection" are a fundamental element of emotional communication. Happy couples "turn toward" 86% of these bids, while unhappy couples turn toward only 33%. We commit to making bids often and doing our best to respond to each other’s bids.”  
 **Rituals:** One-on-one time each week at the following times: ___; how many times a week we spend time together without our phones: ___. We commit to doing our favorite shared rituals as much as possible, as follows: ___. If we miss one, we will make it up in the following way: ___.  
 At the next review, we will establish new rituals. (For example, making brunch together on Mondays, or telling each other one thing we are grateful for before bed.)  
 **Special activities:** The three special activities that matter to both of us are ___. We commit to making time for these activities, at the following frequency: ___. (For example, cooking together once a week.)  

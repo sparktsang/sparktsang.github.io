@@ -25,7 +25,7 @@ But the truth? Precisely because he was content to be a loser. He wasn’t think
 Contemporary culture constantly tells you to become a better person, with the premise that you are fundamentally lacking.  
 Truly happy people do not stare into the mirror reminding themselves how happy they are.  
 The endless stream of information around you tells you that you need a car, a house, a beautiful woman, a swimming pool, and so on before you can be happy. It is an illusion.  
-The vicious cycle of hell: you become anxious about something, and because that anxiety makes you wonder why you are so anxious, you become even more anxious, and then you become even more anxious because you are anxious; you get angry about something, don’t know why you are angry, get angry at yourself for not knowing why you are angry, and get angry at yourself for being so angry; similarly, you feel like a loser, and then feel even more like a loser because you think that way...  
+The Feedback Loop from Hell: you become anxious about something, and because that anxiety makes you wonder why you are so anxious, you become even more anxious, and then you become even more anxious because you are anxious; you get angry about something, don’t know why you are angry, get angry at yourself for not knowing why you are angry, and get angry at yourself for being so angry; similarly, you feel like a loser, and then feel even more like a loser because you think that way...  
 Social media, which displays the beautiful side of countless people, has only amplified all of this.  
 
 “Wanting to be positive is precisely negative; accepting the negative is instead positive.”  
@@ -139,7 +139,7 @@ After Dave Mustaine was kicked out of Metallica, he formed Megadeth and sold 25 
 Pete Best was kicked out of The Beatles after jealousy over his good looks. Six months later, The Beatles became the most successful band in history. But he said that if he had stayed in The Beatles, he would certainly not have been as happy, because after leaving the band he found true love, had four children, and discovered that family life was the most important thing.  
 One of them was successful but unhappy; the other appeared ordinary but was happy. This shows that objective success and failure have nothing to do with happiness, and also that some values are better than others.  
 
-There are four useless measures of success.  
+There are four Shitty Values.  
 Pleasure: research shows that the more you focus on pleasure, the more anxious, emotionally unstable, and depressed you become. It is merely a superficial satisfaction, easy to gain and easy to lose, and it is not the cause of happiness but merely a side effect of it.  
 Material success: research shows that once basic needs are satisfied, the relationship between happiness and possessing additional material goods is almost zero.  
 Always being right: human beings are inherently full of delusions. If you place your self-worth in being right, you become unable to learn from mistakes. Instead, assuming that you are ignorant is what allows you to learn.  
@@ -148,12 +148,12 @@ The correct way to deal with negative emotions is to express them in a way that 
 Facing problems is what gives life meaning and value. Bigger problems lead to greater happiness: finishing a marathon is happier than eating cake; raising a child is happier than winning a game; successfully starting a business is happier than buying a new computer.  
 
 Good values have three conditions: they are based on reality, socially constructive, and immediate and controllable.  
-Bad values are the opposite: superstition, destructive to society, neither immediate nor controllable.  
+Shitty Values are the opposite: superstition, destructive to society, neither immediate nor controllable.  
 Honesty is good: it reflects reality, is constructive, and is immediately controllable.  
 Being popular is bad: it is uncontrollable and unrelated to reality. What you think is popularity may not reflect what other people actually think.  
 Exposing vulnerability, fighting for your rights, self-respect, curiosity, charity, humility, creativity, and invention are all good values.  
-Controlling and dominating people, indiscriminate promiscuity, always feeling good about yourself, and needing to be the center of attention for everyone are bad values.  
-Good values can be fulfilled internally; bad values usually require external validation.  
+Controlling and dominating people, indiscriminate promiscuity, always feeling good about yourself, and needing to be the center of attention for everyone are Shitty Values.  
+Good values can be fulfilled internally; Shitty Values usually require external validation.  
 
 At the end of the day, values are about priorities. Everyone wants a house in the Bahamas, but the question is trade-offs: which thing matters most?  
 Onoda’s highest value was absolute loyalty to the empire. Rotten sushi would have been preferable. He spent thirty years in the wilderness and killed innocent civilians; no one would have wanted to trade places with him.  
@@ -166,8 +166,8 @@ In the remaining chapters, I will introduce five counterintuitive and genuinely 
 ### You Have to Choose  
 
 William James came from a prominent family, but had accomplished nothing before the age of 30. One night, he decided to conduct an experiment based on the ideas of philosopher Charles Peirce: for one year, he would choose to believe that he was 100 percent responsible for everything that happened in his life, and if he still accomplished nothing, he would end his life. He eventually became the father of American psychology.  
-What happens is indeed beyond our control and may not be our fault, but we can choose how to interpret and respond to it: the former belongs to the past; the latter is an ongoing process.  
-Unhappiness may originate from someone else’s fault, but whether we are unhappy is nevertheless our own responsibility.  
+What happens is indeed beyond our control and is often not our fault, but we can choose how to interpret and respond to it: the former belongs to the past; the latter is an ongoing process.  
+Unhappiness might be someone else's fault, but resolving it is strictly your responsibility.  
 After a breakup, the author once blamed his partner, but later realized that making the other person responsible for his feelings might itself have been one reason she left. Thinking in terms of responsibility allowed him to see his own problems and the relationship warning signs he had failed to notice. Even if the other person was at fault, none of that changed the above.  
 Malala, the girl who defended girls’ right to education, was shot by Taliban terrorists, but she did not blame the perpetrators or fall into a victim mentality and self-pity. Instead, she lived actively, held to her values, and went on to receive the Nobel Peace Prize.  
 A 2013 BBC documentary about treating patients with obsessive-compulsive disorder first emphasized that it was not their fault and that they simply had to accept it. Then they had to understand that the value system was unreasonable, and that it was the disorder’s value system rather than their own. They were then guided to choose a more important value, such as having a good social life. In the end, the patients showed significant improvement.  
@@ -195,7 +195,7 @@ Getting rich may threaten your self-identity just as much as losing all your mon
 You may always avoid writing the dream screenplay because it would threaten your self-conception as an underwriter.  
 You may avoid discussing how to make sex more exciting with your lover because it threatens your self-conception as a woman who lives according to traditional sexual morality.  
 A person who desperately wants to become a professional artist may never promote their work because the fear of becoming an “artist nobody likes” vastly outweighs the desire to remain an “artist nobody knows.”  
-Knowing yourself and discovering yourself can be extremely dangerous. Instead, you should not “discover” yourself or “know” yourself. Self-conception is merely a psychological construct. Once you acknowledge that your perceptions, identity, and dreams are not particularly special, you free yourself to pursue your ideals.  
+Knowing yourself and discovering yourself can be extremely dangerous. As Manson advises: "Don't find yourself. Never know who you are". Self-conception is merely a psychological construct. Once you acknowledge that your perceptions, identity, and dreams are not particularly special, you free yourself to pursue your ideals.  
 The narrower the identity you assign yourself, and the more you believe yourself to be uniquely special, the more you will feel that everything threatens your identity.  
 
 Three questions to make yourself more uncertain:  
@@ -231,7 +231,7 @@ Examples of blurred boundaries, applicable to all relationships: “You can’t 
 Problems in romantic relationships are always similar to problems in the family of origin. Overindulgent parents make children feel entitled to everything, so as adults they naturally have blurred boundaries.  
 When the boundaries of responsibility are blurred, you naturally do not know what you are doing things for, and you cannot develop strong values. Values become about making your partner happy, or getting your partner to make you happy.  
 Helping someone solve their problems does not make them happy. In toxic relationships, there is often a pattern of solving the other person’s problems and playing the savior in order to feel good about yourself.  
-The yin and yang of toxic relationships: one person is a weirdo who has not dealt with their own problems and feelings, while the other always wants to rescue them. One hits and the other takes it, a pathological complementarity that makes them naturally attracted to each other.  
+The yin and yang of toxic relationships: The Victim (who demands others solve their problems) and The Saver (who solves others' problems to feel good about themselves). One hits and the other takes it, a pathological complementarity that makes them naturally attracted to each other.  
 And the problems are endless: one person believes that creating more problems is how they get attention and love, while the other keeps solving problems not because they care, but because they believe that helping makes them worthy of attention and love.  
 Real love looks like this: one person tells the other not to help and goes to solve their own problems, needing only support; the other directly says, “Stop blaming everyone else and deal with it yourself.” Toxic relationships do not work this way. They use each other to manufacture drama and emotional highs, and when they encounter an emotionally healthy person, they may instead feel that the relationship is too flat, has no chemistry, and is not exciting.  
 How do you tell whether you are choosing to support the other person in a relationship rather than feeling obligated to do so? One test is: “If I refuse—or if my partner refuses me—will the relationship change?”  
@@ -247,7 +247,7 @@ The second step: you need to build a track record of improved behavior.
 Consumer culture makes us believe that more is better. The opposite is true: too many choices can paralyze you.  
 The author used to deal with this by not choosing and keeping his options open, but the marginal benefit of trying new things diminishes: the first time you travel abroad, your eyes are opened, but after visiting a hundred countries, visiting one more makes little difference. The same applies to material goods, money, interests, work, friends, sexual partners, and romantic relationships.  
 Now he chooses to concentrate his investment in the best people, the most worthwhile work, and the place he loves most.  
-Commitment and investment bring more opportunities, better experiences, and greater success because they prevent you from being distracted by unimportant and trivial things.  
+The Freedom of Commitment: committing to one thing brings more opportunities, deeper experiences, and greater success because they prevent you from being distracted by unimportant and trivial things.  
 What is in front of you is already good enough. Why continue anxiously seeking outside yourself? Why remain afraid of missing out?  
 Being faithful to the values you have chosen and rejecting pointless things that do not fit them—that is true freedom.  
 
