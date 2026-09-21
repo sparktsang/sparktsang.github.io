@@ -6,6 +6,12 @@
 -->
 <html>
 
+	<style>
+		.cta-container { text-align: center; margin-top: 60px; margin-bottom: 40px; padding-top: 40px; border-top: 1px solid var(--border-color); }
+		.read-more-btn { display: inline-block; font-family: var(--font-ui); font-size: 1rem; font-weight: bold; letter-spacing: 0.1em; text-transform: uppercase; color: #f0f0f0; background-color: #111111; padding: 16px 32px; text-decoration: none; border-radius: 2px; transition: background-color 0.3s ease; }
+		.read-more-btn:hover { background-color: #444444; }
+	</style>
+
 {% include head.html %}
 
 <body>
@@ -28,9 +34,7 @@
 			{% if page.image %}
 				<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></span>
 			{% endif %}
-		{% endif %}
-
-		{% if page.category == "Library" %}
+		{% else %}
 			{% if page.image %}
 				<span class="image main">
 				<img src="{{ site.baseurl }}/{{ page.image }}" alt="" class="lib-img" />
@@ -244,15 +248,27 @@
 		{% endif %}
 
 		{% if page.title == "Philosophy" %}		
-		  <div class="sort-toggle" style="text-align:center; margin-top:10rem;">
-		    <a href="{{ site.baseurl }}/works" class="button">SEE THE SIMULATION</a>
-		  </div>
+			<div class="sort-toggle" style="text-align:center; margin-top:10rem;">
+				<a href="{{ site.baseurl }}/works" class="button">SEE THE SIMULATION</a>
+			</div>
 		{% endif %}
 		
 		{% if page.title == "Works" or page.title == "Sitemap" %}
-		  <div class="sort-toggle" style="text-align:center; margin-top:10rem;">
-		    <a href="{{ site.baseurl }}/" class="button">BACK TO HOME</a>
-		  </div>
+			<div class="sort-toggle" style="text-align:center; margin-top:10rem;">
+				<a href="{{ site.baseurl }}/" class="button">BACK TO HOME</a>
+			</div>
+		{% endif %}
+
+		{% if page.cta_url and page.cta_text %}
+			{% if page.category != "Artifacts" %}
+				<div class="cta-container">
+					<a href="{{ page.cta_url | relative_url }}" class="read-more-btn">{{ page.cta_text }}</a>
+				</div>
+			{% else %}
+				<div class="cta-container">
+					<a href="{{ page.cta_url | relative_url }}" class="read-more-btn" target="_blank">{{ page.cta_text }}</a>
+				</div>
+			{% endif %}		
 		{% endif %}
 		
 	</div>

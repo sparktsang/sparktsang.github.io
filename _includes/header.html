@@ -2,7 +2,7 @@
 <div id="wrapper">
 
 <!-- Header -->
-<header id="header"{% if page.layout == "landing" %} class="alt style2"{% endif %}{% if page.layout == "home" or page.layout == "post" or page.layout == "allposts" or page.layout == "life_showcase" or page.layout == "library_showcase" %} class="alt"{% endif %}>
+<header id="header"{% if page.layout == "landing" %} class="alt style2"{% endif %}{% if page.layout == "home" or page.layout == "post" or page.layout == "allposts" or page.layout == "life_showcase" or page.layout == "library_showcase" or page.layout == "artifact_showcase" %} class="alt"{% endif %}>
 	<a href="{{ "" | absolute_url }}" class="logo"><strong>{{ site.title }}</strong> <span>{{ site.subtitle }}</span></a>
 	<nav>
 		<a href="#menu" aria-label="Menu"></a>
@@ -18,10 +18,12 @@
 	    	{% endif %}
 		{% endfor %}
 		<li><a href="{{ "/life/childhood/" | absolute_url }}">AUTOBIOGRAPHY</a></li>
-		{% for page in site.html_pages %}
-		    {% if page.layout != "home" and page.nav-menu == true %}
-		        <li><a href="{% if page.redirect_to %}{{ page.redirect_to }}{% else %}{{ page.url | absolute_url }}{% endif %}">{{ page.title }}</a></li>
-		    {% endif %}
+		{% assign menu_pages = site.pages
+			| where_exp: "p", "p.menu-order != nil"
+			| where_exp: "p", "p.layout != 'home'"
+			| sort: "menu-order" %}
+		{% for page in menu_pages %}
+			<li><a href="{% if page.redirect_to %}{{ page.redirect_to }}{% else %}{{ page.url | absolute_url }}{% endif %}">{{ page.nav_title | default: page.title }}</a></li>
 		{% endfor %}
 	</ul>
 </nav>

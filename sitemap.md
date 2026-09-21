@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sitemap
-nav-menu: true
+menu-order: 4
 target_blank: true
 ---
 
@@ -119,6 +119,18 @@ If you are a robot, there is a [better sitemap for you](/sitemap.xml).
   * [{{ post.title }}]({{ post.url | relative_url }})
 {% endfor %}
 {% endif %}
+{% endfor %}
+
+---
+
+### [Artifacts](/artifacts) (*Under Construction*)
+
+{% assign all_arts = site.pages | where: "category", "Artifacts" %}
+{% assign ordered_arts = all_arts | where_exp: "p", "p.order != nil" | sort: "order" %}
+
+{% for post in ordered_arts %}
+* [*{{ post.article_title | default: post.title }}*]({{ post.url | relative_url }})
+  * [The App: *{{ post.app_title | default: post.title }}*]({{ post.cta_url | relative_url }})
 {% endfor %}
 
 ---

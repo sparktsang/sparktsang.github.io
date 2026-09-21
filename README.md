@@ -20,6 +20,7 @@ In short, you are free to share, copy, and redistribute the material in any medi
 All custom layouts and custom JavaScript/CSS logic developed by Spark Tsang are licensed under the **MIT License**, including but not limited to:
 * `_layouts/life_showcase.html`
 * `_layouts/library_showcase.html`
+* `_layouts/artifact_showcase.html`
 
 **3. Base Theme (Forty)**  
 The underlying website template is ["Forty"](https://github.com/andrewbanchich/forty-jekyll-theme) by [HTML5 UP](https://html5up.net), licensed under the **Creative Commons Attribution 3.0 License** (CCA 3.0), see [LICENSE-FORTY-HTML5UP.md](LICENSE-FORTY-HTML5UP.md).

@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  {% include head.html %}
+  
+  <!-- Import elegant Serif for titles and clean Sans-serif for body/slogans -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,500;0,700;1,500&family=Lato:wght@300;400;700&family=Share+Tech+Mono&display=swap" rel="stylesheet">
+
+  <style>
+    /* =========================================================
+       CSS Variables (The Color Palette & Spacing)
+       ========================================================= */
+    :root {
+      --bg-primary: #121214; 
+      --bg-banner: #0d0d0f; 
+      
+      --text-heading: #e8dfce; 
+      --text-body: #a39e93;    
+      --text-accent: #7a7569;  
+      
+      --font-serif: 'Playfair Display', serif;
+      --font-sans: 'Lato', sans-serif;
+      --font-mono: 'Share Tech Mono', monospace;
+
+      --section-padding: 10vh 5vw;
+    }
+
+    /* =========================================================
+       Global Reset & Base Styles
+       ========================================================= */
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    html {
+      scroll-snap-type: y mandatory; 
+      scroll-behavior: smooth;
+    }
+
+    body {
+      line-height: 1.6;
+      overflow-x: hidden;
+    }
+
+    #banner,
+    .catalog {
+      font-family: var(--font-sans);
+      background-color: var(--bg-primary);
+      color: var(--text-body);
+    }
+
+    /* =========================================================
+       Banner Section (The Macro-Genesis)
+       ========================================================= */
+    #banner.banner {
+      background: url('{{ site.baseurl }}/{{ page.image }}') center center / cover no-repeat;
+      position: relative;
+      min-height: 80vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      padding: var(--section-padding);
+      border-bottom: 1px solid rgba(255, 255, 255, 0.03);
+      scroll-snap-align: start; 
+    }
+
+    /* 封裝加罩，壓暗火花底圖確保文字清晰 */
+    #banner.banner::after {
+      content: "";
+      position: absolute;
+      top: 0; left: 0; right: 0; bottom: 0;
+      background: rgba(13, 14, 18, 0.7); 
+      z-index: 1;
+      pointer-events: none; /* 避免擋住點擊 */
+    }
+
+    #banner .banner-title, 
+    #banner .banner-desc {
+      position: relative;
+      z-index: 2;
+    }
+
+    #banner .banner-title {
+      font-family: var(--font-serif);
+      font-size: clamp(3rem, 6vw, 5rem);
+      color: var(--text-heading);
+      font-weight: 500;
+      letter-spacing: 0.05em;
+      margin-bottom: 1rem;
+    }
+
+    #banner .banner-desc {
+      font-family: var(--font-sans);
+      font-size: clamp(1rem, 2vw, 1.25rem);
+      font-weight: 300;
+      color: var(--text-body);
+      max-width: 600px;
+      letter-spacing: 0.05em;
+    }
+
+    /* =========================================================
+       Artifact Catalog Section (The Workbench)
+       ========================================================= */
+    .catalog {
+      display: flex;
+      flex-direction: column;
+    }
+
+    .artifact-row {
+      display: flex;
+      min-height: 100vh; 
+      border-bottom: 1px solid rgba(255, 255, 255, 0.02);
+      scroll-snap-align: start;
+      scroll-snap-stop: always;
+      background-color: hsl(var(--h, 0), 15%, 7%);
+      transition: background-color 0.5s ease;
+    }
+
+    .artifact-row:nth-child(even) {
+      flex-direction: row-reverse;
+    }
+
+    /* --- Left/Right Half: Text Content --- */
+    .artifact-text {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      padding: 10vw 8vw; 
+      z-index: 2;
+    }
+
+    .artifact-no {
+      font-family: var(--font-mono);
+      font-size: 0.9rem;
+      color: var(--text-accent);
+      margin-bottom: 2rem;
+      letter-spacing: 0.2em;
+    }
+
+    .artifact-title {
+      font-family: var(--font-serif);
+      font-size: clamp(2.5rem, 4vw, 4rem);
+      font-weight: 500;
+      line-height: 1.1;
+      margin-bottom: 1.5rem;
+      background: linear-gradient(135deg, #e8dfce 0%, hsl(var(--h, 0), 60%, 60%) 150%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+
+    .artifact-slogan {
+      font-size: 1.15rem;
+      font-weight: 300;
+      color: var(--text-body);
+      max-width: 480px;
+    }
+
+    /* --- Left/Right Half: Visual Abstract Watermark --- */
+    .artifact-visual {
+      flex: 1;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background-color: transparent; 
+      background-image: radial-gradient(circle at center, hsla(var(--h, 0), 60%, 55%, 0.03) 0%, transparent 60%);
+      position: relative;
+      overflow: hidden;
+      user-select: none;
+      /* 移除 pointer-events: none，讓符號可以被點擊 */
+      transition: background-image 0.8s ease;
+    }
+
+    a.watermark {
+      font-family: var(--font-mono);
+      font-size: clamp(15rem, 30vw, 40rem); 
+      color: hsl(var(--h, 0), 60%, 55%); 
+      opacity: 0.08; 
+      font-weight: 700;
+      line-height: 1;
+      text-align: center;
+      text-decoration: none;
+      cursor: pointer;
+      text-shadow: 0 10px 30px hsla(var(--h, 0), 60%, 55%, 0.1); 
+      transition: all 0.8s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+      display: block;
+    }
+
+    .artifact-row:hover .artifact-visual {
+      background-image: radial-gradient(circle at center, hsla(var(--h, 0), 60%, 55%, 0.12) 0%, transparent 70%);
+    }
+
+    .artifact-row:hover a.watermark {
+      opacity: 0.25; 
+      transform: scale(1.03); 
+      text-shadow: 0 20px 50px hsla(var(--h, 0), 60%, 55%, 0.3); 
+    }
+
+    footer {
+      scroll-snap-align: end;
+    }
+
+    /* =========================================================
+       Mobile Responsive Adjustments
+       ========================================================= */
+    @media (max-width: 900px) {
+      .artifact-row, .artifact-row:nth-child(even) {
+        flex-direction: column;
+        min-height: auto;
+        position: relative;
+      }
+
+      .artifact-text {
+        padding: 6rem 2rem;
+        align-items: center;
+        text-align: center;
+        pointer-events: none
+      }
+
+      .artifact-slogan {
+        max-width: 100%;
+      }
+
+      .artifact-visual {
+        position: absolute;
+        top: 0; left: 0; right: 0; bottom: 0;
+        z-index: 1;
+        background: transparent;
+      }
+
+      a.watermark {
+        font-size: 20rem;
+        opacity: 0.03;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  {% include header.html %}
+
+  <!-- BANNER SECTION -->
+  <header id="banner" class="banner">
+    <h1 class="banner-title">{{ page.title | default: "Artifacts" }}</h1>
+    <p class="banner-desc">{{ page.description | newline_to_br }}</p>
+  </header>
+
+  <!-- CATALOG SECTION -->
+  <main class="catalog">
+
+    {% assign all_arts = site.pages | where: "category", "Artifacts" %}
+    
+    <!-- 將有 Order 同無 Order 嘅頁面分開排序再合併 -->
+    {% assign ordered_arts = all_arts | where_exp: "item", "item.order != nil" | sort: "order" %}
+    {% assign unordered_arts = all_arts | where_exp: "item", "item.order == nil" | sort: "title" %}
+    {% assign final_arts = ordered_arts | concat: unordered_arts %}
+
+    {% for post in final_arts %}
+      <article class="artifact-row">
+        <div class="artifact-text">
+          <div class="artifact-no">NO. {% if forloop.index < 10 %}0{% endif %}{{ forloop.index }}</div>
+          <h2 class="artifact-title">{{ post.title | newline_to_br }}</h2>
+          <p class="artifact-slogan">{{ post.description | newline_to_br }}</p>
+        </div>
+        <div class="artifact-visual">
+          <!-- 直接將巨大嘅符號作為連結入口 -->
+          <a href="{{ post.url | relative_url }}" class="watermark">{{ post.symbol }}</a>
+        </div>
+      </article>
+    {% endfor %}
+
+  </main>
+
+  {% include footer.html %}
+
+  <!-- 自動配色邏輯 -->
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      const rows = document.querySelectorAll('.artifact-row');
+      const goldenRatioConjugate = 222.5; 
+      let currentHue = 0; 
+
+      rows.forEach((row) => {
+        row.style.setProperty('--h', currentHue);
+        currentHue = (currentHue + goldenRatioConjugate) % 360;
+      });
+    });
+  </script>
+</body>
+</html>
