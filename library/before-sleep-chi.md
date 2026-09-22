@@ -11,6 +11,8 @@ description: |
 permalink: /library/before-sleep/chi/
 language: chi
 image: assets/bookcover/before-sleep.webp
+infographic: assets/images/before-sleep-info.png
+infographic_text: false
 ---
 
 《別相信任何人》

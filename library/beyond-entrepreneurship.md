@@ -7,6 +7,7 @@ title: "Notes on <i>BE 2.0: Turning Your Business into an Enduring Great Company
 short_title: "BE 2.0"
 description: What happens after your startup succeeds? Distilling Jim Collins' masterclass on enduring business success, these notes provide a complete blueprint—from setting a visionary purpose to mastering "SMaC execution"—for building a great, lasting company.
 image: assets/bookcover/beyond-entrepreneurship.jpg
+infographic: assets/images/beyond-entrepreneurship-info.png
 ---
 
 *BE 2.0: Turning Your Business into an Enduring Great Company* by Jim Collins and Bill Lazier

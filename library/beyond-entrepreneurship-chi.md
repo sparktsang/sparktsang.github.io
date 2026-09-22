@@ -8,6 +8,7 @@ short_title: "恆久卓越的修煉"
 permalink: /library/beyond-entrepreneurship/chi/
 language: chi
 image: assets/bookcover/beyond-entrepreneurship-chi.jpg
+infographic: assets/images/beyond-entrepreneurship-info.png
 ---
 
 《恆久卓越的修煉：掌握永續藍圖，厚植營運韌性，在挑戰與變動中躍升》  

@@ -12,6 +12,8 @@ redirect_from:
   - /knowledge/2025/11/19/reading-value-investing-from-graham-to-buffett.html
 ---
 
+*Value Investing: From Graham to Buffett and Beyond* by Bruce C. Greenwald  
+
 Original notes [here](/library/value-invest/chi){:target="_blank"}. 
 
 ---

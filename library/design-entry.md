@@ -10,9 +10,9 @@ render_with_liquid: false
 
 ---
 
-**Prologue: The 110,000 Characters from the Endless Abyss to the Curatorial Altar**
+**Prologue: The 120,000 Characters from the Endless Abyss to the Curatorial Altar**
 
-Spanning over 110,000 Chinese characters in the original Cantonese, this is a **faithful, unabridged archive of my raw conversations with AI**. It records, without omission, the blood, sweat, and tears of a creator with zero HTML background—someone whose opening battle cry was simply: *"Skip the difficulty assessment. I know how to copy and paste."* It is the story of how I wrestled with an artistically bankrupt machine and [built a digital art installation from scratch][life]{:target="_blank"}.
+Spanning over 120,000 Chinese characters in the original Cantonese, this is a **faithful, unabridged archive of my raw conversations with AI**. It records, without omission, the blood, sweat, and tears of a creator with zero HTML background—someone whose opening battle cry was simply: *"Skip the difficulty assessment. I know how to copy and paste."* It is the story of how I wrestled with an artistically bankrupt machine and [built a digital art installation from scratch][life]{:target="_blank"}.
 
 I initially assumed that with AI, any visual I wanted was just one prompt away. I soon discovered that the moment you let go of the reins, the machine will happily vomit up an "unprecedented, world-class aesthetic disaster." For a "fragmented and scattered" layout, and for a graffiti-style information box that materializes on hover like a genie from a lamp, I endured countless cycles of "solve one problem, create ten more." At times, watching the code grow worse with every AI "fix," I felt less like I was building a skyscraper than descending into an abyss, with the foundations I had painstakingly laid nearly destroyed beneath me.
 

@@ -64,6 +64,18 @@
 			{% endif %}
 		{{ rendered }}
 
+		{% if page.infographic %}
+			<hr />
+			{% if page.infographic_text != false %}
+				{% if page.language == "chi" %}
+					<p>感謝看到最後，額外送上此圖。</p>
+				{% else %}
+					<p>Thank you for reading until the end. This is a bonus infographic just for you. </p>
+				{% endif %}
+			{% endif %}	
+			<span class="image main"><img src="{{ site.baseurl }}/{{ page.infographic }}" alt="" /></span>
+		{% endif %}
+
 		<style>
 			.overflow-fix {
 			overflow-wrap: anywhere;

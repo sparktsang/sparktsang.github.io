@@ -9,6 +9,7 @@ description: "掌握從「傳統廣告」轉向「自為傳媒」的要訣。本
 permalink: /library/business-as-self-media/chi/
 language: chi
 image: assets/bookcover/business-as-self-media.jpg
+infographic: assets/images/business-as-self-media-info.png
 ---
 
 沙建軍《企業就是自媒體：掌握內容行銷大趨勢，打造直通顧客的策略與方法》  

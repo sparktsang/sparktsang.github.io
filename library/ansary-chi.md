@@ -8,6 +8,7 @@ short_title: "被發明的昨日"
 permalink: /library/ansary/chi/
 language: chi
 image: assets/bookcover/ansary-chi.jpg
+infographic: assets/images/ansary-info.png
 ---
 
 《被發明的昨日：人類五萬年歷史的衝突與連結》  

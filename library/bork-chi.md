@@ -9,6 +9,7 @@ nav_title: 小說故事必備的七大元素
 permalink: /library/bork/chi/
 language: chi
 image: assets/bookcover/bork-chi.jpg
+infographic: assets/images/bork-info.png
 ---
 
 《想清楚，寫明白：好的影視、劇場、小說故事必備的七大元素》  
