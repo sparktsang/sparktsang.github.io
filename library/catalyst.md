@@ -8,12 +8,14 @@ short_title: "The Catalyst: How to Change Anyone’s Mind"
 nav_title: The Catalyst
 description: "Master the art of persuasion by removing barriers instead of pushing harder. These notes decode the five psychological hurdles to change and offer proven, subtle techniques to effectively change anyone's mind."
 image: assets/bookcover/catalyst.jpg
+infographic: assets/images/catalyst-info.png
 target_blank: true
 ---
 
 *The Catalyst: How to Change Anyone’s Mind* by Jonah Berger
 
-Original notes [here](/library/catalyst/chi){:target="_blank"}. 
+Original notes [here](/library/catalyst/chi){:target="_blank"}.  
+*Read until the end to get a bonus. Enjoy reading.*
 
 ---
 

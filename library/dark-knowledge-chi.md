@@ -11,11 +11,13 @@ description: |
 permalink: /library/dark-knowledge/chi/
 language: chi
 image: assets/bookcover/dark-knowledge.jpg
+infographic: assets/images/dark-knowledge-info.png
 ---
 
 王維嘉《AI 背後的暗知識：機器如何學習、認知與改造我們的未來世界》    
 
-English translation [here](/library/dark-knowledge){:target="_blank"}. 
+English translation [here](/library/dark-knowledge){:target="_blank"}.  
+*閱畢全篇可領贈品。請享受閱讀。*
 
 ---
 

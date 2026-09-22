@@ -9,11 +9,13 @@ description: |
 permalink: /library/car-encyclopedia/chi/
 language: chi
 image: assets/bookcover/car-encyclopedia.jpg
+infographic: assets/images/car-encyclopedia-info.png
 ---
 
 新星出版社編輯部《汽車構造完全百科》  
 
-English translation [here](/library/car-encyclopedia){:target="_blank"}. 
+English translation [here](/library/car-encyclopedia){:target="_blank"}.  
+*閱畢全篇可領贈品。請享受閱讀。*
 
 ---
 

@@ -14,7 +14,8 @@ infographic: assets/images/beyond-entrepreneurship-info.png
 《恆久卓越的修煉：掌握永續藍圖，厚植營運韌性，在挑戰與變動中躍升》  
 *BE 2.0: Turning Your Business into an Enduring Great Company* by Jim Collins and Bill Lazier
 
-English translation [here](/library/beyond-entrepreneurship){:target="_blank"}. 
+English translation [here](/library/beyond-entrepreneurship){:target="_blank"}.  
+*閱畢全篇可領贈品。請享受閱讀。*
 
 ---
 

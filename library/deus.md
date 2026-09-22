@@ -7,13 +7,15 @@ title: "Notes on Harari's <i>Homo Deus</i>"
 short_title: "Homo Deus"
 description: "Discover how human history is driven by the narratives we believe in. This powerful adaptation synthesizes Harari’s masterpiece to reveal how algorithms, data, and the quest for divinity are actively reshaping our systems and future."
 image: assets/bookcover/deus.png
+infographic: assets/images/deus-info.png
 redirect_from:
   - /knowledge/2025/11/19/reading-homo-deus.html
 ---
 
 *Homo Deus: A brief history of tomorrow* by Yuval Noah Harari
 
-This is an English **adaptation** of [my notes](/library/deus/chi){:target="_blank"}, restructured and synthesized to highlight the book's central thesis: **that narrative creates system.**
+This is an English **adaptation** of [my notes](/library/deus/chi){:target="_blank"}, restructured and synthesized to highlight the book's central thesis: **that narrative creates system.**  
+*Read until the end to get a bonus. Enjoy reading.*
 
 ---
 

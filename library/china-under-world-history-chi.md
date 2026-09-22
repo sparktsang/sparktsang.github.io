@@ -11,12 +11,14 @@ description: |
 permalink: /library/china-under-world-history/chi/
 language: chi
 image: assets/bookcover/china-under-world-history.jpg
+infographic: assets/images/china-under-world-history-info.png
 ---
 
 張宏杰《世界史座標下的中國》  
 *China Under World History Coordinates* by Zhang Hongjie
 
-English translation [here](/library/china-under-world-history){:target="_blank"}. 
+English translation [here](/library/china-under-world-history){:target="_blank"}.  
+*閱畢全篇可領贈品。請享受閱讀。*
 
 ---
 

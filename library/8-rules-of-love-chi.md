@@ -14,7 +14,8 @@ infographic: assets/images/8-rules-of-love-info.png
 《愛的 8 法則：如何找到愛、維繫愛、放下愛》  
 *8 Rules of Love: How to Find It, Keep It, and Let It Go* by Jay Shetty
 
-English translation [here](/library/8-rules-of-love){:target="_blank"}. 
+English translation [here](/library/8-rules-of-love){:target="_blank"}.  
+*閱畢全篇可領贈品。請享受閱讀。*
 
 ---
 

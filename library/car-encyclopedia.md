@@ -5,11 +5,13 @@ title: "Notes on <i>The Visual Encyclopedia of Car</i>"
 short_title: "The Visual Encyclopedia of Car"
 description: "A crash course in automotive engineering. These notes distill complex car mechanics—from engine strokes and drivetrains to suspension and tires—into easily digestible concepts for any car enthusiast or everyday driver."
 image: assets/bookcover/car-encyclopedia-eng.jpg
+infographic: assets/images/car-encyclopedia-info.png
 ---
 
 *The Visual Encyclopedia of Car* by Shin-sei Publishing
 
 Original notes [here](/library/car-encyclopedia/chi){:target="_blank"}.  
+*Read until the end to get a bonus. Enjoy reading.*
 
 ---
 

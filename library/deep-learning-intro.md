@@ -7,11 +7,13 @@ short_title: "Introduction to Deep Learning"
 nav_title: "Deep Learning: Introduction"
 description: "Demystify the mechanics of artificial intelligence without getting lost in the jargon. These notes break down the evolution, core algorithms, and practical models of neural networks into an accessible guide for absolute beginners."
 image: assets/bookcover/deep-learning-intro-eng.png
+infographic: assets/images/deep-learning-intro-info.png
 ---
 
 *Introduction to Deep Learning* by Hiroki Tanioka and Kang Xin
 
-Original notes [here](/library/deep-learning-intro/chi){:target="_blank"}. 
+Original notes [here](/library/deep-learning-intro/chi){:target="_blank"}.  
+*Read until the end to get a bonus. Enjoy reading.*
 
 ---
 

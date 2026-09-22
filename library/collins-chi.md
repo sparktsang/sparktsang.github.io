@@ -8,12 +8,14 @@ short_title: "從 A 到 A+"
 permalink: /library/collins/chi/
 language: chi
 image: assets/bookcover/collins-chi.jpg
+infographic: assets/images/collins-info.png
 ---
 
 《從 A 到 A+：企業從優秀到卓越的奧祕》  
 *Good to Great: Why Some Companies Make the Leap... and Others Don’t* by Jim C. Collins
 
-English translation [here](/library/collins){:target="_blank"}. 
+English translation [here](/library/collins){:target="_blank"}.  
+*閱畢全篇可領贈品。請享受閱讀。*
 
 ---
 

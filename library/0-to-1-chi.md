@@ -16,7 +16,8 @@ infographic: assets/images/0-to-1-info.png
 
 *Zero to One: Notes on Startups, Or How to Build the Future* by Peter Thiel
 
-English translation [here](/library/0-to-1){:target="_blank"}. 
+English translation [here](/library/0-to-1){:target="_blank"}.  
+*閱畢全篇可領贈品。請享受閱讀。*
 
 ---
 

@@ -15,7 +15,8 @@ infographic: assets/images/bork-info.png
 《想清楚，寫明白：好的影視、劇場、小說故事必備的七大元素》  
 *The Idea: The Seven Elements of a Viable Story for Screen, Stage or Fiction* by Erik Bork
 
-English translation [here](/library/bork){:target="_blank"}. 
+English translation [here](/library/bork){:target="_blank"}.  
+*閱畢全篇可領贈品。請享受閱讀。*
 
 ---
 

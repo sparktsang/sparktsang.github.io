@@ -11,12 +11,14 @@ description: |
 permalink: /library/contagious/chi/
 language: chi
 image: assets/bookcover/contagious-chi.jpg
+infographic: assets/images/contagious-info.png
 ---
 
 《瘋潮行銷：華頓商學院最熱門的一堂行銷課！6大關鍵感染力，瞬間引爆大流行》  
 *Contagious: Why Things Catch On* by Jonah Berger
 
-English translation [here](/library/contagious){:target="_blank"}. 
+English translation [here](/library/contagious){:target="_blank"}.  
+*閱畢全篇可領贈品。請享受閱讀。*
 
 ---
 

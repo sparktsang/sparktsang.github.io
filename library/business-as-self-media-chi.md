@@ -15,7 +15,8 @@ infographic: assets/images/business-as-self-media-info.png
 沙建軍《企業就是自媒體：掌握內容行銷大趨勢，打造直通顧客的策略與方法》  
 *Every Business is a Self-Media: Mastering the Trends of Content Marketing to Build Direct-to-Customer Strategies and Methods* by Sha Jianjun
 
-English translation [here](/library/business-as-self-media){:target="_blank"}. 
+English translation [here](/library/business-as-self-media){:target="_blank"}.  
+*閱畢全篇可領贈品。請享受閱讀。*
 
 ---
 

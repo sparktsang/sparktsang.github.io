@@ -14,7 +14,8 @@ infographic: assets/images/ansary-info.png
 《被發明的昨日：人類五萬年歷史的衝突與連結》  
 *The Invention of Yesterday: A 50,000-Year History of Human Culture, Conflict, and Connection* by Tamim Ansary
 
-English translation [here](/library/ansary){:target="_blank"}. 
+English translation [here](/library/ansary){:target="_blank"}.  
+*閱畢全篇可領贈品。請享受閱讀。*
 
 ---
 

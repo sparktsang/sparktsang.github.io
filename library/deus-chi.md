@@ -12,11 +12,13 @@ description: |
 permalink: /library/deus/chi/
 language: chi
 image: assets/bookcover/deus-chi.jpg
+infographic: assets/images/deus-info.png
 ---
 
 *Homo Deus: A brief history of tomorrow* by Yuval Noah Harari
 
-[An English adaptation](/library/deus){:target="_blank"} is restructured to highlight the book's central thesis: **that narrative creates system.**
+[An English adaptation](/library/deus){:target="_blank"} is restructured to highlight the book's central thesis: **that narrative creates system.**  
+*閱畢全篇可領贈品。請享受閱讀。*
 
 ---
 

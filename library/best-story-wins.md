@@ -6,12 +6,13 @@ title: "Notes on <i>The Best Story Wins: How to Leverage Hollywood Storytelling 
 short_title: "The Best Story Wins"
 description: How do Pixar and Apple use storytelling to sell products? Bringing Hollywood screenwriting secrets into the business world, these notes teaches you how to use suspense, character arcs, and vulnerability to craft pitches and marketing campaigns that truly connect with your audience.
 image: assets/bookcover/best-story-wins.jpg
-infographic: assets/images/best-story-wins-info.png
+infographic: assets/images/best-story-wins-info.webp
 ---
 
 *The Best Story Wins: How to Leverage Hollywood Storytelling in Business & Beyond* by Matthew Luhn
 
 Original notes [here](/library/best-story-wins/chi){:target="_blank"}.  
+*Read until the end to get a bonus. Enjoy reading.*
 
 ---
 

@@ -10,12 +10,14 @@ description: |
 permalink: /library/efficient-marketing/chi/
 language: chi
 image: assets/bookcover/efficient-marketing.jpg
+infographic: assets/images/efficient-marketing-info.png
 ---
 
 解聰文《數位時代的高效行銷：讓你投放準、集客快、轉換高、品牌強，將行銷力最大化的實戰祕笈！》  
 *Efficient Marketing in the Digital Age: Practical Secrets to Maximize Your Marketing Power with Precise Target Placement, Fast Customer Attraction, High Conversions, and Strong Branding!* by Martin Hiesboeck
 
-English translation [here](/library/efficient-marketing){:target="_blank"}. 
+English translation [here](/library/efficient-marketing){:target="_blank"}.  
+*閱畢全篇可領贈品。請享受閱讀。*
 
 ---
 

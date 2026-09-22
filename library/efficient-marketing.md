@@ -6,11 +6,13 @@ title: "Notes on Hiesboeck's <i>Efficient Marketing in the Digital Age</i>"
 short_title: "Efficient Marketing in the Digital Age"
 description: "Cut through the noise of digital marketing myths with data-backed strategies. These notes offer a practical roadmap for targeting the right audience, optimizing conversion rates, and building authentic brand trust."
 image: assets/bookcover/efficient-marketing-eng.jpg
+infographic: assets/images/efficient-marketing-info.png
 ---
 
 *Efficient Marketing in the Digital Age: Practical Secrets to Maximize Your Marketing Power with Precise Target Placement, Fast Customer Attraction, High Conversions, and Strong Branding!* by Martin Hiesboeck
 
 Original notes [here](/library/efficient-marketing/chi){:target="_blank"}.  
+*Read until the end to get a bonus. Enjoy reading.*
 
 ---
 

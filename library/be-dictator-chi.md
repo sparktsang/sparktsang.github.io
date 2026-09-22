@@ -13,7 +13,8 @@ infographic: assets/images/be-dictator-info.png
 馮客《獨裁者養成之路：八個暴君領袖的崛起與衰落，迷亂二十世紀的造神運動》   
 *How to Be a Dictator: The Cult of Personality in the Twentieth Century* by Frank Dikötter
 
-English translation [here](/library/be-dictator){:target="_blank"}. 
+English translation [here](/library/be-dictator){:target="_blank"}.  
+*閱畢全篇可領贈品。請享受閱讀。*
 
 ---
 

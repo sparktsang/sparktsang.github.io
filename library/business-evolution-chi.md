@@ -8,12 +8,14 @@ short_title: "商業簡史"
 permalink: /library/business-evolution/chi/
 language: chi
 image: assets/bookcover/business-evolution.png
+infographic: assets/images/business-evolution-info.png
 ---
 
 《商業簡史：看透商業進化，比別人先看到未來》  
 *The Evolution of Business: Reduce the Cost & Increase Network Density* by Liu Run
 
-English translation [here](/library/business-evolution){:target="_blank"}. 
+English translation [here](/library/business-evolution){:target="_blank"}.  
+*閱畢全篇可領贈品。請享受閱讀。*
 
 ---
 

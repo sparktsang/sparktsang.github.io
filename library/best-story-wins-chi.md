@@ -7,13 +7,14 @@ short_title: "故事變現"
 permalink: /library/best-story-wins/chi/
 language: chi
 image: assets/bookcover/best-story-wins-chi.jpg
-infographic: assets/images/best-story-wins-info.png
+infographic: assets/images/best-story-wins-info.webp
 ---
 
 《跟好萊塢動畫編劇學故事變現：7 大敘事法讓你激發創意思維，簡報、提案、企畫都適用》  
 *The Best Story Wins: How to Leverage Hollywood Storytelling in Business & Beyond* by Matthew Luhn
 
-English translation [here](/library/best-story-wins){:target="_blank"}. 
+English translation [here](/library/best-story-wins){:target="_blank"}.  
+*閱畢全篇可領贈品。請享受閱讀。*
 
 ---
 

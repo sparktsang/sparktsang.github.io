@@ -15,7 +15,8 @@ infographic: assets/images/100-startup-info.png
 
 *The $100 Startup: Fire Your Boss, Do What You Love and Work Better To Live More* by Chris Guillebeau
 
-English translation [here](/library/100-startup){:target="_blank"}. 
+English translation [here](/library/100-startup){:target="_blank"}.   
+*閱畢全篇可領贈品。請享受閱讀。*
 
 ---
 

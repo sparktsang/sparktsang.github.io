@@ -11,13 +11,15 @@ description: |
 permalink: /library/catalyst/chi/
 language: chi
 image: assets/bookcover/catalyst-chi.jpg
+infographic: assets/images/catalyst-info.png
 target_blank: true
 ---
 
 《如何改變一個人：華頓商學院教你消除抗拒心理，從心擁抱改變》  
 *The Catalyst: How to Change Anyone’s Mind* by Jonah Berger
 
-English translation [here](/library/catalyst){:target="_blank"}. 
+English translation [here](/library/catalyst){:target="_blank"}.  
+*閱畢全篇可領贈品。請享受閱讀。*
 
 ---
 

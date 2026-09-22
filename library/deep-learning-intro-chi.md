@@ -10,11 +10,13 @@ description: |
 permalink: /library/deep-learning-intro/chi/
 language: chi
 image: assets/bookcover/deep-learning-intro.png
+infographic: assets/images/deep-learning-intro-info.png
 ---
 
 谷岡廣樹、康鑫《深度學習入門教室：6堂基礎課程+Python 實作練習，Deep Learning、人工智慧、機器學習的理論和應用全圖解》
 
-English translation [here](/library/deep-learning-intro){:target="_blank"}. 
+English translation [here](/library/deep-learning-intro){:target="_blank"}.  
+*閱畢全篇可領贈品。請享受閱讀。*
 
 ---
 
