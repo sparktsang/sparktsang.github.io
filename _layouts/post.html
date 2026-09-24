@@ -56,13 +56,37 @@
 		</style>
 
 		{% assign rendered = content %}
-			{% if page.target_blank %}
-				{% assign rendered = rendered | replace: '<a href=', '<a target="_blank" rel="noopener noreferrer" href=' %}
+
+		{% if page.target_blank %}
+			{% assign rendered = rendered | replace: '<a href=', '<a target="_blank" rel="noopener noreferrer" href=' %}
+		{% endif %}
+		{% if page.overflow %}
+			{% assign rendered = rendered | prepend: '<div class="overflow-fix">' | append: '</div>' %}
+		{% endif %}
+
+
+{% capture original_text %}</a>.</p>
+
+<hr />{% endcapture %}
+
+{% capture bonus_text %}</a>.<br />
+<em>Read until the end to get a bonus. Enjoy reading.</em></p>
+<hr />{% endcapture %}
+
+{% capture bonus_text_chi %}</a>.<br />
+<em>閱畢全篇可領贈品。請享受閱讀。</em></p>
+<hr />{% endcapture %}
+
+
+		{% if page.category == "Library" and page.testinfographic %}
+			{% if page.language == "chi" %}
+				{{ rendered | replace_first: original_text, bonus_text_chi }}
+			{% else %}
+				{{ rendered | replace_first: original_text, bonus_text }}
 			{% endif %}
-			{% if page.overflow %}
-				{% assign rendered = rendered | prepend: '<div class="overflow-fix">' | append: '</div>' %}
-			{% endif %}
-		{{ rendered }}
+		{% else %}
+			{{ rendered }}
+		{% endif %}
 
 		{% if page.infographic %}
 			<hr />
