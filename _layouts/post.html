@@ -65,20 +65,20 @@
 		{% endif %}
 
 
-{% capture original_text %}</a>.</p>
+{% capture original_text %}.</p>
 
 <hr />{% endcapture %}
 
-{% capture bonus_text %}</a>.<br />
+{% capture bonus_text %}.<br />
 <em>Read until the end to get a bonus. Enjoy reading.</em></p>
 <hr />{% endcapture %}
 
-{% capture bonus_text_chi %}</a>.<br />
+{% capture bonus_text_chi %}.<br />
 <em>閱畢全篇可領贈品。請享受閱讀。</em></p>
 <hr />{% endcapture %}
 
 
-		{% if page.category == "Library" and page.testinfographic %}
+		{% if page.category == "Library" and page.infographic and page.infographic_text != false %}
 			{% if page.language == "chi" %}
 				{{ rendered | replace_first: original_text, bonus_text_chi }}
 			{% else %}
@@ -90,7 +90,7 @@
 
 		{% if page.infographic %}
 			<hr />
-			{% if page.infographic_text != false %}
+			{% if page.category == "Library" and page.infographic_text != false %}
 				{% if page.language == "chi" %}
 					<p>感謝看到最後，額外送上此圖。</p>
 				{% else %}

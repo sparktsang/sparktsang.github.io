@@ -12,7 +12,6 @@ infographic: assets/images/best-story-wins-info.webp
 *The Best Story Wins: How to Leverage Hollywood Storytelling in Business & Beyond* by Matthew Luhn
 
 Original notes [here](/library/best-story-wins/chi){:target="_blank"}.  
-*Read until the end to get a bonus. Enjoy reading.*
 
 ---
 

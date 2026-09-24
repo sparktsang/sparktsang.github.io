@@ -18,7 +18,6 @@ infographic: assets/images/contagious-info.png
 *Contagious: Why Things Catch On* by Jonah Berger
 
 English translation [here](/library/contagious){:target="_blank"}.  
-*閱畢全篇可領贈品。請享受閱讀。*
 
 ---
 

@@ -13,7 +13,6 @@ infographic: assets/images/beyond-entrepreneurship-info.png
 *BE 2.0: Turning Your Business into an Enduring Great Company* by Jim Collins and Bill Lazier
 
 Original notes [here](/library/beyond-entrepreneurship/chi){:target="_blank"}.  
-*Read until the end to get a bonus. Enjoy reading.*
 
 ---
 

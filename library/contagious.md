@@ -14,7 +14,6 @@ infographic: assets/images/contagious-info.png
 *Contagious: Why Things Catch On* by Jonah Berger
 
 Original notes [here](/library/contagious/chi){:target="_blank"}.  
-*Read until the end to get a bonus. Enjoy reading.*
 
 ---
 

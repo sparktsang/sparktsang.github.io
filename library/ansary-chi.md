@@ -15,7 +15,6 @@ infographic: assets/images/ansary-info.png
 *The Invention of Yesterday: A 50,000-Year History of Human Culture, Conflict, and Connection* by Tamim Ansary
 
 English translation [here](/library/ansary){:target="_blank"}.  
-*閱畢全篇可領贈品。請享受閱讀。*
 
 ---
 

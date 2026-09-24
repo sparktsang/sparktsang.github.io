@@ -19,7 +19,6 @@ target_blank: true
 *The Catalyst: How to Change Anyone’s Mind* by Jonah Berger
 
 English translation [here](/library/catalyst){:target="_blank"}.  
-*閱畢全篇可領贈品。請享受閱讀。*
 
 ---
 

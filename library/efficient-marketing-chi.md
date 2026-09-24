@@ -17,7 +17,6 @@ infographic: assets/images/efficient-marketing-info.png
 *Efficient Marketing in the Digital Age: Practical Secrets to Maximize Your Marketing Power with Precise Target Placement, Fast Customer Attraction, High Conversions, and Strong Branding!* by Martin Hiesboeck
 
 English translation [here](/library/efficient-marketing){:target="_blank"}.  
-*閱畢全篇可領贈品。請享受閱讀。*
 
 ---
 

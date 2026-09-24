@@ -15,7 +15,6 @@ target_blank: true
 *The Catalyst: How to Change Anyone’s Mind* by Jonah Berger
 
 Original notes [here](/library/catalyst/chi){:target="_blank"}.  
-*Read until the end to get a bonus. Enjoy reading.*
 
 ---
 

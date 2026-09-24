@@ -17,8 +17,7 @@ infographic: assets/images/deus-info.png
 
 *Homo Deus: A brief history of tomorrow* by Yuval Noah Harari
 
-[An English adaptation](/library/deus){:target="_blank"} is restructured to highlight the book's central thesis: **that narrative creates system.**  
-*閱畢全篇可領贈品。請享受閱讀。*
+[An English adaptation](/library/deus){:target="_blank"} is restructured to highlight the book's central thesis: **that narrative creates system**.  
 
 ---
 

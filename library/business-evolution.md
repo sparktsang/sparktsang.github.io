@@ -13,7 +13,6 @@ infographic: assets/images/business-evolution-info.png
 *The Evolution of Business: Reduce the Cost & Increase Network Density* by Liu Run
 
 Original notes [here](/library/business-evolution/chi){:target="_blank"}.  
-*Read until the end to get a bonus. Enjoy reading.*
 
 ---
 

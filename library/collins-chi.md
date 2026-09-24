@@ -15,7 +15,6 @@ infographic: assets/images/collins-info.png
 *Good to Great: Why Some Companies Make the Leap... and Others Don’t* by Jim C. Collins
 
 English translation [here](/library/collins){:target="_blank"}.  
-*閱畢全篇可領贈品。請享受閱讀。*
 
 ---
 

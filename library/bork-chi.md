@@ -16,7 +16,6 @@ infographic: assets/images/bork-info.png
 *The Idea: The Seven Elements of a Viable Story for Screen, Stage or Fiction* by Erik Bork
 
 English translation [here](/library/bork){:target="_blank"}.  
-*閱畢全篇可領贈品。請享受閱讀。*
 
 ---
 

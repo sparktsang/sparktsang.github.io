@@ -14,7 +14,6 @@ infographic: assets/images/be-dictator-info.png
 *How to Be a Dictator: The Cult of Personality in the Twentieth Century* by Frank Dikötter
 
 English translation [here](/library/be-dictator){:target="_blank"}.  
-*閱畢全篇可領贈品。請享受閱讀。*
 
 ---
 

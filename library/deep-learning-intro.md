@@ -13,7 +13,6 @@ infographic: assets/images/deep-learning-intro-info.png
 *Introduction to Deep Learning* by Hiroki Tanioka and Kang Xin
 
 Original notes [here](/library/deep-learning-intro/chi){:target="_blank"}.  
-*Read until the end to get a bonus. Enjoy reading.*
 
 ---
 
@@ -114,7 +113,7 @@ Although deep learning emerged from top-down research, the learning mechanism it
 
 Example programs from this book can be found at: www.sotechsha.co.jp/sp/1187  
 
-*Read through page 152. The remaining content concerns image recognition and natural language processing.*
+*Read through page 152. The remaining content concerns image recognition and natural language processing.*  
 *Last updated: August 27, 2020*  
 
 <!-- Credit: https://mrinalcs.github.io/use-latex-mathematical-equations-in-jekyll -->

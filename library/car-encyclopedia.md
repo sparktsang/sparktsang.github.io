@@ -11,7 +11,6 @@ infographic: assets/images/car-encyclopedia-info.png
 *The Visual Encyclopedia of Car* by Shin-sei Publishing
 
 Original notes [here](/library/car-encyclopedia/chi){:target="_blank"}.  
-*Read until the end to get a bonus. Enjoy reading.*
 
 ---
 

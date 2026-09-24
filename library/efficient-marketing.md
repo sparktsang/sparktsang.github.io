@@ -12,7 +12,6 @@ infographic: assets/images/efficient-marketing-info.png
 *Efficient Marketing in the Digital Age: Practical Secrets to Maximize Your Marketing Power with Precise Target Placement, Fast Customer Attraction, High Conversions, and Strong Branding!* by Martin Hiesboeck
 
 Original notes [here](/library/efficient-marketing/chi){:target="_blank"}.  
-*Read until the end to get a bonus. Enjoy reading.*
 
 ---
 

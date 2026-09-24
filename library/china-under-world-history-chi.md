@@ -18,7 +18,6 @@ infographic: assets/images/china-under-world-history-info.png
 *China Under World History Coordinates* by Zhang Hongjie
 
 English translation [here](/library/china-under-world-history){:target="_blank"}.  
-*閱畢全篇可領贈品。請享受閱讀。*
 
 ---
 

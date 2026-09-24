@@ -13,7 +13,6 @@ infographic: assets/images/business-as-self-media-info.png
 *Every Business is a Self-Media: Mastering the Trends of Content Marketing to Build Direct-to-Customer Strategies and Methods* by Sha Jianjun
 
 Original notes [here](/library/business-as-self-media/chi){:target="_blank"}.  
-*Read until the end to get a bonus. Enjoy reading.*
 
 ---
 

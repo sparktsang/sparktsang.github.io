@@ -14,7 +14,6 @@ infographic: assets/images/dark-knowledge-info.png
 *Dark knowledge: How Machines Think, Learn and Reshape Our future?* by Weijia Wang
 
 Original notes [here](/library/dark-knowledge/chi){:target="_blank"}.  
-*Read until the end to get a bonus. Enjoy reading.*
 
 ---
 

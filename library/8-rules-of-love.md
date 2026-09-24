@@ -13,7 +13,6 @@ infographic: assets/images/8-rules-of-love-info.png
 *8 Rules of Love: How to Find It, Keep It, and Let It Go* by Jay Shetty
 
 Original notes [here](/library/8-rules-of-love/chi){:target="_blank"}.  
-*Read until the end to get a bonus. Enjoy reading.*
 
 ---
 

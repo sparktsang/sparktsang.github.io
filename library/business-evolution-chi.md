@@ -15,7 +15,6 @@ infographic: assets/images/business-evolution-info.png
 *The Evolution of Business: Reduce the Cost & Increase Network Density* by Liu Run
 
 English translation [here](/library/business-evolution){:target="_blank"}.  
-*閱畢全篇可領贈品。請享受閱讀。*
 
 ---
 
