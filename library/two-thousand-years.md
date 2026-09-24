@@ -60,7 +60,7 @@ Prosperous in one generation, declining in the next
 In his later years, popular resentment rose everywhere, seemingly bringing the dynasty rapidly toward the fate of Qin  
 Emperor Wu had no choice but to issue an edict blaming himself  
 
-During Emperor Zhao's reign, the Confucians debated Sang Hongyang and forcefully pointed to three flaws in state enterprises:  
+During Emperor Zhao's reign, in the famous Discourses on Salt and Iron (*Yantielun*), the Confucians debated Sang Hongyang and forcefully pointed to three flaws in state enterprises:  
 They competed with the people for profit, causing the private economy to wither,  
 The quality of goods was poor and did not meet the needs of the people,  
 And a privileged economic elite emerged  
@@ -122,7 +122,7 @@ Yet the historical records contain no accounts of great merchant magnates in the
 The official-merchant economy flourished, with the government monopolizing all lucrative industries such as tea, salt, wine, and vinegar  
 The scope and scale were both unprecedented  
 Only trivial enterprises that were too difficult to manage were left to private operation  
-The policy of "releasing military power with a cup of wine"—the method used to win over and control generals—was to let them make their fortunes through business  
+The policy of "dismissing military commanders with a cup of wine"—the method used to win over and control generals—was to let them make their fortunes through business  
 Official salaries were meager; if an official did not engage in commerce, it was difficult to support his household  
 
 The court sometimes auctioned off certain operating rights, either through public or secret bidding  
@@ -135,7 +135,7 @@ Land concentration and industrial monopolies became severe, and the gap between 
 Wang Anshi modeled his reforms on Sang Hongyang, attempting to replenish the treasury and "attack the rich to aid the poor"  
 The Equitable Transport Law: controlling the circulation of goods, suppressing speculative trading, and having the court invest large amounts of capital  
 The Market Exchange Law: a comprehensive retail monopoly, with officials purchasing and selling in bulk  
-The Young Sprouts Law: agricultural loans at an annual interest rate of twenty percent  
+The Green Sprouts Law: agricultural loans at an annual interest rate of twenty percent  
 The result was the same as throughout the historical cycle: the treasury was replenished, but both the rich and poor were exploited by the state, and the state-run economy penetrated everywhere  
 
 Emperor Zhezong ascended the throne, Sima Guang took power, and the New Policies were completely abolished, but there was no better economic policy  
@@ -174,7 +174,7 @@ The collection, processing, and sale of cloth led to the rise of cloth merchants
 The policy of supplying grain to frontier troops in exchange for salt certificates created the Shanxi merchants and continued the system of integrating officialdom and commerce  
 By the mid-Ming, Confucian scholars and merchants had converged. Wealthy merchants were extravagant and no longer regarded it as shameful not to be a scholar, and intellectual thought became highly avant-garde  
 Qiu Jun advocated securing the wealth of the people and argued that the court should not compete with merchants for profit  
-Wang Yangming proposed that the four occupational groups pursued different trades but followed the same Way  
+Wang Yangming proposed that the four traditional occupations (scholars, farmers, artisans, and merchants) pursued different trades but shared the same *Dao*  
 
 During the Wanli era, the privileged economy reached its peak. The emperor personally ordered eunuchs to engage in commerce, known as "imperial shops," competing with the people for profit; the mining tax became little more than outright robbery  
 Rebellions erupted everywhere. Local officials and the merchant class alike opposed the tyranny, and there were even cases in which people resisted orders and killed tax collectors, only to receive lenient treatment from local officials, which can be seen as evidence that civil society had matured, although it ultimately failed  
@@ -185,7 +185,7 @@ At the same time, in 1610 the English king issued an order restricting economic 
 The Manchus did not trust the Han Chinese and only promoted those who had submitted early or had special ties, creating the Eight Imperial Merchants  
 The Fan family reached its height among them, with most of its businesses connected to the court  
 But by the Qianlong era, their usefulness had been exhausted, and family's property was ultimately confiscated  
-The so-called era of prosperity was merely the cyclical revival of a centralized system. Chinese society remained ultra-stable and evolved in a flat, gradual manner, without any fundamental breakthrough, following Fu Sinian's law that seventy years of stability would necessarily bring renewed prosperity  
+The so-called era of prosperity was merely the cyclical revival of a centralized system. Chinese society remained ultra-stable and evolved in a flat, gradual manner, without any fundamental breakthrough, following the law that seventy years of stability would necessarily bring renewed prosperity  
 During the same period, the West experienced an explosion of intellect and explosive growth, while the Qing launched literary inquisitions  
 Qiao Guifa made his fortune from what was China's earliest grain futures trading: if there were two bumper harvests in five years, profits could multiply several times over  
 The fourth-generation salt merchant Jiang Chun was highly favored by Qianlong and resolved a crisis between the government and merchants. The salt merchants were spared, but still had to "return" tens of millions of taels in "surplus profits," apart from countless other contributions under various names  
@@ -199,12 +199,12 @@ Foreign merchant quarters and merchants' activities were also subject to severe 
 The East India Company, both an official and commercial organization and the earliest joint-stock company, came to China, but failed to sell its goods in China and could only resell tea  
 Qianlong allowed foreign trade at Canton alone. The British merchant James Flint (known in Chinese as Hong Renhui) successfully went to Tianjin to petition the emperor over unpaid debts, only to be sent by the company to Tianjin again to "express gratitude," where Qianlong imprisoned him for three years, while the person who had written his petition was executed on the spot  
 
-After the Canton-only trade system was established, the first chief merchant, Pan Qi, was a business genius who was adept at accepting new things. He boldly promised to accept returns of tea in full regardless of the reason, relieving foreign merchants' concerns about tea becoming damp and moldy, and thereby greatly expanding market share. He was also the first to accept payment by bills of exchange, which others imitated  
+After the Canton-only trade system was established, the first chief merchant, Puankhequa, was a business genius who was adept at accepting new things. He boldly promised to accept returns of tea in full regardless of the reason, relieving foreign merchants' concerns about tea becoming damp and moldy, and thereby greatly expanding market share. He was also the first to accept payment by bills of exchange, which others imitated  
 
 After American independence, demand for trade with China was extremely strong. The maiden voyage of the *Empress of China* caused a sensation in North America, and its cargo sold out immediately. From then on, the United States became the second-largest trading partner of China  
 
 At the dawn of globalization, China should have had enormous advantages. It possessed an irreplaceable addictive commodity in tea, as well as silk and porcelain  
-Yet the imperial rulers still rejected every change, demanding that the British king's envoys perform the three kneelings and nine prostrations, rejecting all their requests, and even writing back to say that there was nothing the empire needed to buy from their country  
+Yet the imperial rulers still rejected every change, demanding that the British king's envoys perform the *kowtow* (three kneelings and nine prostrations), rejecting all their requests, and even writing back to say that there was nothing the empire needed to buy from their country  
 At the same time, the British envoys saw Chinese people being forced by officials to haul towropes, lacking adequate clothing and food and reduced to extreme emaciation, a far cry from the wealthy land described by Marco Polo. In the past, they had never been able to walk freely for even ten miles on Chinese soil  
 
 In 1799, China's population was 381 million, compared with America's ten million; China's GDP was 22.86 billion, compared with America's 1.25 billion. Qianlong’s fame, power, and wealth far exceeded Washington's  

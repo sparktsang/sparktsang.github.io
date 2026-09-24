@@ -28,10 +28,10 @@ Facts are less persuasive than fiction: although what Trump says is often incons
 **Confirmation bias:** people's tendency to irrationally believe that all new information supports their existing worldview  
 **Filter:** a way of viewing reality. What matters is that it can make people happier and help them predict the future. The Santa Claus and church filters the author used as a child were discarded as useless, while the filter he uses today is the “moist robot filter” (the human brain is like a wet computer that responds correctly to the correct programming), including the “persuasion filter,” a subset of the “three-dimensional worldview”  
 **High-ground strategy:** elevating a debate from the details on which people disagree to a higher level on which everyone agrees, such as after the election when the author urged Trump supporters to demonstrate patriotism and help the country heal its wounds  
-**Language kill shot:** an extremely persuasive sentence that ends an argument  
+**Linguistic Kill Shot:** an extremely persuasive sentence that ends an argument  
 **Pacing and leading:** a persuasion technique in which, after establishing synchrony, you make the other person feel safe enough to follow  
 **Pre-persuasion:** the first impression you prepare to give the other side at the beginning of a negotiation  
-**Premeditation:** a persuasion technique that gets the other person to immediately imagine what will happen after making a decision  
+**Future Pacing:** a persuasion technique that gets the other person to immediately imagine what will happen after making a decision  
 **Three-dimensional worldview:** the idea that humans are irrational 90% of the time, in contrast to the prevailing two-dimensional view of reality  
 
 People think collective hysteria is extremely rare, when in fact it is the human norm, without exception: millions of Americans believed Obama was a Muslim agent; countless people believed Trump was the next Hitler; twenty people were executed as witches in Salem, Massachusetts, between 1692 and 1693, simply because four girls developed strange symptoms that could not be explained; in 1637, tulip bulb prices soared to ten times a skilled worker's annual income  
@@ -40,12 +40,12 @@ When Trump was still a civilian, he said climate change benefited China, and peo
 
 People are more easily influenced by the direction in which things are moving than by the current state of affairs: Trump's challenge after taking office was to eliminate people's delusion that he was “the next Hitler.” He adopted liberalizing measures that shattered this illusion, such as no longer supporting waterboarding, working with the establishment on the immigration issue, and reducing its scale  
 
-The “three fires after taking office” strategy: persuading the heads of Ford Motor Company and Carrier to keep jobs in the United States was not a big deal, but it was a major image victory for Trump and Pence  
+The “early wins” strategy: persuading the heads of Ford Motor Company and Carrier to keep jobs in the United States was not a big deal, but it was a major image victory for Trump and Pence  
 Within a week of taking office, he generated 25 news headlines, each provoking outrage, but the sheer volume effectively diluted and scattered the outrage  
 
 Hypnosis is a special form of persuasion. It can induce a relaxed state, produce a sense of confidence, help people notice lies, deeply understand human irrationality, and improve communication and romantic relationships  
 Hypnosis only works on things a person already desires. The author once hypnotized a female colleague so that she reached 20 orgasms within an hour (the two people had to be attracted to each other and both want that result). It is not an appropriate tool for losing weight or quitting smoking  
-The author takes no position on the “negation” pickup technique and leaves it to readers to judge for themselves. The technique uses ostensibly sarcastic remarks to create the illusion that the woman is in the same situation as a confident man talking to another woman who has a hidden flaw  
+The author takes no position on the pickup technique known as "negging" and leaves it to readers to judge for themselves. The technique uses ostensibly sarcastic remarks to create the illusion that the woman is in the same situation as a confident man talking to another woman who has a hidden flaw  
 Republican candidate Carly Fiorina exposed the illegal sale of fetal tissue and stated her views on abortion. The author publicly predicted that she had sacrificed herself: people who knew nothing about persuasion would think the strategy was bold and clever, but the problem was that it made people visualize dead babies  
 
 A wizard influences a group of people through a simple discovery, but is eventually arrested and destroyed. Before he dies, he condenses everything he has learned into four words  
@@ -53,8 +53,8 @@ A thousand years later, five wizards in another kingdom simultaneously decipher 
 The three words are *We the people*  
 The four-word secret is *Turn the other cheek*  
 
-If someone is not particularly remarkable in any single respect yet succeeds far beyond expectations, they must possess a carefully engineered stack of talents: accumulated talents can work together synergistically  
-Trump is a decent promoter, capable of building a brand, strategically minded, a decent negotiator, persuader, and speaker, decisive, thick-skinned, energetic, and physically imposing. He is not at the top in any one area, but his stack of talents is extremely powerful  
+If someone is not particularly remarkable in any single respect yet succeeds far beyond expectations, they must possess a carefully engineered "Talent Stack": accumulated talents can work together synergistically  
+Trump is a decent promoter, capable of building a brand, strategically minded, a decent negotiator, persuader, and speaker, decisive, thick-skinned, energetic, and physically imposing. He is not at the top in any one area, but his Talent Stack is extremely powerful  
 Some people believe he won by devising the policies Americans wanted. The author's persuasion filter says exactly the opposite: he persuaded Americans that his policies were the things they should care about most  
 
 Shifting the situation by redirecting attention: when a host asked, “You call women you don't like fat pigs, dogs, idiots…,” Trump answered, “I only did that to Rosie O'Donnell”  
@@ -65,12 +65,12 @@ High ground: elevate the question from the details of what was said in the past 
 When criticized as someone who complains constantly, he used the same strategy: accept the criticism, establish a mental anchor, and in turn shape himself as the spokesman for change  
 “Mexico sends rapists and bad people to the United States” was another exaggerated statement used to establish a mental anchor  
 He also repeatedly said that his appearance on Fox News was creating the network's highest ratings, until it came true  
-Stack of persuasive talents: it makes him seem thick-skinned and provocative, which fits his personal image  
+Persuasion Talent Stack: it makes him seem thick-skinned and provocative, which fits his personal image  
 
 Another example of redirecting attention: Khizr Khan, a Muslim American lawyer whose son died in the Iraq War, condemned Trump's policies at the Democratic National Convention. In an interview, Trump said that Khan seemed like a good man, but he wanted to know why his wife stood beside him without saying a word. This shifted voters' attention toward the perceived impropriety of Muslim attitudes toward women  
 
-The effectiveness of different forms of persuasion ranks as follows: **great fear, identity, small fear, desire, habit, metaphor, reason, hypocrisy, literal thinking**  
-Literal thinking is ineffective: debating whether Trump is a conservative achieves nothing  
+The effectiveness of different forms of persuasion ranks as follows: **great fear, identity, small fear, desire, habit, metaphor, reason, hypocrisy, Word-Thinking**  
+Word-Thinking is ineffective: debating whether Trump is a conservative achieves nothing  
 Using habits to persuade: for example, naming programs *Morning Joe* and *Coffee with Scott Adams* helps people develop the habit of watching, just as they think about the morning and drinking coffee in the morning  
 Metaphors usually fail because they are not designed to persuade; they are merely shortcuts for explaining new concepts, and because their definitions are vague, they allow the other side to counterattack in different ways  
 Comparing Trump to Hitler is different: what actually works is using a persuasive association to establish a psychological anchor  
@@ -78,9 +78,9 @@ If a metaphor includes a powerful negative association, then the metaphor is a g
 Identity as an appeal: the Hillary Clinton campaign successfully won the support of most women and sexual minorities  
 Identity as an attack: it is more effective than targeting behavior. A: “When I see a political sign for the party I don't support, I smash it. Those signs are ridiculous!” B: “Do you want to be that kind of person?” A: (cognitive dissonance) “Uh… I've only done it once, and C was with me at the time, and I'd had a little to drink”  
 
-The high-ground strategy escapes the mode of childish quarrels:  
+The High Ground Maneuver escapes the mode of childish quarrels:  
 Mutual accusations of hypocrisy: A: “You didn't do enough to stop the street violence.” B: “Yeah, well, you failed too.” Both sides are equally bad  
-High-ground strategy: A: “~”; B: “I agree. Fortunately, we later learned many valuable lessons… which enabled us to identify best practices…”: like an adult explaining to a child how things work  
+A: “~”; B: “I agree. Fortunately, we later learned many valuable lessons… which enabled us to identify best practices…”: like an adult explaining to a child how things work  
 Example: when faced with the iPhone 4's dropped-call problem, Steve Jobs said: “We're not perfect. Phones are not perfect. We all know that. But we want to make our users happy.” The wording was precise. By refusing to argue about the facts, he directed users' attention to the boring but plainly stated fact that all phones have problems (Jobs personally forwarded this post by the author to his subordinates)  
 
 Recycling promotion works by turning recycling into a semi-public process so that more people imitate it  
@@ -143,7 +143,7 @@ New Yorkers react differently from other people to offensive jokes: the worse an
 The positions of the person telling the joke and the person being offended are actually aligned  
 Although it made people uncomfortable, after nearly a year everyone had become accustomed to Trump's style of humor, so it had little effect  
 
-## Say It in Advance and You Can't Lose  
+## The "Two Ways to Win" Strategy  
 
 In the Trump University fraud case, Trump announced in advance that the judge was Mexican, creating a heads-I-win, tails-I-win situation: if he won, it would be because his advance statement had exerted influence; if he lost, it would prove the other side really was biased  
 The judge, Gonzalo Curiel, ultimately ruled in Trump's favor  

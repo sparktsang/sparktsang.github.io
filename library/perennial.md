@@ -65,7 +65,7 @@ This principle, for all its logical austerity and simplicity, remains unseen by 
 
 Let us first define our central term: "perennial profit." The concept is not complex, yet it must be precise. It signifies more than a single instance of winning; it is the act of winning continuously. This necessitates a series of investment activities that, when viewed in aggregate, are profitable. Crucially, this trend of profitability must be reasonably sustainable, which is to say, it cannot be the product of mere fortune. The deeper logical implications of this will be analyzed in the next chapter.
 
-Finally, we must clarify the term "investing." In its broadest sense, it is any deployment of capital with the expectation of a return. A narrower definition, often set in opposition to "speculation," requires some form of diligent analysis prior to the deployment of capital. The fascinating truth, and a testament to the robustness of our inquiry, is that it does not matter which definition one adopts at the outset.
+Finally, we must clarify the term "investing." In its broadest sense, it is any deployment of capital with the expectation of a return. A narrower definition, often set in opposition to "speculation," requires some form of diligent analysis prior to the deployment of capital. While definitions and requirements for such "diligent analysis" vary—and we need not detail them all here—readers are free to apply their own perspectives within this narrower framework. The fascinating truth, and a testament to the robustness of our inquiry, is that it does not matter which definition one adopts at the outset.
 
 For this treatise will demonstrate that any activity capable of generating perennial profit must, by necessity, be a form of investing in the narrow sense. Indeed, we shall go further. The domain of perennial profit is narrower still: all perennial profit is the fruit of rigorous analysis, yet not all rigorous analysis bears such fruit.
 
@@ -97,7 +97,7 @@ Setting aside cases of false claims, how are we to interpret the second scenario
 
 If this were the case, then regrettably, by our own rigorous definition, this individual has *not* achieved perennial profit. We can only observe that they have fulfilled the first condition: a verifiable record of past profit. We have utterly failed to establish the second: a demonstrable basis for concluding that this success is sustainable. To borrow from Bertrand Russell's classic illustration, this individual is like the inductivist turkey, observing the sun rise every morning and concluding it will rise again tomorrow, blissfully unaware of the impending Thanksgiving Day. For the person who uses "no method," we lack any logical framework to project their past performance into the future.
 
-Therefore, it is logically impossible for an individual to achieve perennial profit *without a method*. It follows that whether the nominal agent of success is an institution or an individual, the true, operational subject of perennial profit can only be a **method**. If it appears to be a collection of methods, it is because at least one among them is the active ingredient. Just as a medicine may contain only one effective compound, or two compounds that must work in synergy (which simply defines the "method" as their combination), so too is the engine of profit a singular, coherent process.
+Therefore, it is logically impossible for an individual to achieve perennial profit *without a method*. It follows that whether the nominal agent of success is an institution or an individual, the true, operational subject of perennial profit can only be a **method**. If it appears to be a collection of methods, it is because at least one among them is the active ingredient. Just as a medicine may contain only one effective compound, or two compounds that must work in synergy (which simply defines the "method" as their combination), so too is the engine of profit a singular, coherent process. (If this pharmacological analogy is inexact, it merely exposes my limited medical knowledge; it does not render the underlying logic invalid.)
 
 ---
 
@@ -121,10 +121,10 @@ This is precisely where the profound significance of our inquiry lies, yet the l
 1.  **Insufficient Sample Size:** The statistical scope of the backtest is too narrow, casting doubt on its historical validity in the first place.
 2.  **Overfitting:** The method has been curve-fitted to the historical data, meaning the "signals" it identifies are predominantly noise, and the positive result is a mere coincidence.
 
-These technical terms mask a simple logical principle. Consider a novice who, without any analysis, makes three consecutive profitable trades. We rightly dismiss this as insignificant. Why?
+These technical terms mask a simple logical principle. Consider a blind retail investor who, without any analysis, makes three consecutive profitable trades. We rightly dismiss this as insignificant. Why?
 
 1.  The number of instances is too small to reveal the true nature of their "intuitive" process.
-2.  The outcome could easily be a statistical artifact. Assuming a 50/50 chance of profit or loss, the probability of three consecutive wins is 1 in 8—hardly miraculous.
+2.  The outcome could easily be a statistical artifact. Assuming a 50/50 chance of profit or loss, the probability of N consecutive wins is 2^(-N); thus, the probability of three consecutive wins is 1 in 8—hardly miraculous.
 
 Those familiar with the mathematics of backtesting will understand that overfitting produces results with a far higher probability of being coincidental than natural chance. It is akin to finding, on a planet of a trillion blindfolded dart-throwers, one who has hit the bullseye one hundred times in a row, and then holding this individual up as proof of the superiority of blind intuition.
 
@@ -140,7 +140,7 @@ It follows logically that if we can eliminate all elements of coincidence—if w
 
 Many investors, even "professionals," may find a sufficiently low probability of coincidence to be adequate. Let us, for the sake of argument, assume their calculations are even accurate. The fundamental issue remains: the definition of "sufficiently low" is entirely subjective. There is no objective mathematical threshold for this term. The title of this treatise is "The First Principles of Perennial Profit," not "The Principles of a High-Probability Profit." This distinction is not pedantic; it is the chasm that separates the relative from the absolute.
 
-The reader may object: "But what is truly absolute?" To pursue this question to its root would lead us deep into the philosophy of science, a diversion this practical treatise cannot afford. A simple analogy will suffice. In a meaningful sense, we all accept the fall of an apple from a tree to the earth as an absolute certainty. To argue otherwise is to challenge the very foundations of science, a task far beyond our current scope.
+The reader may object: "But what is truly absolute?" To pursue this question to its root would lead us deep into the philosophy of science, a diversion this practical treatise cannot afford. A simple analogy will suffice. In a meaningful sense, we all accept the fall of an apple from a tree to the earth as an absolute certainty. The reader need not invoke relativity or quantum mechanics; this example merely serves to illustrate the underlying logic of scientific truth, independent of its specific details. To argue otherwise is to challenge the very foundations of science, a task far beyond our current scope.
 
 When we explain the "absoluteness" of the falling apple, we invoke the concept of gravity. The acceptance of "an apple falls to the ground" as a scientific truth rests on a logical architecture that is strikingly parallel to the one we have constructed for perennial profit:
 
@@ -173,7 +173,7 @@ The ultimate aim of investing is profit, and the ultimate state of profit is its
 
 Through a dense but momentous intellectual journey, peeling back layers of abstraction like an onion, we now approach the core: How can we establish a causal relationship between a method and its profit, thereby validating its claim to perennial success?
 
-The astute reader, having followed the trail of deductions, may feel a surge of anticipation. The universal principle is within reach. But here, our relentless logic leads us to an impasse, a seeming aporia: almost all conventional investment methods are incapable of establishing such a relationship.
+The astute reader, having followed the trail of deductions, may feel a surge of anticipation. The universal principle is within reach. After such a long trail of deduction, who is the real culprit? But here, our relentless logic leads us to an impasse, a seeming aporia: almost all conventional investment methods are incapable of establishing such a relationship.
 
 The reason is as simple as it is devastating. Whether a method is based on mathematical signals derived from price movements or on data extracted from financial statements, it is, in its essence, built upon **correlation**. So long as a causal link is not established *a priori*, the method remains a correlational exercise. And since correlation can never, by itself, prove causation, such methods are fundamentally severed from the causal nexus we seek.
 
@@ -185,7 +185,7 @@ Here lies a conclusion of beautiful and subtle elegance. While we determined tha
 
 To reach our final destination, we must now endeavor to build a method upon a causal foundation that satisfies our conditions. This is the path, forged through rigorous deduction, that will lead us to the universal principle.
 
-Where do we begin? Let us re-examine the structure of "method" and "profit." A method generates a series of investments. Profit is the aggregate result of these activities, but it originates from discrete instances of gain, each of which arises from an appreciation in the value of the invested asset. Therefore, the success of a method is ultimately rooted in the price appreciation of its chosen assets. (Let us not engage in semantic games; a short-seller is simply using one asset, like a stock, to purchase another—cash. Price is always relative.) Even if a method targets multiple assets, the profit must originate from at least one of them, allowing us to simplify our model, without loss of generality, to a method targeting a single asset.
+Where do we begin? Let us re-examine the structure of "method" and "profit." A method generates a series of investments. Profit is the aggregate result of these activities, but it originates from discrete instances of gain, each of which arises from an appreciation in the value of the invested asset. Therefore, the success of a method is ultimately rooted in the price appreciation of its chosen assets. (Let us not engage in semantic games; a short-seller is simply using one asset, like a stock, to purchase another—cash. Price is always relative, as every transaction is ultimately an exchange of one broadly defined asset for another, including currency.) Even if a method targets multiple assets, the profit must originate from at least one of them, allowing us to simplify our model, without loss of generality, to a method targeting a single asset.
 
 This somewhat elaborate deconstruction serves to clarify a singular point: the relationship between a method and profit *is* the relationship between the method and the price appreciation of its chosen asset. To establish a causal link between method and profit is to establish a causal link between the method and that price appreciation.
 
@@ -274,6 +274,8 @@ Following this chain of deduction, the path is clear. For any given investment a
 This is the universal principle of perennial profit in investing. It is the only one.
 
 How one might construct such a method from a Price Determinant is a subject for another treatise.
+
+*Written on December 19, 2019, in Kaohsiung*
 
 ---
 

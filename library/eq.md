@@ -55,7 +55,7 @@ Enjoying oneself and creating a sense of accomplishment to improve self-image (e
 One in six people are of the repressive type (called the “calm type” by the author), whose brains automatically counteract negative meanings with positive associations  
 
 Asian children have an average intelligence only two or three points higher than that of white children, yet perform much better in terms of occupational achievement; research has found that Asian Americans spend 40% more time doing homework than others: self-motivation is a major factor influencing achievement in life  
-The scholar who invented the marshmallow test also coined an extraordinarily long term: “goal-directed self-imposed delay of gratification”; his research shows that emotional intelligence is a basic survival skill  
+Walter Mischel, the psychologist who invented the marshmallow test, also coined an extraordinarily long term: “goal-directed self-imposed delay of gratification”; his research shows that emotional intelligence is a basic survival skill  
 
 Comparing students whose grades declined because of anxiety with those whose grades actually improved, researchers found that the latter motivated themselves to prepare more diligently, while the former spent less attention thinking through the exam questions  
 Laughter helps improve intellectual performance; people who watched a comedy clip were the most likely to display creativity  
@@ -74,8 +74,8 @@ When authority figures are present, Japanese students watching circumcision film
 Snyder found that personality chameleons can make excellent impressions on others, but very few have stable and satisfying intimate relationships  
 The author recounts an incident experienced by Terry Dobson, who went to Japan to study Aikido, in which an old man subdued a drunken troublemaker on the Tokyo subway through empathy, demonstrating that showing empathy toward someone in a state of rage is the most effective approach  
 
-The divorce rate for those marrying later has continued to rise: among people who married in 1920, the divorce rate was 18%; in 1950, 30%; in 1970, half; and in 1990, as high as 67%  
-There is ample scientific evidence for sex differences; boys more often compete in large groups, while girls more often play in small groups; when someone gets hurt, the boys tend to leave the game and stop crying, whereas when the same thing happens among girls, everyone stops playing to comfort the crying girl  
+The divorce rate for newlyweds has continued to rise: among people who married in 1920, the divorce rate was 18%; in 1950, 30%; in 1970, half; and in 1990, as high as 67%  
+There is ample scientific evidence for sex differences; boys more often compete in large groups, while girls more often play in small groups; when someone gets hurt, the injured boy is expected to get out of the way and stop crying so the game can go on, whereas when the same thing happens among girls, everyone stops playing to comfort the crying girl  
 Women believe that the most important factor in a happy marriage is good communication; men do not think so  
 What determines whether a marriage survives is not the issues themselves, but the way those issues are discussed  
 John Gottman predicted with 94% accuracy whether couples would divorce within the next three years, thanks to his meticulous analysis  
@@ -88,7 +88,7 @@ Experts recommend that husbands patiently help their wives work through intense 
 The basic strategy for maintaining a marriage is not to focus on individual issues, but to work on developing the couple’s shared emotional intelligence  
 During an argument, couples can learn to check their heart rate every five minutes; people who practice aerobic dance all know how to feel for the carotid artery below the earlobe, count for 15 seconds and multiply by four; if the result is more than ten beats above the normal rate, it means emotional flooding is about to occur, and the couple should separate for 20 minutes to calm down  
 The highest level of empathy is being able to hear the meaning truly intended behind the words; behind impulsive behavior there is often a desire for love and respect  
-Haim Ginott: The best way to complain is: because of your behavior X, I feel Y; I hope you will change it to Z  
+Haim Ginott: The best way to complain is using the "XYZ formula": When you did X, it made me feel Y, and I'd rather you did Z   
 
 The cost-effectiveness of emotional intelligence is still a new idea, and managers accustomed to believing that work requires rationality rather than emotion may find it difficult to accept  
 As with marriage, the main cause of workplace conflict is improper criticism; criticism should be specific, delivered face to face, and accompanied by a proposed solution, while also showing consideration for the other person  
@@ -104,12 +104,12 @@ James Pennbaker’s experiment showed that asking patients to write down the thi
 People who are socially isolated have higher mortality rates, with a greater impact on men  
 David Spiegel found that terminal breast cancer patients who participated in support groups lived twice as long as those who did not, shocking the medical community  
 
-Poor models of emotional education: ignoring (treating a child’s negative emotions as trivial), laissez-faire (noticing the child’s feelings but only wanting to calm them down, even through bribery), and contempt (disrespecting the child’s feelings)  
+Poor models of parenting: Dismissing (treating a child’s negative emotions as trivial), Laissez-Faire (noticing the child’s feelings but only wanting to calm them down, even through bribery), and Disapproving (disrespecting the child’s feelings)  
 Parents who are skilled at handling emotions have better relationships with their children; their children are better at handling emotions, soothing themselves, and are more often relaxed (with lower stress hormones and other physiological indicators), have better relationships with peers, stronger social skills, fewer behavioral problems, and better learning ability  
 Erik Erikson: through emotional learning from their parents, children develop a basic trust or mistrust of the world  
 Abused children often grow up to become abusive parents; such parents discipline their children according to their own likes and dislikes rather than the children’s behavior, and researchers observing daycare centers have found that abused children as young as two and a half already display the beginnings of cruel, abusive behavior  
 
-Being completely helpless in a dangerous situation (for example, compared with knowing how to defend oneself), as well as experiencing only mild stress in early childhood (as confirmed by animal experiments), makes people more prone to trauma  
+Being completely helpless in a dangerous situation (for example, compared with knowing how to defend oneself), as well as experiencing only mild stress in early childhood (as confirmed by animal experiments), makes people more prone to PTSD   
 Things that are not frightening can become frightening because they become psychologically associated with something frightening; this is called fear conditioning. Natural learning can extinguish fear conditioning, but this ability is impaired in trauma patients, causing emotional memories to persist abnormally for a long time; Davidson found that people with more active left prefrontal cortexes recovered more quickly  
 One-quarter of Holocaust survivors recovered, and their brains showed none of the characteristic changes associated with trauma, suggesting that the changes in the brain may be reversible  
 Young children who experience severe violence may invent games that resemble it; children who were kidnapped were still playing kidnapping games five years later: terrifying memories that cannot be spoken of openly can be expressed through art  
@@ -148,7 +148,7 @@ We cannot choose which emotion we fall into, but we can choose the direction of 
 The logic by which emotion operates is associative, which is why metaphors, symbols, imagery, and various forms of art can directly strike at our emotions  
 
 Two modes of thinking:  
-Self-affirming type: facts or memories that conflict with one’s beliefs are suppressed or ignored as much as possible  
+Self-confirming (Emotional Mind): facts or memories that conflict with one’s beliefs are suppressed or ignored as much as possible  
 Rational beliefs are provisional: any new evidence that conflicts with the facts can overturn the old belief  
 
 *Finished reading on Sep 11, 2020*  

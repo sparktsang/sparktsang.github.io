@@ -48,7 +48,7 @@ When children did not understand what they were seeing, their gaze would wander;
 Bombs attracted children’s attention more effectively than cute animals.  
 Children disliked watching adults deliver long-winded lectures.  
 Preschool children could not understand that the same thing could have two names.  
-Later, the similar program *The Great Space Coaster* actually became more popular than *Sesame Street*, yet each episode was replayed five times a week. It turned out that children did not get bored.  
+Later, the similar program *Blue's Clues* actually became more popular than *Sesame Street*, yet each episode was replayed five times a week. It turned out that children did not get bored.  
 
 ### The Power of Context  
 
@@ -62,20 +62,20 @@ Psychologist Walter Mischel pointed out that women who are independent and self-
 Princeton University psychologists John Darley and Daniel Batson found that whether people had just read the Parable of the Good Samaritan had no relationship to whether they would stop to help someone on the road. What mattered was whether they had enough time.  
 The human capacity for social interaction is 150 people; beyond that number, groups inevitably split apart.  
 The high-tech company W. L. Gore & Associates has been profitable for thirty-five consecutive years, with employee turnover at one-third the industry average. Its management style is innovative: employees have no bosses, the company has no formal budget, and every unit strictly follows the 150-person principle in determining its size.  
-Psychologist Daniel Wegner believed that the pain of divorce stems from the loss of shared memories. Families naturally divide mental labor among themselves, such as having adolescents take responsibility for dealing with computers.  
-Gore Associates has an efficient collective organizational memory, making internal cooperation easy and allowing people across departments to remain closely connected within groups of 150.  
+Psychologist Daniel Wegner believed that the pain of divorce stems from the loss of shared memories. Families naturally develop a "transactive memory" (dividing mental labor among themselves), such as having adolescents take responsibility for dealing with computers.  
+Gore Associates relies on an efficient transactive memory system, making internal cooperation easy and allowing people across departments to remain closely connected within groups of 150.  
 
 ### Case Studies  
 
 Psychologists have discovered why the retelling of rumors distorts facts: after seeing a picture, people forget almost all of its details a few months later, but certain details become amplified.  
-To transmit an idea, Connectors and Salesmen likewise have to alter it first, discarding irrelevant details, strengthening others, and bringing out its deeper meaning.  
+To transmit an idea, Connectors and Salesmen likewise have to alter it first through "leveling" (discarding irrelevant details), "sharpening" (strengthening others), and "assimilation" (bringing out its deeper meaning).  
 Airwalk produced a small range of distinctive athletic products and became synonymous with an alternative lifestyle, emerging seemingly out of nowhere.  
-After 1997, Airwalk’s performance went steadily downhill. Its former president pointed out that the fatal mistake was moving toward the mainstream and abandoning product differentiation. Customers discovered that products they had expected to find in specialty stores could now be bought in mass-market retailers.  
+After 1997, Airwalk’s performance went steadily downhill. Its former president pointed out that the fatal mistake was moving toward the mainstream and diluting the brand (losing its exclusivity). Customers discovered that products they had expected to find in specialty stores could now be bought in mass-market retailers.  
 Suicide is contagious, as David Phillips’s research demonstrated; like an advertisement for a kind of solution, it is more effective among people who are similar to the person who died by suicide. Among adolescents in Micronesia, imitation suicides became widespread.  
 Hans Eysenck’s research found that most heavy smokers have distinctive personalities: they are extroverted, socially adept, sociable, surrounded by friends, fond of excitement and lively gatherings, risk-taking, and impulsive. Later research further suggested that they also have stronger sexual impulses, earlier sexual maturity, stronger sexual needs, and greater attractiveness.  
 Anti-smoking campaigns that blame tobacco companies are ineffective: smoking itself is not stylish; the smoker is. That is what makes smoking spread like a virus.  
 Geneticists have confirmed that most personality traits are determined by genes and environment, roughly half by each, yet they have been unable to identify much influence from upbringing: adopted children are often very unlike their adoptive parents, while environmental influences are determined by peer groups. Hence the messaging campaigns aimed at adults have failed to stop adolescents from smoking.  
 Multiple studies have shown that smoking is related to emotion, especially depression: targeting depression can break the spell that makes people so helplessly addicted to smoking.  
-Research by Neal Benowitz and Jack Henningfield found that the threshold for nicotine addiction is about five cigarettes a day.  
+Research by Neal Benowitz and Jack Henningfield found that the threshold for nicotine addiction is about five cigarettes a day (distinguishing heavy smokers from "chippers").  
 
 *Finished reading on Dec 4, 2020*  

@@ -32,7 +32,7 @@ You also need to rent server space to store your website data, unless you host i
 In Europe and the United States, almost everyone builds websites, so the hosting industry is highly competitive and prices are low.  
 Free resources may include advertisements, poor specifications, limited functionality, unstable systems, or unreliable service, so they are best used only for practice.  
 One recommendation is 000webhost.com. It has been around for many years, has an easy-to-use interface, can be set up quickly, and takes only a few steps to install WordPress. Its drawback is the lack of Chinese support.  
-5/10 GB is enough for a typical website, and usually enough for its traffic as well. When building a CMS, each one requires at least one database. It is advisable to purchase the domain name separately so that you have the freedom to remain independent of the hosting service.  
+5/10 GB is enough for a typical website, and usually enough for its traffic as well. When building a CMS, each one requires at least one database. It is advisable to purchase the domain name separately to avoid "vendor lock-in" with your hosting provider.  
 Most plans use shared IPs. If a neighboring site is engaged in illegal activity, your site may be blocked as well. Whether you should upgrade to a dedicated IP depends on your needs.  
 GoDaddy also offers hosting services.  
 
@@ -60,15 +60,15 @@ To improve search visibility, upload the Google verification file to the cPanel 
 
 ### Plugins  
 
-“Plugins” in English; countless plugins can be modified or even created as long as you know PHP.  
-Jetpack is highly recommended for gaining access to all the features exclusive to WordPress.com; WP Chinese Conversion provides professional Traditional/Simplified Chinese conversion; Contact Form 7 provides complete contact forms; Akismet automatically filters spam comments; TinyMCE Advanced greatly improves the text editor; Adminimize manages website permissions; WordPress Share Buttons Plugin - AddThis does what its name suggests; WP-DB-Backup backs up posts to your computer; Limited Login Attempts limits the number of attempts to log in to the WordPress dashboard (the default is unlimited, which is very unsafe); HC Custom WP-Admin URL changes the backend login URL; UpdraftPlus WordPress Backup Plugin provides complete website backups and can even back them up to the cloud while you sleep; Breeze - WordPress turns the site into static pages and speeds it up, and is recommended as essential; WP-Optimize optimizes the database with one click, such as deleting duplicate posts and leftovers from previously used plugins; jQuery Image Lazy Load WP loads photos according to the user's viewport using professional techniques, solving slow image loading.  
+Countless plugins can be modified or even created as long as you know PHP.  
+Jetpack is highly recommended for gaining access to all the features exclusive to WordPress.com; WP Chinese Conversion provides professional Traditional/Simplified Chinese conversion; Contact Form 7 provides complete contact forms; Akismet automatically filters spam comments; TinyMCE Advanced greatly improves the text editor; Adminimize manages website permissions; WordPress Share Buttons Plugin - AddThis does what its name suggests; WP-DB-Backup backs up posts to your computer; Limited Login Attempts limits the number of attempts to log in to the WordPress dashboard (the default is unlimited, which is very unsafe); HC Custom WP-Admin URL changes the backend login URL; UpdraftPlus WordPress Backup Plugin provides complete website backups with automated cloud backups (backing up even while you sleep); Breeze - WordPress turns the site into static pages and speeds it up, and is recommended as essential; WP-Optimize optimizes the database with one click, such as deleting duplicate posts and leftovers from previously used plugins; jQuery Image Lazy Load WP loads photos according to the user's viewport using professional techniques, solving slow image loading.  
 
 ### Themes  
 
 A newly installed theme can use a wizard to assist with customization (in the black “Customizer” panel).  
 The Instant Images plugin provides image files without copyright concerns. Download more images before configuring the theme, then make detailed settings under Appearance → Customize.  
 Under “Pages,” set the home page to `home`, create an empty page called `blog`, configure the homepage settings, set `home` as the homepage and choose “static page,” set the post listing page to `blog`, and publish.  
-A theme that has been modified through the dashboard should be saved under a different name so that it will not be overwritten by version updates. More advanced themes are recommended because they offer more adjustable settings.  
+A theme modified through the dashboard should be renamed (or cloned) so that it will not be overwritten by theme updates. More advanced themes are recommended because they offer more adjustable settings.  
 Appearance → Theme Editor can be used for advanced modifications, including the 404 page.  
 Paid options may be divided by single or multiple websites, and by perpetual or annual licenses. Major WordPress theme websites include ThemeForest, ElegantThemes, StudioPress, WooThemes, and MyThemeShop.  
 To create your own theme, first go to underscores.me to download a blank theme, then upload it via Appearance → Themes → Add New, and install and activate it.  
@@ -95,15 +95,15 @@ Planning ahead, establishing a clear positioning, and choosing a consistent webs
 Search engines do not like websites whose themes contain syntax errors. The following site can detect them:  
 validator.w3.org  
 Use Broken Link Checker to check for broken links.  
-Post titles should not be overly sensational (“shocking seventy billion people”) or overly rigid (“download IG photos”). Something like “Three Easy Steps to Download Instagram Photos” is preferable. Posts should be around a thousand Chinese characters; if they are too long, split them into separate pieces. The website should also be updated regularly, making good use of the scheduling function.  
+Post titles should not be overly sensational (clickbait, like “shocked 7 billion people”) or robotic (“download IG photos”). Something like “Three Easy Steps to Download Instagram Photos” is preferable. Posts should be around a thousand Chinese characters; if they are too long, split them into separate pieces. The website should also be updated regularly, making good use of the scheduling function.  
 The All in One SEO Pack plugin works well even with its default settings.  
-PuSHPresa can be added to enable a protocol that allows search engines to index new posts more quickly and is recommended as a must-have.  
+PuSHPress can be added to enable a protocol that allows search engines to index new posts more quickly and is recommended as a must-have.  
 Google XML Sitemaps helps search engines better understand your website's structure and avoid missing pages.  
 AMP for WordPress was jointly developed by WordPress and Google to make websites load quickly when accessed through search engines, while also improving SEO.  
 
 ### E-commerce  
 
-Once a site becomes an e-commerce site, it no longer merely presents information; it also involves customer data. It is recommended to purchase an SSL certificate to reassure visitors. There are also free services that need to be reapplied for every quarter (SSL for free's Let's Encrypt; of the three methods, Manual Verification is the simplest. Follow the steps: create a folder in the cPanel file manager and add the verification file; after obtaining the certificate, return to cPanel → SSL/TLS → Install and Manage, paste in the contents of the certificate file, and install it).  
+Once a site becomes an e-commerce site, it no longer merely presents information; it also involves customer data. It is recommended to purchase an SSL certificate to reassure visitors. There are also free services that need to be reapplied for every quarter (SSL For Free powered by Let's Encrypt; of the three methods, Manual Verification is the simplest. Follow the steps: create a folder in the cPanel file manager and add the verification file; after obtaining the certificate, return to cPanel → SSL/TLS → Install and Manage, paste in the contents of the certificate file, and install it).  
 Install and configure WooCommerce. To avoid having PHP emails sent to consumers by the virtual host being considered suspicious, it is advisable to create an email account in cPanel. All the various settings related to transactions should be thoroughly tested.  
 For affiliate marketing, selling other people's products for profit, 000webhost can be tried, but it performs poorly in Taiwan.  
 When sending large quantities of email, refer to Gmail's IMAP and POP3 configuration instructions to avoid having messages marked as spam.  

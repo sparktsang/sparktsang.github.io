@@ -69,21 +69,21 @@ Original notes [here](/library/value-invest/chi){:target="_blank"}.
 
 **Chapter 4: Asset Value**
 
-*   **Liquidating Value Assessment:** Accounts receivable might only be 85% collectible; inventory value depends on its nature (e.g., 50% in an example); plants and property also vary (offices are more valuable than specialized chemical plants, e.g., 45% in an example).
+*   **Liquidating Value Assessment:** In a liquidation scenario, accounts receivable might have an 85% recovery rate; inventory value depends on its nature (e.g., 50% in an example); specialized chemical plants have a much lower recovery rate (e.g., 45%).
 *   **Reproduction Cost Assessment:** Inventory should be adjusted for price trends; real estate needs to be marked to market; deferred taxes should be discounted to present value. The book value of a plant might be zero after 30 years of depreciation, but its reproduction cost could be higher. Goodwill on the balance sheet may be overstated. Hidden assets like the value of R&D, customer relationships, and IT systems also need to be assessed. Debt also requires evaluation.
 
 **Chapter 5: Earning Power Value (EPV)**
 
-*   Example: A company earns $10M annually. If shareholders accept a 10% return, the EPV = $10M / 10% = $100M. If its asset value is $40M, the $60M gap (franchise value) will eventually be narrowed by market forces.
+*   Example: A company earns $10M annually. If the shareholders' required rate of return is 10%, the EPV = $10M / 10% = $100M. If its asset value is $40M, the $60M gap (franchise value) will eventually be narrowed by market forces.
 *   The example of Mercedes-Benz shows that even immense brand prestige and pricing power do not guarantee superior profitability (its pre-tax ROA was only 7.2% from 1995-97).
 *   Only when a business has advantages that new entrants cannot replicate—a "franchise"—can it create value.
-*   Franchise sources include: government licenses, patents, copyrights, proprietary know-how, downward-sloping learning curves, unique low-cost strategies, customer habit or addiction (e.g., Coca-Cola), high switching costs (e.g., Microsoft Office), and economies of scale (e.g., Intel).
+*   Franchise sources include: government licenses, patents, copyrights, proprietary know-how, economies of learning, unique low-cost strategies, customer habit or addiction (e.g., Coca-Cola), high switching costs (e.g., Microsoft Office), and economies of scale (e.g., Intel).
 
 **Chapter 6: Case Study: WD-40**
 
 *   WD-40 outsources almost everything; it's a marketing organization with no secret formula or patent, yet it has exceptionally high returns on sales, assets, and equity.
 *   Its adjusted ROE in 1998 was 52%.
-*   Adjusted post-tax EBIT was calculated to be $22.1M.
+*   Adjusted NOPAT (Net Operating Profit After Tax) was calculated to be $22.1M.
 *   Using a cost of capital (R) of 8% (government bond yield + 2% premium), the adjusted EPV = ($21.9M / 8%) + $14M (net cash) = $288M. This equates to $18.51 per share, far above its book value, indicating a significant franchise.
 *   Reproduction cost was estimated at $181.2M (including capitalizing 3 years of SG&A). The difference between EPV ($274M ex-cash) and reproduction cost ($181.2M) is $94M, representing the franchise value.
 *   The franchise is protected by customer switching costs and the fact that it would be unprofitable for a new competitor to enter the market (a hypothetical competitor capturing 25% market share would have a -11% ROI). DuPont, GE, 3M, and others have tried and failed to dislodge WD-40.
@@ -92,13 +92,13 @@ Original notes [here](/library/value-invest/chi){:target="_blank"}.
 **Chapter 7: Case Study: Intel**
 
 *   For Intel, the main asset value adjustment is for Property, Plant, and Equipment (PPE) and R&D.
-*   R&D can be treated as a capital investment and depreciated over 5 years.
+*   R&D can be capitalized and amortized over 5 years.
 *   Marketing expenses can be estimated based on a 5-year average percentage of revenue, assuming a new entrant would need to spend this for 3 years to compete.
 *   Applying this method to calculate an adjusted price-to-book ratio successfully identified Intel's three best buying opportunities in Jan 1982, Aug 1986, and late 1988.
 
 **Chapter 8: Diversification and Risk**
 
-*   Value investors put fewer eggs in their basket because they invest only within their circle of competence.
+*   Value investors run highly concentrated portfolios because they invest only within their circle of competence.
 *   The margin of safety is their primary risk-reduction mechanism.
 *   Most value investors avoid shorting stocks to hedge.
 *   Price volatility is not the same as risk.
@@ -112,7 +112,7 @@ Original notes [here](/library/value-invest/chi){:target="_blank"}.
 
 **Chapter 10: Mario Gabelli**
 
-*   Contributed the modern concept of "Private Market Value" (PMV): the value a savvy industrial buyer would be willing to pay for an asset, which equals intrinsic value plus a control premium.
+*   Evolved Graham's classic "net-net" strategy into the modern concept of "Private Market Value" (PMV): the value a savvy industrial buyer would be willing to pay for an asset, which equals intrinsic value plus a control premium.
 *   Unlike passive investors, industrial buyers have the ability to make fundamental changes to a business.
 *   His team developed analytical tools to find gaps in GAAP accounting and looks for "catalysts" to close the gap between market price and PMV.
 

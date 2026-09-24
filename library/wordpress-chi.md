@@ -65,20 +65,20 @@ Histats.com 可計網站流量並顯示於網站
 
 ### 外掛  
 
-陸譯插件，大量外掛只要懂 php 都可修改甚至創造  
-Jetpack 可將 WordPress.com 專屬功能全數使用的強烈推薦，WP Chinese Conversion 專業正殘轉換，Contact Form 7 完整的聯絡表單，Akismet 自動篩廣告留言，TinyMCE Advanced 大幅改良文字編輯器，Adminimize 管理網站權限，WordPress Share Buttons Plugin - AddThis 如其名，WP-DB-Backup 備份文章到電腦，Limited Login Attempts 限登入 WP 控制台次數（預設無限很不安全），HC Custom WP-Admin URL 改變後台登入址，UpdraftPlus WordPress Backup Plugin 完整網站備份、睡著都能備上雲端，Breeze - WordPress 將站靜態化、加速、建議必備，WP-Optimize 一鍵優化資料庫、如刪重複文章、曾用過的外掛殘留，jQuery Image Lazy Load WP 以專業技術按用家視野載入相片、解決相片載入緩慢  
+大陸譯「插件」，大量外掛只要懂 php 都可修改甚至創造  
+Jetpack 可將 WordPress.com 專屬功能全數使用的強烈推薦，WP Chinese Conversion 專業正簡轉換，Contact Form 7 完整的聯絡表單，Akismet 自動篩廣告留言，TinyMCE Advanced 大幅改良文字編輯器，Adminimize 管理網站權限，WordPress Share Buttons Plugin - AddThis 如其名，WP-DB-Backup 備份文章到電腦，Limited Login Attempts 限登入 WP 控制台次數（預設無限很不安全），HC Custom WP-Admin URL 改變後台登入址，UpdraftPlus WordPress Backup Plugin 完整網站備份、睡著都能備上雲端，Breeze - WordPress 將站靜態化、加速、建議必備，WP-Optimize 一鍵優化資料庫、如刪重複文章、曾用過的外掛殘留，jQuery Image Lazy Load WP 以專業技術按用家視野載入相片、解決相片載入緩慢  
 
 
 ### 佈景  
 
 新設佈景主題可用精靈輔助自訂（在黑方塊的 Customizer）  
 Instant Images 外掛提供無版權問題圖檔，設定佈景前可多下載，然後於外觀、自訂處詳細設定  
-「頁面」設定主頁 home，設定空頁 blog，自訂首頁設定，設 home 為首頁及静態頁面，設文章列表頁為 blog，發表  
+「頁面」設定主頁 home，設定空頁 blog，自訂首頁設定，設 home 為首頁及靜態頁面，設文章列表頁為 blog，發表  
 後台改動過的佈景宜另名儲存，免遭更新版本覆蓋；建議高級佈景，能調整項較多  
 外觀、主題編輯器可作進階修改，包括 404 頁面  
 付費選項分單一或多個網站、永久或年繳授權，大型 WordPress 佈景網站包括 ThemeForest、ElegantThemes、StudioPress、WooThemes、MyThemeShop  
 自行創作佈景可先到 underscores.me 下載空白佈景，上傳至外觀、佈景主題、新增佈景主題，啟用安裝  
-大多情況不用從零開始，可延襲既有佈景修改，稱為子佈景：在佈景資料夾中新增資料夾，內新增 style.css，寫上描述，只要父佈景名稱正稱即可，加 HTML 碼即可全域改動  
+大多情況不用從零開始，可沿襲既有佈景修改，稱為子佈景：在佈景資料夾中新增資料夾，內新增 style.css，寫上描述，只要父佈景名稱正稱即可，加 HTML 碼即可全域改動  
 
 
 ### 進階  
@@ -103,16 +103,16 @@ Bing 可用網站管理者工具、百度也有搜索學院
 搜尋引擎不喜佈景有錯誤語法的網站，以下網站可檢錯：  
 validator.w3.org  
 用 broken link checker 檢失效連結  
-文章標題不宜太浮誇（震驚了七十億人）、太死硬（IG 照片下載），宜如「三步輕鬆下載 IG 相片」，字數宜千字上下，過長可拆篇，網站宜定期更新（可善用排程功能）  
+文章標題不宜太浮誇（震驚了七十億人）、太生硬（IG 照片下載），宜如「三步輕鬆下載 IG 相片」，字數宜千字上下，過長可拆篇，網站宜定期更新（可善用排程功能）  
 外掛 All in One SEO Pack：用預設值都效果良好  
-PuSHPresa 可加入使引擎更快收錄新文章的協定，必裝推薦  
+PuSHPress 可加入使引擎更快收錄新文章的協定，必裝推薦  
 Google XML Sitemaps 讓引擎更了解你的網站架構，以免掛漏  
 AMP for WordPress 由 WP 及 Google 聯合開發，使網站經引擎進入時載入快速，並作 SEO  
 
 
 ### 電商  
 
-一旦成電商就非只呈現訊息，而牽涉客戶資料，建議買 SSL 憑證使網友放心，現也有需每季重新申請的免費服務（SSL for free 的 Let's encryption，三種方法中 Manual Verification 最簡易，按步驟操作：於 cpanel 檔管建資料夾加入驗證證，獲憑證後回 cpanel、SSL/TLS、安裝並管理，貼上憑證檔內容，安裝）  
+一旦成電商就非只呈現訊息，而牽涉客戶資料，建議買 SSL 憑證使網友放心，現也有需每季重新申請的免費服務（SSL for free 的 Let's Encrypt，三種方法中 Manual Verification 最簡易，按步驟操作：於 cpanel 檔管建資料夾加入驗證檔，獲憑證後回 cpanel、SSL/TLS、安裝並管理，貼上憑證檔內容，安裝）  
 裝 WooCommerce 加以設定，為免由虛擬主機寄給消費者的 php 電郵被認可疑，宜於 cpanel 建立電郵帳；牽涉交易各種設定宜多加測試  
 聯盟行銷販賣他人商品牟利可試 000webhost，但在臺成效不佳  
 大量寄件為免被認垃圾，宜參考 gmail IMAP 和 POP3 設定說明  

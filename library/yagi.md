@@ -35,10 +35,10 @@ The author was fired from his job and took an online test, which revealed that h
 So he started a blog. His initial income was tiny, but a year and a half later he was earning one million yen a month.  
 However, after writing became something he did for money, he eventually developed mild depression. He began exploring himself again, only to discover that what he truly loved was exploring his own inner self. He then made that the subject of his blog.  
 
-The jam principle: too many choices can make people hesitate to act. Thinking that a lack of initiative is the cause gets things backwards.  
+The Paradox of Choice: too many choices can make people hesitate to act. Thinking that a lack of initiative is the cause gets things backwards.  
 As times change rapidly, rational judgment is losing its usefulness. The basis for making decisions should shift from an externally dependent “other-centered” orientation to an internally grounded “self-centered” one.  
 
-Appropriate “criteria for making choices”: “what you like, what you are good at, and what you value.”  
+Appropriate “criteria for making choices”: Passions (what you like), Talents/Strengths (what you are good at), and Values (what you care about).  
 
 ### What Does It Mean to “Do What You Want to Do”?  
 
@@ -96,7 +96,7 @@ Group the key words into four to six categories. The author’s example divides 
 
 Third, shift from being other-centered to being self-centered.  
 Do not treat things you cannot control as values, such as “make lots of money and enjoy wealth.”  
-A study from the University of Rochester found that students who set “purpose-oriented” goals were more satisfied with their lives and considered themselves happier than those who set “benefit-oriented” goals, while the latter experienced more negative emotions.  
+A study from the University of Rochester found that students who set intrinsic goals were more satisfied with their lives and considered themselves happier than those who pursued extrinsic goals, while the latter experienced more negative emotions.  
 An example of the former would be “help others improve their lives and grow myself in the process,” while examples of the latter include fame, wealth, and power.  
 How to make the shift: keep asking why until you reach the end. For example, if you want fame because you want to be praised, and want praise because you want confirmation that your existence has meaning, you may discover that what you really want is to live by following your curiosity without regard for society’s judgment—and that you can do this without becoming famous.  
 
@@ -118,7 +118,7 @@ The key word that appears most often can be regarded as your work purpose.
 
 This refers to things you do naturally and subconsciously.  
 You do not need to work hard to change yourself; you only need to work hard at using your talents.  
-Turn weaknesses into strengths: “I am shy and therefore find it hard to make friends” becomes “precisely because I am shy, I am able to think deeply in peace.”  
+Reframe weaknesses into strengths: “I am shy and therefore find it hard to make friends” becomes “precisely because I am shy, I am able to think deeply in peace.”  
 Imitating how other people use their strengths is useless; you need to find your own winning formula.  
 Under the same speed-reading training, someone who initially read 350 characters per minute became eight times faster, while someone who initially read 90 characters only improved to twice their original speed: efficiently strengthening what you are already good at is important.  
 
@@ -150,7 +150,7 @@ What about society or other people makes you angry? This reveals something you c
 
 The idea that you should think, “What should I do first for the sake of the future?” is dangerous. If you are still lost because you do not know what you want to do, it is because you always put the task of facing yourself last.  
 Once you decide what you want to do most right now, your life begins to move forward.  
-Take action and revise as you go: at first, the author worked on his self-understanding method but still felt bored. The reason was that listening was not his strength; teaching was. After he switched to giving seminars, he became happier, but he hated having to repeat the same content each time, so he eventually shifted to teaching courses through instructional videos and exchanging messages.  
+Iterate through action: at first, the author worked on his self-understanding method but still felt bored. The reason was that listening was not his strength; teaching was. After he switched to giving seminars, he became happier, but he hated having to repeat the same content each time, so he eventually shifted to teaching courses through instructional videos and exchanging messages.  
 Compensation is simply gratitude. Other people will pay you only when they believe what you do has value. The kind of gratitude you want to receive is connected to your work purpose: use “what you want to do” to create value for the people around you, and your work will go smoothly. You will find what you “truly want to do” and discover the meaning of your existence.  
 
 Two steps:  
@@ -160,9 +160,9 @@ The author’s work purpose was “to help more people pursue their dreams,” s
 
 ### The Self-Understanding Magic That Can Dramatically Transform Your Life  
 
-Once you find what you truly want to do, it works like the “colorful bath” effect: the information you need begins to gather around you.  
+Once you find what you truly want to do, it triggers selective attention (the Baader-Meinhof phenomenon): the information you need begins to gather around you.  
 After the author decided what he truly wanted to do, he had absolutely no idea where to begin, until he suddenly saw a book explaining “how to promote seminar-style courses.”  
-Negative experiences are like prickly sea urchins that are difficult to approach, but once you open the shell, there is rich, delicious meat inside.  
+Negative experiences are like sea urchins: prickly and intimidating on the outside, but once cracked open, they reveal rich, rewarding insights inside.  
 
 The author’s examples:  
 Being fired from a supermarket for poor performance: discovering how painful it is to simply follow orders.  

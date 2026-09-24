@@ -142,7 +142,7 @@ It also means the share price does not need to be determined upfront. But even a
 For this reason, some investors establish a valuation cap: above X dollars, the conversion still takes place at X dollars.  
 For the investors in the next round, however, they will try to keep the company’s valuation below that cap. They do not want their own price to be much higher than that paid by the convertible-debt investors.  
 If the company undervalues itself when issuing convertible debt, even if the venture capitalist was originally willing to pay more, the investor may lower the offer after seeing the cap during due diligence.  
-To attract seed-stage investors, two additional terms can be considered for convertible debt: a reasonable period for the equity financing, with mandatory conversion once that period expires, and a floor on conversion value rather than a cap.  
+To attract seed-stage investors, two additional terms can be considered for convertible debt: a reasonable period for the equity financing, with mandatory conversion once that period expires, and a valuation floor rather than a valuation cap.  
 For founders, the lower the interest rate on convertible debt, the better. You can look at how low the federal rate can go and then add only a small subsidy for volatility.  
 Issuing warrants is another way to structure a discount on convertible debt, but it is complex and relatively uncommon, so it is best avoided.  
 
@@ -166,7 +166,7 @@ At the negotiating table, a founder in their early twenties may have less experi
 Deliberately call just before the venture capitalist is about to leave work for dinner with the family, and pretend to ask for explanations of all the terms you “don’t understand.”  
 A useful tactic when dealing with a venture capital firm is to ask, before they show you the term sheet, which three terms they consider the most important. At the same time, prepare your own three most important terms.  
 When they later attack areas they did not mention, it becomes much easier for you to argue your case.  
-Be firm with bullies, straightforward with nice people, and with bureaucratic types, it is often best to go along with them while keeping your focus. Cowardly idiots on your own side may be harder to deal with than enemies. With eccentric old-timers, stay cheerful, open-minded, and patient.  
+Be firm with bullies, straightforward with nice people, and with bureaucratic types, it is often best to go along with them while keeping your focus. "The Wimp" (on your own side) may be harder to deal with than enemies. With eccentric old-timers, stay cheerful, open-minded, and patient.  
 When walking away, think through your alternatives first. If there is no alternative, tell them frankly that you are not doing the deal. Make sure they understand where the negotiation has broken down and give them a chance to reconsider their position. Bluffing is pointless.  
 Your position will be much stronger if you can get all the venture capital firms to agree to invest at roughly the same time.  
 Be careful about how much you disclose and how much you withhold when using one term sheet to entice other venture capital firms to invest.  
@@ -182,7 +182,7 @@ A good lawyer is extremely important. You need to confirm their experience and g
 When founders and venture capitalists negotiate openly and honestly, the result is usually much better.  
 When someone wants to acquire the company, be honest with the investors and work together to settle on the right deal structure. This is even more important when the acquirer tries to drive a wedge between you and the investors.  
 
-Six things you absolutely should not do: do not bring up a confidentiality agreement; do not write junk mail; do not pester people relentlessly (there can be many reasons for a rejection—it may simply be that the two sides are not a good fit, not that they are testing your persistence); do not ask someone to introduce you (if they have already turned down your fundraising proposal, asking them to make an important introduction creates a conflict); do not go it alone (except in extremely rare cases, very few people can raise money single-handedly); do not exaggerate the importance of product patents (the bridge and the execution matter much more).  
+Six things you absolutely should not do: do not bring up a confidentiality agreement; do not spam investors; do not pester people relentlessly (there can be many reasons for a rejection—it may simply be that the two sides are not a good fit, not that they are testing your persistence); do not ask someone to introduce you (if they have already turned down your fundraising proposal, asking them to make an important introduction creates a conflict); do not go it alone (except in extremely rare cases, very few people can raise money single-handedly); do not exaggerate the importance of product patents (the idea and the execution matter much more).  
 
 In early-stage fundraising, be careful with liquidation preferences and protective provisions. In the middle and later stages, pay particular attention to the board, voting control, and valuation.  
 
@@ -220,9 +220,9 @@ Pay attention to the company’s intellectual property. You meet a friend for dr
 Things like this happen constantly in the startup world.  
 The author disagrees with the position that you should simply remain constantly vigilant or make the other party sign a confidentiality agreement. The most important thing is to know who you are talking to.  
 Employment matters also require care and the assistance of a specialist lawyer.  
-The three best places to incorporate a company are Texas, the company’s home state, or the venture capitalist’s home state.  
-Texas corporate law is clear, business-friendly, and familiar to most U.S. lawyers. It has only two drawbacks: you may have to comply with two sets of corporate laws (your own state’s and Texas’s), and you may have to pay more taxes.  
-Most investment banks will require you to incorporate in Texas before helping take the company public.  
+The three best places to incorporate a company are Delaware, the company’s home state, or the venture capitalist’s home state.  
+Delaware corporate law is clear, business-friendly, and familiar to most U.S. lawyers. It has only two drawbacks: you may have to comply with two sets of corporate laws (your own state’s and Delaware’s), and you may have to pay more taxes.  
+Most investment banks will require you to incorporate in Delaware before helping take the company public.  
 U.S. law provides that only wealthy and sophisticated individuals may qualify as accredited investors eligible to purchase shares in a private company.  
 U.S. law provides that if you do not file an 83(b) election within 30 days of receiving company stock, you can lose the opportunity to realize the profit from selling the stock and may have to pay three times the amount of tax otherwise due.  
 

@@ -6,7 +6,7 @@ order: 1
 title: "Overriding Code: A 120,000-Character Manifesto on Taming AI and Architecting a Digital Altar"
 title_obvious: false
 nav_title: Overriding Code
-description: Not a book. A faithful, unabridged archive of taming AI into creating a digital artwork from scratch. A raw record of mine, with no prior HTML background, using human intuition and uncompromising aesthetic judgment to make AI serve the artwork.
+description: Not a book. A faithful, unabridged archive of taming AI into creating a digital artwork from scratch. My raw record of having zero HTML background, yet using human intuition and uncompromising aesthetic judgment to make AI serve the artwork.
 permalink: /library/design/
 image: assets/bookcover/design-cover.png
 render_with_liquid: false
@@ -243,7 +243,7 @@ If you think creating another layout file is too much trouble, and you only have
 
 ##### [Q3]
 
-You suggested modifying `allposts`, but its logic is still basically just iterating through all the posts. That's not what I want. I want something more like a blog, with some hierarchy in how the posts are displayed, using the same logic whether there are ten posts or 1,000. If you iterate through all the posts and keep accumulating them on the same page, it will eventually become enormous. Normally you'd just show an image, a title, a subtitle, and a few lines of text. Something with hierarchy and style.
+You suggested modifying `allposts`, but its logic is still basically just iterating through all the posts. That's not what I want. I want something more like a blog, with some hierarchy in how the posts are displayed, using the same logic whether there are ten posts or 1,000. If you iterate through all the posts and keep accumulating them on the same page, it will eventually become bloated and unmanageable. Normally you'd just show an image, a title, a subtitle, and a few lines of text. Something with hierarchy and style.
 
 The five layouts in Forty don't seem to fit this at all, which suggests that the theme wasn't really designed for blogging in the first place. So shouldn't I just find a theme specifically designed for blogging, then copy its layouts? That would be much simpler, more direct, more efficient, and more practical, right? And I could preview all the relevant layouts in advance and choose one I actually like. Does that make sense?
 
@@ -1202,7 +1202,7 @@ Also, I already told you about the style I'm envisioning: "If every block has ex
 
 And after all these attempts, you still haven't even managed to get the text color looking normal. I still can't properly see the text. Is working on `life_index` actually doing anything? Or is something else controlling it?
 
-What do I do now? I'm really confused.
+What do I do now? I'm completely lost right now.
 
 <hr class="custom-hr">
 
@@ -3659,7 +3659,7 @@ Your old version did not have this problem because it did not perform such a com
 
 ---
 
-### **How do we fix it? (A root-and-branch solution)**
+### **How do we fix it? (Curing the root cause)**
 
 We will no longer delete and rebuild `innerHTML` when `mouseenter` occurs. We'll use a cleaner, more stable approach: **the HTML structure stays unchanged from beginning to end; JavaScript only controls the "typing" action.**
 
@@ -7177,7 +7177,7 @@ Would you rather try it yourself first, or have me directly change it to one of 
 
 Strange. I only asked you to teach me how to modify the existing code, and point out which lines contain the size numbers. But instead you wrote an entirely new thing for me to paste in, and then told me to make changes inside that.
 
-There's no way to adjust the size in the original code? There isn't a parameter that controls the size? If there's no size, then how does it decide where to place the info box? The more you answer, the more confused I get. The basic logic doesn't even make sense. Explain it until I understand.
+There's no way to adjust the size in the original code? There isn't a parameter that controls the size? If there's no size, then how does it decide where to place the info box? The more you answer, the more confused I get. The basic logic doesn't even make sense. Break it down until I get it.
 
 <hr class="custom-hr">
 
@@ -7896,7 +7896,7 @@ This code has the box pinned to a fixed position. The box is wider than the frag
 
 I only need the information box to appear at a random position on the layout. Sounds incredibly easy, but apparently it's world-class difficulty. I've asked AI many times, and they still couldn't get it right. They change a whole bunch of things at once because, apparently, the four words "random position" involve a gigantic coding project. In the end, the more they changed, the more wrong it got, and they even destroyed the foundation that was already working.
 
-If I asked you to write it, you'd probably just give me more useless code, then we'd fall into an infinite debugging loop and still never finish.
+If I asked you to write it, you'd probably just give me more useless code, then we'd fall into debugging hell and still never finish.
 
 So don't write code anymore. Think of a way to help me transcend this endless cycle of suffering first. What should we do?**
 
@@ -13890,7 +13890,7 @@ Okay, after making some adjustments, the result is now ideal.
 
 Another thing to consider is the three buttons below the articles on the current Life page. Other than the first article having no ← PREVIOUS and the last article having no NEXT →, they all have ← PREVIOUS, NEXT →, and the BACK TO LIFE at the very bottom. This is determined by the code at the bottom of `_layouts/post.html`.
 
-We deleted `all_post` above, and the design principle was "curator authority," "focused guidance," and so on. By the same philosophy, should we apply it to these buttons as well? Like museums, or even IKEA, where they only direct you in one direction?
+We deleted `all_post` above, and the design principle was "curatorial authority," "focused guidance," and so on. By the same philosophy, should we apply it to these buttons as well? Like museums, or even IKEA, where they only direct you in one direction?
 
 
 	{% if page.category == "Life" %}
