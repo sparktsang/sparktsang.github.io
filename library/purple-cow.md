@@ -121,6 +121,6 @@ Find something in the industry that is “not impossible, just not yet done,” 
 For everything you have not done, keep asking yourself, “Why not?”  
 
 Silk soy milk was packaged to look just like milk, and sales tripled overnight. (In the United States, tear out this page of the book and mail it to the author to receive a Silk discount coupon.)  
-For more information on the Purple Cow, see apurplecow.com; the author's blog is at sethgodin.com.  
+For more information, see the author's blog at sethgodin.com.  
 
 *Finished reading on March 10, 2025*

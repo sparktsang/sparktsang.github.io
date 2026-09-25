@@ -3,6 +3,10 @@ layout: post
 category: "Entry"
 title: "Overriding Code: A 110,000-Character Manifesto on Taming AI and Architecting a Digital Altar"
 permalink: /entry/design/
+cta_url: "/library/design/#start"
+cta_text: CONTINUE TO THE ARCHIVE
+cta_nav_url: "/library/"
+cta_nav_text: BACK TO LIBRARY
 render_with_liquid: false
 ---
 
@@ -21,16 +25,6 @@ I assume most people would settle for a neat, familiar-looking layout once the m
 This blood-and-tears chronicle, left completely uncut and stripped of all sugarcoating, is no orthodox programming tutorial. It is a demonstration of how common sense and intuition can stop a runaway machine lost in coordinate calculations; of how, when AI tries to drag everything toward mediocrity, a human obsession with extreme aesthetic standards can snap it back to attention and force it out of the endless abyss.
 
 If you are tired of cookie-cutter websites and want to know what it takes to tame AI into creating an artwork that *overrides everything*, take your time and devour this sprawling raw archive.
-
-<div class="cta-container">
-    <a href="/library/design/#start" class="read-more-btn">CONTINUE TO THE ARCHIVE</a>
-</div>
-
-<style>
-.cta-container { text-align: center; margin-top: 60px; margin-bottom: 40px; padding-top: 40px; border-top: 1px solid var(--border-color); }
-.read-more-btn { display: inline-block; font-family: var(--font-ui); font-size: 1rem; font-weight: bold; letter-spacing: 0.1em; text-transform: uppercase; color: #f0f0f0; background-color: #111111; padding: 16px 32px; text-decoration: none; border-radius: 2px; transition: background-color 0.3s ease; }
-.read-more-btn:hover { background-color: #444444; }
-</style>
 
 [chi]: /entry/design/chi
 [life]: /life

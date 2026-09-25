@@ -11,6 +11,7 @@ description: |
 permalink: /library/focus/chi/
 language: chi
 image: assets/bookcover/focus.jpg
+infographic: assets/images/focus-info.png
 ---
 
 《專注的力量：不再分心的自我鍛鍊，讓你掌握APP世代的卓越關鍵》  

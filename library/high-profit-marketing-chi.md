@@ -9,6 +9,7 @@ description: "中小企業與個人品牌之 B2B 突圍心法。本筆記教你�
 permalink: /library/high-profit-marketing/chi/
 language: chi
 image: assets/bookcover/high-profit-marketing.jpg
+infographic: assets/images/high-profit-marketing-info.png
 ---
 
 中野道良《高獲利行銷實務課：小公司及個人品牌都應該知道的 B2B 集客密技》  

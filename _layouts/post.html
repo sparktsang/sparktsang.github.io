@@ -7,9 +7,24 @@
 <html>
 
 	<style>
-		.cta-container { text-align: center; margin-top: 60px; margin-bottom: 40px; padding-top: 40px; border-top: 1px solid var(--border-color); }
+		.cta-container { text-align: center; margin-top: 60px; margin-bottom: 20px; padding-top: 40px; border-top: 1px solid var(--border-color); }
 		.read-more-btn { display: inline-block; font-family: var(--font-ui); font-size: 1rem; font-weight: bold; letter-spacing: 0.1em; text-transform: uppercase; color: #f0f0f0; background-color: #111111; padding: 16px 32px; text-decoration: none; border-radius: 2px; transition: background-color 0.3s ease; }
 		.read-more-btn:hover { background-color: #444444; }
+
+		.back-link {
+			text-align: center;
+			display: block;          /* 強制換行，排在按鈕下方 */
+			font-family: var(--font-ui); 
+			font-size: 0.8rem;
+			font-weight: bold; 
+			color: #888888;          /* 調淡，視覺上更精緻 */
+			letter-spacing: 0.08em;  /* 稍微加上字距 */
+			margin-bottom: 40px; 
+		}
+		.back-link:hover {
+			color: #f0f0f0;          /* 滑鼠懸停時變色 */
+			text-decoration: underline;
+		}
 	</style>
 
 {% include head.html %}
@@ -78,7 +93,7 @@
 <hr />{% endcapture %}
 
 
-		{% if page.category == "Library" and page.infographic and page.infographic_text != false %}
+		{% if page.category == "Library" and page.infographic and page.classification != "Novels" %}
 			{% if page.language == "chi" %}
 				{{ rendered | replace_first: original_text, bonus_text_chi }}
 			{% else %}
@@ -90,9 +105,10 @@
 
 		{% if page.infographic %}
 			<hr />
-			{% if page.category == "Library" and page.infographic_text != false %}
+			{% if page.category == "Library" and page.classification != "Novels" %}
 				{% if page.language == "chi" %}
-					<p>感謝看到最後，額外送上此圖。</p>
+					<p style="margin-bottom: 5px;">感謝看到最後，額外送上此圖。</p>
+					<p style="font-size:9pt;">如需中文版圖表，不妨<a href="mailto:cashtsang@gmail.com">來函告知</a>，我會為你特別製作。</p>
 				{% else %}
 					<p>Thank you for reading until the end. This is a bonus infographic just for you. </p>
 				{% endif %}
@@ -304,7 +320,12 @@
 				<div class="cta-container">
 					<a href="{{ page.cta_url | relative_url }}" class="read-more-btn" target="_blank">{{ page.cta_text }}</a>
 				</div>
-			{% endif %}		
+			{% endif %}
+			{% if page.category == "Artifacts" %}
+				<a href="/artifacts/" class="back-link">BACK TO ARTIFACTS</a>
+			{% elsif page.cta_nav_url and page.cta_nav_text %}
+				<a href="{{ page.cta_nav_url | relative_url }}" class="back-link">{{ page.cta_nav_text }}</a>
+			{% endif %}
 		{% endif %}
 		
 	</div>

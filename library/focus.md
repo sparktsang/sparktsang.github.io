@@ -8,6 +8,7 @@ short_title: "Focus: The Hidden Driver of Excellence"
 nav_title: Focus
 description: "Reclaim your attention in an age of endless distraction. These notes break down the cognitive science of focus, showing how mastering top-down and bottom-up attention is the ultimate secret to elite performance and empathy."
 image: assets/bookcover/focus.webp
+infographic: assets/images/focus-info.png
 ---
 
 *Focus: The Hidden Driver of Excellence* by by Daniel Goleman

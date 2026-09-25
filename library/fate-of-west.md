@@ -6,6 +6,7 @@ title: "Notes on <i>The Fate of the West</i>"
 short_title: "The Fate of the West"
 description: "Understand the root causes of the West's current political and economic fracturing. These notes provide a sobering macro-analysis of how inequality, entrenched privilege, and populism threaten the foundations of open societies."
 image: assets/bookcover/fate-of-west.jpg
+infographic: assets/images/fate-of-west-info.png
 ---
 
 *The Fate of the West: The Battle to Save the World's Most Successful Political Idea* by Bill Emmott

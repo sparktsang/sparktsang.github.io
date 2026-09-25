@@ -12,6 +12,7 @@ description: |
 permalink: /library/furukawa/chi/
 language: chi
 image: assets/bookcover/furukawa.png
+infographic: assets/images/furukawa-info.png
 ---
 
 古川武士《找到想做的事，擁有無悔人生》

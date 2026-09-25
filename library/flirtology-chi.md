@@ -8,6 +8,7 @@ nav_title: 調情學
 permalink: /library/flirtology/chi/
 language: chi
 image: assets/bookcover/flirtology-chi.webp
+infographic: assets/images/flirtology-info.png
 ---
 
 《調情學：追尋真愛的萬用公式，人際互動專家讓你面對自我，走進關係》  

@@ -8,6 +8,7 @@ short_title: "3 Habits to Find What You Want to Do"
 title_obvious: false
 description: "Stop feeling lost and start taking action with a structured approach to self-discovery. These notes offer practical frameworks to dismantle your mental brakes, tune into your intuition, and map out a regret-free life."
 image: assets/bookcover/furukawa-eng.png
+infographic: assets/images/furukawa-info.png
 ---
 
 *3 Habits to Find What You Want to Do: Live a Life with Absolutely No Regret* by Takesi Furukawa

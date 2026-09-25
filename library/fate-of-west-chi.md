@@ -8,6 +8,7 @@ description: "探尋泰西諸國政經分崩之本源。以恢宏視野，剖析
 permalink: /library/fate-of-west/chi/
 language: chi
 image: assets/bookcover/fate-of-west-chi.jpg
+infographic: assets/images/fate-of-west-info.png
 ---
 
 《西方的命運：維繫人類文明的普世價值該何去何從？》  

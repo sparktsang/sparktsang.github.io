@@ -8,6 +8,7 @@ description: "東野圭吾經典暗黑懸疑大作的情節精華。剖析蛇蠍
 permalink: /library/genya/chi/
 language: chi
 image: assets/bookcover/genya.jpg
+infographic: assets/images/genya-info.png
 ---
 
 English translation [here](/library/genya){:target="_blank"}. 

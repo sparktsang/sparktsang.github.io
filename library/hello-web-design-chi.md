@@ -7,6 +7,7 @@ short_title: "如何設計好網站之UX與美學基礎"
 permalink: /library/hello-web-design/chi/
 language: chi
 image: assets/bookcover/hello-web-design-chi.jpg
+infographic: assets/images/hello-web-design-info.png
 ---
 
 《如何設計好網站之UX與美學基礎》    

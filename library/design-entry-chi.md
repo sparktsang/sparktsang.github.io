@@ -4,6 +4,10 @@ category: "Entry"
 title: "凌駕代碼：馴服 AI 鑄造策展神壇的十一萬字實錄"
 permalink: /entry/design/chi/
 language: chi
+cta_url: "/library/design/chi/#start"
+cta_text: 前往實錄全文
+cta_nav_url: "/library/chi/"
+cta_nav_text: 返歸【無涯殿】
 render_with_liquid: false
 ---
 
@@ -22,16 +26,6 @@ In Cantonese. English translation [**here**][eng]{:target="_blank"}.
 呢份有血有淚、一刀未剪嘅真實交鋒紀錄，唔係咩正經編程教學。佢係一個示範：示範你點樣用常識同直覺，去喝停一架暴走、迷失喺坐標計算入面嘅機器；示範點樣喺 AI 想將一切推向平庸嘅時候，用人類嘅極致美學偏執去喝醒佢，逼佢行出個「輪迴苦海」。
 
 如果你受夠咗嗰啲倒模咁嘅網頁，想知點樣騎乘馴服 AI 去實現你心目中嗰種「凌駕一切」嘅藝術作品，咁呢十二萬字嘅 raw data，你慢慢噒。
-
-<div class="cta-container">
-    <a href="/library/design/chi/#start" class="read-more-btn">前往實錄全文</a>
-</div>
-
-<style>
-.cta-container { text-align: center; margin-top: 60px; margin-bottom: 40px; padding-top: 40px; border-top: 1px solid var(--border-color); }
-.read-more-btn { display: inline-block; font-family: var(--font-ui); font-size: 1rem; font-weight: bold; letter-spacing: 0.1em; text-transform: uppercase; color: #f0f0f0; background-color: #111111; padding: 16px 32px; text-decoration: none; border-radius: 2px; transition: background-color 0.3s ease; }
-.read-more-btn:hover { background-color: #444444; }
-</style>
 
 [eng]: /entry/design/
 [life]: /life
