@@ -8,6 +8,7 @@ short_title: "零阻力改變"
 permalink: /library/how-to-change/chi/
 language: chi
 image: assets/bookcover/how-to-change-chi.jpg
+infographic: assets/images/how-to-change-info.png
 ---
 
 《零阻力改變：華頓商學院爆紅行為科學課，直擊內在弱點，高效自我成長》  

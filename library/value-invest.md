@@ -147,7 +147,4 @@ Original notes [here](/library/value-invest/chi){:target="_blank"}.
 
 ---
 
-See also:
-
-* [*The First Principles of Perennial Profit in Investing*](/library/perennial){:target="_blank"}
-* [My investment journey as part of my autobiography]({% post_url 2025-10-25-search %}){:target="_blank"}
+Greenwald asks how investors can determine what a business is worth. [*The First Principles of Perennial Profit in Investing*](/library/perennial){:target="_blank"} asks a more fundamental question: what makes any investment method capable of producing sustainable profit?

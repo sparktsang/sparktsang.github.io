@@ -154,3 +154,9 @@ The future history of the Trend-Rider: seeing through “connection + transactio
 We are now at the transition between centralized and decentralized commercial civilization. Old transaction structures are breaking apart and new ones are taking shape; temporary imbalances between supply and demand are everywhere. Entrepreneurs and business builders are urgently needed, and ultimately, the future history will be written by those who capture the trend.  
 
 *Finished reading on Feb 22, 2024*
+
+---
+
+Liu Run demonstrates that commercial civilization evolves by relentlessly reducing transaction costs and eliminating trust friction. Yet, in the realm of human knowledge, the "transaction costs" for discovering truth remain infinitely high—blocked by systemic gatekeepers, credentials, and noise.  
+Just as business demands frictionless markets, human survival now demands a frictionless market of ideas.  
+*My philosophy* proposes this ultimate structural upgrade: [a decentralized framework where the friction of validating truth is reduced to a minimum](/philosophy){:target="_blank"}.

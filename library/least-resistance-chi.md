@@ -11,6 +11,7 @@ description: |
 permalink: /library/least-resistance/chi/
 language: chi
 image: assets/bookcover/fritz-chi.jpg
+infographic: assets/images/least-resistance-info.png
 ---
 
 *The Path of Least Resistance: Learning to Become the Creative Force in Your Own Life* by Robert Fritz
@@ -165,5 +166,5 @@ Stanton Peele：其他戒毒專家的方法其實都是毀掉戒毒者的自制�
 
 
 17/5/2020 閱畢第一部於星光行誠品  
-書中餘下部分講解創造的週期、如何做正確的選擇，區分首要選擇和次要選擇，和人們做了各種荒謬選擇的荒謬原因  
-看來流於常識和重複既有見解，並未在原先的理論架構上更上一層樓，面向的讀者似是全無概念的初心者  
+*書中餘下部分講解創造的週期、如何做正確的選擇，區分首要選擇和次要選擇，和人們做了各種荒謬選擇的荒謬原因*  
+*看來流於常識和重複既有見解，並未在原先的理論架構上更上一層樓，面向的讀者似是全無概念的初心者*  

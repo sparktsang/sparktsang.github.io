@@ -398,3 +398,8 @@ Looking farther ahead, there is also the possibility of ethical consensus.
 Compared with the tears he shed on the streets of London back then, the author now believes that change is not as difficult as he once imagined, and calls on everyone to work together to create an inspiring future.  
 
 *Finished reading on Nov 29, 2020*
+
+---
+
+Tegmark warns that humanity must define its ultimate goals before superintelligence fills in the blank. But how can we align artificial intelligence with human values when our own systems for determining truth and ethics are fundamentally broken?  
+*My philosophy* offers the necessary prerequisite: [a structural framework to align human consensus](/philosophy){:target="_blank"} before we attempt to align machine intelligence.

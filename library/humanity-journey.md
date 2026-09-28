@@ -7,6 +7,7 @@ title: "Notes on <i>The Journey of Humanity</i>"
 short_title: "The Journey of Humanity"
 description: How did humanity escape the Malthusian trap, and why is global wealth so unequal? These notes distill a unified theory of human history, exploring how geography, demographics, and institutions shaped the ultimate economic destiny of nations.
 image: assets/bookcover/humanity-journey.jpg
+infographic: assets/images/humanity-journey-info.png
 ---
 
 *The Journey of Humanity: A New History of Wealth and Inequality with Implications for Our Future* by Oded Galor
@@ -111,3 +112,8 @@ This book surveys the sweep of human history and identifies the fundamental forc
 May this understanding help human societies design policies conducive to prosperity and move farther away from poverty.  
 
 *Finished reading on May 29, 2022*
+
+---
+
+Galor demonstrates that the wealth and inequality of modern nations are not historical accidents, but the inevitable result of deep geographic and demographic forces that shaped the evolution of their institutions. He warns that trying to impose superficial economic policies without understanding these deep roots is nothing more than a "cargo cult".  
+But how exactly did these geographic pressures translate into the complex political structures we have today? In [*The Origins of Political Order*](/library/fukuyama), Fukuyama provides the definitive macro-historical map of this process, tracing the evolutionary paths that allowed some civilizations to develop the rule of law and accountable government, while others fell into cycles of authoritarian decay.

@@ -13,7 +13,6 @@ render_with_liquid: false
 overflow: true
 ---
 
-
 [Translated from Cantonese][chi]{:target="_blank"}.
 
 ---

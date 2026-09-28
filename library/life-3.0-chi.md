@@ -254,3 +254,8 @@ Steven Weinberg：越了解宇宙，越覺得無趣
 
 29/11/2020  
 閱畢於星光行誠品  
+
+---
+
+Tegmark warns that humanity must define its ultimate goals before superintelligence fills in the blank. But how can we align artificial intelligence with human values when our own systems for determining truth and ethics are fundamentally broken?  
+*My philosophy* offers the necessary prerequisite: [a structural framework to align human consensus](/philosophy){:target="_blank"} before we attempt to align machine intelligence.

@@ -255,3 +255,8 @@ English translation [here](/library/socrates){:target="_blank"}.
 蘇指勇對立於怯，因此對何事值得害怕何事不值得害怕的智慧，即是勇，普對此無言，並指出蘇起先試圖說美德不可教，卻最終證明美德是知識，是可教的；而自己起先堅持美德可教，卻因堅持美德非知識，使美德看來不可教  
 
 25/2/2021 閱畢於星光行誠品  
+
+---
+
+Socrates demonstrated that the pursuit of truth requires the ruthless examination of every claim and the courage to expose the ignorance of systemic gatekeepers. But while Socrates fought this battle alone in the Athenian agora, today's truth remains trapped behind infinitely more complex walls of noise and privilege.  
+Taking the Socratic method to its ultimate, structural conclusion, *my philosophy* proposes [a decentralized framework where all claims must survive the exact kind of relentless](/philosophy){:target="_blank"}, open-source refutation he died defending.

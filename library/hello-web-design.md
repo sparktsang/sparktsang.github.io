@@ -124,3 +124,7 @@ This book on Twitter: hellowebbooks
 Author on Twitter: tracymakes  
 
 *Finished reading on March 25, 2022*
+
+---
+
+These notes explain the rules of web design. My [*Overriding Code*](/entry/design){:target="_blank"} chronicle records what happened when I tried to turn those rules into a living work—and discovered that knowing the rules was the easy part.

@@ -7,6 +7,7 @@ title: "Notes on <i>The Origins of Political Order: From Prehuman Times to the F
 short_title: "The Origins of Political Order"
 description: "Dive into the deep historical roots of why some nations succeed while others fail. These notes trace the evolution of the state, the rule of law, and accountable government from tribal societies up to the French Revolution."
 image: assets/bookcover/fukuyama.webp
+infographic: assets/images/fukuyama-info.png
 ---
 
 *The Origins of Political Order: From Prehuman Times to the French Revolution* by Francis Fukuyama
@@ -422,3 +423,8 @@ Alexis de Tocqueville, *Democracy in America*
 *The Wealth of Nations*  
 
 *Finished reading on Jan 26, 2021*  
+
+---
+
+Fukuyama concludes that political institutions decay when "cognitive imbalance" prevents them from adapting to new realities. But how can any political order adapt if its foundational system for processing truth is structurally paralyzed by noise and gatekeepers?  
+To prevent the ultimate decay of our civilization, *my philosophy* argues that we must evolve beyond mere political accountability, establishing [a structural framework that holds society accountable to the truth itself](/philosophy){:target="_blank"}.

@@ -38,7 +38,7 @@ Kotler 行銷 4.0 的理論：最初人們只要有必需品就很開心，第�
 | 交流 | 促銷活動 | 推銷郵件 | 社群參加 | 共創社群 |
 
 AIDA：awareness interest desire action  
-奇點大學創立者提出 6d 理論，指出數碼科技最終會消滅營收、消滅實體、大眾化，如同手機取代了收音機電話地圖書籍相機錄音帶等一大堆實體產品  
+奇點大學創立者提出 6D 理論，指出數碼科技最終會消滅營收、消滅實體、大眾化，如同手機取代了收音機電話地圖書籍相機錄音帶等一大堆實體產品  
 
 ### 對過程產生共鳴的五大架構  
 
@@ -111,3 +111,8 @@ Netflix 如同沒有規矩的徘徊螞蟻，Reed Hastings 《零規則》一書�
 
 
 23/5/2024 閱畢於星光行誠品  
+
+---
+
+Obara reveals that in a volatile world, static "correct answers" are obsolete; value now lies in transparent, participatory, and open-source processes rather than finished products.  
+While business has embraced this dynamic paradigm, our societal systems still treat truth as a top-down product dictated by gatekeepers. To navigate the future, we must apply this "process economy" to human knowledge itself. *My philosophy* proposes [a decentralized framework where truth is no longer a static decree](/philosophy){:target="_blank"}, but a transparent, open-source process of continuous and rigorous refutation.

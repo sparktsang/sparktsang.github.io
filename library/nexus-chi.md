@@ -217,3 +217,7 @@ AI 能說謊，能製造假親密
 
 
 3/3/2026 閱畢於星光行誠品  
+
+---
+
+Harari’s final lesson is that powerful systems need powerful mechanisms of self-correction. But what would governance look like if [self-correction were not merely a safeguard, but its first principle](/philosophy){:target="_blank"}?

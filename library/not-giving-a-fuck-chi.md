@@ -8,6 +8,7 @@ short_title: "管他的：愈在意愈不開心"
 permalink: /library/not-giving-a-fuck/chi/
 language: chi
 image: assets/bookcover/not-giving-a-fuck-chi.jpg
+infographic: assets/images/not-giving-a-fuck-info.png
 ---
 
 《管他的：愈在意愈不開心！停止被洗腦，活出瀟灑自在的快意人生》  

@@ -413,3 +413,8 @@ Because the new edition differs so much from the original, the original preface 
 The author states there that greatness is defined by four conditions: performance, impact, reputation, and longevity.  
 
 *Finished reading on July 15, 2022*
+
+---
+
+Collins argues that enduring greatness requires "building a clock" rather than "telling time"—creating resilient constitutions and systems that outlast any charismatic leader.  
+While we understand this principle for building great companies, human civilization still relies on fallible "time-tellers" and gatekeepers to determine what is true. To secure our collective future, we need the ultimate structural upgrade. *My philosophy* is the blueprint for this missing clock: [an enduring, open-source framework structurally designed to process and validate truth](/philosophy){:target="_blank"} long after any individual authority fades.

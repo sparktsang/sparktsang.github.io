@@ -11,6 +11,7 @@ description: |
 permalink: /library/fukuyama/chi/
 language: chi
 image: assets/bookcover/fukuyama.jpg
+infographic: assets/images/fukuyama-info.png
 ---
 
 法蘭西斯．福山《政治秩序的起源（上卷）：從史前到法國大革命》  
@@ -265,3 +266,8 @@ Max Weber《中國的宗教》
 
 閱畢於星光行誠品  
 26/1/2021  
+
+---
+
+Fukuyama concludes that political institutions decay when "cognitive imbalance" prevents them from adapting to new realities. But how can any political order adapt if its foundational system for processing truth is structurally paralyzed by noise and gatekeepers?  
+To prevent the ultimate decay of our civilization, *my philosophy* argues that we must evolve beyond mere political accountability, establishing [a structural framework that holds society accountable to the truth itself](/philosophy){:target="_blank"}.

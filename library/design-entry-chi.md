@@ -1,7 +1,7 @@
 ---
 layout: post
 category: "Entry"
-title: "凌駕代碼：馴服 AI 鑄造策展神壇的十一萬字實錄"
+title: "凌駕代碼：馴服 AI 鑄造策展神壇的十二萬字實錄"
 permalink: /entry/design/chi/
 language: chi
 cta_url: "/library/design/chi/#start"

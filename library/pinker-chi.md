@@ -302,3 +302,8 @@ https://nationalpost.com/news/world/heres-why-an-article-about-feminist-glaciolo
 作者書末勉世人勿故事當趨勢，凡事冷靜判斷，放下尼采：人類進步故事才是真正英雄傳奇，輝煌振奮人心充滿靈性，且是唯一真實，屬於全人類  
 
 22/4/2021 閱畢於星光行誠品  
+
+---
+
+Pinker urges us to defend reason and humanism against the rising tide of irrationality, portraying human progress as our ultimate heroic epic. But pleading for reason is no longer enough when the architecture of our world is structurally designed to drown out the truth.  
+To continue this progress, *My philosophy* argues that we need more than optimism—we need a new, [open-source framework where truth no longer has to beg for survival](/philosophy){:target="_blank"}.

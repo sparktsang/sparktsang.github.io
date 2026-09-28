@@ -284,3 +284,9 @@ George Hotz 在自家車庫造出自駕車，因馬斯克一再改聘書而拒�
 
 
 22/3/2022 閱畢於星光行誠品  
+
+---
+
+Vance’s biography reveals how Musk uses relentless first-principles thinking to shatter the stagnation of entrenched industries, almost single-handedly building the infrastructure for humanity's survival.  
+But while individual genius can revolutionize rockets and cars, the survival of civilization cannot depend on the sheer willpower of a few billionaires fighting broken systems. What if we applied this exact ruthless optimization to the operating system of human consensus?  
+*My philosophy* takes first-principles thinking to its ultimate conclusion: [proposing an open-source framework structurally designed to strip away noise and gatekeepers](/philosophy){:target="_blank"}, accelerating the survival of truth.

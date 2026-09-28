@@ -8,6 +8,7 @@ short_title: "駭進人心：社交工程專家教你掌握溝通優勢"
 permalink: /library/human-hacking/chi/
 language: chi
 image: assets/bookcover/human-hacking-chi.jpg
+infographic: assets/images/human-hacking-info.png
 ---
 
 《駭進人心：社交工程專家教你掌握溝通優勢，洞悉話術陷阱，提升說服力與影響力》  

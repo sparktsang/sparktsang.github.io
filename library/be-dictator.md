@@ -229,3 +229,8 @@ The following day, the army joined the revolution. He and his wife were arrested
 
 *Notes last updated: 10/3/2022*  
 *Still missing: notes on the Ethiopian dictator Mengistu, which have not yet been completed.*  
+
+---
+
+Dikötter’s chilling history reveals how 20th-century tyrants seized power through one fundamental mechanism: becoming the absolute gatekeepers of truth, crushing dissent and falsifiability to build their alternate realities. While we recognize the political dictators of the past, we remain dangerously blind to the systemic gatekeepers that still silently control human knowledge today.  
+How do we ensure that no single authority can ever dictate reality again? *My philosophy* provides the definitive structural antidote to tyranny: [a decentralized framework where no one holds the authority to conclude](/philosophy){:target="_blank"}, and all claims must survive the ruthless, open-source market of refutation.  

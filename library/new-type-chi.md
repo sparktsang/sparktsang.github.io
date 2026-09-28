@@ -275,3 +275,8 @@ Ernst H. Gombrich（著有《寫給年輕人的簡明世界史》）：當每人
 
 段落標題為編者所擬  
 3/10/2020 閱畢於星光行誠品  
+
+---
+
+Yamaguchi concludes that to survive a volatile and complex world, "New Types" must stop serving broken institutions, discard the illusion of expert authority, and actively rewrite the script of our society.  
+But tearing down obsolete authorities is only the first step; what do we replace them with? My philosophy provides a blueprint for this new era: [an open-source framework where truth is completely stripped of authority](/philosophy){:target="_blank"}, relying not on gatekeepers, but on the ruthless freedom of continuous refutation.

@@ -11,10 +11,12 @@ description: 承葛、陶之缽，繼巴、嘉之學，本筆記梳理價值投�
 image: assets/bookcover/value-inv-chi.jpg
 ---
 
+《21 世紀價值投資：從葛拉漢到巴菲特的價值投資策略》  
+*Value Investing: From Graham to Buffett and Beyond* by Bruce C. Greenwald  
+
 English translation [here](/library/value-invest){:target="_blank"}. 
 
 ---
-
 
 ### 前言  
 
@@ -205,7 +207,4 @@ V = 股息 x 1 / (R-G) 資本成本 - 股利成長率（過往十年平均為 3%
 
 ---
 
-參見：
-
-* [《投資長勝的普世法則》](/library/perennial/chi){:target="_blank"}
-* [我的投資歷程（英文自傳）]({% post_url 2025-10-25-search %}){:target="_blank"}
+此書作者追問投資者如何對企業估值。[《投資長勝的普世法則》](/library/perennial/chi){:target="_blank"}則尋根問底，查究一切的投資長勝方法所必須符合的法則。

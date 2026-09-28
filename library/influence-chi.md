@@ -8,6 +8,7 @@ short_title: "影響力：讓人乖乖聽話的說服術"
 permalink: /library/influence/chi/
 language: chi
 image: assets/bookcover/influence-chi.jpg
+infographic: assets/images/influence-info.png
 target_blank: true
 ---
 

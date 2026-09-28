@@ -145,3 +145,8 @@ The stereotype of the great leader as a bold, fearless, supremely confident cowb
 Odysseus believed himself unable to resist the Sirens’ temptation, so he had himself tied to the mast and had all his sailors’ ears sealed. His decision architecture left no room for individual intuition, yet that does nothing to diminish our respect for him  
 
 *Finished reading on August 18, 2021*
+
+---
+
+Sibony demonstrates that individual cognitive biases cannot be overcome by intuition alone; they must be countered by a robust "decision architecture" that institutionalizes dialogue, disagreement, and objective testing.  
+But if corporations require structured refutation to survive the market, what architecture does humanity need to survive the post-truth era? Scaling this exact principle to a civilizational level, *my philosophy* proposes [an epistemic architecture—an open-source framework](/philosophy){:target="_blank"} where truth is freed from human bias through relentless and mandatory refutation.

@@ -8,6 +8,7 @@ description: "打破常軌之商戰突圍心法。本筆記滿載驚世駭俗之
 permalink: /library/latka/chi/
 language: chi
 image: assets/bookcover/latka.png
+infographic: assets/images/latka-info.png
 ---
 
 *How to Be a Capitalist Without Any Capital: The Four Rules You Must Break To Get Rich* by  Nathan Latka

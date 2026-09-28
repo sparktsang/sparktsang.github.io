@@ -1,7 +1,8 @@
 ---
 layout: post
 category: "Library"
-classification: Economics
+classification: Investment
+order: 3
 title: "Notes on <i>The Secret Wealth Advantage: How you can profit from the economy’s hidden cycle</i>"
 short_title: "The Secret Wealth Advantage"
 description: Why do economic crashes happen every 18 years like clockwork? These notes uncover the hidden "Law of Economic Rent" driving real estate and credit cycles, giving you a clear roadmap of the economy's four phases so you can protect your wealth before the crash and buy the dip at the bottom.
@@ -689,3 +690,7 @@ U.S. residential construction as a share of GDP and the U.S. house-price index, 
 Rise in house-price-to-income ratios across multiple countries, 1977–2016: both Britain and the United States peaked in 2007 and fell to their troughs around 2008–09  
 
 *Finished reading on 21 April 2025*  
+
+---
+
+Patel seeks the underlying force behind recurring economic cycles, arguing that apparently different crises can emerge from the same deeper mechanism. [*The First Principles of Perennial Profit in Investing*](/library/perennial){:target="_blank"} takes the question further: even when a causal mechanism has been identified, how can it be translated into an investment method whose future profitability is not merely inferred from historical patterns, but grounded in causality itself?

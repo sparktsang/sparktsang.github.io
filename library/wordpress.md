@@ -31,7 +31,7 @@ GoDaddy is one of the best choices for purchasing an international domain name.
 You also need to rent server space to store your website data, unless you host it on your own computer and keep it connected to the Internet around the clock for people to browse. The electricity and fixed-IP costs, however, are high.  
 In Europe and the United States, almost everyone builds websites, so the hosting industry is highly competitive and prices are low.  
 Free resources may include advertisements, poor specifications, limited functionality, unstable systems, or unreliable service, so they are best used only for practice.  
-One recommendation is 000webhost.com. It has been around for many years, has an easy-to-use interface, can be set up quickly, and takes only a few steps to install WordPress. Its drawback is the lack of Chinese support.  
+One recommendation is 000webhost.com. It has been around for many years, has an easy-to-use interface, can be set up quickly, and takes only a few steps to install WordPress.  
 5/10 GB is enough for a typical website, and usually enough for its traffic as well. When building a CMS, each one requires at least one database. It is advisable to purchase the domain name separately to avoid "vendor lock-in" with your hosting provider.  
 Most plans use shared IPs. If a neighboring site is engaged in illegal activity, your site may be blocked as well. Whether you should upgrade to a dedicated IP depends on your needs.  
 GoDaddy also offers hosting services.  

@@ -166,3 +166,9 @@ Force field analysis: a method used by experts to analyze the various forces ope
 For example, if the goal is to get a son to eat vegetables, the external driving force is the parent’s nagging, while internal driving forces might include wanting to make the soccer team or wanting a healthier body. Internal restraining forces include thinking vegetables taste bad; an external restraining force is that junk food is convenient to grab and eat; another is the desire to assert independence. Once the whole picture is clear, there is no need to keep nagging. Other methods become visible: prepare grab-and-go vegetable lunch boxes, cook tasty broccoli-and-cheese pasta, and so on.  
 
 *Finished reading on Oct 28, 2021*
+
+---
+
+Berger demonstrates that changing deeply entrenched beliefs isn't about pushing harder, but about acting as a catalyst to remove psychological barriers and friction.  
+Yet, while these techniques work on individuals, how do we change the mind of an entire civilization that is structurally wired to reject the truth?  
+*My philosophy* proposes the ultimate societal catalyst: [a decentralized framework designed to bypass systemic gatekeepers](/philosophy){:target="_blank"} and reduce the friction of validating truth to a minimum.

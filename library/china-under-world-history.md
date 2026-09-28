@@ -450,3 +450,7 @@ Within this framework, China should absorb the achievements of the civilizations
 Though Zhou is an old state, its mandate remains ever renewed.  
 
 *Finished reading on May 4, 2020*
+
+---
+
+Zhang concludes that China's unique trajectory—early centralization leading to a 2,000-year cycle of bureaucratic expansion and stagnation—was largely dictated by its geography and the absence of institutional brakes. But why did other civilizations, starting from much weaker foundations, manage to escape this cycle? In [*The Origins of Political Order*](/library/fukuyama), Francis Fukuyama provides the definitive global mirror to this phenomenon, tracing how the delicate balance between state power, the rule of law, and accountability ultimately determines whether a society evolves or decays.

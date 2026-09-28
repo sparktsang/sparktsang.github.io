@@ -7,6 +7,7 @@ title: "Notes on <i>Foragers, Farmers, and Fossil Fuels: How Human Values Evolve
 short_title: "How Human Values Evolve"
 description: Did you know your moral values are dictated by how your society captures energy? These notes provide a mind-bending macro-history of human morality, explaining why foragers, farmers, and fossil-fuel societies have vastly different views on equality, hierarchy, and violence.
 image: assets/bookcover/how-values-evolve.avif
+infographic: assets/images/how-values-evolve-info.png
 ---
 
 *Foragers, Farmers, and Fossil Fuels: How Human Values Evolve* by Ian Morris
@@ -226,3 +227,9 @@ The author of *Men and Women at the End of the World* believes that civilization
 If the biological engineering she mentions succeeds, the super-organisms of the twenty-second century—posthumans whose minds and values have been transformed—will be even stranger and harder for us to understand. The gap would be vastly greater than that between Neanderthals and the people debating the human values center at Princeton  
 
 *Finished reading on June 17, 2021*
+
+---
+
+Morris concludes that our deepest moral values are not eternal truths, but merely evolutionary adaptations to our systems of energy capture—warning that as we push beyond the fossil-fuel era, genetically and technologically altered "posthumans" will develop values entirely alien to us.  
+But if our current humanist ideals are just a temporary phase bound to a specific economic era, what system of meaning will replace them when biology and technology merge?  
+In [*Homo Deus*](/library/deus), Harari explores this existential threshold, revealing how the quest to upgrade humanity into gods will inevitably dismantle the very humanist fictions we currently hold sacred.

@@ -132,3 +132,8 @@ The greatest concern for the United States is also China, which has been highly 
 Joint U.S.-Japanese defense, combined with cooperation with Vietnam and the Philippines, is Japan's path to survival  
 
 *Finished reading on August 14, 2020*
+
+---
+
+Takahashi maps the raw geographic and historical forces driving today's global conflicts, concluding that democratic alliances must unite to counter the relentless expansion of authoritarian regimes. But can the democratic world effectively resist these external geopolitical threats when it is fracturing from within?  
+In [*The Fate of the West*](/library/fate-of-west), Bill Emmott examines the internal decay of open societies, arguing that before the West can win this global chess game, it must first fix the systemic inequality and political rigidities that are destroying its strength from the inside out.

@@ -2,7 +2,7 @@
 layout: post
 category: "Library"
 classification: Investment
-order: 3
+order: 4
 title: "《交易聖經》閱讀筆記"
 short_title: "交易聖經"
 description: |
@@ -163,3 +163,7 @@ Larry Williams（空前大師無人可代，在沒有電子工具和電腦走勢
 
 20/6/2018  
 完成筆記於馬來西亞怡保百利廣場大眾書局  
+
+---
+
+此書作者追問方法如何驗證正期望值。[《投資長勝的普世法則》](/library/perennial/chi){:target="_blank"}則尋根問底，查究一切的投資長勝方法所必須符合的法則。

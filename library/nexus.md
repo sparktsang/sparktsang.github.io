@@ -203,3 +203,7 @@ Why do humans so often tend toward self-destruction? This book argues that the p
 The trajectory of history is extraordinarily open and can bend in any direction. Even if we destroy ourselves, the universe will continue operating as usual. Building powerful self-correction mechanisms into all kinds of institutions and systems may therefore be the most important lesson this book has to offer  
 
 *Finished reading on Feb 3, 2026*
+
+---
+
+Harari’s final lesson is that powerful systems need powerful mechanisms of self-correction. But what would governance look like if [self-correction were not merely a safeguard, but its first principle](/philosophy){:target="_blank"}?

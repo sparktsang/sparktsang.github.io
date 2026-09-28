@@ -8,6 +8,7 @@ short_title: "人類憑什麼"
 permalink: /library/how-values-evolve/chi/
 language: chi
 image: assets/bookcover/how-values-evolve.jpg
+infographic: assets/images/how-values-evolve-info.png
 ---
 
 《人類憑什麼：覓食者、農民、與化石燃料——人類價值觀演進史》  
@@ -230,3 +231,9 @@ Korsgaard 對後者應無太大歧見，但其指動物沒有價值判斷，自�
 
 
 17/6/2021 閱畢於星光行誠品  
+
+---
+
+莫里斯總結道，我們深層的道德價值並非永恆真理，僅僅是對我們能量獲取系統的進化適應——他又警告，當化石燃料時代過去，基因和科技改造的未來人將發展出此刻我們完全陌生的價值觀。  
+但是，若人文主義理想只是與特定經濟綁定的過渡階段，當血肉之軀與科技融合時，何種意義架構將取而代之？  
+在[《人類大命運》](/library/deus/chi)中，Harari 正正探討了此一臨界點，揭示人類欲升格為神的渴求，會如何摧枯拉朽般，將我們仰望的人文主義虛構故事拆解乾淨。

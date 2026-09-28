@@ -6,6 +6,7 @@ title: "Notes on David Runciman's <i>How Democracy Ends</i>"
 short_title: "How Democracy Ends"
 description: "A chilling look at the modern threats to democratic systems. These notes summarize how conspiracy theories, technological takeovers, and elite failures are quietly eroding democracies from the inside out, without the need for a military coup."
 image: assets/bookcover/how-democracy-ends.jpg
+infographic: assets/images/how-democracy-ends-info.png
 ---
 
 Original notes [here](/library/how-democracy-ends/chi){:target="_blank"}. 
@@ -82,3 +83,7 @@ Within thirty years, the power to decide whether to launch nuclear weapons has b
 The elderly have grown accustomed to using Bitcoin and worry about the new president's policy of reviving the dollar, but reprinting dollars is impossible because it cannot be made counterfeit-proof.  
 
 *Finished reading on February 9, 2019*
+
+---
+
+Runciman examines how democratic systems can fail without realizing it. [*My philosophy*](/philosophy){:target="_blank"} begins with a broader question: how can any institution claim legitimacy if no institution can reliably determine what is true?

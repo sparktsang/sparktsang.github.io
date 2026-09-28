@@ -7,6 +7,7 @@ title: "Notes on <i>The Hundred-Year Marathon</i>"
 short_title: "The Hundred-Year Marathon"
 description: "Uncover the long-term, stealth strategy behind China’s rise. These notes decode the historical and ideological playbook the CCP uses to systematically deceive the West and position itself as the dominant global superpower by 2049."
 image: assets/bookcover/hundred-year-marathon.jpg
+infographic: assets/images/hundred-year-marathon-info.png
 ---
 
 *The Hundred-Year Marathon: China's Secret Strategy to Replace America as the Global Superpower* by Michael Pillsbury
@@ -86,3 +87,9 @@ Three traps must also be avoided: worrying about the China threat too early, mis
 The CCP hawks have no intention of conquering the United States. On the contrary, they are quite fascinated by books about how America rose to power, such as Warren Zimmermann’s *First Great Triumph: How Five Americans Made Their Country a World Power*.  
 
 *Finished reading on Feb 18, 2019*
+
+---
+
+Pillsbury reveals how China’s grand strategy relies on systemic deception—manipulating Western perceptions while ruthlessly silencing domestic dissent to conceal its true ambitions.  
+But this weaponization of truth and information is not a new tactic; it is the classic playbook of authoritarian survival. How exactly do such regimes construct and maintain these alternate realities without collapsing under their own lies?  
+In [*How to Be a Dictator*](/library/be-dictator), Dikötter deconstructs the mechanics of 20th-century tyranny, exposing how absolute power is maintained not just through brute force, but through the absolute control and distortion of truth.

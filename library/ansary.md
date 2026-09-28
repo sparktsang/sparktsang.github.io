@@ -334,3 +334,8 @@ Humans capable of destroying the Earth could act together and give up fossil fue
 A network of meaning resembles many points connected together. The points are given to us by the world; the connections are added by us. A small number of points that cannot be connected to the network are treated as exceptions. When too many exceptions accumulate and the network can no longer adapt, it must be replaced by a new one. This is like the social version of the scientific paradigm shifts discussed by Thomas Kuhn. Social paradigm shifts always seem to come suddenly, as with the collapse of the Soviet Union and the Islamic Revolution in Iran. The paradigm of the present always feels eternally true. The author envisions the emergence of a universe of meaning that contains a global community in which no one is an other, and hopes that it will endure.  
 
 *Finished reading on June 1, 2022*
+
+---
+
+Ansary describes how societies construct networks of meaning, and how accumulated exceptions can eventually force one paradigm to give way to another.  
+[*My philosophy*](/philosophy){:target="_blank"} asks a more fundamental question: what should a system of knowledge do when its own framework becomes the obstacle to seeing what is true?

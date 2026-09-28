@@ -342,3 +342,8 @@ Keynes: “In the not-too-distant future, economics will return to its proper, s
 －黃樹東, *The Rise and Fall of Great Powers; The Struggle over Development Paths in the Context of Globalization* (2012)  
 
 *Last updated: August 3, 2020*
+
+---
+
+Lee exposes how orthodox economics and financial gatekeepers have trapped humanity in a destructive paradigm, calling for a radical system overhaul to save our future.  
+But how can we dismantle a rigged economic system if our society's fundamental mechanism for determining truth is already captured by those same elites? Before we can rebuild economics, we must rebuild the foundation of knowledge itself. *My philosophy* proposes exactly this: [a decentralized framework where systemic flaws can no longer be hidden by privilege](/philosophy){:target="_blank"}, and truth is determined not by power, but by ruthless, open-source refutation.

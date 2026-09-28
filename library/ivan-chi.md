@@ -8,6 +8,7 @@ short_title: "傻子伊凡"
 permalink: /library/ivan/chi/
 language: chi
 image: assets/bookcover/ivan.png
+infographic: assets/images/ivan-info.png
 ---
 
 托爾斯泰《傻子伊凡》  

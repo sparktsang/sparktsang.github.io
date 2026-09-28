@@ -12,6 +12,7 @@ description: |
 permalink: /library/how-democracy-ends/chi/
 language: chi
 image: assets/bookcover/how-democracy-ends-chi.jpg
+infographic: assets/images/how-democracy-ends-info.png
 ---
 
 *How Democracy Ends* by David Runciman
@@ -90,3 +91,7 @@ John Stuart Mill 主張應視乎教育水平決定各人持有票數，通過民
 老人已習慣用比特幣，擔憂新總統的復興美元政策，但重印美元因為無法做到防偽而不可能  
 
 二零一九年二月九日閱畢於誠品西門店  
+
+---
+
+Runciman asks what might come after democracy. I have been exploring [a fundamentally different model of governance](/philosophy){:target="_blank"}, built from first principles rather than inherited institutions.

@@ -7,6 +7,7 @@ title: 'Notes on <i>The Path of Least Resistance</i>'
 short_title: "The Path of Least Resistance"
 description: Stop fighting against your circumstances and start designing them. These notes explain how the hidden structures in your life dictate your actions, and how shifting from a "problem-solving" mindset to a "creating" mindset changes everything.
 image: assets/bookcover/fritz.jpg
+infographic: assets/images/least-resistance-info.png
 ---
 
 *The Path of Least Resistance: Learning to Become the Creative Force in Your Own Life* by Robert Fritz
@@ -154,9 +155,6 @@ Again, many people confuse what they want with what is possible. Many plans prod
 Making up excuses to absolve oneself has become fashionable, but to adjust your actions you must understand the real reason for failure.
 Reality is the only foundation on which to begin the creative process; selective acceptance is ineffective.
 
-*Finished reading the first part on May 17, 2020*
-
----
-
-The remaining part of the book explains the cycle of creation, how to make the right choices, the distinction between primary and secondary choices, and the absurd reasons why people make all kinds of absurd choices.
-It seems to lapse into common sense and repetitions of existing ideas, without advancing beyond the original theoretical framework. The intended readers appear to be complete beginners with no prior concept of the subject.
+*Finished reading the first part on May 17, 2020*  
+*The remaining part of the book explains the cycle of creation, how to make the right choices, the distinction between primary and secondary choices, and the absurd reasons why people make all kinds of absurd choices.
+It seems to lapse into common sense and repetitions of existing ideas, without advancing beyond the original theoretical framework. The intended readers appear to be complete beginners with no prior concept of the subject.*

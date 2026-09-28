@@ -428,3 +428,8 @@ W. Edwards Deming, out of the crisis
 
 
 15/7/2022 閱畢於星光行誠品  
+
+---
+
+Collins argues that enduring greatness requires "building a clock" rather than "telling time"—creating resilient constitutions and systems that outlast any charismatic leader.  
+While we understand this principle for building great companies, human civilization still relies on fallible "time-tellers" and gatekeepers to determine what is true. To secure our collective future, we need the ultimate structural upgrade. *My philosophy* is the blueprint for this missing clock: [an enduring, open-source framework structurally designed to process and validate truth](/philosophy){:target="_blank"} long after any individual authority fades.

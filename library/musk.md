@@ -270,3 +270,9 @@ With both companies burning money, Tesla was allowed to acquire SolarCity. Model
 In the appendix, Musk lamented that PayPal was no longer what it used to be and had failed to realize its basic values of making transactions fast and secure and seamlessly integrating all financial activities. Most people who had worked at PayPal also did not understand why the company had succeeded. Its success came from transaction costs being lower than everyone else’s because its system could handle large volumes of Automated Clearing House (ACH) transactions, electronic transactions, and internal transactions.  
 
 *Finished reading on March 22, 2022*
+
+---
+
+Vance’s biography reveals how Musk uses relentless first-principles thinking to shatter the stagnation of entrenched industries, almost single-handedly building the infrastructure for humanity's survival.  
+But while individual genius can revolutionize rockets and cars, the survival of civilization cannot depend on the sheer willpower of a few billionaires fighting broken systems. What if we applied this exact ruthless optimization to the operating system of human consensus?  
+*My philosophy* takes first-principles thinking to its ultimate conclusion: [proposing an open-source framework structurally designed to strip away noise and gatekeepers](/philosophy){:target="_blank"}, accelerating the survival of truth.

@@ -97,8 +97,7 @@ The UPI, Ulcer Performance Index = annual excess return / UI
 In comparative testing, Sharpe could not highlight the superiority of the four-week strategy, but it was reflected in the Sortino ratio and UPI, especially the latter  
 Among the various strategies tested in the previous chapter, the top six by UPI were: Turtle 2.2, Bollinger 1.7, Five-Two Hundred-Day Moving Average 1.5, Four-Week 1.4, Dow Theory 1.4, 52-Week 1.3  
 However, UPI is not absolute. Not all strategies are created equal, and the market structures they seek to capture are partly different, making them difficult to compare directly in every respect  
-
-> 2 is quite good; <.5 is too low, but the key is to compare like with like  
+\> 2 is quite good; <.5 is too low, but the key is to compare like with like  
 
 ### Comprehensive Analysis  
 
@@ -141,3 +140,7 @@ This strategy is applied to P2, P4, P8, and P16. It can be seen that the larger 
 The author encourages readers to follow the trend and trade for the long term  
 
 *Finished reading on Jan 12, 2022*
+
+---
+
+Penfold examines how a trading method can survive uncertainty, avoid overfitting, and demonstrate robust expectancy. [*The First Principles of Perennial Profit in Investing*](/library/perennial){:target="_blank"} asks the deeper question: what causal condition makes an investment method capable of sustaining profit beyond what historical testing alone can establish?

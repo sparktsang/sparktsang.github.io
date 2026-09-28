@@ -25,7 +25,7 @@ The number of problems that can be solved within existing institutions is shrink
 The exhaustion of meaning: products are in excess, everything we need is readily available, making the problem of the loss of meaning that emerged since Nietzsche even more pronounced  
 Fewer and fewer problems: there are already few problems left that still need solving (so much so that applications to elite MBA programs are declining year after year, and the degrees are losing their halo)  
 Meaningless work: statistics show that most people feel their jobs bring no value to society, reflecting the consequences of the two trends above  
-Society becoming VUCA: society is unstable, uncertain, complex, and ambiguous, while also changing rapidly; past experience is no longer valuable, and plans must incorporate adaptability to circumstances, making optimization for specific environments obsolete  
+Society becoming VUCA: society is volatile, uncertain, complex, and ambiguous, while also changing rapidly; past experience is no longer valuable, and plans must incorporate adaptability to circumstances, making optimization for specific environments obsolete  
 The disappearance of economies of scale: Jeremy Rifkin's *The Zero Marginal Cost Society* points out that with marginal costs approaching zero and networks becoming widespread, the once-foolproof model of mass production, mass promotion, and large-scale sales is increasingly strained  
 Lifespans are getting longer while corporate lifespans are getting shorter: flexible careers will become the norm  
 
@@ -246,3 +246,8 @@ At this turning point in the times, I hope this book can serve as a modest contr
 
 *Section headings were devised by the editor*  
 *Finished reading on Oct 3, 2020*  
+
+---
+
+Yamaguchi concludes that to survive a volatile and complex world, "New Types" must stop serving broken institutions, discard the illusion of expert authority, and actively rewrite the script of our society.  
+But tearing down obsolete authorities is only the first step; what do we replace them with? My philosophy provides a blueprint for this new era: [an open-source framework where truth is completely stripped of authority](/philosophy){:target="_blank"}, relying not on gatekeepers, but on the ruthless freedom of continuous refutation.

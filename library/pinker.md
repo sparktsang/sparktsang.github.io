@@ -282,3 +282,8 @@ From 1803 to 1945, the world experimented with international relations organized
 At the end of the book, the author urges humanity not to mistake stories for trends, but to judge everything calmly and put Nietzsche aside: the story of human progress is the true heroic epic, glorious, inspiring, full of spirit, and also the only true one; it belongs to all humanity  
 
 *Finished reading on April 22, 2021*
+
+---
+
+Pinker urges us to defend reason and humanism against the rising tide of irrationality, portraying human progress as our ultimate heroic epic. But pleading for reason is no longer enough when the architecture of our world is structurally designed to drown out the truth.  
+To continue this progress, *My philosophy* argues that we need more than optimism—we need a new, [open-source framework where truth no longer has to beg for survival](/philosophy){:target="_blank"}.

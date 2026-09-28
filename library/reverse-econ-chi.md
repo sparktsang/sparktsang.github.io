@@ -265,3 +265,8 @@ Adam Smith 於《國富論》提出無形之手概念，被新自由主義者視
 －黃樹東《大國興衰；全球化背景下的路線之爭》（2012）  
 
 筆記最後更新時間：3/8/2020  
+
+---
+
+Lee exposes how orthodox economics and financial gatekeepers have trapped humanity in a destructive paradigm, calling for a radical system overhaul to save our future.  
+But how can we dismantle a rigged economic system if our society's fundamental mechanism for determining truth is already captured by those same elites? Before we can rebuild economics, we must rebuild the foundation of knowledge itself. *My philosophy* proposes exactly this: [a decentralized framework where systemic flaws can no longer be hidden by privilege](/philosophy){:target="_blank"}, and truth is determined not by power, but by ruthless, open-source refutation.

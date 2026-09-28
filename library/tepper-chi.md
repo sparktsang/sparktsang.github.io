@@ -195,3 +195,8 @@ Strategas 遊說投資組合大幅跑贏標普，證明了大灑金錢遊說的�
 
 
 2020.3.18 閱畢於星光行誠品  
+
+---
+
+Tepper warns that unchecked monopolies have suffocated economic competition, leaving us with a choice between systemic reform or revolution. But the most dangerous monopolies today are not just economic—they are epistemic. Just as corporate gatekeepers crush market competition, systemic gatekeepers crush the survival of truth.  
+*My philosophy* takes this battle to the foundation of knowledge, proposing [a framework where truth is stripped of privilege](/philosophy){:target="_blank"} and subjected to the ultimate free market of refutation.

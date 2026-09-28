@@ -8,6 +8,7 @@ short_title: "人類的旅程：財富和不平等的起源"
 permalink: /library/humanity-journey/chi/
 language: chi
 image: assets/bookcover/humanity-journey-chi.jpg
+infographic: assets/images/humanity-journey-info.png
 ---
 
 《人類的旅程：財富和不平等的起源》  
@@ -115,3 +116,8 @@ English translation [here](/library/humanity-journey){:target="_blank"}.
 
 
 29/5/2022 閱畢於星光行誠品  
+
+---
+
+作者指出，現代國家貧富殊異，並非歷史偶然，而是由深層地理與人口因素形塑其體制演進的必然結果。他警告若不加以理解這些深刻根源，任何經濟政策只會流於拜物信仰的水平。  
+然而，這些地理因素構成的力量，又如何具體轉化到我們今日所見的複雜政制？在[《政治秩序的起源》](/library/fukuyama/chi)中，福山俯瞰環球歷史，剖析出使某些文明發展出法治與問責、而其他卻陷入專制衰退循環的演化根源。

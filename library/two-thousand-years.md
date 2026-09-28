@@ -231,3 +231,8 @@ Postscript: China's economic reforms have found it difficult to succeed whether 
 The sea of history is vast, the storms dark and ominous; I am merely an observer, and I think I have done my best  
 
 *Finished reading on Dec 20, 2019*  
+
+---
+
+Wu's sweeping history reveals a tragic, 2,000-year cycle: whenever state monopolies crushed private enterprise, economic stagnation and social rot inevitably followed. But this danger of concentrated power is not confined to Chinese history.  
+Today, the modern West faces a terrifyingly similar threat—not from the state, but from mega-corporations. In [*The Myth of Capitalism*](/library/tepper), Tepper explores how modern corporate monopolies are currently destroying free markets and suffocating innovation, proving that whenever entrenched power eliminates competition, the entire system pays the ultimate price.

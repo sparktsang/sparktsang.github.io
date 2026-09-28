@@ -11,6 +11,7 @@ description: |
 permalink: /library/eq/chi/
 language: chi
 image: assets/bookcover/eq-chi.jpg
+infographic: assets/images/eq-info.png
 ---
 
 《EQ：決定一生幸福與成就的永恆力量》  

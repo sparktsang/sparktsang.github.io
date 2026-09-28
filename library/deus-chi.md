@@ -261,3 +261,7 @@ Angelina Jolie 的基因測試用了三千美元，而世上十億人日入低�
 
 9/6/2019  
 閱畢於韓國大田 Sky Garden Guesthouse
+
+---
+
+Harari demonstrates how shared fictions built human civilization, and how the algorithm-driven future is rapidly dismantling them. If the old humanist narrative is collapsing, what operating system will take its place? *My philosophy* introduces the next necessary paradigm: not another convenient fiction, but [an epistemic framework structurally designed to let truths survive](/philosophy){:target="_blank"}.

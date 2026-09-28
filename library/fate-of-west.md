@@ -199,3 +199,8 @@ Eight, international rule of law: The West has overwhelming strength. In the fac
 The great 1962 film *Lawrence of Arabia*: nothing is predetermined by heaven; the fate of the West is in our hands, and winning the next battle depends on ourselves.  
 
 *Finished reading on June 1, 2021*
+
+---
+
+Emmott concludes that saving the open society requires us to dismantle entrenched privileges and fiercely fight for the truth. But how can political reforms succeed if our foundational systems for determining truth are already corrupted by noise and power?  
+*My philosophy* argues that defending democracy requires a deeper structural upgrade: before we can save our political constitutions, we must first establish [an epistemic one](/philosophy){:target="_blank"}.

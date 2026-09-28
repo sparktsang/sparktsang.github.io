@@ -6,6 +6,7 @@ title: 'Notes on <i>The Personality Brokers</i>'
 short_title: "The Personality Brokers"
 description: "Uncover the fascinating and somewhat dark history behind the world's most popular personality test. These notes explore how the MBTI was created, marketed, and weaponized, offering a critical look at our obsession with categorizing human nature."
 image: assets/bookcover/emre.jpg
+infographic: assets/images/emre-info.png
 ---
 
 *The Personality Brokers: The Strange History of Myers-Briggs and the Birth of Personality Testing* by Merve Emre

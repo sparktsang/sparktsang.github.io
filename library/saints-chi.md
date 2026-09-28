@@ -130,3 +130,8 @@ English translation [here](/library/saints){:target="_blank"}.
 
 
 8/11/2020 閱畢於星光行誠品  
+
+---
+
+Jaspers shows how humanity's greatest spiritual paradigms were forged by individuals who relentlessly questioned the boundaries of existence. Yet, as history proves, their profound truths were often distorted into rigid dogmas by later institutions.  
+If relying on personal charisma leaves truth vulnerable to gatekeepers, how can we preserve it? *My philosophy* answers this challenge by moving beyond individual saints to propose a structural upgrade: [an epistemic framework designed to let truth survive and defend itself without needing a prophet](/philosophy){:target="_blank"}.

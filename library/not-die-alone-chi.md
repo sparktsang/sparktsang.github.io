@@ -8,6 +8,7 @@ short_title: "哈佛✕ Google 行為科學家的脫單指南"
 permalink: /library/not-die-alone/chi/
 language: chi
 image: assets/bookcover/not-die-alone-chi.jpg
+infographic: assets/images/not-die-alone-info.png
 ---
 
 《哈佛✕ Google 行為科學家的脫單指南》  

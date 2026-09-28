@@ -140,3 +140,7 @@ Dyson 發現英國精英逃避硬科學，走到財務工作，是大英帝國�
 
 13/12/2020  
 閱畢於星光行誠品  
+
+---
+
+Kaku asks what humanity may become by 2100. [*My philosophy*](/philosophy){:target="_blank"} asks the question that must come first: how should humanity decide what it ought to become?

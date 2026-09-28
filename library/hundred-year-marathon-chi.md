@@ -9,6 +9,7 @@ description: "本筆記刺破「和平崛起」之政治迷霧，揭示布局百
 permalink: /library/hundred-year-marathon/chi/
 language: chi
 image: assets/bookcover/hundred-year-marathon-chi.jpg
+infographic: assets/images/hundred-year-marathon-info.png
 ---
 
 *The Hundred-Year Marathon: China's Secret Strategy to Replace America as the Global Superpower* by Michael Pillsbury
@@ -88,3 +89,9 @@ English translation [here](/library/hundred-year-marathon){:target="_blank"}.
 中共鷹派無打算征服美國，反相當著迷於美國如何崛起的書籍，如 Warren Zimmerman 之《第一次大勝：五個美國人如何使國家成為世界大國》  
 
 二零一九年二月十八日閱畢於誠品信義店
+
+---
+
+白邦瑞展示了中國所下的大棋如何充滿了「兵者，詭道也」的戰國智慧——一手操縱西方認知，一手鎮壓國內異議，昔日更形人而我無形，隱藏真正野心。  
+然而，所謂認知操縱並非新事，乃是獨裁政權求生的不二法門。究竟一眾獨夫是如何以虛馭實，以假亂真，而不於自身的謊言中崩潰？  
+在[《獨裁者養成之路》](/library/be-dictator/chi)中，馮客解構了上世紀暴政的力學，揭示了絕對權力如何不僅駕馭蠻力，在將真相玩弄於股掌之中這方面，同樣手段多多。

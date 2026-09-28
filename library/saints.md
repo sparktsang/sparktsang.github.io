@@ -191,3 +191,8 @@ In them, human experience and human ideals were expressed to their greatest poss
 Ordinary Western people imagine that they are seriously imitating Jesus, yet in reality they overlook crucial points and interpretations, and consequently fail to see the consequences of missing what is fundamental. Those who engage in philosophical thinking should be able to see clearly both the necessary conditions for such imitation and its unavoidable consequences.  
 
 *Finished reading on Nov 8, 2020*  
+
+---
+
+Jaspers shows how humanity's greatest spiritual paradigms were forged by individuals who relentlessly questioned the boundaries of existence. Yet, as history proves, their profound truths were often distorted into rigid dogmas by later institutions.  
+If relying on personal charisma leaves truth vulnerable to gatekeepers, how can we preserve it? *My philosophy* answers this challenge by moving beyond individual saints to propose a structural upgrade: [an epistemic framework designed to let truth survive and defend itself without needing a prophet](/philosophy){:target="_blank"}.
