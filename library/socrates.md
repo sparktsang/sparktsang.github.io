@@ -71,7 +71,7 @@ Crito has nothing left to say.
 
 ### Charmides Chrm. (On Temperance)
 
-σωφροσύνη refers to sound understanding, modesty and benevolence, self-restraint, and self-control. The Chinese translation in the book renders it as “節制,” which captures only the last of these meanings. These notes translate it as “中正.”  
+σωφροσύνη refers to sound understanding, modesty and benevolence, self-restraint, and self-control.  
 Socrates returns from military service and goes to the wrestling school. Critias tells him about Charmides, whose handsome appearance has left everyone spellbound.  
 Socrates mentions his soul. Critias says that it is excellent as well. Socrates asks why he does not let that part of himself be exposed; Critias replies by asking why Socrates does not tell him about a remedy for headaches.  
 Charmides arrives, and Socrates feels his lust flare up instantly, almost uncontrollably.  
