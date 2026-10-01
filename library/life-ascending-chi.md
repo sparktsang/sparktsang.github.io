@@ -8,6 +8,7 @@ short_title: "生命的躍升"
 permalink: /library/life-ascending/chi/
 language: chi
 image: assets/bookcover/life-ascending-chi.jpg
+infographic: assets/images/life-ascending-info.png
 ---
 
 《生命的躍升：40億年演化史上最重要的10個關鍵》  

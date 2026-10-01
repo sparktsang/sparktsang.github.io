@@ -236,11 +236,11 @@ Protagoras raises a question of apparent contradiction about a poem Socrates has
 Returning to the main topic, Protagoras says that among the five virtues, wisdom, temperance, justice, and piety are similar, while courage alone is unlike the others. He also says that courageous people are confident.  
 Protagoras says that people who are confident despite lacking knowledge are overconfident. Socrates asks whether courageous people are not confident. Protagoras replies that courageous people are confident, but not everyone who is confident is courageous.  
 Under Socrates’ guidance, Protagoras agrees that courageous people are nobler both when they fear and when they feel confident. Cowardly people are ignorant about the things they fear—that is, they are ignorant of what is worth fearing and what is not worth fearing.  
-Socrates points out that courage is the opposite of cowardice. Therefore, wisdom about what is worth fearing and what is not worth fearing is courage. Protagoras has nothing to say. He points out that Socrates initially tried to argue that virtue could not be taught, but ultimately proved that virtue is knowledge and therefore teachable; while he himself initially insisted that virtue could be taught, but by insisting that virtue is not knowledge, he has made virtue appear unteachable.  
+Socrates points out that courage is the opposite of cowardice. Therefore, wisdom about what is worth fearing and what is not worth fearing is courage. Protagoras has nothing to say. He points out that Socrates initially tried to argue that virtue could not be taught, but finally proved that virtue is knowledge and therefore teachable; while he himself initially insisted that virtue could be taught, but by insisting that virtue is not knowledge, he has made virtue appear unteachable.  
 
 *Finished reading on Feb 25, 2021*
 
 ---
 
 Socrates demonstrated that the pursuit of truth requires the ruthless examination of every claim and the courage to expose the ignorance of systemic gatekeepers. But while Socrates fought this battle alone in the Athenian agora, today's truth remains trapped behind infinitely more complex walls of noise and privilege.  
-Taking the Socratic method to its ultimate, structural conclusion, *my philosophy* proposes [a decentralized framework where all claims must survive the exact kind of relentless](/philosophy){:target="_blank"}, open-source refutation he died defending.
+Taking the Socratic method to its final structural conclusion, *my philosophy* proposes [a decentralized framework where all claims must survive the exact kind of relentless](/philosophy){:target="_blank"}, open-source refutation he died defending.

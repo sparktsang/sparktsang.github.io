@@ -6,6 +6,7 @@ title: 'Notes on <i>Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Futu
 short_title: "Elon Musk"
 description: Madman or visionary savior? These notes chronicle Elon Musk's brutal, high-stakes journey building PayPal, Tesla, and SpaceX, revealing the relentless drive and first-principles thinking required to single-handedly push humanity into the future.
 image: assets/bookcover/musk.jpg
+infographic: assets/images/musk-info.png
 ---
 
 *Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future* by Ashlee Vance
@@ -219,7 +220,7 @@ Employees wanted to see huge rewards from their efforts. In June 2013, Musk emai
 ### Revenge of the Electric Car  
 
 For decades, the auto industry had sold essentially the same cars, relying on fashion models and gimmicks like Kia's "dancing hamsters" to drive sales. In 2012, Model S shocked the industry. It was quiet, fast, had better range, handling, and storage than most luxury sedans, featured touchscreen controls and high energy efficiency, bypassed the traditional dealership model in favor of direct-to-consumer (D2C) sales, needed no oil changes or engine tuning, and could receive overnight software updates to fix problems. Craig Venter, the scientist who first decoded the human genome, praised it as “a computer on wheels.” It won *Motor Trend*’s Car of the Year award, while Consumer Reports gave it the highest score in its history: 99.  
-Musk did everything he could to resolve problems, including two buyback offers, and ultimately settled the case brought by Eberhard.  
+Musk did everything he could to resolve problems, including two buyback offers, and finally settled the case brought by Eberhard.  
 To design a sexy exterior, he hired the Danish designer Henrik Fisker, but Fisker was suspected of keeping the best designs for his own company, though he later won the ensuing lawsuit.  
 Limited budgets forced Tesla to rely on smarter employees and to make as many parts in-house as possible. The engineering team bought a Mercedes CLS and successfully converted it to electric power.  
 In August 2008, Musk recruited designer Franz von Holzhausen from Mazda. He had given up a secure job because he believed in the vision and was brought in to clean up Fisker’s mess. Like a “traditional” von Holzhausen, he went to IKEA to buy a desk and built his own office.  
@@ -265,7 +266,7 @@ In May 2016, a Tesla enthusiast died in a self-driving accident. Musk was critic
 George Hotz built a self-driving car in his own garage. Because Musk repeatedly changed the terms of his hiring offer, Hotz refused to join Tesla. Musk belittled Hotz and was accused of underestimating someone who might become the next Musk.  
 In early 2016, Musk divorced Riley for the second time, and his stress increased further.  
 In the past, top talent had to tolerate Musk because he seemed like the only hope. Now there were more choices.  
-With both companies burning money, Tesla was allowed to acquire SolarCity. Model 3 was still losing money, yet had to be produced in the hundreds of thousands. Rockets were being launched toward Mars without any economic return yet. This reminded the author of an email Musk had sent friends years earlier. Musk said he was naturally obsessive-compulsive, had accumulated so many scars that he was no longer afraid, and that what mattered was defeating the challenge rather than winning small victories. Perhaps he had a serious psychological black hole or a short circuit in his nervous system. The author ultimately saw him as someone pursuing a personal calling, convinced that he would succeed because he was both capable of accepting failure and of clinging to his convictions all the way to the end.  
+With both companies burning money, Tesla was allowed to acquire SolarCity. Model 3 was still losing money, yet had to be produced in the hundreds of thousands. Rockets were being launched toward Mars without any economic return yet. This reminded the author of an email Musk had sent friends years earlier. Musk said he was naturally obsessive-compulsive, had accumulated so many scars that he was no longer afraid, and that what mattered was defeating the challenge rather than winning small victories. Perhaps he had a serious psychological black hole or a short circuit in his nervous system. The author eventually saw him as someone pursuing a personal calling, convinced that he would succeed because he was both capable of accepting failure and of clinging to his convictions all the way to the end.  
 
 In the appendix, Musk lamented that PayPal was no longer what it used to be and had failed to realize its basic values of making transactions fast and secure and seamlessly integrating all financial activities. Most people who had worked at PayPal also did not understand why the company had succeeded. Its success came from transaction costs being lower than everyone else’s because its system could handle large volumes of Automated Clearing House (ACH) transactions, electronic transactions, and internal transactions.  
 
@@ -275,4 +276,4 @@ In the appendix, Musk lamented that PayPal was no longer what it used to be and 
 
 Vance’s biography reveals how Musk uses relentless first-principles thinking to shatter the stagnation of entrenched industries, almost single-handedly building the infrastructure for humanity's survival.  
 But while individual genius can revolutionize rockets and cars, the survival of civilization cannot depend on the sheer willpower of a few billionaires fighting broken systems. What if we applied this exact ruthless optimization to the operating system of human consensus?  
-*My philosophy* takes first-principles thinking to its ultimate conclusion: [proposing an open-source framework structurally designed to strip away noise and gatekeepers](/philosophy){:target="_blank"}, accelerating the survival of truth.
+*My philosophy* takes first-principles thinking to its final conclusion: [an open-source framework structurally designed to strip away noise and gatekeepers](/philosophy){:target="_blank"}, accelerating the survival of truth.

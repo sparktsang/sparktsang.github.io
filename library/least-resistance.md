@@ -136,7 +136,7 @@ Three major compensating strategies for the structural conflict described above:
    Its implantation technique is like forcing an elementary-school student to write lines, with only the content changed: “The entire universe supports me,” and so on. Repeating it over and over merely shows that you did not believe it in the first place.
    Its two deeply rooted but unstated assumptions are: first, you must overcome negative habits in order to control yourself; second, reality is too dangerous, so you must cover it up with favorable interpretations.
    By contrast, within the creative orientation, you can create what you want whether or not you have negative habits. Another key is that you must tell yourself reality as it actually is.
-   The result of controlling willpower is that, because willpower is exaggerated, the structure eventually swings back and forth again, ultimately returning to a tolerable range.
+   The result of controlling willpower is that, because willpower is exaggerated, the structure eventually swings back and forth again, returning to a tolerable range.
    The first strategy, keeping within a tolerable range, views reality too narrowly; the conflict-control strategy is too pessimistic; the willpower-control strategy is too optimistic.
    Conclusion: None of the compensation strategies can succeed because of structural constraints, unless you enter another structure.
    But because you are dissatisfied with this structure, switching to another useful structure is also futile, because that too is merely another form of conflict-control strategy.

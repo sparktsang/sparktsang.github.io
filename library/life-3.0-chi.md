@@ -12,6 +12,7 @@ description: |
 permalink: /library/life-3.0/chi/
 language: chi
 image: assets/bookcover/life-3.0-chi.jpg
+infographic: assets/images/life-3.0-info.png
 ---
 
 《Life 3.0：人工智慧時代，人類的蛻變與重生》  

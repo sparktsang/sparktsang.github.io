@@ -6,6 +6,7 @@ title: "Notes on <i>Low-Profile Entrepreneurship</i>"
 short_title: "Low-Profile Entrepreneurship"
 description: Achieve financial independence without the massive risks of a traditional tech startup. These notes provide a step-by-step guide to "low-profile" entrepreneurship, turning everyday organizational and communication skills into a highly profitable, quiet side business.
 image: assets/bookcover/low-profile-entrepreneurship.png
+infographic: assets/images/low-profile-entrepreneurship-info.png
 ---
 
 *Low-Profile Entrepreneurship* by Yuichi Tanaka
@@ -53,10 +54,15 @@ The process needs to go deeper, and can proceed in the following five directions
 Two key points when making a proposal: explain the reason, and be direct rather than beating around the bush. Get rid of the self-centered mindset of worrying about “what other people will think.”  
 After accepting a commission, the author did his best but failed to achieve the desired result, yet the client continued to commission him: once you have earned trust, the result is not everything.  
 
-Low-profile entrepreneurship is only a starting point. Ultimately, your role can evolve from **an executor (a helper)** handling the tasks, to **a project manager** guiding the work, and finally to **a creator (or producer)** generating the business itself.  
+Low-profile entrepreneurship is only a starting point. Your role can evolve from **an executor (a helper)** handling the tasks, to **a project manager** guiding the work, and finally to **a creator (or producer)** generating the business itself.  
 You can develop further and take on glamorous entrepreneurship: a business model in which you use your own ability to communicate and your own story to mobilize the people around you and increase the number of supporters.  
 A leader with strong promotional abilities can deliver the best results for clients.  
 The author says that starting earlier and continuing longer than others is his own formula for success. As an ordinary person, he takes an ultra-long-term approach to planning his life; a goal of earning ten million yen a year within seven years is extremely generous and conservative.  
 At the beginning, the author applied for an entrepreneurship course that required screening. A young entrepreneur on the interview panel commented, “Just looking at the colors from his socks to his tie, you can’t see the slightest possibility of success.” Another, older entrepreneur on the interview panel, Tetsumasa Kitano, later called the author personally and invited him to participate. In the end, this gave him the courage to become an entrepreneur.  
 
 *Finished reading on Feb 5, 2021*  
+
+---
+
+Tanaka proves that escaping the corporate grind doesn't require venture capital, revolutionary tech, or taking massive risks; it simply requires leveraging everyday skills to quietly build trust and help others. If this "low-profile" approach to reclaiming your freedom resonates with you, the next logical step is learning how to systemize it.  
+In [*The $100 Startup*](/library/100-startup), Guillebeau expands on this philosophy, offering a practical blueprint for turning these quiet, skill-based side hustles into highly profitable, location-independent microbusinesses with negligible upfront cost.

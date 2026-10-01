@@ -48,12 +48,12 @@ Perceptiveness can depict details; imagination can lead the audience into an ima
 **Beat:** a change in behavior from action to reaction. One scene may contain six exchanges between two characters—that is, six “beats.”  
 **Sequence:** composed of several scenes, with dramatic tension reaching a peak at the end and causing a decisive change in the character’s life-value orientation.  
 
-(Example: A woman cannot get herself properly dressed and is ready to give up on going to the interview party, but a frantic call from her mother makes her decide to go anyway, whatever happens, and she ultimately regains her confidence. She goes to New York, but heavy rain makes it impossible to hail a cab, so she decides to walk through Central Park. As expected, she is surrounded by gangsters and has to fight for her life. She arrives in time, but looking disheveled, and feels the outcome is already decided. She relaxes and simply acts like herself, and is unexpectedly appointed to the position. This “sequence” contains three scenes: doubt becoming confidence, death becoming survival, and disaster becoming victory. The sequence’s value orientation culminates in its climax: her appointment. The information conveyed is that she took enormous risks to win a position she deserved, while also revealing her character, her relationship with her mother, and her views of New York and the company through dramatic tension.)  
+(Example: A woman cannot get herself properly dressed and is ready to give up on going to the interview party, but a frantic call from her mother makes her decide to go anyway, whatever happens, and she finally regains her confidence. She goes to New York, but heavy rain makes it impossible to hail a cab, so she decides to walk through Central Park. As expected, she is surrounded by gangsters and has to fight for her life. She arrives in time, but looking disheveled, and feels the outcome is already decided. She relaxes and simply acts like herself, and is unexpectedly appointed to the position. This “sequence” contains three scenes: doubt becoming confidence, death becoming survival, and disaster becoming victory. The sequence’s value orientation culminates in its climax: her appointment. The information conveyed is that she took enormous risks to win a position she deserved, while also revealing her character, her relationship with her mother, and her views of New York and the company through dramatic tension.)  
 
 **Act:** composed of several sequences, with dramatic tension peaking at the climax and producing a major reversal in value orientation.  
 **Story:** composed of several acts; it is a major, overriding event that constitutes the film’s arc of transformation. The transformation at the end is absolute and irreversible.  
 
-(Continuing the example: the first act changes her from someone who does not get the new position into the company’s general manager; the second act sees her betrayed and fired amid struggles within the company; the third act has her join a rival company and ultimately relish the destruction of her old employer. The ending transforms her from the optimistic, honest, naïve sweetheart she was at the beginning into a cynical, immoral old fox.)  
+(Continuing the example: the first act changes her from someone who does not get the new position into the company’s general manager; the second act sees her betrayed and fired amid struggles within the company; the third act has her join a rival company and relish the destruction of her old employer. The ending transforms her from the optimistic, honest, naïve sweetheart she was at the beginning into a cynical, immoral old fox.)  
 
 Three perspectives on the art of storytelling combine to form a triangle, revealing the author’s worldview in its entirety:  
 
@@ -93,7 +93,7 @@ The author criticizes some young people who make non-classical art films simply 
 
 Understanding and seeing deeply into the world of a story is fundamental to originality and excellence.  
 Setting has four dimensions: **period, duration, location, and conflict.**  
-Writers often refuse to make a story’s setting concrete. Asked where a divorce story is set, one writer might answer “America,” believing that it does not matter where in America. The author points out that it absolutely does: a divorce case involving a wealthy New Yorker and an affair on a potato farm have nothing in common.  
+Writers often refuse to make a story’s setting concrete. Asked where a divorce story is set, one writer might answer “America,” believing that it does not matter where in America. The author points out that it does: a divorce case involving a wealthy New Yorker and an affair on a potato farm have nothing in common.  
 The writer must have such a deep and detailed understanding of the story’s world that, whatever relevant question is asked—from the character’s eating habits to the weather in September—you can answer it immediately.  
 The key to defeating cliché is research. There are several ways to do it:  
 **From memory:** recall experiences that feel similar to what the character is going through.  
@@ -155,7 +155,7 @@ The finest works do not merely reveal a character’s true nature; they also sho
 In the classic *Hamlet*, the first stage is when he attends his father’s funeral and contemplates suicide; the second comes when he learns that his father was murdered by his uncle and restrains his impulsive decision to seek revenge; in the third stage, his essential nature does not match his outward appearance. He is not merely sorrowful and sensitive; other qualities lie concealed beneath the surface: “When the wind is southerly, I know a hawk from a handsaw.” In the fourth stage, his inner nature emerges. The story subjects him to increasing pressure, his choices becoming increasingly difficult. He tracks down his uncle and finds him kneeling in prayer, then forces himself to wait. The fifth stage is the climax, which profoundly transforms his humanity and brings him to a state of calm maturity.  
 Every story is driven by character, and story structure is inseparable from character: structure creates steadily mounting pressure, forcing the character into increasingly difficult situations, where he makes choices and reveals his true self; the character brings a set of personal qualities into the story and acts convincingly in accordance with those choices.  
 If you change the design of an event, you must also change the character. In one key event, the protagonist takes an enormous risk and tells the truth, but in the second draft he chooses to lie instead: reverse a single event and you can create an entirely new character.  
-“The point of the movie is the last twenty minutes.” The climax of the story is the screenwriter’s ultimate task. Of all the enormous energy invested in story design, 75% should be devoted to creating the climax. It is the highest point and convergence of all meaning and emotion, and the decisive point in audience satisfaction. Everything else exists to achieve this moment.  
+“The point of the movie is the last twenty minutes.” The climax of the story is the screenwriter’s final task. Of all the enormous energy invested in story design, 75% should be devoted to creating the climax. It is the highest point and convergence of all meaning and emotion, and the decisive point in audience satisfaction. Everything else exists to achieve this moment.  
 Anything that weakens the credibility of the ending must be sacrificed. If a seventy-five-year-old protagonist cannot kill the villain, he must be changed to thirty-five.  
 
 
@@ -445,7 +445,7 @@ Against it we have (The Value Square):
 **The Negation of the Negation:** tyranny (the extreme limit of darkness)  
 The distinction between them is the difference between a world governed by law and a world in which might makes right.  
 In *Missing*, an American searches for his missing son in Chile. In the first act, he encounters injustice when the U.S. ambassador tells him to abandon the search. At the second-act climax, he discovers evil: his son was murdered by the military government, which also colluded with the U.S. government. In the third act, he suffers severe persecution, leaving him with no hope even of revenge.  
-In *The Right Stuff*, the protagonist faces both injustice and overwhelming power—the negative of the negative—and ultimately justice prevails.  
+In *The Right Stuff*, the protagonist faces both injustice and overwhelming power—the negative of the negative—and eventually justice prevails.  
 
 Change the value to **love**:  
 **Opposition:** indifference  
@@ -494,7 +494,7 @@ Change the value to **love**:
 **Opposition:** fear  
 **Contrary:** cowardice  
 **Contradiction:** apparent courage masking cowardice  
-A brave person may feel fear for a moment, but ultimately acts.  
+A brave person may feel fear for a moment, but eventually acts.  
 A coward may perform an apparently courageous act, and that brings the story to an end. For example, a wounded officer orders a cowardly soldier to carry ammunition into a minefield, but the coward instead draws his gun and kills the officer.  
 
 **Maturity:**  

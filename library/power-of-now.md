@@ -82,7 +82,7 @@ Once you observe Being and disentangle yourself from the mind, whether you are r
 Another aspect of the thinking self is its perpetual sense of inadequacy and its search outside itself for wholeness. This gives rise to the pursuit of money, status, and the opposite sex; even when you get what you want, it is like a bottomless abyss that demands more and more.  
 As long as you identify yourself with the mind, there is no inner peace.
 
-The mind is always looking for external things to establish a sense of self: possessions, appearance, skills, knowledge, status, relationships, family, even political, national, racial, and religious identities. Yet all of them are empty and ultimately dissolve.  
+The mind is always looking for external things to establish a sense of self: possessions, appearance, skills, knowledge, status, relationships, family, even political, national, racial, and religious identities. Yet all of them are empty and eventually dissolve.  
 With true wisdom, you can die before you die, and discover that there is no death.
 
 ### Chapter Three: Deeply Entering Being

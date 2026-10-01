@@ -114,3 +114,8 @@ He recommends that fundraising pitches be 20% story and 80% reality, with the na
 In the conclusion, the author synthesizes the entrepreneurial myths this book has debunked and emphasizes that the road to becoming a unicorn begins with a mania for creation. The best preparation is simply to roll up your sleeves, start a company, and get to work: forget all the myths, keep at it, think deeply, and become the next great founder.  
 
 *Finished reading on Jan 27, 2022*
+
+---
+
+Tamaseb uses rigorous data to debunk Silicon Valley’s media myths, revealing the traits, resilience, and problem-solving mechanics that separate billion-dollar unicorns from the rest. But achieving a massive valuation is only the first chapter of a company's history.  
+What happens after the turbulent startup phase is conquered? In [*BE 2.0*](/library/beyond-entrepreneurship), Collins provides a masterclass on the next critical phase: how to transcend the initial entrepreneurial hustle and build the enduring systems, leadership, and "clocks" required to turn a breakthrough startup into a lasting institution.

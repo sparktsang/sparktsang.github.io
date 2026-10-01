@@ -49,7 +49,7 @@ The author takes no position on the pickup technique known as "negging" and leav
 Republican candidate Carly Fiorina exposed the illegal sale of fetal tissue and stated her views on abortion. The author publicly predicted that she had sacrificed herself: people who knew nothing about persuasion would think the strategy was bold and clever, but the problem was that it made people visualize dead babies  
 
 A wizard influences a group of people through a simple discovery, but is eventually arrested and destroyed. Before he dies, he condenses everything he has learned into four words  
-A thousand years later, five wizards in another kingdom simultaneously decipher the four-word secret and rise to power, condensing it into three words more suited to the age. The king also turns his sword against them. They resist the authorities, rally the people to fight, and ultimately accomplish great things  
+A thousand years later, five wizards in another kingdom simultaneously decipher the four-word secret and rise to power, condensing it into three words more suited to the age. The king also turns his sword against them. They resist the authorities, rally the people to fight, and finally accomplish great things  
 The three words are *We the people*  
 The four-word secret is *Turn the other cheek*  
 
@@ -109,7 +109,7 @@ The nicknames Trump created for his rivals were all catchy and consistent with t
 **Low-energy Jeb:** genuinely suggested a lack of energy  
 **Lyin' Ted:** fit an appearance that looked like a liar, establishing an anchor that made everything he said sound like a lie; the unusual spelling of *in'* made it harder for the brain to forget  
 **Crooked Hillary:** can imply either a cheat or a hunched back; the wording was novel and fit the way Hillary had been photographed bent over, and it was fully exploited during Emailgate  
-**Pocahontas:** the name of a Native American princess, mocking Elizabeth Warren, whose claim to Native American ancestry was ultimately proven false; it had enormous visual impact  
+**Pocahontas:** the name of a Native American princess, mocking Elizabeth Warren, whose claim to Native American ancestry was finally proven false; it had enormous visual impact  
 **Lil' Marco:** mocked Marco Rubio for being short and matched his youthful, baby-faced appearance  
 Hillary's own nicknames for Trump all failed: “Donald Duck” was too cute and raised copyright issues involving Donald Duck; “Drumpf” (Trump's family name) carried implications of discrimination against foreign immigrants; “dangerous Trump” could easily be reversed into praise. None of them scored  
 
@@ -146,7 +146,7 @@ Although it made people uncomfortable, after nearly a year everyone had become a
 ## The "Two Ways to Win" Strategy  
 
 In the Trump University fraud case, Trump announced in advance that the judge was Mexican, creating a heads-I-win, tails-I-win situation: if he won, it would be because his advance statement had exerted influence; if he lost, it would prove the other side really was biased  
-The judge, Gonzalo Curiel, ultimately ruled in Trump's favor  
+The judge, Gonzalo Curiel, finally ruled in Trump's favor  
 In January 2016, Iran detained ten American sailors. Trump said that if elected he would make Iran pay a price: if Iran released them, it was because his advance warning had influenced them; if Iran refused to release them, it would make the United States need him even more  
 Brand-licensing deals likewise represent a heads-I-win, tails-I-win strategy  
 Running for president was also a heads-I-win, tails-I-win proposition. As far as the author knew, Trump's life goal at age seventy was becoming more focused on public service; even losing the election could help awaken the public to the importance of border security  

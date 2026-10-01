@@ -190,3 +190,9 @@ You have to believe that you are smart enough to come up with a better idea
 This book is time-sensitive. The number of New Rich is limited, and if you don't act quickly, you'll miss out  
 
 *Finished reading on Dec 31, 2019*  
+
+---
+
+Latka proves that building wealth doesn't require playing by the traditional rules; it requires hacking the system, leveraging hidden assets, and acquiring micro-monopolies.  
+While these tactics can generate rapid cash flow, turning that momentum into a massive enterprise requires a deeper shift in strategy. As Latka notes, the most valuable assets are those with monopolistic characteristics.  
+To understand the underlying philosophy of building these advantages from scratch, [*Zero to One*](/library/0-to-1) by Peter Thiel offers the playbook on how to stop competing, discover hidden secrets, and create a future-defining monopoly.

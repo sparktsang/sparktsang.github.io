@@ -120,13 +120,13 @@ Validate the causality between the two.
 Interview people who are aware of the problem, actively seeking solutions, and could potentially become early users of the product, conducting interviews one-on-one. In Japan, visasQ can be used to make introductions: understand them carefully; act as if you were their apprentice (dig relentlessly with follow-up questions, stay focused on the present, be specific, focus on the process rather than the outcome, confirm the problem rather than discussing solutions, restate what they said to confirm the meaning); pay attention to body language; experience it yourself.  
 Afterward, analyze the interviews using the KJ method (note: also known as an Affinity Diagram).  
 Break the interview material into small units and write them on cards → group the cards → label each group → identify the relationships among groups → write down the actual root causes of the problem in concrete terms.  
-In the example, interviews with people taking online learning courses ultimately produced the following groups: “current learning methods,” “ideal learning methods,” “summary of the gap,” and “reasons for dissatisfaction” (subdivided into problems with content, outcomes, methods, and maintaining motivation).  
+In the example, interviews with people taking online learning courses eventually produced the following groups: “current learning methods,” “ideal learning methods,” “summary of the gap,” and “reasons for dissatisfaction” (subdivided into problems with content, outcomes, methods, and maintaining motivation).  
 The problem to be solved comes from the gap. When an interviewee says, “I only realized it because you asked me,” or discovers the issue during the conversation, that is an insight in itself.  
 Note: analyze from the bottom up, starting with concrete facts; do not rush to define groups. Similar wording does not necessarily mean the same concept. Everything must be classified; do not put items into an “other” category.  
 To avoid convincing yourself of your own hypothesis, interview at least five people; preferably more than twenty.  
 Interview question checklist: Do they meet the criteria for a potential early user? Do they genuinely feel the pain, or are they pretending that the problem matters? Confirm that the pain point exists; how serious it is; whether they have a strong emotional response; their current solution; whether they believe it should be solved; what constraints prevent them from solving it; potential latent problems to be uncovered; how much they would invest to solve it; what they dislike about alternative solutions.  
 For users who are unaccustomed to articulating their problems, try field research: observe their activities in real settings and ask questions at appropriate moments.  
-Even if you ultimately discover that an effective alternative already exists, or that the problem itself is not painful enough, disproving your own hypothesis is still an important form of learning.  
+Even if you finally discover that an effective alternative already exists, or that the problem itself is not painful enough, disproving your own hypothesis is still an important form of learning.  
 
 Appendix: the startup team must also verify that everyone shares the same view of the problem (Founder Problem Fit).  
 Short-term motivations such as money, wanting to prove yourself, or the current popularity of entrepreneurship are difficult to sustain in the long run.  
@@ -282,3 +282,8 @@ The build-measure-learn cycle is always the driving force behind business growth
 The Renaissance began with the establishment of the scientific method. Today, the force having the greatest impact on the world is startup business. Lean Startup is the scientific method for the earliest stage of a startup. The author hopes that this book will make the method more complete and easier to practice, and that readers will send in stories of success, helping make the world a better place.  
 
 *Finished reading on Sep 6, 2021*
+
+---
+
+Tadokoro champions the "Lean Startup" methodology as the scientific tool for entrepreneurs, emphasizing that success comes from rapid iteration, constant pivoting, and listening closely to customer feedback. But is agile adaptation enough to build a truly world-changing company?  
+In [*Zero to One*](/library/0-to-1), legendary founder and investor Peter Thiel argues the exact opposite—claiming that an obsession with "lean" iteration often destroys bold vision. To truly invent the future, Thiel insists we must abandon incremental tweaks and instead pursue radical, contrarian secrets that take us from zero to one.

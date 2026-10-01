@@ -169,7 +169,7 @@ Nick Hanauer, who belongs to the top 0.01%, warns that society has never tolerat
 ### Conclusion  
 
 Economic freedom is a prerequisite for political freedom  
-Franklin once said that those who give up freedom for security will ultimately have neither  
+Franklin once said that those who give up freedom for security will eventually have neither  
 In 1649, John Lilburne co-authored the *Agreement of the People* (often considered the first written constitution), declaring for free trade and against monopoly  
 Americans inherited a hatred of monopoly. The Declaration of Independence severing ties with Britain was originally rooted in hatred of the East India Company’s monopoly  
 If we do not choose reform, we will be forced into revolution  

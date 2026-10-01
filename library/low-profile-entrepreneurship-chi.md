@@ -8,6 +8,7 @@ description: "本筆記助你免受科技創業九死一生之險，大隱於市
 permalink: /library/low-profile-entrepreneurship/chi/
 language: chi
 image: assets/bookcover/low-profile-entrepreneurship.jpg
+infographic: assets/images/low-profile-entrepreneurship-info.png
 ---
 
 English translation [here](/library/low-profile-entrepreneurship){:target="_blank"}. 
@@ -60,3 +61,8 @@ English translation [here](/library/low-profile-entrepreneurship){:target="_blan
 起初，作者報名參加需要篩選的創業課程，被年輕的創業家面試者評論「光看從襪子到領帶的顏色，就看不出任何一點成功的可能性」，另一位年長創業家面試官北野哲正事後致電自己邀約參與，最終獲得創業的勇氣  
 
 5/2/2021 閱畢於星光行誠品  
+
+---
+
+田中祐一證明了跳出企業老鼠圈，無需求助創投基金、建立革命技術、或承擔巨大風險，僅僅需要利用日常技能，默默助人立信，深耕細作。如果你對這種自由、低調之法有所共鳴，下一步理所當然就是了解如何將其化為系統。  
+[《The $100 Startup》](/library/100-startup/chi)一書中延伸了此一哲學，專為這些匠人副業如何昇華為一本多利、衝出異域，成本極微的實業，寫下了可實作的藍圖綱領。

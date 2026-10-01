@@ -7,6 +7,7 @@ title: "Notes on <i>Life Ascending: The Ten Great Inventions of Evolution</i>"
 short_title: "Life Ascending"
 description: From the birth of DNA to the evolution of consciousness and death, how did life engineer its greatest miracles? These notes summarize the 10 most critical evolutionary leaps in Earth's 4-billion-year history, offering a breathtaking perspective on biology.
 image: assets/bookcover/life-ascending.jpg
+infographic: assets/images/life-ascending-info.png
 ---
 
 *Life Ascending: The Ten Great Inventions of Evolution* by Nick Lane

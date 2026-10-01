@@ -5,7 +5,7 @@ classification: Relationship
 order: 4
 title: "Notes on <i>Human Hacking</i>"
 short_title: "Human Hacking"
-description: Discover the ultimate psychological martial arts from a professional social engineer. These notes reveal how to use "human hacking" techniques—like pretexting and elicitation—to build instant rapport, ethically influence others, and protect yourself from manipulation.
+description: Discover the psychological martial arts from a professional social engineer. These notes reveal how to use "human hacking" techniques—like pretexting and elicitation—to build instant rapport, ethically influence others, and protect yourself from manipulation.
 image: assets/bookcover/human-hacking.jpg
 infographic: assets/images/human-hacking-info.png
 ---
@@ -62,7 +62,7 @@ Using these strategies, even someone as experienced as the author can be hacked:
 Example: The author wanted to get into a manager's office and heard the manager arguing on the phone. He entered the reception area and saw the receptionist playing a game, so he kindly warned her that the manager was in a terrible mood. Sure enough, the manager angrily called her over. When she returned, the author told her that she had originally been going to help him open the door because he was about to be late for a meeting with Human Resources. She gave him a look that said, “I know that's not true,” but opened the door for him anyway. She later recalled that she had already been scolded three times while playing the game, and the author had saved her from being scolded a fourth time, which made her especially grateful and willing to break an important security protocol.  
 The example shows that even without a persona, you can influence people through the principle of reciprocity. Sometimes your goal can simply be to provide one of those little moments of happiness that everyone likes, so that the other person likes you.  
 According to *Influence*, besides “reciprocity,” there are the following:  
-“Concessions”: Example: A fundraising woman began by saying that most of the author's neighbors had donated $200. The author ultimately gave $40, yet still felt that he had gotten a bargain. His son always refused breakfast, so one day the author told him he could choose among eggs, cereal, or oatmeal. He made a choice and still felt that he was in control.  
+“Concessions”: Example: A fundraising woman began by saying that most of the author's neighbors had donated $200. The author finally gave $40, yet still felt that he had gotten a bargain. His son always refused breakfast, so one day the author told him he could choose among eggs, cereal, or oatmeal. He made a choice and still felt that he was in control.  
 “Scarcity”: Offer only a few possible meeting times so that people feel you are extremely busy.  
 “Consistency”: Starbucks' customer loyalty rewards program; praise your child's artwork and put it on the wall; ask your partner to tell you how they spend each day, actively listen, and reward them, thereby building a habit.  
 “Social Proof”: A mobile game company used shills to persuade trial users to willingly hand over personal information. When the author broke into another building, simply mentioning another guard's name got him through.  
@@ -70,7 +70,7 @@ According to *Influence*, besides “reciprocity,” there are the following:
 “Liking”: Sometimes, however, failure may not be your fault.  
 Exercise: Get an important person to eat something they believe they would never eat in their life, while also making them feel that their life has become better because they know you.  
 Do not overuse these techniques, or the other person may sense that something is off. Once, the author pretended to be a pest-control worker entering a building. The employee initially let him in and turned away, but he kept talking at length about how spiders would soon swarm out, immediately making the employee suspicious.  
-Even perfect execution is no guarantee of success. The author's team once encountered a security guard who still refused them after they had worn the proper clothing (consistency), told him they had already visited several other buildings and been allowed in (social proof), and even successfully impersonated the security supervisor on the phone telling him that they could enter (authority). The guard examined their cards carefully and ultimately refused them.  
+Even perfect execution is no guarantee of success. The author's team once encountered a security guard who still refused them after they had worn the proper clothing (consistency), told him they had already visited several other buildings and been allowed in (social proof), and even successfully impersonated the security supervisor on the phone telling him that they could enter (authority). The guard examined their cards carefully and finally refused them.  
 
 ### The Lasso of Truth  
 

@@ -7,6 +7,7 @@ short_title: "鋼鐵人馬斯克"
 permalink: /library/musk/chi/
 language: chi
 image: assets/bookcover/musk-chi.jpg
+infographic: assets/images/musk-info.png
 ---
 
 《鋼鐵人馬斯克：從特斯拉到太空探索，大夢想家如何創造驚奇的未來》  
@@ -289,4 +290,4 @@ George Hotz 在自家車庫造出自駕車，因馬斯克一再改聘書而拒�
 
 Vance’s biography reveals how Musk uses relentless first-principles thinking to shatter the stagnation of entrenched industries, almost single-handedly building the infrastructure for humanity's survival.  
 But while individual genius can revolutionize rockets and cars, the survival of civilization cannot depend on the sheer willpower of a few billionaires fighting broken systems. What if we applied this exact ruthless optimization to the operating system of human consensus?  
-*My philosophy* takes first-principles thinking to its ultimate conclusion: [proposing an open-source framework structurally designed to strip away noise and gatekeepers](/philosophy){:target="_blank"}, accelerating the survival of truth.
+*My philosophy* takes first-principles thinking to its final conclusion: [an open-source framework structurally designed to strip away noise and gatekeepers](/philosophy){:target="_blank"}, accelerating the survival of truth.

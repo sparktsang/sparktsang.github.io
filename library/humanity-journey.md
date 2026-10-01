@@ -5,7 +5,7 @@ classification: History
 order: 7
 title: "Notes on <i>The Journey of Humanity</i>"
 short_title: "The Journey of Humanity"
-description: How did humanity escape the Malthusian trap, and why is global wealth so unequal? These notes distill a unified theory of human history, exploring how geography, demographics, and institutions shaped the ultimate economic destiny of nations.
+description: How did humanity escape the Malthusian trap, and why is global wealth so unequal? These notes distill a unified theory of human history, exploring how geography, demographics, and institutions shaped the final economic destiny of nations.
 image: assets/bookcover/humanity-journey.jpg
 infographic: assets/images/humanity-journey-info.png
 ---
@@ -27,8 +27,8 @@ A larger population makes society more complex; technological progress triggers 
 The Industrial Revolution unleashed wave after wave of invention and innovation. With the spread of education, human capital was formed on an unprecedented scale in human history. Previously, education was the preserve of the upper classes, and when it was made more widely available, it was intended for specific social purposes rather than to help individuals make a living. The causal relationship between the two can be demonstrated through quasi-natural historical experiments: in France, for example, places closer to a remote location where the first steam engine appeared had more steam engines, and the increase had a more positive effect on school enrollment and literacy.  
 As noted above, improvements in population quality drove further technological innovation. This can be supported by evidence from encyclopedia subscriptions in French towns and, a century later, technological innovation by companies, as well as the effect of the number of engineers in different countries on income per capita. It also helps explain why, although many countries possessed abundant coal, only Britain experienced an Industrial Revolution.  
 
-Marx predicted that intensifying competition among capitalists would inevitably worsen the exploitation of workers and ultimately lead to revolt.  
-There are explanations for why this prediction failed: one holds that industrialized countries, seeing the danger, took steps to reduce inequality. Another argues that investment in human capital was becoming increasingly important, leading industrialists, parents, and workers to form an alliance based on their common interests against the resistance of landowners, the only group unable to benefit. This ultimately produced a revolution in the spread of education; policies banning child labor were a parallel product.  
+Marx predicted that intensifying competition among capitalists would inevitably worsen the exploitation of workers and eventually lead to revolt.  
+There are explanations for why this prediction failed: one holds that industrialized countries, seeing the danger, took steps to reduce inequality. Another argues that investment in human capital was becoming increasingly important, leading industrialists, parents, and workers to form an alliance based on their common interests against the resistance of landowners, the only group unable to benefit. This eventually produced a revolution in the spread of education; policies banning child labor were a parallel product.  
 
 In the second half of the nineteenth century, the Demographic Transition took place: birth rates in wealthy countries fell sharply, breaking the millennia-old rule that fertility rose with income and thereby escaping the Malthusian trap.  
 In ancient times, income and the cost of raising children dominated decisions about childbearing. Under the Industrial Revolution, however, human capital became extraordinarily important, greatly increasing the returns to investing resources in each child, reinforced by longer life expectancy and lower child mortality.  

@@ -209,4 +209,5 @@ Howard Hughes 律師庭上強調不能把適用你我的標準放在他上，法
 ---
 
 Thiel challenges us to abandon broken models and achieve a "0 to 1" breakthrough to save the future. He famously asks: *what important truth do you know that the world ignores?*  
-But what happens when the world’s fundamental architecture is structurally designed to crush those very truths before they can ever be heard? To truly invent the future, we need more than a 0 to 1 innovation in business. *My philosophy* proposes the ultimate 0 to 1 paradigm shift for human civilization: [a completely new structural framework where truth no longer relies on privilege](/philosophy){:target="_blank"}, but survives solely by withstanding the ultimate test of refutation.  
+But what happens when the world’s fundamental architecture is structurally designed to crush those very truths before they can ever be heard?  
+To truly invent the future, we need more than a 0 to 1 innovation in business. *My philosophy* proposes the ultimate 0 to 1 paradigm shift for human civilization: [a new structural framework where truth no longer relies on privilege](/philosophy){:target="_blank"}, but survives solely by withstanding the ultimate test of refutation.  

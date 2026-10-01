@@ -48,7 +48,7 @@ In an age when the future is difficult to predict, acting on forecasts will only
 The paradox at the heart of prediction: we want predictions because, if something happens that was not predicted, it will be difficult to control; if the future were simply going to continue along the path of recent years, there would be no need to predict it  
 Even population changes, despite being grounded in detailed statistical data, are predicted disastrously badly  
 Based on the author's 20 years of experience in the management consulting industry, his impression is that companies that commission management consulting firms to predict the future often go on to be acquired or suffer a rapid decline in performance  
-In 1984, AT&T, acting on McKinsey's forecast of the size of the mobile-phone market in 2000 (900,000 units, when the actual market size easily surpassed 100 million), sold its mobile-phone business; ultimately, it failed to keep up with the mobile communications trend and was acquired by SBC, the company spun off and sold by AT&T  
+In 1984, AT&T, acting on McKinsey's forecast of the size of the mobile-phone market in 2000 (900,000 units, when the actual market size easily surpassed 100 million), sold its mobile-phone business; eventually, it failed to keep up with the mobile communications trend and was acquired by SBC, the company spun off and sold by AT&T  
 Old Types who predict whose jobs will be taken by artificial intelligence will only be led around by changes in the environment; New Types instead think about how to use technology to solve issues, turn change into opportunity, and create abundance  
 
 ### In Praise of Meaning  
@@ -101,7 +101,7 @@ This shows that both excessive clarification of the market for a product's uses 
 Nobel Prize-winning writer Hermann Hesse pointed out that capriciousness is the highest virtue; Rosa Parks's "unreasonable" refusal to give up her seat triggered the civil rights movement and radically changed the prevailing norms, whereas people before the event now appear ignorant, foolish, and barbaric  
 Old norms have failed to keep pace with the new era and can produce devastating consequences  
 Young people have gone bankrupt collecting capsule toys, while the WELQ website provided medical information but was flooded with errors and punished by society, showing that existing regulations cannot keep up with the times; natural-law theory (in which the rightness or wrongness of the law itself is subject to review, in contrast to the "legal positivist" way of thinking that relies only on written laws), and a way of thinking that makes "capricious" judgments by following internalized values of truth, goodness, and beauty, will become increasingly important  
-Google's "Don't Be Evil" credo proved effective: when the company provided the U.S. military with drone image-recognition technology, it faced massive internal protests, and top management ultimately established the principle that artificial intelligence would not be used for weapons  
+Google's "Don't Be Evil" credo proved effective: when the company provided the U.S. military with drone image-recognition technology, it faced massive internal protests, and top management eventually established the principle that artificial intelligence would not be used for weapons  
 
 ### The Uselessness of Quantification  
 
@@ -199,7 +199,7 @@ Heuristics based on experience work only when similar cases have occurred in the
 Psychologist Raymond Cattell's framework of "fluid intelligence" (analysis, logic) and "crystallized intelligence" (wisdom, experience): the former peaks before age 20, while the latter peaks around age 60; therefore, in stable societies, elders around 60 are respected, and unprecedented problems are solved by young people, but today's society has changed radically  
 In an age when experience rapidly depreciates, it is replaced by learning agility; the point of this kind of "learning" is not "remembering" but "forgetting," resetting experience to zero  
 The difficulty is that acquiring a pattern-recognition framework in the first place required considerable cost, creating what is known as the sunk-cost cognitive bias; and the pressure of admitting failure is enormous  
-Before GAFA (Google, Apple, Facebok and Amazon), many pioneering companies accumulated extensive experience, knowledge, and talent, yet ultimately lost precisely because of the experience and knowledge they had accumulated  
+Before GAFA (Google, Apple, Facebok and Amazon), many pioneering companies accumulated extensive experience, knowledge, and talent, yet eventually lost precisely because of the experience and knowledge they had accumulated  
 
 ### Declaring War on the Old Guard   
 

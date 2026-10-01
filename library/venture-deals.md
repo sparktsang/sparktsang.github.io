@@ -4,7 +4,7 @@ category: "Library"
 classification: Entrepreneurship
 title: "Notes on <i>Venture Deals</i>"
 short_title: "Venture Deals"
-description: The ultimate fundraising survival guide for founders. These notes decode the power struggles behind term sheets, explaining valuation traps, liquidation preferences, and board control to help you negotiate with VCs on equal footing.
+description: The fundraising survival guide for founders. These notes decode the power struggles behind term sheets, explaining valuation traps, liquidation preferences, and board control to help you negotiate with VCs on equal footing.
 image: assets/bookcover/venture-deals.webp
 ---
 
@@ -36,7 +36,7 @@ The second valuation trap: a venture capital firm may want the employee stock-op
 Suppose the pre-money valuation is $20 million, the venture capital firm invests $5 million, and the existing option pool represents 10% of the reserved but unissued shares. The venture capital firm wants it to be 20%. The additional 10% must therefore come out of the pre-money valuation, reducing the valuation from $20 million to $18 million.  
 In negotiations, you can start with the size of the pool, asking for 15% rather than 20%. You can also start with the pre-money valuation: agree to 20%, but increase the price to $22 million, or move the additional percentage into the post-money calculation.  
 A warrant is the right to purchase a certain number of shares at a predetermined price during a specified period. Adding warrants to a fundraising often creates unnecessary complexity and accounting problems later, especially in the early stages.  
-In later fundraising rounds, existing investors often insist that new investors come in at a higher price in order to minimize dilution. But if no new investors can be found, the round will usually be done at the same price as the previous round—a flat round—or at a lower price—a down round. Ultimately, new investors will look at whether the existing investors are willing to put in more money and will offer the lowest price at which they believe the deal can be completed.  
+In later fundraising rounds, existing investors often insist that new investors come in at a higher price in order to minimize dilution. But if no new investors can be found, the round will usually be done at the same price as the previous round—a flat round—or at a lower price—a down round. Eventually, new investors will look at whether the existing investors are willing to put in more money and will offer the lowest price at which they believe the deal can be completed.  
 A venture capitalist’s valuation takes into account the company’s stage of development, whether there are other sources of capital available (competition naturally drives the price up), the founder’s track record and the team, the numbers (historical performance, future projections, revenue, EBITDA), and the economic environment.  
 
 Mergers, acquisitions, and changes of control are all liquidation events. After price, the key economic-interest term is liquidation preference. Venture capital firms generally want this right. The customary term is a 1× liquidation preference. During the dot-com bubble in 2001, investors repeatedly pushed the multiple higher, at one point reaching as high as 10×, before eventually returning to normal.  
@@ -121,7 +121,7 @@ IPO share purchase: “In the event that the Company undertakes a Qualified Publ
 This provision was widespread in the late 1990s, when companies raising money from venture capitalists could often go public within a short period. However, most investment banks, seeing how fierce the IPO market was, would block the provision. Venture capitalists were usually so intoxicated by the prospect of the stock going public that they had no objection. The advice is that founders should not worry about this provision.  
 
 A no-shop agreement is like a marriage agreement prohibiting infidelity. It is designed to prevent founders from agreeing to a term sheet and then going off to work with someone else.  
-In my experience, no-shop agreements are ultimately almost irrelevant. The character and personality of the people involved in the investment can produce radically different outcomes and are much more important than legal provisions.  
+In my experience, no-shop agreements are eventually almost irrelevant. The character and personality of the people involved in the investment can produce radically different outcomes and are much more important than legal provisions.  
 Founders should also require that the no-shop agreement become void if the venture capitalist terminates the process, and should consider requesting an exception for an acquisition.  
 
 An indemnification provision provides that if any third party, including any other shareholder of the company, brings a claim against an investor arising from the financing, the company will indemnify the members of the board and each investor.  
@@ -195,7 +195,7 @@ When a buyer proposes an asset deal, they are intentionally trying to avoid taki
 
 Asset deals are common when the economy is on shaky ground. For the seller, the most fundamental problem is that the company has not really been sold; what remains is a shell, along with the contracts, liabilities, and tax filings.  
 A stock deal means buying the entire company. The seller’s company is folded into the buyer’s corporate structure, leaving behind little more than a pile of corporate uniforms and the corporate logo that once hung on the wall.  
-Letters of intent usually begin by stating that the deal will be an asset deal, making that a major point of contention. A smart seller then prevails, and the deal ultimately closes as a stock deal.  
+Letters of intent usually begin by stating that the deal will be an asset deal, making that a major point of contention. A smart seller then prevails, and the deal finally closes as a stock deal.  
 
 If someone wants to buy your company with unlisted stock, then thank you very much—but have you ever seen an acquirer walk in offering to exchange a free software product for your company’s assets?  
 

@@ -427,4 +427,4 @@ Alexis de Tocqueville, *Democracy in America*
 ---
 
 Fukuyama concludes that political institutions decay when "cognitive imbalance" prevents them from adapting to new realities. But how can any political order adapt if its foundational system for processing truth is structurally paralyzed by noise and gatekeepers?  
-To prevent the ultimate decay of our civilization, *my philosophy* argues that we must evolve beyond mere political accountability, establishing [a structural framework that holds society accountable to the truth itself](/philosophy){:target="_blank"}.
+To prevent the decay of our civilization, *my philosophy* argues that we must evolve beyond mere political accountability, establishing [a structural framework that holds society accountable to the truth itself](/philosophy){:target="_blank"}.

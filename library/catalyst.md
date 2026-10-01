@@ -171,4 +171,4 @@ For example, if the goal is to get a son to eat vegetables, the external driving
 
 Berger demonstrates that changing deeply entrenched beliefs isn't about pushing harder, but about acting as a catalyst to remove psychological barriers and friction.  
 Yet, while these techniques work on individuals, how do we change the mind of an entire civilization that is structurally wired to reject the truth?  
-*My philosophy* proposes the ultimate societal catalyst: [a decentralized framework designed to bypass systemic gatekeepers](/philosophy){:target="_blank"} and reduce the friction of validating truth to a minimum.
+*My philosophy* proposes the final societal catalyst: [a decentralized framework designed to bypass systemic gatekeepers](/philosophy){:target="_blank"} and reduce the friction of validating truth to a minimum.

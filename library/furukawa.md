@@ -332,7 +332,7 @@ Taking action brings you closer to what you want to do
 　　   * Daily level: challenge it for a week first; if you feel tired of it, feel free to quit.  
 　　   * Lifestyle level: try it for one month.  
 　　　　　　一 week or one month is only an example. The goal is to make it easy for yourself to take action. Besides time limits, setting a number of times is equally effective.  
-　* Baby steps: refer to the author’s previous work *The Art of Continuation That Changes Your Life*. If you are confused about where to begin, first set a tiny step that you are absolutely capable of taking. Even a single small step can give you more clues and inspiration.  
+　* Baby steps: refer to the author’s previous work *The Art of Continuation That Changes Your Life*. If you are confused about where to begin, first set a tiny step that you are capable of taking. Even a single small step can give you more clues and inspiration.  
 　　   * Example: buying a villa in Europe. Small steps you can take include asking online how to do it; consulting an overseas real-estate company; buying European travel guides and choosing cities suitable for living, and so on.  
 　　   * Mini-experiences, listening to your inner voice: for example, test-driving the car you desire or visiting a home you admire. You can find out whether it is something you truly desire.  
 

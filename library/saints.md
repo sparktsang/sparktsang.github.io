@@ -62,7 +62,7 @@ From its beginnings, Buddhism never recognized a boundary between philosophy and
 
 ### Confucius  
 
-At thirty-two, he was appointed to teach the rites of antiquity. At thirty-three, he went to the capital, Luoyang, to study ritual customs and traditions. At fifty-one, he returned to political life and became Grand Minister of Justice of Lu. At fifty-six, he served as acting prime minister. With Confucius's assistance, Duke Ding of Lu gradually increased his power. Fearing this, Qi selected eighty beautiful women skilled in singing and dancing, together with forty teams of fine horses, and sent them to the ruler of Lu. From then on, the duke neglected government and would no longer follow Confucius's counsel. Confucius resigned his position and left the state, traveling among the various states for twelve years. He never found a ruler who would put his way into practice and ultimately died without seeing his ideal realized.  
+At thirty-two, he was appointed to teach the rites of antiquity. At thirty-three, he went to the capital, Luoyang, to study ritual customs and traditions. At fifty-one, he returned to political life and became Grand Minister of Justice of Lu. At fifty-six, he served as acting prime minister. With Confucius's assistance, Duke Ding of Lu gradually increased his power. Fearing this, Qi selected eighty beautiful women skilled in singing and dancing, together with forty teams of fine horses, and sent them to the ruler of Lu. From then on, the duke neglected government and would no longer follow Confucius's counsel. Confucius resigned his position and left the state, traveling among the various states for twelve years. He never found a ruler who would put his way into practice and died without seeing his ideal realized.  
 
 He held that learning and thought must complement one another: "I once went a whole day without eating and a whole night without sleeping, thinking. It was of no use; it would have been better to learn. To learn without thinking is to be lost; to think without learning is to be in peril."  
 
@@ -146,7 +146,7 @@ Nietzsche: the Kingdom of God is a psychological state—a state of happiness. I
 
 His unwavering faith brought his soul into a state that is difficult to comprehend: he lived in the earthly world, yet what propelled him was a profound force beyond the world. This independent character, simultaneously detached from the world and engaged in it, produced an extraordinary serenity and peace.  
 
-The results of Jesus's preaching were unimpressive. Once he was killed, his disciples scattered in all directions, yet he ultimately became an object of faith and a model for others.  
+The results of Jesus's preaching were unimpressive. Once he was killed, his disciples scattered in all directions, yet he eventually became an object of faith and a model for others.  
 
 ### Conclusion  
 

@@ -259,4 +259,4 @@ English translation [here](/library/socrates){:target="_blank"}.
 ---
 
 Socrates demonstrated that the pursuit of truth requires the ruthless examination of every claim and the courage to expose the ignorance of systemic gatekeepers. But while Socrates fought this battle alone in the Athenian agora, today's truth remains trapped behind infinitely more complex walls of noise and privilege.  
-Taking the Socratic method to its ultimate, structural conclusion, *my philosophy* proposes [a decentralized framework where all claims must survive the exact kind of relentless](/philosophy){:target="_blank"}, open-source refutation he died defending.
+Taking the Socratic method to its final structural conclusion, *my philosophy* proposes [a decentralized framework where all claims must survive the exact kind of relentless](/philosophy){:target="_blank"}, open-source refutation he died defending.

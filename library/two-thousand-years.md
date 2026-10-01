@@ -36,7 +36,7 @@ Everyone was required to farm, migration was prohibited, and rewards were given 
 Scholars, merchants, and artisans were regarded as harmful to the state  
 In the end, Qin conquered the six eastern states where Confucian teachings were widespread  
 After Qin Shi Huang unified the six states, he failed to reform in time  
-Surplus labor was used only for massive construction projects, contributing nothing to the national economy and ultimately hastening the dynasty's collapse  
+Surplus labor was used only for massive construction projects, contributing nothing to the national economy and eventually hastening the dynasty's collapse  
 
 ### Han  
 
@@ -80,7 +80,7 @@ The northern campaigns were in line with popular sentiment
 The foundations for harvesting the people's wealth had been laid under the Rule of Wen and Jing  
 
 Emperor Guangwu seized the throne with the support of powerful clans  
-But after succeeding, he tried once again to suppress the great clans and ultimately could not eliminate them  
+But after succeeding, he tried once again to suppress the great clans and could not eliminate them  
 The Han court consequently declined, and at the end of the Han, heroes from all sides vied for control of the Central Plains  
 By the late Wei and Jin, the great clans had become deeply corrupt  
 
@@ -177,14 +177,14 @@ Qiu Jun advocated securing the wealth of the people and argued that the court sh
 Wang Yangming proposed that the four traditional occupations (scholars, farmers, artisans, and merchants) pursued different trades but shared the same *Dao*  
 
 During the Wanli era, the privileged economy reached its peak. The emperor personally ordered eunuchs to engage in commerce, known as "imperial shops," competing with the people for profit; the mining tax became little more than outright robbery  
-Rebellions erupted everywhere. Local officials and the merchant class alike opposed the tyranny, and there were even cases in which people resisted orders and killed tax collectors, only to receive lenient treatment from local officials, which can be seen as evidence that civil society had matured, although it ultimately failed  
+Rebellions erupted everywhere. Local officials and the merchant class alike opposed the tyranny, and there were even cases in which people resisted orders and killed tax collectors, only to receive lenient treatment from local officials, which can be seen as evidence that civil society had matured, although it finally failed  
 At the same time, in 1610 the English king issued an order restricting economic activity. The subjects successfully lodged complaints and petitions, opening the door to the rule of law and constitutional government  
 
 ### Qing  
 
 The Manchus did not trust the Han Chinese and only promoted those who had submitted early or had special ties, creating the Eight Imperial Merchants  
 The Fan family reached its height among them, with most of its businesses connected to the court  
-But by the Qianlong era, their usefulness had been exhausted, and family's property was ultimately confiscated  
+But by the Qianlong era, their usefulness had been exhausted, and family's property was confiscated  
 The so-called era of prosperity was merely the cyclical revival of a centralized system. Chinese society remained ultra-stable and evolved in a flat, gradual manner, without any fundamental breakthrough, following the law that seventy years of stability would necessarily bring renewed prosperity  
 During the same period, the West experienced an explosion of intellect and explosive growth, while the Qing launched literary inquisitions  
 Qiao Guifa made his fortune from what was China's earliest grain futures trading: if there were two bumper harvests in five years, profits could multiply several times over  

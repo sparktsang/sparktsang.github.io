@@ -285,5 +285,5 @@ At the end of the book, the author urges humanity not to mistake stories for tre
 
 ---
 
-Pinker urges us to defend reason and humanism against the rising tide of irrationality, portraying human progress as our ultimate heroic epic. But pleading for reason is no longer enough when the architecture of our world is structurally designed to drown out the truth.  
+Pinker urges us to defend reason and humanism against the rising tide of irrationality, portraying human progress as our defining heroic epic. But pleading for reason is no longer enough when the architecture of our world is structurally designed to drown out the truth.  
 To continue this progress, *My philosophy* argues that we need more than optimism—we need a new, [open-source framework where truth no longer has to beg for survival](/philosophy){:target="_blank"}.

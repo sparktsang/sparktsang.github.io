@@ -8,6 +8,7 @@ short_title: "《連結：從石器時代到 AI 紀元》"
 permalink: /library/nexus/chi/
 language: chi
 image: assets/bookcover/nexus.png
+infographic: assets/images/nexus-info.png
 ---
 
 《連結：從石器時代到 AI 紀元》  

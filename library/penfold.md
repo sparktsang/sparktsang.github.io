@@ -90,7 +90,7 @@ Layering indicators on top of one another creates enormous numbers of variables.
 Traders need to find objective, fixed trend and retracement measures with built-in safeguards.  
 There are certainly cases where subjective tools produce profits, but they are usually simple methods.  
 If you use them, do not alter their factory settings; let them remain as independent and consistent as possible.  
-In Art Collins's *Beating the Financial Futures Market*, the mechanical trader Charlie Wright, who had been involved in the markets for more than 30 years, made this observation: what our research found most fascinating was that indicators ultimately turned out to be completely useless.  
+In Art Collins's *Beating the Financial Futures Market*, the mechanical trader Charlie Wright, who had been involved in the markets for more than 30 years, made this observation: what our research found most fascinating was that indicators finally turned out to be completely useless.  
 Trading methods can complement and reinforce one another, such as developing two independent and complementary trend-following and counter-trend methods and combining them to produce a smoother equity curve.  
 
 Most winners use strategies that are structurally simple, objective, and measurable (of course, there are always exceptions).  
