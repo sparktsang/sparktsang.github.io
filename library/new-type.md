@@ -8,6 +8,7 @@ short_title: "The Age of the New Type"
 title_obvious: false
 description: Discover why logic and efficiency are no longer enough in a rapidly changing world. These notes reveal how "New Types" leverage aesthetics, intuition, and meaning-creation to thrive in an era of material surplus and unpredictable volatility.
 image: assets/bookcover/new-type.png
+infographic: assets/images/new-type-info.png
 ---
 
 *The Age of the New Type* by Shu Yamaguchi

@@ -231,3 +231,8 @@ Later, the IRS introduced tax rule 409A, imposing huge penalties for inaccurate 
 Ironically, tax revenue comes from corporate profits, yet this tax rule actually reduced the IRS’s revenue.  
 
 *Finished reading on Dec 4, 2019*
+
+---
+
+Feld’s guide arms you with the legal and financial literacy needed to survive the negotiation table, protect your equity, and secure the capital required to grow. But surviving the term sheet is only half the battle. Once the money is in the bank, the real test begins: building something people actually want.  
+To ensure that your hard-won capital isn't wasted on building the wrong product, [*Startup Science*](/library/startup-science) maps out the next critical phase, providing a rigorous, step-by-step methodology for validating your market, building the right MVP, and scaling your business without burning through your runway.

@@ -11,6 +11,7 @@ description: |
 permalink: /library/pinker/chi/
 language: chi  
 image: assets/bookcover/pinker-chi.jpg
+infographic: assets/images/pinker-info.png
 target_blank: true
 ---
 

@@ -3,6 +3,7 @@ layout: post
 category: "Artifacts"
 order: 4
 title: Zen Watermark
+article_title: "The Friction Cartel: An Artifact of the Last Human"
 app_title: Image Watermark Generator
 description: | 
   Reclaiming ownership without the ransom. 

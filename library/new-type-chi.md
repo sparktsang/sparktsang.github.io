@@ -11,6 +11,7 @@ description: |
 permalink: /library/new-type/chi/
 language: chi
 image: assets/bookcover/new-type.jpg
+infographic: assets/images/new-type-info.png
 ---
 
 山口周《成為新人類：24個明日菁英的嶄新定義》  
