@@ -12,6 +12,7 @@ description: |
 permalink: /library/planet-masters/chi/  
 language: chi  
 image: assets/bookcover/planet-masters-chi.jpg
+infographic: assets/images/planet-masters-info.png
 ---
 
 《人類崛起：從直立行走、煮食生活到抽象語言，演化如何造就了現在的我們？》  

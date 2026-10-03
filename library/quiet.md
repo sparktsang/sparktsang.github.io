@@ -7,6 +7,7 @@ title: 'Notes on <i>Quiet</i>'
 short_title: "Quiet"
 description: Discover why the world desperately needs introverts and how quiet reflection drives true innovation. These notes dismantle the "extrovert ideal", providing scientific insights and empowering strategies for introverts to thrive on their own terms.
 image: assets/bookcover/quiet.jpg
+infographic: assets/images/quiet-info.png
 ---
 
 *Quiet: The Power of Introverts in a World That Can’t Stop Talking* by Susan Cain

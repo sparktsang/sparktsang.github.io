@@ -12,6 +12,7 @@ description: |
 permalink: /library/penfold/chi/
 language: chi
 image: assets/bookcover/penfold-chi.jpg
+infographic: assets/images/penfold-info.png
 ---
 
 《交易聖經：六大交易致勝通則，建立持續獲利的贏家模式》

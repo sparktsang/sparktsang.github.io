@@ -6,6 +6,7 @@ title: "Notes on <i>Process Economy: The Value of Your Story</i>"
 short_title: "Process Economy"
 description: Great products are no longer enough; today, you have to sell the "process". These notes flip traditional marketing on its head, explaining why modern consumers crave participation over perfection, and showing you how to build a fiercely loyal fanbase by sharing your journey.
 image: assets/bookcover/process-economy-eng.jpg
+infographic: assets/images/process-economy-info.png
 ---
 
 *Process Economy: The Value of Your Story* by Kazuhiro Obara

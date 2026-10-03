@@ -11,6 +11,7 @@ description: |
 permalink: /library/quiet/chi/
 language: chi
 image: assets/bookcover/quiet-chi.webp
+infographic: assets/images/quiet-info.png
 ---
 
 《安靜，就是力量：內向者如何發揮積極的力量》  

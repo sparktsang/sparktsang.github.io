@@ -8,6 +8,7 @@ short_title: "紫牛"
 permalink: /library/purple-cow/chi/
 language: chi
 image: assets/bookcover/purple-cow.png
+infographic: assets/images/purple-cow-info.png
 ---
 
 《紫牛》  

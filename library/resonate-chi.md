@@ -11,6 +11,7 @@ description: |
 permalink: /library/resonate/chi/
 language: chi
 image: assets/bookcover/resonate.png
+infographic: assets/images/resonate-info.png
 ---
 
 《簡報女王的故事力！矽谷最有說服力的不敗簡報聖經》  

@@ -9,6 +9,7 @@ description: "巧合相隨，絕非互為因果。本筆記召來計量經濟之
 permalink: /library/power-of-data-analysis/chi/
 language: chi
 image: assets/bookcover/power-of-data-analysis.png
+infographic: assets/images/power-of-data-analysis-info.png
 ---
 
 English translation [here](/library/power-of-data-analysis){:target="_blank"}. 

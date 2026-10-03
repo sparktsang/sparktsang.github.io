@@ -6,6 +6,7 @@ title: "Notes on <i>The Power of Proactive Sales</i>"
 short_title: "The Power of Proactive Sales"
 description: Transform your sales approach by taking control of the conversation rather than bowing to the customer. These notes reveal psychological tactics and proactive scripts that eliminate hesitation and drive customers to an enthusiastic "yes".
 image: assets/bookcover/proactive-sales-eng.png
+infographic: assets/images/proactive-sales-info.png
 ---
 
 *The Power of Proactive Sales* by Rinka Gojo

@@ -7,6 +7,7 @@ title: "Notes on Koichiro Ito's <i>The Power of Data Analysis: How to Approach C
 short_title: "The Power of Data Analysis"
 description: "Stop confusing correlation with causation in your decision-making. These notes break down advanced econometric tools—like Randomized Controlled Trials and natural experiments—into accessible strategies for making foolproof, data-driven business choices."
 image: assets/bookcover/power-of-data-analysis.jpg
+infographic: assets/images/power-of-data-analysis-info.png
 ---
 
 Original notes [here](/library/power-of-data-analysis/chi){:target="_blank"}. 

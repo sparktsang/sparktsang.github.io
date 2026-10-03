@@ -8,6 +8,7 @@ short_title: "The Universal Principles of Successful Trading"
 nav_title: The Universal Principles of Trading
 description: "Master the true mathematics of consistent profitability and risk management. These notes strip away the illusions of market prediction, offering a mechanical, expectancy-driven framework used by trading professionals to survive and conquer."
 image: assets/bookcover/penfold.jpg
+infographic: assets/images/penfold-info.png
 ---
 
 *The Universal Principles of Successful Trading: Essential Knowledge for All Traders in All Markets* by Brent Penfold

@@ -10,6 +10,7 @@ description: |
 permalink: /library/proactive-sales/chi/
 language: chi
 image: assets/bookcover/proactive-sales.png
+infographic: assets/images/proactive-sales-info.png
 ---
 
 五丈凜華《頂尖業務必備的主導式銷售力》  

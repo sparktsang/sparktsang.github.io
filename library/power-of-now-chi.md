@@ -12,7 +12,7 @@ description: |
 permalink: /library/power-of-now/chi/
 language: chi
 image: assets/bookcover/power-of-now.webp
-cover: eng
+infographic: assets/images/power-of-now-info.png
 ---
 
 《當下的力量：找回每時每刻的自己》  
