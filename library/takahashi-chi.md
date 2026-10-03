@@ -4,6 +4,7 @@ category: "Library"
 classification: Politics
 title: "高橋洋一《地緣政治》閱讀筆記"
 short_title: "地緣政治：主權、資源與戰爭"
+nav_title: 地緣政治
 title_obvious: false
 permalink: /library/takahashi/chi/
 language: chi

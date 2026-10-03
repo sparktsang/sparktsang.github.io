@@ -3,15 +3,15 @@ layout: post
 category: "Library"
 classification: Relationship
 order: 1
-title: "《哈佛✕ Google 行為科學家的脫單指南》閱讀筆記"
-short_title: "哈佛✕ Google 行為科學家的脫單指南"
+title: "《哈佛✕Google 行為科學家的脫單指南》閱讀筆記"
+short_title: "哈佛✕Google 行為科學家的脫單指南"
 permalink: /library/not-die-alone/chi/
 language: chi
 image: assets/bookcover/not-die-alone-chi.jpg
 infographic: assets/images/not-die-alone-info.png
 ---
 
-《哈佛✕ Google 行為科學家的脫單指南》  
+《哈佛✕Google 行為科學家的脫單指南》  
 *How to Not Die Alone: The Surprising Science That Will Help You Find Love* by Logan Ur
 
 English translation [here](/library/not-die-alone){:target="_blank"}. 

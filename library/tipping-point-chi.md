@@ -5,6 +5,7 @@ classification: Marketing
 order: 5
 title: "《引爆趨勢：小改變如何引發大流行》閱讀筆記"
 short_title: "引爆趨勢：小改變如何引發大流行"
+nav_title: 引爆趨勢
 permalink: /library/tipping-point/chi/
 language: chi
 image: assets/bookcover/tipping-point.jpg

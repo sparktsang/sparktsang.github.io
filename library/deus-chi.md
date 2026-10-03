@@ -5,6 +5,7 @@ classification: History
 order: 2
 title: "《人類大命運：從智人到神人》閱讀筆記"
 short_title: "人類大命運：從智人到神人"
+nav_title: 人類大命運
 description: |
   天以道生萬物，人以虛馭天下。
   教、法、國、帝、幣，盡為虛構故事。

@@ -4,6 +4,7 @@ category: "Library"
 classification: Science
 title: "《性、謊言、柏金包：女性欲望的新科學》閱讀筆記"
 short_title: "性、謊言、柏金包：女性欲望的新科學"
+nav_title: 性、謊言、柏金包
 permalink: /library/untrue/chi/
 language: chi
 image: assets/bookcover/untrue-chi.jpg

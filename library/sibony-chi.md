@@ -4,6 +4,7 @@ category: "Library"
 classification: Entrepreneurship
 title: "《不當決策：行為經濟學大師教你避開人性偏誤》閱讀筆記"
 short_title: "不當決策：行為經濟學大師教你避開人性偏誤"
+nav_title: 不當決策
 description: |
   智慮絕倫，何以仍會一子錯落，致令基業分崩？
   本筆記與你借「行為經濟學」之明鏡，照破商戰中蒙蔽人心的重重迷障之下，為何師心自用則劫數難逃，決策架構則立於不敗——

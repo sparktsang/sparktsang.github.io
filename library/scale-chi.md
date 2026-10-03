@@ -5,6 +5,7 @@ classification: Science
 order: 1
 title: "《規模：複雜世界的簡單法則》閱讀筆記"
 short_title: "規模：複雜世界的簡單法則"
+nav_title: 規模
 description: |
   萬法皆數，天規處處。
   生物受次線性之限，城市得超線性之助，造化有度，盈虛同律。

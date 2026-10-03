@@ -112,7 +112,7 @@ The research in this book finds that men score significantly higher than women i
 
 One of the most effective ways to move people is to stir negative and positive emotions simultaneously: make people disappointed with the present while making them excited about the future.  
 
-Emotions are not all equal. *Contagious* mentions that arousing intense emotions helps information spread online, including excitement, joy, anxiety, and anger.  
+Emotions are not all equal. [*Contagious*](/library/contagious) mentions that arousing intense emotions helps information spread online, including excitement, joy, anxiety, and anger.  
 
 In 2009, celebrity chef Jamie Oliver wanted to improve eating habits in Huntington, West Virginia, one of the towns in the United States with the unhealthiest diets. In front of families, he displayed a disgusting mountain of fat.  
 
@@ -208,6 +208,6 @@ A pilot study of 300 people was conducted first to screen for important factors.
 
 Limitations and how they were addressed: respondents were not studied in sufficient depth (120 case interviews were added); the evaluation subject was favored (making it appear to be a habitual survey); reverse causality (valid only for some relationships, such as the fact that high efficiency does not necessarily make work decrease); probability (some people scored highly on all seven mindsets yet performed poorly, while others performed well without practicing the seven mindsets).  
 
-Works mentioned here: Richard Scott, *Organizations and Organizing*; Julian Birkinshaw, *Reinventing Management*; Thomas Malone, *The Future of Work*; Linda Gratton, *The Shift*; James March, “Exploration and Exploitation in Organizational Learning”; *Influence*; Angela Duckworth.  
+Works mentioned here: Richard Scott, *Organizations and Organizing*; Julian Birkinshaw, *Reinventing Management*; Thomas Malone, *The Future of Work*; Linda Gratton, *The Shift*; James March, “Exploration and Exploitation in Organizational Learning”; [*Influence*](/library/influcence/); [Angela Duckworth](/library/grit).  
 
 *Finished reading on March 22, 2021*

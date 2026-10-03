@@ -20,7 +20,7 @@ Original notes [here](/library/contagious/chi){:target="_blank"}.
 Quality, price, and advertising are all insufficient to explain why some things go viral.  
 Word of mouth is far more powerful than advertising because it is more emotionally compelling and more precisely targeted.  
 Only 7% of word of mouth is generated online.  
-*The Tipping Point* argues that social trends are driven by super-connectors, but this popular understanding is wrong: it overlooks the more obvious source of sharing—the message itself.  
+[*The Tipping Point*](/library/tipping-point/) argues that social trends are driven by super-connectors, but this popular understanding is wrong: it overlooks the more obvious source of sharing—the message itself.  
 Viral messages can emerge from the act of creating something: the blender brand Blendtec was virtually unknown until it uploaded videos of glass marbles and iPhones being pulverized, which then went viral.  
 The concepts in *The Tipping Point* were groundbreaking, but they were entirely descriptive: they did not explain why things become popular or what fundamental behaviors drive those outcomes.  
 In the more than twenty years since the book was published, the relevant science has advanced tremendously. The author's other favorite book, *Made to Stick*, focuses specifically on how to come up with ideas that people remember, rather than how those ideas spread.  

@@ -5,6 +5,7 @@ classification: Relationship
 order: 4
 title: "《駭進人心》閱讀筆記"
 short_title: "駭進人心：社交工程專家教你掌握溝通優勢"
+nav_title: 駭進人心
 permalink: /library/human-hacking/chi/
 language: chi
 image: assets/bookcover/human-hacking-chi.jpg

@@ -26,7 +26,7 @@ English translation [here](/library/great-at-work){:target="_blank"}.
 ### 一、雙重專注：專心一意、精益求精做最重要的事  
 
 兩批人同時挑戰登南極，資源經費遠少的一隊贏了，有別於對手有五種交通方式，他們只用狗，傾注訓練最好的雪橇犬：做得越多完成反而越少  
-此係七大心智之首，表現平均者採用後會勝過 74%人  
+此係七大心智之首，表現平均者採用後會勝過 74% 人  
 主管僅比資淺者略為專注，差異不大  
 「盡可能滿足每個客戶的需求」的人才中介顧問公司被工作滅頂  
 多工效率更低，逐件審理的法官效率更高  
@@ -77,7 +77,7 @@ Hartmut Goeritz 執掌公司 Maersk 在 Tangier 的貨櫃場時，先用奧卡�
 能在打動人心和運用巧毅兩方面得高分，表現非常傑出，只有一方面表現佳就沒那麼好  
 本書研究發現說服力表現男性得分明顯高於女性，或是受性別刻板印象所致，使兩性做同一件事給人的印像不同  
 打動人心最有效方法之一：同時激起負面與正面情緒：使人對現況失望，而對未來興奮  
-各種情緒並非平等，《瘋潮行銷》一書提及挑起激動情緒有助網絡信息傳播，包括興奮歡喜焦慮憤怒  
+各種情緒並非平等，[《瘋潮行銷》](/library/contagious/chi)一書提及挑起激動情緒有助網絡信息傳播，包括興奮歡喜焦慮憤怒  
 2009 年名廚 Jamie Oliver 為達成在全美飲食習慣最不健康的小鎮西維吉尼亞州亨廷頓鎮改為食得健康，在家庭面前展示噁心的脂肪山  
 一位採購人員為了說服公司執行長無紙化，將幾千頁紙堆疊聚會議室桌上  
 遇阻時的服人策略：了解對手想法疑慮、決定力爭敦讓步、可能的話化敵為友（想辦法讓對手與自己合作）、集眾之力（印度護墊俠招募一群村婦製作和推廣低成本護墊）  
@@ -114,7 +114,7 @@ Hartmut Goeritz 執掌公司 Maersk 在 Tangier 的貨櫃場時，先用奧卡�
 
 工作越高績，生活越多選擇  
 準時放工，放工就熄機，捍衛私人生活… 只能治標，根源係工作低效  
-幸福感因素眾，住、行、健、人、薪… 但七大心智影響 29%的幸福感差異  
+幸福感因素眾，住、行、健、人、薪… 但七大心智影響 29% 的幸福感差異  
 雙重專注與協作特別可促進工作生活平衡，熱情與使命感容易導致失衡，但對增進工作滿意度特別重要（另三種為重新設計、巧毅力、協作），能爭辯也能團結的特質易令人倦怠  
 三策防範負面影響：善用時間紅利（高效爭取到的時間可休息下）、駕馭熱情平衡人生（家中勿不停想工作）、減少情緒衝突  
 
@@ -126,6 +126,6 @@ Hartmut Goeritz 執掌公司 Maersk 在 Tangier 的貨櫃場時，先用奧卡�
 研究要求調查對象評估自己、上司和下屬，研究是關於被評者  
 先以三百人先導，篩選出重要因素，再向 4964 人研究，運用的統計學技術為迴歸分析和結構方程模型 SEM，乃大規模分析所得的實證架構  
 限制及處理：未深入了解受訪者（加入 120 個案例訪談）；偏袒被評者（使之看來是習慣調查）；因果倒置（只對部分有效，例如高效難使工作變少）；機率（有人七大心智得分高卻績差，有人績佳但未實踐七大心智）  
-此處提及的著作：Richard Scott《組織與組織行為》、Julian birkinshaw《reinventing management》、Thomas Malone《the future of work》、Linda Gratton《the shift》、James March 《exploration and exploitation in organizational learning》、《影響力》、Angela Duckworth  
+此處提及的著作：Richard Scott《組織與組織行為》、Julian birkinshaw《reinventing management》、Thomas Malone《the future of work》、Linda Gratton《the shift》、James March 《exploration and exploitation in organizational learning》、[《影響力》](/library/influcence/chi)、[Angela Duckworth](/library/grit/chi) 
 
 22/3/2021 閱畢於星光行誠品  

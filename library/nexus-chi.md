@@ -5,6 +5,7 @@ classification: History
 order: 5
 title: "《連結：從石器時代到 AI 紀元》閱讀筆記"
 short_title: "《連結：從石器時代到 AI 紀元》"
+nav_title: 連結
 permalink: /library/nexus/chi/
 language: chi
 image: assets/bookcover/nexus.png

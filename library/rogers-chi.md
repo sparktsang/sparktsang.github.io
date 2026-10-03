@@ -5,6 +5,7 @@ classification: Psychology
 order: 1
 title: "《成為一個人》閱讀筆記"
 short_title: "成為一個人：一個治療者對心理治療的觀點"
+nav_title: 成為一個人
 title_obvious: false
 description: |
   走出視人為器的冰冷診室，看羅哲斯如何開闢慈悲為懷、以人為本之道。

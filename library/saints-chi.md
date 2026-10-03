@@ -4,6 +4,7 @@ category: "Library"
 classification: Philosophy
 title: "《四大聖哲：蘇格拉底、佛陀、孔子、耶穌》閱讀筆記"
 short_title: "四大聖哲：蘇格拉底、佛陀、孔子、耶穌"
+nav_title: 四大聖哲
 title_obvious: false
 description: |
   跟隨哲人雅斯培的存在主義叩問，一同仰望幽谷中照耀萬古的四座文明燈塔。
