@@ -14,6 +14,7 @@ description: |
 permalink: /library/social-creature/chi/
 language: chi
 image: assets/bookcover/social-creature-chi.jpg
+infographic: assets/images/social-creature-info.png
 ---
 
 《社交動物》  

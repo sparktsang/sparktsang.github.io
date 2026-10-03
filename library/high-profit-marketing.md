@@ -225,3 +225,8 @@ Through the learning process after starting his own business, the author came to
 What successful people have in common is that they proactively take action to create markets. Without marketing, a business cannot grow. They often break free from preconceptions such as “There is no precedent for it” or “There is no point in doing it.” After repeated setbacks, they ultimately discover what customers really need. The process of turning failure into strength and moving toward success is precisely the essence of marketing.  
 
 *Finished reading on Sep 14, 2021*
+
+---
+
+Nakano demonstrates that B2B success doesn't require an army of expensive salespeople; it requires building a robust "pull" marketing engine that uses valuable content and direct response tactics to draw customers in. However, as Nakano notes, all these marketing funnels are useless if you haven't fundamentally discovered what your customers actually need.  
+Before you can build high-converting landing pages or whitepapers, you must first validate the core problem you are solving. In [*Startup Science*](/library/startup-science), Masayuki Tadokoro outlines the rigorous, step-by-step methodology needed to achieve this exact Product-Market Fit, ensuring that the foundation beneath your marketing engine is rock solid.

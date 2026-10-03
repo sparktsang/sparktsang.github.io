@@ -6,6 +6,7 @@ title: "Notes on <i>Social Creature</i>"
 short_title: Social Creature
 description: What happens when social media obsession, identity crisis, and toxic friendship collide? Reminiscent of The Talented Mr. Ripley, this contemporary thriller explores the dark, superficial allure of New York's socialite scene. These notes provide a complete plot summary alongside an insightful review, highlighting the tragic absurdity of a world where one's digital persona matters more than reality.
 image: assets/bookcover/social-creature.jpg
+infographic: assets/images/social-creature-info.png
 ---
 
 *Social Creature: A Novel* by Tara Isabella Burton

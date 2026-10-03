@@ -183,3 +183,9 @@ The author’s company, Dadao Brand Consulting, helped Ecowater achieve great su
 Some people say content is simply a new form of advertising, but there is no doubt that **content lives forever**.  
 
 *Finished reading on September 30, 2021*
+
+---
+
+Sha demonstrates that traditional advertising is dead, and that every brand must now become its own media company—using authenticity, emotion, and storytelling to build a loyal tribe.  
+But as every business rushes to produce content, the digital landscape has become fiercely saturated. What is the most powerful form of "content" a brand can share today to truly stand out?  
+In [*Process Economy*](/library/process-economy), Kazuhiro Obara explains that sharing polished, finished products is no longer enough. To build an unshakeable fanbase in the modern era, you must flip the traditional model and market the raw, participatory journey of creation itself.
