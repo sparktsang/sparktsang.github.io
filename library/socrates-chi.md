@@ -13,6 +13,7 @@ description: |
 permalink: /library/socrates/chi/
 language: chi
 image: assets/bookcover/socrates.jpg
+infographic: assets/images/socrates-info.png
 ---
 
 English translation [here](/library/socrates){:target="_blank"}. 

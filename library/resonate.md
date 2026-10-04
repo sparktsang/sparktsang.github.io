@@ -141,3 +141,8 @@ In the conclusion, the author uses sonatas and films as examples to explain the 
 The American poet E. E. Cummings broke too many rules and, after being rejected by 14 publishers, decided to publish the book himself; he called it *No Thanks* and printed the list of the 14 publishers inside the book in the shape of an urn; the lesson: understand the rules first, then you will know how to use them flexibly, and even break them to create meaning  
 
 *Finished reading on Oct 11, 2020*  
+
+---
+
+Duarte demonstrates how framing a presentation around the "Hero's Journey" can create powerful resonance, using contrast and storytelling to inspire audiences to embrace a new vision. However, as Duarte notes, every hero naturally resists the call to adventure; even the most moving story can fail if the audience's internal defense mechanisms remain intact.  
+To overcome this, [*The Catalyst*](/library/catalyst) by Jonah Berger breaks down the specific psychological villains that block transformation—such as the endowment effect and reactance—providing a systematic method to remove these barriers so your audience can finally cross the threshold.

@@ -228,5 +228,6 @@ What successful people have in common is that they proactively take action to cr
 
 ---
 
-Nakano demonstrates that B2B success doesn't require an army of expensive salespeople; it requires building a robust "pull" marketing engine that uses valuable content and direct response tactics to draw customers in. However, as Nakano notes, all these marketing funnels are useless if you haven't fundamentally discovered what your customers actually need.  
-Before you can build high-converting landing pages or whitepapers, you must first validate the core problem you are solving. In [*Startup Science*](/library/startup-science), Masayuki Tadokoro outlines the rigorous, step-by-step methodology needed to achieve this exact Product-Market Fit, ensuring that the foundation beneath your marketing engine is rock solid.
+Nakano shows that B2B success doesn't require an army of expensive salespeople; it requires building a "pull" marketing engine that uses valuable content and direct response tactics to draw customers in. However, as Nakano notes, all these marketing funnels are useless if you haven't fundamentally discovered what your customers actually need.  
+Before you can build high-converting landing pages or whitepapers, you must first validate the core problem you are solving. In [*Startup Science*](/library/startup-science), Masayuki Tadokoro outlines the step-by-step methodology needed to achieve this Product-Market Fit, providing the necessary prerequisite to power your marketing engine.
+

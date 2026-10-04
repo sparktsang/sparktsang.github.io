@@ -10,6 +10,7 @@ description: |
 permalink: /library/reverse-econ/chi/
 language: chi
 image: assets/bookcover/reverse-econ.jpg
+infographic: assets/images/reverse-econ-info.png
 ---
 
 English translation [here](/library/reverse-econ){:target="_blank"}. 

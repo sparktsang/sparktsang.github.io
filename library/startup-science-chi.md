@@ -14,6 +14,7 @@ description: |
 permalink: /library/startup-science/chi/
 language: chi
 image: assets/bookcover/startup-science.jpg
+infographic: assets/images/startup-science-info.png
 target_blank: true
 ---
 

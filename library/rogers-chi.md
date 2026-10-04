@@ -14,6 +14,7 @@ description: |
 permalink: /library/rogers/chi/
 language: chi
 image: assets/bookcover/rogers-chi.jpg
+infographic: assets/images/rogers-info.png
 ---
 
 《成為一個人：一個治療者對心理治療的觀點》  

@@ -6,6 +6,7 @@ short_title: "槍械射擊聖經"
 permalink: /library/shooting-manual/chi/
 language: chi
 image: assets/bookcover/shooting-manual.png
+infographic: assets/images/shooting-manual-info.png
 ---
 
 《槍械射擊聖經》  

@@ -7,6 +7,7 @@ title: 'Notes on <i>On Becoming a Person</i>'
 short_title: "On Becoming a Person"
 description: Rogers revolutionized psychotherapy with his "client-centered" approach, emphasizing the profound power of human connection. These notes distill his decades of clinical wisdom, revealing how genuineness, caring, and empathy can transform not only therapeutic relationships but also parenting, education, and our daily lives. A must-read for anyone seeking authentic relationships and personal growth.
 image: assets/bookcover/rogers.jpg
+infographic: assets/images/rogers-info.png
 ---
 
 *On Becoming a Person: A Therapist's View of Psychotherapy* by Carl Roger

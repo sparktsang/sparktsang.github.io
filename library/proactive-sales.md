@@ -187,3 +187,8 @@ If sales were a job that required bowing down to people, it could never become o
 Even if only for a fleeting moment, when you devote yourself wholeheartedly to the customer, the product, and its creation, entering a state of selflessness, that is the most beautiful form a human being can take.  
 
 Notes last updated: Oct 31, 2016
+
+---
+
+Gojo shows that mastering sales requires taking proactive control of the conversation, using structured scripts and psychological cues to guide customers past their hesitation. But what happens when you apply this assertive momentum, yet a customer still stubbornly resists closing the deal? Pushing harder often backfires when deeply ingrained psychological barriers are at play.  
+In [*The Catalyst*](/library/catalyst), Berger approaches persuasion from the opposite angle, outlining how to change minds not by applying more pressure, but by identifying and dissolving the hidden friction that blocks change in the first place.

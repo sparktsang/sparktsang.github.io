@@ -13,6 +13,7 @@ description: |
 permalink: /library/saints/chi/
 language: chi
 image: assets/bookcover/saints-chi.jpg
+infographic: assets/images/saints-info.png
 ---
 
 《四大聖哲：蘇格拉底、佛陀、孔子、耶穌》  

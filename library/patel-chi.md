@@ -8,6 +8,7 @@ short_title: "全球經濟 18 年大循環"
 permalink: /library/patel/chi/
 language: chi
 image: assets/bookcover/patel-chi.jpg
+infographic: assets/images/patel-info.png
 ---
 
 《全球經濟 18 年大循環：順著景氣循環四大階段，投資獲利和避開風險》  

@@ -13,6 +13,7 @@ description: |
 permalink: /library/scale/chi/
 language: chi
 image: assets/bookcover/scale-chi.jpg
+infographic: assets/images/scale-info.png
 ---
 
 《規模：複雜世界的簡單法則》  

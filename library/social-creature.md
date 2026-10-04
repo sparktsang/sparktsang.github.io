@@ -49,7 +49,7 @@ Louise walks into the sea. Rex tries to stop her, but she pulls him underwater i
 
 On the first day of the new year, Louise tells herself that this is the first day of the rest of her life. She goes into the bathroom and ignores the people knocking outside. She dyes her hair red and puts on her makeup, looking just like the woman in the fake passport. Changing identities and starting a new life has always been what she wanted most. She smashes Lavinia's phone and throws it away. When she goes outside, with no phone and only a few dozen dollars in her pocket, she disappears into the crowd.  
 
-評  
+Review  
 
 After reading it, you may well have the feeling of "What the hell did I just read?", but overall I still enjoyed it. Lavinia appears sunny and warm on the surface, practically a queen of the social scene, full of literary pretensions and posing as a talented young writer, yet she is intensely controlling and psychologically unstable. She treats her roommate like a pet, showing her displeasure at the slightest frustration and even ordering her to move out without looking up. She is self-centered, utterly self-indulgent, and has no interest in her studies. Yet what makes her attractive is precisely that fearlessness, that refusal to back down, and that carefree willingness to burn through life with relentless passion. Unfortunately, flashes of brilliance rarely last. She dies because of her own recklessness and absurdity.  
 

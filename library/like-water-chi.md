@@ -9,6 +9,7 @@ description: "深剖香港百年地緣身世與認同。刺破中原大一統之
 permalink: /library/like-water/chi/
 language: chi
 image: assets/bookcover/like-water.png
+infographic: assets/images/like-water-info.png
 ---
 
 盧斯達《如水赴壑——香港歷史與意識之流》  
