@@ -7,7 +7,8 @@ title: "Notes on <i>The Technology Trap</i>"
 short_title: "The Technology Trap"
 description: Will AI steal your job or make you richer? By drawing powerful parallels between the Industrial Revolution and the age of automation, these notes explore the "technology trap," explaining how mechanization drives inequality and what it means for the future of capital, labor, and your career.
 image: assets/bookcover/tech-trap.jpg
---- 
+infographic: assets/images/tech-trap-info.png
+---
 
 *The Technology Trap: Capital, Labor, and Power in the Age of Automation* by Carl Benedikt Frey
 

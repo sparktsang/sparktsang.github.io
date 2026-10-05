@@ -7,6 +7,7 @@ title: "Notes on <i>Super Founders: What Data Reveals About Billion-Dollar Start
 short_title: "Super Founders"
 description: What separates a billion-dollar unicorn from a failed startup? Backed by thousands of data points, these notes debunk common Silicon Valley myths (about age, solo founders, and college dropouts) to reveal the actual, data-driven traits and strategies of highly successful entrepreneurs.
 image: assets/bookcover/super-founders.jpg
+infographic: assets/images/super-founders-info.png
 ---
 
 *Super Founders: What Data Reveals About Billion-Dollar Startups* by Ali Tamaseb

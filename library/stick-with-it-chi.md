@@ -8,6 +8,7 @@ short_title: "恆毅力的七堂課"
 permalink: /library/stick-with-it/chi/
 language: chi
 image: assets/bookcover/stick-with-it-chi.jpg
+infographic: assets/images/stick-with-it-info.png
 ---
 
 《恆毅力的七堂課》  

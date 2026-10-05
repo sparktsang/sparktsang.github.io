@@ -7,6 +7,7 @@ short_title: "TED Talks"
 permalink: /library/ted-talks/chi/
 language: chi
 image: assets/bookcover/ted-talks.jpg
+infographic: assets/images/ted-talks-info.png
 ---
 
 《TED TALKS 說話的力量：你可以用言語來改變自己，也改變世界》  

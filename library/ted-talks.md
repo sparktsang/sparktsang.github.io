@@ -6,6 +6,7 @@ title: "Notes on <i>TED Talks</i>"
 short_title: "Anderson's TED Talks"
 description: Master the art of public speaking with insights from the head of TED. These notes break down the anatomy of a perfect presentation—from finding your throughline and building narrative structure to overcoming stage fright—helping you turn any idea into an inspiring, world-changing talk.
 image: assets/bookcover/ted-talks.webp
+infographic: assets/images/ted-talks-info.png
 ---
 
 *TED Talks: The Official TED Guide to Public Speaking* by Chris Anderson

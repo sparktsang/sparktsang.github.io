@@ -79,3 +79,8 @@ Multiple studies have shown that smoking is related to emotion, especially depre
 Research by Neal Benowitz and Jack Henningfield found that the threshold for nicotine addiction is about five cigarettes a day (distinguishing heavy smokers from "chippers").  
 
 *Finished reading on Dec 4, 2020*  
+
+---
+
+Gladwell outlines how ideas spread like viruses, relying on environmental context and specific social archetypes—like Connectors and Mavens—to push a trend past its tipping point. However, depending on rare super-connectors to distribute your message leaves much of the process to chance. How can you engineer the idea itself so that ordinary people feel naturally compelled to share it?  
+In [*Contagious*](/library/contagious), Jonah Berger challenges Gladwell's premise, shifting the focus from the messenger to the message. He details six specific psychological triggers that make products and behaviors catch on organically, showing how ideas can spread even without the influence of highly connected individuals.

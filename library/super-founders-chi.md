@@ -8,6 +8,7 @@ short_title: "獨角獸創業勝經"
 permalink: /library/super-founders/chi/
 language: chi
 image: assets/bookcover/super-founders-chi.jpg
+infographic: assets/images/super-founders-info.png
 ---
 
 《獨角獸創業勝經：大數據分析200+家新創帝國，從創造、轉折、募資到衝破市場，揭開成功的真正關鍵》  

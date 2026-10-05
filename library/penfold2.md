@@ -7,6 +7,7 @@ short_title: "The Universal Tactics of Successful Trend Trading"
 nav_title: The Universal Tactics of Trend Trading
 description: 'Why do "perfect" backtests consistently fail in real-world trading? This note dissects the fatal trap of mechanical trading: overfitting. Discover why the author strips away complex indicators and relies on absolute "simplicity" and "rate of ruin" to help traders avoid self-deception in a market driven by noise and uncertainty.'
 image: assets/bookcover/penfold2.jpg
+infographic: assets/images/penfold2-info.png
 ---
 
 *The Universal Tactics of Successful Trend Trading: Finding Opportunity in Uncertainty* by Brent Penfold

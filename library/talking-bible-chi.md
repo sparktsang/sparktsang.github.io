@@ -8,6 +8,7 @@ short_title: "談話聖經"
 permalink: /library/talking-bible/chi/
 language: chi
 image: assets/bookcover/talking-bible.jpg
+infographic: assets/images/talking-bible-info.png
 ---
 
 Friedemann Schulz von Thun《談話聖經》  

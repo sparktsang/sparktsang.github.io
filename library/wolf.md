@@ -266,3 +266,9 @@ Decide whether to retain control of the callback based on the rate at which a ca
 Be careful not to use the phrases in the book mechanically. You would not ask a customer, “Do you think this television makes sense?” Common sense should be your guiding light.  
 
 *Finished reading on Oct 19, 2020*  
+
+---
+
+Belfort shows that mastering sales requires taking proactive control of the conversation, using tonality and scripted loops to drive certainty and push prospects past their hesitation.  
+But what happens when you apply this assertive momentum, yet a customer's deeply ingrained psychological barriers cause them to push back even harder? Applying more pressure often triggers reactance.  
+In [*The Catalyst*](/library/catalyst), Jonah Berger approaches persuasion from the opposite angle, mapping out how to change minds not by applying more force, but by identifying and dissolving the hidden friction that causes resistance in the first place.

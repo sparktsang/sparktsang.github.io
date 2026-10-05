@@ -8,6 +8,7 @@ short_title: "技術陷阱"
 permalink: /library/tech-trap/chi/
 language: chi
 image: assets/bookcover/tech-trap-chi.jpg
+infographic: assets/images/tech-trap-info.png
 ---
 
 《技術陷阱：從工業革命到AI時代，技術創新下的資本、勞動力與權力》  
