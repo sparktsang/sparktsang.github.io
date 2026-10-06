@@ -9,6 +9,7 @@ title_obvious: false
 permalink: /library/two-thousand-years/chi/
 language: chi
 image: assets/bookcover/two-thousand-years.jpg
+infographic: assets/images/two-thousand-years-info.png
 ---
 
 English translation [here](/library/two-thousand-years){:target="_blank"}. 

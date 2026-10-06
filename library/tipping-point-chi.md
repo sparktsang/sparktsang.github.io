@@ -9,6 +9,7 @@ nav_title: 引爆趨勢
 permalink: /library/tipping-point/chi/
 language: chi
 image: assets/bookcover/tipping-point.jpg
+infographic: assets/images/tipping-point-info.png
 ---
 
 《引爆趨勢：小改變如何引發大流行》  

@@ -51,9 +51,9 @@ Some people do not understand how the author could sell a 25-page guide to savin
 The author thinks: if I sold you a treasure map, would you complain that it was only one page?  
 
 Three ways to make an offer irresistibly compelling  
-1 FAQ  
-2 A satisfaction-or-your-money-back guarantee  
-3 Overdeliver: provide more unexpected surprises  
+1. FAQ  
+2. A satisfaction-or-your-money-back guarantee  
+3. Overdeliver: provide more unexpected surprises  
 
 Like a movie trailer, preview the plan and explain why it matters to build anticipation  
 Give progress updates midway through so people know how existing customers are benefiting  

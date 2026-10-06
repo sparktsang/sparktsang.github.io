@@ -7,6 +7,7 @@ cta_url: "/library/design/#start"
 cta_text: CONTINUE TO THE ARCHIVE
 cta_nav_url: "/library/"
 cta_nav_text: BACK TO LIBRARY
+lib_note: false
 render_with_liquid: false
 ---
 

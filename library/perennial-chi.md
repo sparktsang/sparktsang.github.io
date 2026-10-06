@@ -11,6 +11,7 @@ description: |
 permalink: /library/perennial/chi/
 image: assets/bookcover/perennial-cover-chi.png
 language: chi
+lib_note: false
 ---
 
 [Originally posted](https://medium.com/投資科學/投資長勝的普世法則-aecdc14ae623){:target="_blank"} on Medium on 2019.  

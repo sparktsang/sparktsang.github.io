@@ -8,6 +8,7 @@ cta_url: "/library/design/chi/#start"
 cta_text: 前往實錄全文
 cta_nav_url: "/library/chi/"
 cta_nav_text: 返歸【無涯殿】
+lib_note: false
 render_with_liquid: false
 ---
 

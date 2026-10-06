@@ -12,6 +12,7 @@ description: |
 permalink: /library/design/chi/
 language: chi
 image: assets/bookcover/design-cover-chi.png
+lib_note: false
 render_with_liquid: false
 overflow: true
 ---

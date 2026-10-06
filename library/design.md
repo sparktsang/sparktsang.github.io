@@ -9,6 +9,7 @@ nav_title: Overriding Code
 description: Not a book. A faithful, unabridged archive of taming AI into creating a digital artwork from scratch. My raw record of having zero HTML background, yet using human intuition and uncompromising aesthetic judgment to make AI serve the artwork.
 permalink: /library/design/
 image: assets/bookcover/design-cover.png
+lib_note: false
 render_with_liquid: false
 overflow: true
 ---
