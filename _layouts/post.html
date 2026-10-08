@@ -7,6 +7,105 @@
 <html>
 
 	<style>
+		:root {
+		--page-bg: #f5f6f8;
+		--card-bg: #ffffff;
+		--card-border: #e5e8ec;
+		--text: #1f2328;
+		--muted: #5b636e;
+		--accent: #4285f4;
+		--shadow: 0 1px 2px rgba(16, 24, 40, .04),
+				0 8px 24px rgba(16, 24, 40, .07);
+		--radius: 16px;
+		}
+
+		@media (prefers-color-scheme: dark) {
+			:root {
+			--page-bg: #0f1115;
+			--card-bg: #16181d;
+			--card-border: #2a2e36;
+			--text: #e8eaed;
+			--muted: #9aa0a6;
+			--shadow: 0 1px 2px rgba(0, 0, 0, .5),
+						0 8px 24px rgba(0, 0, 0, .45);
+			}
+		}
+
+		* { box-sizing: border-box; }
+
+		/* ── 音訊卡片 ───────────────────────────── */
+		.audio-card {
+			display: flex;
+			align-items: flex-start;
+			gap: 14px;
+			max-width: 640px;
+			margin: 0 auto 50px;
+			padding: 18px 20px;
+			background: var(--card-bg);
+			border: 1px solid var(--card-border);
+			border-radius: var(--radius);
+			box-shadow: var(--shadow);
+		}
+
+		.audio-card__icon {
+			flex: 0 0 auto;
+			display: grid;
+			place-items: center;
+			width: 40px;
+			height: 40px;
+			border-radius: 12px;
+			background: rgba(66, 133, 244, .12);
+			font-size: 19px;
+			line-height: 1;
+		}
+
+		.audio-card__body {
+			flex: 1 1 auto;
+			min-width: 0;           /* 防止 audio 撐爆 flex 容器 */
+		}
+
+		.audio-card__label {
+			margin: 0 0 10px;
+			font-size: 14px;
+			font-weight: 500;
+			line-height: 1.5;
+			color: var(--muted);
+			letter-spacing: .005em;
+		}
+
+		.audio-card__player {
+			display: block;
+			width: 100%;
+			min-width: 0;
+			height: 40px;
+			margin: 0;
+		}
+
+		@media (max-width: 480px) {
+			.audio-card {
+			gap: 12px;
+			padding: 16px;
+			}
+			.audio-card__icon {
+			width: 36px;
+			height: 36px;
+			font-size: 17px;
+			}
+			.audio-card__label { font-size: 13px; }
+		}
+
+		.image.main img.lib-img {
+			width: 25%;
+			display: block;
+			margin: 0 auto;
+		}
+
+		@media (max-width: 768px) {
+			.image.main img.lib-img {
+			width: 50%;
+			}
+		}
+		
 		.cta-container { text-align: center; margin-top: 60px; margin-bottom: 20px; padding-top: 40px; border-top: 1px solid var(--border-color); }
 		.read-more-btn { display: inline-block; font-family: var(--font-ui); font-size: 1rem; font-weight: bold; letter-spacing: 0.1em; text-transform: uppercase; color: #f0f0f0; background-color: #111111; padding: 16px 32px; text-decoration: none; border-radius: 2px; transition: background-color 0.3s ease; }
 		.read-more-btn:hover { background-color: #444444; }
@@ -45,30 +144,15 @@
 			{% if page.date and page.order != 0 and page.order != 99999 %}<p>{{ page.date | date: "%Y-%m-%d" }}</p>{% endif %}
 		</header>
 		
-		{% if page.category != "Library" %}
-			{% if page.image %}
+		{% if page.image %}
+			{% if page.category != "Library" %}
 				<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></span>
-			{% endif %}
-		{% else %}
-			{% if page.image %}
+			{% else %}
 				<span class="image main">
-				<img src="{{ site.baseurl }}/{{ page.image }}" alt="" class="lib-img" />
+					<img src="{{ site.baseurl }}/{{ page.image }}" alt="" class="lib-img" />
 				</span>
 			{% endif %}
 		{% endif %}
-
-		<style>
-		.image.main img.lib-img {
-			width: 25%;
-			display: block;
-			margin: 0 auto;
-		}
-		@media (max-width: 768px) {
-			.image.main img.lib-img {
-			width: 50%;
-			}
-		}
-		</style>
 
 		{% assign rendered = content %}
 
@@ -92,16 +176,41 @@
 <em>閱畢全篇可領贈品。請享受閱讀。</em></p>
 <hr />{% endcapture %}
 
+{% capture add_audio %}<hr />
+
+<div class="audio-card">
+	<div class="audio-card__icon" aria-hidden="true">🎧</div>
+	<div class="audio-card__body">
+		<p class="audio-card__label">
+		{% if page.language == "chi" %}Listen to the deep dive of these notes by Gemini Notebook (In English).
+		{% else %}Listen to the deep dive of these notes by Gemini Notebook.
+		{% endif %}	
+		</p>
+
+		<audio
+		class="audio-card__player"
+		controls
+		preload="metadata"
+		src="{{ page.audio | relative_url }}" type="audio/mp4">
+		Your browser does not support the audio element.
+		</audio>
+	</div>
+</div>{% endcapture %}
 
 		{% if page.category == "Library" and page.infographic and page.classification != "Novels" %}
 			{% if page.language == "chi" %}
-				{{ rendered | replace_first: original_text, bonus_text_chi }}
+				{% assign rendered = rendered | replace_first: original_text, bonus_text_chi %}
 			{% else %}
-				{{ rendered | replace_first: original_text, bonus_text }}
+				{% assign rendered = rendered | replace_first: original_text, bonus_text %}
 			{% endif %}
-		{% else %}
-			{{ rendered }}
 		{% endif %}
+
+		{% if page.category == "Library" and page.audio %}
+			{% assign rendered = rendered | replace_first: "<hr />", add_audio %}
+		{% endif %}
+
+		{{ rendered }}
+
 
 		{% if page.infographic %}
 			<hr />
