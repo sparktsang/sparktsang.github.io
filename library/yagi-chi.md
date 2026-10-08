@@ -8,6 +8,7 @@ short_title: "發現你的天職：三大步驟"
 permalink: /library/yagi/chi/
 language: chi
 image: assets/bookcover/yagi.png
+infographic: assets/images/yagi-info.png
 ---
 
 八木仁平《發現你的天職：三大步驟，讓你選系、就業、轉職或創業不再迷惘》  

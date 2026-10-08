@@ -9,6 +9,7 @@ permalink: /library/8-rules-of-love/chi/
 language: chi
 image: assets/bookcover/8-rules-of-love-chi.jpg
 infographic: assets/images/8-rules-of-love-info.png
+audio: https://od.lk/s/ODdfNDczNzgxMjdfM1ZZVUM/8-rules-of-love.m4a
 ---
 
 《愛的 8 法則：如何找到愛、維繫愛、放下愛》  

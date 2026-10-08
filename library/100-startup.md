@@ -7,6 +7,7 @@ short_title: "The $100 Startup"
 description: "Learn how to turn your passion into a profitable microbusiness with minimal investment. These notes highlight actionable strategies for pricing, crafting irresistible offers, and escaping the 9-to-5 grind to reclaim your freedom."
 image: assets/bookcover/100-startup.webp
 infographic: assets/images/100-startup-info.png
+audio: https://od.lk/s/ODdfNDczNzgxMzBfMjZYS0o/100-startup.m4a
 ---
 
 *The $100 Startup: Fire Your Boss, Do What You Love and Work Better To Live More* by Chris Guillebeau

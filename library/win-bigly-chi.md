@@ -8,6 +8,7 @@ short_title: "超越邏輯的情緒說服"
 permalink: /library/win-bigly/chi/
 language: chi
 image: assets/bookcover/win-bigly-chi.jpg
+infographic: assets/images/win-bigly-info.png
 ---
 
 《超越邏輯的情緒說服：不靠事實、不必精準，照樣讓人點頭如搗蒜！》

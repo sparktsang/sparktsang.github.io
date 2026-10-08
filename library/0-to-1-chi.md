@@ -12,6 +12,7 @@ permalink: /library/0-to-1/chi/
 language: chi
 image: assets/bookcover/0-to-1.jpg
 infographic: assets/images/0-to-1-info.png
+audio: https://od.lk/s/ODdfNDczNzgxMjJfekRlSHU/0-to-1.m4a
 ---
 
 *Zero to One: Notes on Startups, Or How to Build the Future* by Peter Thiel

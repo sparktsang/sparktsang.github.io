@@ -6,6 +6,7 @@ title: "Notes on <i>Venture Deals</i>"
 short_title: "Venture Deals"
 description: The fundraising survival guide for founders. These notes decode the power struggles behind term sheets, explaining valuation traps, liquidation preferences, and board control to help you negotiate with VCs on equal footing.
 image: assets/bookcover/venture-deals.webp
+infographic: assets/images/venture-deals-info.png
 ---
 
 *Venture Deals: Be Smarter Than Your Lawyer and Venture Capitalist* by Brad Feld

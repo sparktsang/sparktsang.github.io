@@ -9,6 +9,7 @@ permalink: /library/value-invest/chi/
 language: chi
 description: 承葛、陶之缽，繼巴、嘉之學，本筆記梳理價值投資之基，丈量天下生財之器，精算資產、盈餘、未來之定價，輔以隔水四十噴劑、英特爾等經典實例，計量再起業之貴賤、護城河之深淺，護身符之厚薄。
 image: assets/bookcover/value-inv-chi.jpg
+infographic: assets/images/value-invest-info.png
 ---
 
 《21 世紀價值投資：從葛拉漢到巴菲特的價值投資策略》  

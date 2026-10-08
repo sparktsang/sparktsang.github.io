@@ -11,6 +11,7 @@ permalink: /library/100-startup/chi/
 language: chi
 image: assets/bookcover/100-startup.webp
 infographic: assets/images/100-startup-info.png
+audio: https://od.lk/s/ODdfNDczNzgxMzBfMjZYS0o/100-startup.m4a
 ---
 
 *The $100 Startup: Fire Your Boss, Do What You Love and Work Better To Live More* by Chris Guillebeau

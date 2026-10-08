@@ -7,6 +7,7 @@ short_title: "創業投資聖經"
 permalink: /library/venture-deals/chi/
 language: chi
 image: assets/bookcover/venture-deals.jpg
+infographic: assets/images/venture-deals-info.png
 ---
 
 《創業投資聖經：Startup募資、天使投資人、投資契約、談判策略全方位教戰法則》  

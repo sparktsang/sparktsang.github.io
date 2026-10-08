@@ -164,8 +164,8 @@ Reframe, fourth move: learn the lessons and improve your future choices. Think a
 2. What kind of person would you ideally like to become in your next relationship?  
 3. What have you learned about what truly matters in a long-term relationship?  
 4. What qualities will you pay attention to when looking for a partner in the future that you did not pay attention to last time?  
-In addition, the following questions can help you explore the deeper meaning of the breakup:  
 
+In addition, the following questions can help you explore the deeper meaning of the breakup:  
 1. What did you learn from the relationship?  
 2. What did you learn from this breakup?  
 3. How are you different now from who you were before the relationship?  
@@ -180,8 +180,9 @@ Getting engaged after more than three years, compared with getting married withi
 Marrying at an older age also lowers the divorce rate.  
 Among couples with different religious beliefs, fewer than half discuss their children’s religious upbringing before marriage. Many people do not seriously and honestly discuss major life decisions before marriage because of the combined effect of the drugs of love and the false-consensus effect (humans naturally overestimate how similar other people are to themselves).  
 
-**Preparation, Part One: Yourself.** Answer the following questions.  
+**Preparation, Part One: Yourself.**  
 
+Answer the following questions.  
 1. Does this person seem more like a short-term partner or a life partner?  
 2. The wardrobe test.  
 3. Will this person grow with me?  
@@ -193,8 +194,10 @@ Among couples with different religious beliefs, fewer than half discuss their ch
 9. Am I looking forward to building a future with this person? Can I imagine going through life’s milestones with them?  
 10. Can this person face difficult choices with me? If I experienced a major setback, would this be the person I would want beside me, thinking through difficult problems?  
 11. Can we communicate effectively and argue effectively?  
-    **Preparation, Part Two: The Relationship**  
-    Work through one of the following three sets of conversations each evening.  
+    
+**Preparation, Part Two: The Relationship**  
+
+Work through one of the following three sets of conversations each evening.  
 
 **First set: The past**  
 
