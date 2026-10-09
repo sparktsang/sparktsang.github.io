@@ -8,6 +8,8 @@ short_title: "Every Business is a Self-Media"
 description: "Master the shift from traditional advertising to content marketing. These notes reveal how brands can build their own media empires using personality, emotional resonance, and storytelling to directly engage and convert customers."
 image: assets/bookcover/business-as-self-media-eng.jpg
 infographic: assets/images/business-as-self-media-info.png
+audio: https://od.lk/s/ODdfNDc0Mjc2MjRfRHJXOXg/business-as-self-media.m4a
+
 ---
 
 *Every Business is a Self-Media: Mastering the Trends of Content Marketing to Build Direct-to-Customer Strategies and Methods* by Sha Jianjun

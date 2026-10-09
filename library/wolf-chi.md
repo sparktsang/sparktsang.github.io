@@ -8,6 +8,7 @@ short_title: "跟華爾街之狼學銷售"
 permalink: /library/wolf/chi/
 language: chi
 image: assets/bookcover/wolf-chi.jpg
+infographic: assets/images/wolf-info.png
 ---
 
 《跟華爾街之狼學銷售：一門價值30萬元的銷售課 4秒鐘，打下成交大訂單基礎》  

@@ -8,6 +8,7 @@ permalink: /library/be-dictator/chi/
 language: chi
 image: assets/bookcover/be-dictator-chi.jpg
 infographic: assets/images/be-dictator-info.png
+audio: https://od.lk/s/ODdfNDc0Mjc0MzJfSE52SHQ/be-dictator.m4a
 ---
 
 馮客《獨裁者養成之路：八個暴君領袖的崛起與衰落，迷亂二十世紀的造神運動》   

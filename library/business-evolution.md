@@ -8,6 +8,7 @@ short_title: "The Evolution of Business"
 description: If you can't see how business is evolving, you can't capture tomorrow's profits. These notes decode the fundamental logic of business history through two core metrics—"transaction costs" and "network density"—showing you how to build your economic moat amid disruptive technological shifts.
 image: assets/bookcover/business-evolution-eng.png
 infographic: assets/images/business-evolution-info.png
+audio: https://od.lk/s/ODdfNDc0Mjc2MjVfRHF3dmI/business-evolution.m4a
 ---
 
 *The Evolution of Business: Reduce the Cost & Increase Network Density* by Liu Run

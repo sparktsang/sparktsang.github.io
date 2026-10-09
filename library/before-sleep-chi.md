@@ -12,6 +12,7 @@ permalink: /library/before-sleep/chi/
 language: chi
 image: assets/bookcover/before-sleep.webp
 infographic: assets/images/before-sleep-info.png
+audio: https://od.lk/s/ODdfNDc0Mjc2MTdfRGYyaWo/before-sleep.m4a
 ---
 
 《別相信任何人》

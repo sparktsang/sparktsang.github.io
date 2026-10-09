@@ -8,6 +8,7 @@ short_title: "The Invention of Yesterday"
 description: The 50,000-year history of humanity is essentially a story of colliding narratives and expanding networks. Offering a breathtaking macro-perspective, these notes explore how language, religion, empires, and technology wove the modern world together, providing a profound framework to understand today's global landscape.
 image: assets/bookcover/ansary.jpg
 infographic: assets/images/ansary-info.png
+audio: https://od.lk/s/ODdfNDc0MjcxMDVfeTZlSjA/ansary.m4a
 ---
 
 *The Invention of Yesterday: A 50,000-Year History of Human Culture, Conflict, and Connection* by Tamim Ansary

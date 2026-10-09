@@ -7,6 +7,7 @@ short_title: "WordPress 架站的 12 堂課"
 permalink: /library/wordpress/chi/
 language: chi
 image: assets/bookcover/wordpress.jpg
+infographic: assets/images/wordpress-info.png
 ---
 
 張正麒、何敏煌《WordPress 架站的 12 堂課》

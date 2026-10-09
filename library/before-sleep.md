@@ -8,6 +8,7 @@ title_obvious: false
 description: "A gripping summary of S.J. Watson's psychological thriller. Read this quick breakdown to uncover the chilling twists of a woman whose memory resets every day, and the deadly secrets hidden within her journal."
 image: assets/bookcover/before-sleep.jpg
 infographic: assets/images/before-sleep-info.png
+audio: https://od.lk/s/ODdfNDc0Mjc2MTdfRGYyaWo/before-sleep.m4a
 ---
 
 *Before I Go to Sleep* by S. J. Watson

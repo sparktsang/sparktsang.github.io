@@ -10,6 +10,7 @@ permalink: /library/business-as-self-media/chi/
 language: chi
 image: assets/bookcover/business-as-self-media.jpg
 infographic: assets/images/business-as-self-media-info.png
+audio: https://od.lk/s/ODdfNDc0Mjc2MjRfRHJXOXg/business-as-self-media.m4a
 ---
 
 沙建軍《企業就是自媒體：掌握內容行銷大趨勢，打造直通顧客的策略與方法》  

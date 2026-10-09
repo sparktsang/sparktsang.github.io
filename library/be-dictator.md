@@ -7,6 +7,7 @@ short_title: "How to Be a Dictator"
 description: How are tyrants made? These notes deconstruct the rise and fall of eight 20th-century dictators, revealing their playbooks of fear, propaganda, and personality cults. It's an essential read for understanding the underlying mechanics of totalitarian power.
 image: assets/bookcover/be-dictator.jpg
 infographic: assets/images/be-dictator-info.png
+audio: https://od.lk/s/ODdfNDc0Mjc0MzJfSE52SHQ/be-dictator.m4a
 ---
 
 *How to Be a Dictator: The Cult of Personality in the Twentieth Century* by Frank Dikötter

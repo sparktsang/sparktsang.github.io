@@ -9,6 +9,7 @@ permalink: /library/ansary/chi/
 language: chi
 image: assets/bookcover/ansary-chi.jpg
 infographic: assets/images/ansary-info.png
+audio: https://od.lk/s/ODdfNDc0MjcxMDVfeTZlSjA/ansary.m4a
 ---
 
 《被發明的昨日：人類五萬年歷史的衝突與連結》  

@@ -8,6 +8,7 @@ permalink: /library/best-story-wins/chi/
 language: chi
 image: assets/bookcover/best-story-wins-chi.jpg
 infographic: assets/images/best-story-wins-info.webp
+audio: https://od.lk/s/ODdfNDc0Mjc2MTZfWDkwdVc/best-story-wins.m4a
 ---
 
 《跟好萊塢動畫編劇學故事變現：7 大敘事法讓你激發創意思維，簡報、提案、企畫都適用》  

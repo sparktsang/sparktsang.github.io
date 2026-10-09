@@ -9,6 +9,7 @@ permalink: /library/business-evolution/chi/
 language: chi
 image: assets/bookcover/business-evolution.png
 infographic: assets/images/business-evolution-info.png
+audio: https://od.lk/s/ODdfNDc0Mjc2MjVfRHF3dmI/business-evolution.m4a
 ---
 
 《商業簡史：看透商業進化，比別人先看到未來》  

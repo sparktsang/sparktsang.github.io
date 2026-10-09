@@ -7,6 +7,7 @@ short_title: "12 Lessons on Building a WordPress Website"
 nav_title: Building a WordPress Website
 description: A zero-to-one roadmap for website building. These notes condense the core workflow of mastering WordPress, from domain and hosting selection to essential plugins and SEO optimization, helping you launch a professional site effortlessly.
 image: assets/bookcover/wordpress-eng.jpg
+infographic: assets/images/wordpress-info.png
 ---
 
 *12 Lessons on Building a WordPress Website* by Cheung Ching-Kei and Ho Man-Wong
