@@ -10,6 +10,7 @@ permalink: /library/car-encyclopedia/chi/
 language: chi
 image: assets/bookcover/car-encyclopedia.jpg
 infographic: assets/images/car-encyclopedia-info.png
+audio: https://od.lk/s/ODdfNDc0MzMyNjNfZ2pmRHI/car-encyclopedia.m4a
 ---
 
 新星出版社編輯部《汽車構造完全百科》  

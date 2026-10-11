@@ -11,6 +11,7 @@ permalink: /library/efficient-marketing/chi/
 language: chi
 image: assets/bookcover/efficient-marketing.jpg
 infographic: assets/images/efficient-marketing-info.png
+audio: https://od.lk/s/ODdfNDc0NjA1MTRfTVowajg/efficient-marketing.m4a
 ---
 
 解聰文《數位時代的高效行銷：讓你投放準、集客快、轉換高、品牌強，將行銷力最大化的實戰祕笈！》  

@@ -12,6 +12,7 @@ permalink: /library/emre/chi/
 language: chi
 image: assets/bookcover/emre-chi.jpg
 infographic: assets/images/emre-info.png
+audio: https://od.lk/s/ODdfNDc0NjA1MTJfSHZvZnY/emre.m4a
 ---
 
 《性格販子：最受歡迎的人格測驗 MBTI 大揭密》  

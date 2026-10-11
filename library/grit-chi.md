@@ -12,6 +12,7 @@ permalink: /library/grit/chi/
 language: chi
 image: assets/bookcover/grit-chi.jpg
 infographic: assets/images/grit-info.png
+audio: https://od.lk/s/ODdfNDc0NzgxNjRfZUtvMkk/grit.m4a
 ---
 
 *Grit: The Power of Passion and Perseverance* by Angela Duckworth

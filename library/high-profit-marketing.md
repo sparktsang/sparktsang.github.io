@@ -9,6 +9,7 @@ nav_title: High-Profit Marketing
 description: A no-nonsense guide to B2B marketing for small businesses. Learn how to ditch the sales team and stop relying on subcontractors by building a robust "Direct Response Marketing" system that pulls customers to you.
 image: assets/bookcover/high-profit-marketing-eng.jpg
 infographic: assets/images/high-profit-marketing-info.png
+audio: https://od.lk/s/ODdfNDc0NzgzNzZfNXlxbWg/high-profit-marketing.m4a
 ---
 
 *High-Profit Marketing Practical Class* by Michiyoshi Nakano

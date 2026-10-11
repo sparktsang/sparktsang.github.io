@@ -8,6 +8,7 @@ short_title: "Homo Deus"
 description: "Discover how human history is driven by the narratives we believe in. This powerful adaptation synthesizes Harari’s masterpiece to reveal how algorithms, data, and the quest for divinity are actively reshaping our systems and future."
 image: assets/bookcover/deus.png
 infographic: assets/images/deus-info.png
+audio: https://od.lk/s/ODdfNDc0NjA1MDZfODZhc3Y/deus.m4a
 redirect_from:
   - /knowledge/2025/11/19/reading-homo-deus.html
 ---

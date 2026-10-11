@@ -7,6 +7,7 @@ short_title: "Hello Web Design"
 description: Can you build a beautiful website without a design degree? Tailored for non-designers, these notes distill the 80/20 rules of typography, white space, color, and UX, giving you the practical shortcuts needed to create clean, high-converting web pages with minimal effort.
 image: assets/bookcover/hello-web-design.jpg
 infographic: assets/images/hello-web-design-info.png
+audio: https://od.lk/s/ODdfNDc0NzgzNTVfTnVTRk0/hello-web-design.m4a
 ---
 
 *Hello Web Design: Design Fundamentals and Shortcuts for Non-Designers* by Tracy Osborn

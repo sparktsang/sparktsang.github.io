@@ -7,6 +7,7 @@ short_title: "How Democracy Ends"
 description: "A chilling look at the modern threats to democratic systems. These notes summarize how conspiracy theories, technological takeovers, and elite failures are quietly eroding democracies from the inside out, without the need for a military coup."
 image: assets/bookcover/how-democracy-ends.jpg
 infographic: assets/images/how-democracy-ends-info.png
+audio: https://od.lk/s/ODdfNDc0Nzg1NzhfV3lYZWE/how-democracy-ends.m4a
 ---
 
 Original notes [here](/library/how-democracy-ends/chi){:target="_blank"}. 

@@ -9,6 +9,7 @@ permalink: /library/how-to-change/chi/
 language: chi
 image: assets/bookcover/how-to-change-chi.jpg
 infographic: assets/images/how-to-change-info.png
+audio: https://od.lk/s/ODdfNDc0Nzg1NDdfVEtwZTk/how-to-change.m4a
 ---
 
 《零阻力改變：華頓商學院爆紅行為科學課，直擊內在弱點，高效自我成長》  

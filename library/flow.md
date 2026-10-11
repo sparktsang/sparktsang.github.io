@@ -8,6 +8,7 @@ short_title: "Flow"
 description: Unlock the psychology of the "optimal experience" to transform your daily life. These notes explain how to channel your psychic energy, merge skill with challenge, and find profound joy in both work and leisure.
 image: assets/bookcover/flow.jpg
 infographic: assets/images/flow-info.png
+audio: https://od.lk/s/ODdfNDc0NzgwNDRfY3dGV0g/flow.m4a
 ---
 
 *Flow: The Psychology of Optimal Experience* by Mihaly Csikszentmihalyi

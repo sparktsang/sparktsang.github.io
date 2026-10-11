@@ -9,6 +9,7 @@ permalink: /library/genya/chi/
 language: chi
 image: assets/bookcover/genya.jpg
 infographic: assets/images/genya-info.png
+audio: https://od.lk/s/ODdfNDc0NzgwNTNfbEJMSXA/genya.m4a
 ---
 
 English translation [here](/library/genya){:target="_blank"}. 

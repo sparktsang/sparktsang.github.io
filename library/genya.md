@@ -7,6 +7,7 @@ short_title: Genya
 description: "A dark and gripping summary of Keigo Higashino’s suspense thriller. Follow the intertwined fates of a murderer and a mysterious, manipulative woman as they ruthlessly eliminate anyone standing in their path to survival and ambition."
 image: assets/bookcover/genya.png
 infographic: assets/images/genya-info.png
+audio: https://od.lk/s/ODdfNDc0NzgwNTNfbEJMSXA/genya.m4a
 ---
 
 Original notes [here](/library/genya/chi){:target="_blank"}. 

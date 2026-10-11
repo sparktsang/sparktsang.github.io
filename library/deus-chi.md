@@ -14,6 +14,7 @@ permalink: /library/deus/chi/
 language: chi
 image: assets/bookcover/deus-chi.jpg
 infographic: assets/images/deus-info.png
+audio: https://od.lk/s/ODdfNDc0NjA1MDZfODZhc3Y/deus.m4a
 ---
 
 *Homo Deus: A brief history of tomorrow* by Yuval Noah Harari

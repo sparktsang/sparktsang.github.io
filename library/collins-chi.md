@@ -9,6 +9,7 @@ permalink: /library/collins/chi/
 language: chi
 image: assets/bookcover/collins-chi.jpg
 infographic: assets/images/collins-info.png
+audio: https://od.lk/s/ODdfNDc0NjA1MDFfV1NjNEE/collins.m4a
 ---
 
 《從 A 到 A+：企業從優秀到卓越的奧祕》  

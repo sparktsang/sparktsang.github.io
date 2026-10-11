@@ -9,6 +9,7 @@ nav_title: Contagious
 description: "Crack the code of virality with Jonah Berger’s STEPPS framework. These notes provide a concise guide to the six psychological triggers that make products, ideas, and behaviors catch on like wildfire."
 image: assets/bookcover/contagious.jpg
 infographic: assets/images/contagious-info.png
+audio: https://od.lk/s/ODdfNDc0NjA1MDJfcEVLNWk/contagious.m4a
 ---
 
 *Contagious: Why Things Catch On* by Jonah Berger

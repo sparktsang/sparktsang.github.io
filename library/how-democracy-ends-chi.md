@@ -13,6 +13,7 @@ permalink: /library/how-democracy-ends/chi/
 language: chi
 image: assets/bookcover/how-democracy-ends-chi.jpg
 infographic: assets/images/how-democracy-ends-info.png
+audio: https://od.lk/s/ODdfNDc0Nzg1NzhfV3lYZWE/how-democracy-ends.m4a
 ---
 
 *How Democracy Ends* by David Runciman

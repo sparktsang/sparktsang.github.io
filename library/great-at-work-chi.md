@@ -10,6 +10,7 @@ permalink: /library/great-at-work/chi/
 language: chi
 image: assets/bookcover/great-at-work-chi.jpg
 infographic: assets/images/great-at-work-info.png
+audio: https://od.lk/s/ODdfNDc0NzgxNjNfaU1DaTY/great-at-work.m4a
 ---
 
 《高績效心智：全新聰明工作學，讓你成為最厲害的1%》  

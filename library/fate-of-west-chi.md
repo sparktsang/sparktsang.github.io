@@ -9,6 +9,7 @@ permalink: /library/fate-of-west/chi/
 language: chi
 image: assets/bookcover/fate-of-west-chi.jpg
 infographic: assets/images/fate-of-west-info.png
+audio: https://od.lk/s/ODdfNDc0NjA1MTZfd2xoc3U/fate-of-west.m4a
 ---
 
 《西方的命運：維繫人類文明的普世價值該何去何從？》  

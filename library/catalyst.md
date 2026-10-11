@@ -9,6 +9,7 @@ nav_title: The Catalyst
 description: "Master the art of persuasion by removing barriers instead of pushing harder. These notes decode the five psychological hurdles to change and offer proven, subtle techniques to effectively change anyone's mind."
 image: assets/bookcover/catalyst.jpg
 infographic: assets/images/catalyst-info.png
+audio: https://od.lk/s/ODdfNDc0NjA0OTBfeW5xT0U/catalyst.m4a
 target_blank: true
 ---
 

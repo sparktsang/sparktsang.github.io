@@ -8,6 +8,7 @@ short_title: "Emotional Intelligence"
 description: "IQ only accounts for a fraction of your success; the rest depends on emotional mastery. These notes distill decades of psychological research into actionable insights on impulse control, empathy, and building resilient relationships."
 image: assets/bookcover/eq.jpg
 infographic: assets/images/eq-info.png
+audio: https://od.lk/s/ODdfNDc0NjA1MTVfN3A4SHA/eq.m4a
 ---
 
 *Emotional Intelligence: Why It Can Matter More Than IQ* by Daniel Goleman

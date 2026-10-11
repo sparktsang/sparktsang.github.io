@@ -10,6 +10,7 @@ permalink: /library/high-profit-marketing/chi/
 language: chi
 image: assets/bookcover/high-profit-marketing.jpg
 infographic: assets/images/high-profit-marketing-info.png
+audio: https://od.lk/s/ODdfNDc0NzgzNzZfNXlxbWg/high-profit-marketing.m4a
 ---
 
 中野道良《高獲利行銷實務課：小公司及個人品牌都應該知道的 B2B 集客密技》  

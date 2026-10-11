@@ -12,6 +12,7 @@ permalink: /library/china-under-world-history/chi/
 language: chi
 image: assets/bookcover/china-under-world-history.jpg
 infographic: assets/images/china-under-world-history-info.png
+audio: https://od.lk/s/ODdfNDc0NjA0ODlfQ0JUS1g/china-under-world-history.m4a
 ---
 
 張宏杰《世界史座標下的中國》  

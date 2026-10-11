@@ -8,6 +8,7 @@ nav_title: Grit
 description: "Talent is overrated; effort counts twice. This summary explores the true engine of outstanding achievement—a blend of fierce passion and relentless perseverance—and provides actionable steps to cultivate it in yourself and others."
 image: assets/bookcover/grit.webp
 infographic: assets/images/grit-info.png
+audio: https://od.lk/s/ODdfNDc0NzgxNjRfZUtvMkk/grit.m4a
 ---
 
 *Grit: The Power of Passion and Perseverance* by Angela Duckworth

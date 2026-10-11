@@ -8,6 +8,7 @@ short_title: "Good to Great"
 description: Why do some companies achieve explosive, long-term growth while others remain mediocre? These notes reveal the secrets of going from "good to great," offering timeless frameworks like Level 5 Leadership, the Hedgehog Concept, and the Flywheel effect to help you break through plateaus.
 image: assets/bookcover/collins.jpg
 infographic: assets/images/collins-info.png
+audio: https://od.lk/s/ODdfNDc0NjA1MDFfV1NjNEE/collins.m4a
 ---
 
 *Good to Great: Why Some Companies Make the Leap... and Others Don’t* by Jim C. Collins

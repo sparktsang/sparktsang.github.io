@@ -7,6 +7,7 @@ short_title: "Efficient Marketing in the Digital Age"
 description: "Cut through the noise of digital marketing myths with data-backed strategies. These notes offer a practical roadmap for targeting the right audience, optimizing conversion rates, and building authentic brand trust."
 image: assets/bookcover/efficient-marketing-eng.jpg
 infographic: assets/images/efficient-marketing-info.png
+audio: https://od.lk/s/ODdfNDc0NjA1MTRfTVowajg/efficient-marketing.m4a
 ---
 
 *Efficient Marketing in the Digital Age: Practical Secrets to Maximize Your Marketing Power with Precise Target Placement, Fast Customer Attraction, High Conversions, and Strong Branding!* by Martin Hiesboeck

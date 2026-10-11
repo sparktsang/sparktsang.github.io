@@ -8,6 +8,7 @@ permalink: /library/hello-web-design/chi/
 language: chi
 image: assets/bookcover/hello-web-design-chi.jpg
 infographic: assets/images/hello-web-design-info.png
+audio: https://od.lk/s/ODdfNDc0NzgzNTVfTnVTRk0/hello-web-design.m4a
 ---
 
 《如何設計好網站之UX與美學基礎》    

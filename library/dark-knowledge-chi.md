@@ -12,6 +12,7 @@ permalink: /library/dark-knowledge/chi/
 language: chi
 image: assets/bookcover/dark-knowledge.jpg
 infographic: assets/images/dark-knowledge-info.png
+audio: https://od.lk/s/ODdfNDc0NjA1MDBfeVFMNHE/dark-knowledge.m4a
 ---
 
 王維嘉《AI 背後的暗知識：機器如何學習、認知與改造我們的未來世界》    

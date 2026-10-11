@@ -12,6 +12,7 @@ permalink: /library/catalyst/chi/
 language: chi
 image: assets/bookcover/catalyst-chi.jpg
 infographic: assets/images/catalyst-info.png
+audio: https://od.lk/s/ODdfNDc0NjA0OTBfeW5xT0U/catalyst.m4a
 target_blank: true
 ---
 

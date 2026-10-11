@@ -8,6 +8,7 @@ nav_title: China Under World History
 description: "A fascinating macro-historical analysis placing China’s dynastic cycles within a global context. These notes reveal the deep geographical, cultural, and systemic reasons why Chinese and Western histories radically diverged."
 image: assets/bookcover/china-under-world-history.png
 infographic: assets/images/china-under-world-history-info.png
+audio: https://od.lk/s/ODdfNDc0NjA0ODlfQ0JUS1g/china-under-world-history.m4a
 ---
 
 *China Under World History Coordinates* by Zhang Hongjie

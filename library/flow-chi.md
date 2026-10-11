@@ -13,6 +13,7 @@ permalink: /library/flow/chi/
 language: chi
 image: assets/bookcover/flow-chi.jpg
 infographic: assets/images/flow-info.png
+audio: https://od.lk/s/ODdfNDc0NzgwNDRfY3dGV0g/flow.m4a
 ---
 
 《心流：高手都在研究的最優體驗心理學》  

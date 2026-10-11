@@ -9,6 +9,7 @@ permalink: /library/flirtology/chi/
 language: chi
 image: assets/bookcover/flirtology-chi.webp
 infographic: assets/images/flirtology-info.png
+audio: https://od.lk/s/ODdfNDc0NjA1MThfRkRMSGc/flirtology.m4a
 ---
 
 《調情學：追尋真愛的萬用公式，人際互動專家讓你面對自我，走進關係》  

@@ -8,6 +8,7 @@ short_title: "The Origins of Political Order"
 description: "Dive into the deep historical roots of why some nations succeed while others fail. These notes trace the evolution of the state, the rule of law, and accountable government from tribal societies up to the French Revolution."
 image: assets/bookcover/fukuyama.webp
 infographic: assets/images/fukuyama-info.png
+audio: https://od.lk/s/ODdfNDc0NzgwNTBfTlB2MjA/fukuyama.m4a
 ---
 
 *The Origins of Political Order: From Prehuman Times to the French Revolution* by Francis Fukuyama

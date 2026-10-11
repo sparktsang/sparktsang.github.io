@@ -12,6 +12,7 @@ permalink: /library/fukuyama/chi/
 language: chi
 image: assets/bookcover/fukuyama.jpg
 infographic: assets/images/fukuyama-info.png
+audio: https://od.lk/s/ODdfNDc0NzgwNTBfTlB2MjA/fukuyama.m4a
 ---
 
 法蘭西斯．福山《政治秩序的起源（上卷）：從史前到法國大革命》  
