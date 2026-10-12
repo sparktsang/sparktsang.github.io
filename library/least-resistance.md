@@ -8,6 +8,7 @@ short_title: "The Path of Least Resistance"
 description: Stop fighting against your circumstances and start designing them. These notes explain how the hidden structures in your life dictate your actions, and how shifting from a "problem-solving" mindset to a "creating" mindset changes everything.
 image: assets/bookcover/fritz.jpg
 infographic: assets/images/least-resistance-info.png
+audio: https://od.lk/s/ODdfNDc1MjA1NjZfa2tGWFU/least-resistance.m4a
 ---
 
 *The Path of Least Resistance: Learning to Become the Creative Force in Your Own Life* by Robert Fritz

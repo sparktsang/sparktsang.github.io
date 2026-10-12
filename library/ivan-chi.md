@@ -9,6 +9,7 @@ permalink: /library/ivan/chi/
 language: chi
 image: assets/bookcover/ivan.png
 infographic: assets/images/ivan-info.png
+audio: https://od.lk/s/ODdfNDc1MjA1NjVfM1BwdTg/ivan.m4a
 ---
 
 托爾斯泰《傻子伊凡》  

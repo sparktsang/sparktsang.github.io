@@ -8,6 +8,7 @@ short_title: "Human Hacking"
 description: Discover the psychological martial arts from a professional social engineer. These notes reveal how to use "human hacking" techniques—like pretexting and elicitation—to build instant rapport, ethically influence others, and protect yourself from manipulation.
 image: assets/bookcover/human-hacking.jpg
 infographic: assets/images/human-hacking-info.png
+audio: https://od.lk/s/ODdfNDc1MDkwODRfQ0N0eVQ/human-hacking.m4a
 ---
 
 *Human Hacking: Win friends, influence people, and leave them better off for having met you* by Christopher Hadnagy, Seth Schulman

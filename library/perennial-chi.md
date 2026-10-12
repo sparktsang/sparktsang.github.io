@@ -14,6 +14,8 @@ language: chi
 lib_note: false
 ---
 
+Spark Tsang《投資長勝的普世法則》
+
 [Originally posted](https://medium.com/投資科學/投資長勝的普世法則-aecdc14ae623){:target="_blank"} on Medium on 2019.  
 English translation [here](/library/perennial){:target="_blank"}. 
 

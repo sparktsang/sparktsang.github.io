@@ -8,6 +8,7 @@ short_title: "The Journey of Humanity"
 description: How did humanity escape the Malthusian trap, and why is global wealth so unequal? These notes distill a unified theory of human history, exploring how geography, demographics, and institutions shaped the final economic destiny of nations.
 image: assets/bookcover/humanity-journey.jpg
 infographic: assets/images/humanity-journey-info.png
+audio: https://od.lk/s/ODdfNDc1MDkxNDhfeUpoSHU/humanity-journey.m4a
 ---
 
 *The Journey of Humanity: A New History of Wealth and Inequality with Implications for Our Future* by Oded Galor

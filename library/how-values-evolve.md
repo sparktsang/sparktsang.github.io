@@ -8,6 +8,7 @@ short_title: "How Human Values Evolve"
 description: Did you know your moral values are dictated by how your society captures energy? These notes provide a mind-bending macro-history of human morality, explaining why foragers, farmers, and fossil-fuel societies have vastly different views on equality, hierarchy, and violence.
 image: assets/bookcover/how-values-evolve.avif
 infographic: assets/images/how-values-evolve-info.png
+audio: https://od.lk/s/ODdfNDc0ODc1MDRfbWJJM1I/how-values-evolve.m4a
 ---
 
 *Foragers, Farmers, and Fossil Fuels: How Human Values Evolve* by Ian Morris

@@ -12,6 +12,7 @@ permalink: /library/least-resistance/chi/
 language: chi
 image: assets/bookcover/fritz-chi.jpg
 infographic: assets/images/least-resistance-info.png
+audio: https://od.lk/s/ODdfNDc1MjA1NjZfa2tGWFU/least-resistance.m4a
 ---
 
 *The Path of Least Resistance: Learning to Become the Creative Force in Your Own Life* by Robert Fritz

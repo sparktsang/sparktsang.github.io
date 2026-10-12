@@ -9,6 +9,7 @@ nav_title: Influence
 description: Why do we say "yes" when we really mean "no"? These notes break down the six psychological triggers of persuasion—like reciprocity, social proof, and scarcity—arming you to defend against marketing tricks and ethically influence others.
 image: assets/bookcover/influence.jpg
 infographic: assets/images/influence-info.png
+audio: https://od.lk/s/ODdfNDc1MjA1NjRfUlBVeWE/influence.m4a
 target_blank: true
 ---
 

@@ -9,6 +9,7 @@ permalink: /library/how-values-evolve/chi/
 language: chi
 image: assets/bookcover/how-values-evolve.jpg
 infographic: assets/images/how-values-evolve-info.png
+audio: https://od.lk/s/ODdfNDc0ODc1MDRfbWJJM1I/how-values-evolve.m4a
 ---
 
 《人類憑什麼：覓食者、農民、與化石燃料——人類價值觀演進史》  

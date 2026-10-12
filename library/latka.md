@@ -8,6 +8,7 @@ nav_title: A Capitalist Without Any Capital
 description: "A fiercely pragmatic guide to building wealth in the modern economy. Learn how to game the system, leverage existing assets, buy profitable micro-businesses, and generate passive income—even if you're starting with zero capital."
 image: assets/bookcover/latka.webp
 infographic: assets/images/latka-info.png
+audio: https://od.lk/s/ODdfNDc1MjA1NjNfMnJQaGw/latka.m4a
 ---
 
 *How to Be a Capitalist Without Any Capital: The Four Rules You Must Break To Get Rich* by  Nathan Latka

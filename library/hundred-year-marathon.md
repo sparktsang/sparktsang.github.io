@@ -8,6 +8,7 @@ short_title: "The Hundred-Year Marathon"
 description: "Uncover the long-term, stealth strategy behind China’s rise. These notes decode the historical and ideological playbook the CCP uses to systematically deceive the West and position itself as the dominant global superpower by 2049."
 image: assets/bookcover/hundred-year-marathon.jpg
 infographic: assets/images/hundred-year-marathon-info.png
+audio: https://od.lk/s/ODdfNDc1MjA1NTNfVndsZ1A/hundred-year-marathon.m4a
 ---
 
 *The Hundred-Year Marathon: China's Secret Strategy to Replace America as the Global Superpower* by Michael Pillsbury

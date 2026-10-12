@@ -10,6 +10,7 @@ permalink: /library/like-water/chi/
 language: chi
 image: assets/bookcover/like-water.png
 infographic: assets/images/like-water-info.png
+audio: https://od.lk/s/ODdfNDc1MjA1NzFfQkh0dFc/like-water.m4a
 ---
 
 盧斯達《如水赴壑——香港歷史與意識之流》  

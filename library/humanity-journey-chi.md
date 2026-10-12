@@ -10,6 +10,7 @@ permalink: /library/humanity-journey/chi/
 language: chi
 image: assets/bookcover/humanity-journey-chi.jpg
 infographic: assets/images/humanity-journey-info.png
+audio: https://od.lk/s/ODdfNDc1MDkxNDhfeUpoSHU/humanity-journey.m4a
 ---
 
 《人類的旅程：財富和不平等的起源》  

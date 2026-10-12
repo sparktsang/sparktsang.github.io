@@ -9,6 +9,7 @@ permalink: /library/influence/chi/
 language: chi
 image: assets/bookcover/influence-chi.jpg
 infographic: assets/images/influence-info.png
+audio: https://od.lk/s/ODdfNDc1MjA1NjRfUlBVeWE/influence.m4a
 target_blank: true
 ---
 

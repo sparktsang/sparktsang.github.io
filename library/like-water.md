@@ -7,6 +7,7 @@ short_title: "Like Water to the Ravine"
 description: "A provocative exploration of Hong Kong’s identity and its role in the clash between China and the West. These notes dissect the imperial myths, localist movements, and historical contingencies that shaped the city's turbulent destiny."
 image: assets/bookcover/like-water-eng.png
 infographic: assets/images/like-water-info.png
+audio: https://od.lk/s/ODdfNDc1MjA1NzFfQkh0dFc/like-water.m4a
 ---
 
 *Like Water to the Ravine: Hong Kong History and the Stream of Consciousness* by Lewis Loud

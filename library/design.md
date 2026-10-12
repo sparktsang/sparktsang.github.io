@@ -14,6 +14,8 @@ render_with_liquid: false
 overflow: true
 ---
 
+*Overriding Code: A 120,000-Character Manifesto on Taming AI and Architecting a Digital Altar* by Spark Tsang
+
 [Translated from Cantonese][chi]{:target="_blank"}.
 
 ---

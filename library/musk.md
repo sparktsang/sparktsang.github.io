@@ -7,6 +7,7 @@ short_title: "Elon Musk"
 description: Madman or visionary savior? These notes chronicle Elon Musk's brutal, high-stakes journey building PayPal, Tesla, and SpaceX, revealing the relentless drive and first-principles thinking required to single-handedly push humanity into the future.
 image: assets/bookcover/musk.jpg
 infographic: assets/images/musk-info.png
+audio: https://od.lk/s/ODdfNDc1MjA1NzJfSGVJaUs/musk.m4a
 ---
 
 *Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future* by Ashlee Vance

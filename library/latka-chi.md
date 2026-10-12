@@ -9,6 +9,7 @@ permalink: /library/latka/chi/
 language: chi
 image: assets/bookcover/latka.png
 infographic: assets/images/latka-info.png
+audio: https://od.lk/s/ODdfNDc1MjA1NjNfMnJQaGw/latka.m4a
 ---
 
 *How to Be a Capitalist Without Any Capital: The Four Rules You Must Break To Get Rich* by  Nathan Latka

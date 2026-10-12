@@ -8,6 +8,7 @@ permalink: /library/musk/chi/
 language: chi
 image: assets/bookcover/musk-chi.jpg
 infographic: assets/images/musk-info.png
+audio: https://od.lk/s/ODdfNDc1MjA1NzJfSGVJaUs/musk.m4a
 ---
 
 《鋼鐵人馬斯克：從特斯拉到太空探索，大夢想家如何創造驚奇的未來》  

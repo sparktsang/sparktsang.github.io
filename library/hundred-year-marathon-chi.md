@@ -10,6 +10,7 @@ permalink: /library/hundred-year-marathon/chi/
 language: chi
 image: assets/bookcover/hundred-year-marathon-chi.jpg
 infographic: assets/images/hundred-year-marathon-info.png
+audio: https://od.lk/s/ODdfNDc1MjA1NTNfVndsZ1A/hundred-year-marathon.m4a
 ---
 
 *The Hundred-Year Marathon: China's Secret Strategy to Replace America as the Global Superpower* by Michael Pillsbury

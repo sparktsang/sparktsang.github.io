@@ -10,6 +10,7 @@ permalink: /library/nexus/chi/
 language: chi
 image: assets/bookcover/nexus.png
 infographic: assets/images/nexus-info.png
+audio: https://od.lk/s/ODdfNDc1MjA1NzVfR01pbUw/nexus.m4a
 ---
 
 《連結：從石器時代到 AI 紀元》  

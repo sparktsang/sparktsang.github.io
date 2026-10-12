@@ -10,6 +10,7 @@ permalink: /library/low-profile-entrepreneurship/chi/
 language: chi
 image: assets/bookcover/low-profile-entrepreneurship.jpg
 infographic: assets/images/low-profile-entrepreneurship-info.png
+audio: https://od.lk/s/ODdfNDc1MjA1NjlfMHBtSng/low-profile-entrepreneurship.m4a
 ---
 
 English translation [here](/library/low-profile-entrepreneurship){:target="_blank"}. 

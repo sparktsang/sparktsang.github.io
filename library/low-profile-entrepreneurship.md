@@ -7,6 +7,7 @@ short_title: "Low-Profile Entrepreneurship"
 description: Achieve financial independence without the massive risks of a traditional tech startup. These notes provide a step-by-step guide to "low-profile" entrepreneurship, turning everyday organizational and communication skills into a highly profitable, quiet side business.
 image: assets/bookcover/low-profile-entrepreneurship.png
 infographic: assets/images/low-profile-entrepreneurship-info.png
+audio: https://od.lk/s/ODdfNDc1MjA1NjlfMHBtSng/low-profile-entrepreneurship.m4a
 ---
 
 *Low-Profile Entrepreneurship* by Yuichi Tanaka

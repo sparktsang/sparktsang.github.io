@@ -17,6 +17,8 @@ render_with_liquid: false
 overflow: true
 ---
 
+Spark Tsang《凌駕代碼：馴服 AI 鑄造策展神壇的十二萬字實錄》
+
 In Cantonese. English translation [**here**][english]{:target="_blank"}.
 
 ---

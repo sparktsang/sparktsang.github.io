@@ -8,6 +8,7 @@ short_title: "Nexus"
 description: From Stone Age myths to AI-driven algorithms, Harari explores how information networks build power and order. These notes provide a sweeping historical lens to understand the existential threats of our upcoming digital dictatorships and the "Silicon Curtain."
 image: assets/bookcover/nexus.webp
 infographic: assets/images/nexus-info.png
+audio: https://od.lk/s/ODdfNDc1MjA1NzVfR01pbUw/nexus.m4a
 ---
 
 *Nexus: A Brief History of Information Networks from the Stone Age to AI* by Yuval Noah Harari

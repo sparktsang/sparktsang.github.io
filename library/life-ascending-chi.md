@@ -9,6 +9,7 @@ permalink: /library/life-ascending/chi/
 language: chi
 image: assets/bookcover/life-ascending-chi.jpg
 infographic: assets/images/life-ascending-info.png
+audio: https://od.lk/s/ODdfNDc1MjA1NjhfUnBLWkQ/life-ascending.m4a
 ---
 
 《生命的躍升：40億年演化史上最重要的10個關鍵》  
