@@ -356,7 +356,7 @@
 		// Smart Header (向下捲動/靜止時隱藏，向上捲動時顯示)
 		var lastScrollTop = 0;
 		var idleTimer = null;
-		var idleWait = 2000; // 設定靜止多少毫秒後隱藏 (2000 = 2秒，可依喜好微調)
+		var idleWait = 4000; // 設定靜止多少毫秒後隱藏
 
 		// Header 離開視線作為觸發高度
 		var triggerHeight = $banner.length > 0 ? $header.height() : 150;
