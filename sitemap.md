@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sitemap
-menu-order: 4
+menu-order: 5
 target_blank: true
 ---
 

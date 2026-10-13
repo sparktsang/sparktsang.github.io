@@ -17,13 +17,13 @@
 		        <li><a href="{{ "" | absolute_url }}">{{ page.title }}</a></li>
 	    	{% endif %}
 		{% endfor %}
-		<li><a href="{{ "/life/childhood/" | absolute_url }}">AUTOBIOGRAPHY</a></li>
-		{% assign menu_pages = site.pages
+		{% assign all_pages = site.pages | concat: site.documents %}
+		{% assign menu_pages = all_pages
 			| where_exp: "p", "p.menu-order != nil"
 			| where_exp: "p", "p.layout != 'home'"
 			| sort: "menu-order" %}
 		{% for page in menu_pages %}
-			<li><a href="{% if page.redirect_to %}{{ page.redirect_to }}{% else %}{{ page.url | absolute_url }}{% endif %}">{{ page.nav_title | default: page.title }}</a></li>
+			<li><a href="{% if page.redirect_to %}{{ page.redirect_to }}{% else %}{{ page.url | absolute_url }}{% endif %}">{{ page.menu_title | default: page.title }}</a></li>
 		{% endfor %}
 	</ul>
 </nav>

@@ -34,5 +34,5 @@ mobile_foot: |
   
   <a href="/library/chi">中</a> | EN
 image: assets/images/obsidian_eclipse_chatgpt.png
-menu-order: 2
+menu-order: 3
 ---
