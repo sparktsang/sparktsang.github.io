@@ -8,6 +8,7 @@ short_title: "Purple Cow"
 description: In an age of advertising overload, playing it safe is the riskiest strategy of all. Distilling Seth Godin’s marketing classic, these notes teach you how to stop pleasing the masses and start designing "Purple Cows"—remarkable products that people can't help but talk about.
 image: assets/bookcover/purple-cow.jpg
 infographic: assets/images/purple-cow-info.png
+audio: https://od.lk/s/ODdfNDc1MzAwODFfZWZydWE/purple-cow.m4a
 ---
 
 *Purple Cow: Transform Your Business by Being Remarkable* by Seth Godin

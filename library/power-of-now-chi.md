@@ -13,6 +13,7 @@ permalink: /library/power-of-now/chi/
 language: chi
 image: assets/bookcover/power-of-now.webp
 infographic: assets/images/power-of-now-info.png
+audio: https://od.lk/s/ODdfNDc1MzAwMjdfUnVzWlI/power-of-now.m4a
 ---
 
 《當下的力量：找回每時每刻的自己》  

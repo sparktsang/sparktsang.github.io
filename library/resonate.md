@@ -10,6 +10,7 @@ title_obvious: false
 description: Turn your presentations from boring reports into gripping, cinematic experiences. These notes map the mythological "Hero’s Journey" to public speaking, teaching you how to use contrast and storytelling to deeply persuade and transform your audience.
 image: assets/bookcover/resonate.jpg
 infographic: assets/images/resonate-info.png
+audio: https://od.lk/s/ODdfNDc1MzAwNzdfYjZOa1o/resonate.m4a
 ---
 
 *Resonate: Present Visual Stories that Transform Audiences* by Nancy Duarte  

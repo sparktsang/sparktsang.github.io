@@ -8,6 +8,7 @@ permalink: /library/process-economy/chi/
 language: chi
 image: assets/bookcover/process-economy.jpg
 infographic: assets/images/process-economy-info.png
+audio: https://od.lk/s/ODdfNDc1MzAwNzlfbVFPcEI/process-economy.m4a
 ---
 
 尾原和啓《過程商機：分享AI無法生成、對手難以複製的日常，即使沒產品也能贏利！》

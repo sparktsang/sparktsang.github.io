@@ -8,6 +8,7 @@ short_title: "The Power of Data Analysis"
 description: "Stop confusing correlation with causation in your decision-making. These notes break down advanced econometric tools—like Randomized Controlled Trials and natural experiments—into accessible strategies for making foolproof, data-driven business choices."
 image: assets/bookcover/power-of-data-analysis.jpg
 infographic: assets/images/power-of-data-analysis-info.png
+audio: https://od.lk/s/ODdfNDc1MzAwMjhfWUxHbHk/power-of-data-analysis.m4a
 ---
 
 Original notes [here](/library/power-of-data-analysis/chi){:target="_blank"}. 

@@ -10,6 +10,7 @@ permalink: /library/power-of-data-analysis/chi/
 language: chi
 image: assets/bookcover/power-of-data-analysis.png
 infographic: assets/images/power-of-data-analysis-info.png
+audio: https://od.lk/s/ODdfNDc1MzAwMjhfWUxHbHk/power-of-data-analysis.m4a
 ---
 
 English translation [here](/library/power-of-data-analysis){:target="_blank"}. 

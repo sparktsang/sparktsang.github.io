@@ -8,6 +8,7 @@ short_title: "The Subtle Art of Not Giving a Fuck"
 description: Toxic positivity is ruining your life. This brilliantly blunt note flips conventional self-help on its head, arguing that true happiness comes not from avoiding pain, but from choosing the right pain and deciding what truly deserves your "f*cks."
 image: assets/bookcover/not-giving-a-fuck.jpg
 infographic: assets/images/not-giving-a-fuck-info.png
+audio: https://od.lk/s/ODdfNDc1MjA2MDFfdThONGE/not-giving-a-fuck.m4a
 ---
 
 *The Subtle Art of Not Giving a Fuck: A Counterintuitive Approach to Living a Good Life* by Mark Manson

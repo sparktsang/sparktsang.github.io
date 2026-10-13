@@ -8,6 +8,7 @@ short_title: "Masters of the Planet"
 description: "Uncover the evolutionary accidents and cognitive breakthroughs that made Homo sapiens the undisputed rulers of Earth. These notes distill complex paleoanthropology into a captivating story of how bipedalism, tools, and symbolic thought forged modern humanity."
 image: assets/bookcover/planet-masters.jpg
 infographic: assets/images/planet-masters-info.png
+audio: https://od.lk/s/ODdfNDc1MzAwMjRfY3E5S28/planet-masters.m4a
 ---
 
 *Masters of the Planet: The Search for Our Human Origins* by Ian Tattersall

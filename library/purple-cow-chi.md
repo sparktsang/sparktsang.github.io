@@ -9,6 +9,7 @@ permalink: /library/purple-cow/chi/
 language: chi
 image: assets/bookcover/purple-cow.png
 infographic: assets/images/purple-cow-info.png
+audio: https://od.lk/s/ODdfNDc1MzAwODFfZWZydWE/purple-cow.m4a
 ---
 
 《紫牛》  

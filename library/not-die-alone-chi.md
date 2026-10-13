@@ -9,6 +9,7 @@ permalink: /library/not-die-alone/chi/
 language: chi
 image: assets/bookcover/not-die-alone-chi.jpg
 infographic: assets/images/not-die-alone-info.png
+audio: https://od.lk/s/ODdfNDc1MjA2MDJfbHJNQjk/not-die-alone.m4a
 ---
 
 《哈佛✕Google 行為科學家的脫單指南》  
