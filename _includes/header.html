@@ -20,7 +20,6 @@
 		{% assign all_pages = site.pages | concat: site.documents %}
 		{% assign menu_pages = all_pages
 			| where_exp: "p", "p.menu-order != nil"
-			| where_exp: "p", "p.layout != 'home'"
 			| sort: "menu-order" %}
 		{% for page in menu_pages %}
 			<li><a href="{% if page.redirect_to %}{{ page.redirect_to }}{% else %}{{ page.url | absolute_url }}{% endif %}">{{ page.menu_title | default: page.title }}</a></li>

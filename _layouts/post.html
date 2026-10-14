@@ -218,8 +218,10 @@
 				{% if page.language == "chi" %}
 					<p style="margin-bottom: 5px;">感謝看到最後，額外送上此圖。</p>
 					<p style="font-size:9pt;">如需中文版圖表，不妨<a href="mailto:cashtsang@gmail.com">來函告知</a>，我會為你特別製作。</p>
-				{% else %}
+				{% elsif page.classification != "Novels" %}
 					<p>Thank you for reading until the end. This is a bonus infographic just for you. </p>
+				{% else %}
+					<p>Thank you for reading until the end. This is a bonus just for you. </p>
 				{% endif %}
 			{% endif %}	
 			<span class="image main"><img src="{{ site.baseurl }}/{{ page.infographic }}" alt="" /></span>

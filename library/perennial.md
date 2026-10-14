@@ -283,4 +283,4 @@ How one might construct such a method from a Price Determinant is a subject for 
 ---
 
 The principles developed here did not emerge in a vacuum. They grew out of a personal search for an investment method that could survive the failure of the models and authorities I once trusted.  
-[My autobiography recounts that journey]({% post_url 2025-10-25-search %}){:target="_blank"}—from investment gurus and seductive backtests to the first attempts at building my own system.
+[*My autobiography*]({% post_url 2025-10-25-search %}){:target="_blank"} recounts that journey—from investment gurus and seductive backtests to the first attempts at building my own system.
