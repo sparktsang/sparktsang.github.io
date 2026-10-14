@@ -14,6 +14,7 @@ permalink: /library/socrates/chi/
 language: chi
 image: assets/bookcover/socrates.jpg
 infographic: assets/images/socrates-info.png
+audio: https://od.lk/s/ODdfNDc1MzA4ODVfZWxsVEM/socrates.m4a
 ---
 
 English translation [here](/library/socrates){:target="_blank"}. 

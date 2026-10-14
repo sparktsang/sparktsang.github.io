@@ -15,6 +15,7 @@ permalink: /library/startup-science/chi/
 language: chi
 image: assets/bookcover/startup-science.jpg
 infographic: assets/images/startup-science-info.png
+audio: https://od.lk/s/ODdfNDc1MzA4ODJfUjZsRWE/startup-science.m4a
 target_blank: true
 ---
 

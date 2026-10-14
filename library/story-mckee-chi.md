@@ -9,6 +9,7 @@ permalink: /library/story-mckee/chi/
 language: chi
 image: assets/bookcover/story-mckee-chi.jpg
 infographic: assets/images/story-mckee-info.png
+audio: https://od.lk/s/ODdfNDc1MzA4OTRfckpEeUs/story-mckee.m4a
 ---
 
 《故事的解剖：跟好萊塢編劇教父學習說故事的技藝，打造獨一無二的內容、結構與風格！》  

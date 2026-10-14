@@ -14,6 +14,7 @@ permalink: /library/saints/chi/
 language: chi
 image: assets/bookcover/saints-chi.jpg
 infographic: assets/images/saints-info.png
+audio: https://od.lk/s/ODdfNDc1MzA4NzJfTTlwams/saints.m4a
 ---
 
 《四大聖哲：蘇格拉底、佛陀、孔子、耶穌》  

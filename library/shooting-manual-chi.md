@@ -7,6 +7,7 @@ permalink: /library/shooting-manual/chi/
 language: chi
 image: assets/bookcover/shooting-manual.png
 infographic: assets/images/shooting-manual-info.png
+audio: https://od.lk/s/ODdfNDc1MzA4NzRfc0wybGM/shooting-manual.m4a
 ---
 
 《槍械射擊聖經》  

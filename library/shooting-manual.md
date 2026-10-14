@@ -7,6 +7,7 @@ nav_title: Shooting Skills Manual
 description: Covering rifles, ARs, handguns, and shotguns, this is a hardcore guide tailored for firearms enthusiasts. These notes comprehensively summarize the mechanics of different firearms, top-tier model recommendations, and practical shooting skills ranging from long-range precision to home defense. A concise, action-packed resource that unlocks the art and science of shooting.
 image: assets/bookcover/shooting-manual.jpg
 infographic: assets/images/shooting-manual-info.png
+audio: https://od.lk/s/ODdfNDc1MzA4NzRfc0wybGM/shooting-manual.m4a
 ---
 
 *The Ultimate Shooting Skills Manual: 212 Essential Range and Field Skills* by by The Editors of Outdoor Life, John B Snow

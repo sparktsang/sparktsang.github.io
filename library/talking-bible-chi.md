@@ -9,6 +9,7 @@ permalink: /library/talking-bible/chi/
 language: chi
 image: assets/bookcover/talking-bible.jpg
 infographic: assets/images/talking-bible-info.png
+audio: https://od.lk/s/ODdfNDc1MzA5NjRfOFBDTTQ/talking-bible.m4a
 ---
 
 Friedemann Schulz von Thun《談話聖經》  

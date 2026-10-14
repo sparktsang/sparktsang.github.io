@@ -8,6 +8,7 @@ short_title: "Startup Science"
 description: A successful startup requires more than just passion; it demands a scientific methodology. This book operationalizes the "Lean Startup" concept into a step-by-step action plan. These highly condensed notes map out the entire entrepreneurial journey—from validating customer problems and building MVPs to scaling growth—packed with real-world case studies. It provides a systematic blueprint to help you avoid the traps that kill 99% of startups.
 image: assets/bookcover/startup-science-eng.jpg
 infographic: assets/images/startup-science-info.png
+audio: https://od.lk/s/ODdfNDc1MzA4ODJfUjZsRWE/startup-science.m4a
 target_blank: true
 ---
 

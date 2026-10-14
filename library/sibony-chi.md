@@ -14,6 +14,7 @@ permalink: /library/sibony/chi/
 language: chi
 image: assets/bookcover/sibony-chi.jpg
 infographic: assets/images/sibony-info.png
+audio: https://od.lk/s/ODdfNDc1MzA4NzZfWjBDT0M/sibony.m4a
 ---
 
 《不當決策：行為經濟學大師教你避開人性偏誤》  

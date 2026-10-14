@@ -8,6 +8,7 @@ short_title: "Socratic Dialogues"
 description: Socrates shifted the focus of philosophy from the cosmos to the human soul, using his relentless dialectical method to seek the truth. These notes distill the core arguments of ten essential dialogues, including the Apology and Gorgias, clearly mapping out the logical pursuit of concepts like justice, courage, and "virtue is knowledge." It is the perfect shortcut to grasping the essence of Socratic philosophy.
 image: assets/bookcover/socrates.png
 infographic: assets/images/socrates-info.png
+audio: https://od.lk/s/ODdfNDc1MzA4ODVfZWxsVEM/socrates.m4a
 ---
 
 Original notes [here](/library/socrates/chi){:target="_blank"}. 

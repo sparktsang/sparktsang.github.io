@@ -8,6 +8,7 @@ description: "Is mainstream neoliberal economics driving humanity toward a cliff
 title_obvious: false
 image: assets/bookcover/reverse-econ.png
 infographic: assets/images/reverse-econ-info.png
+audio: https://od.lk/s/ODdfNDc1MzAyODJfNUhBcUM/reverse-econ.m4a
 ---
 
 *Reverse Economics* by Eddy Lee Wai-Choi

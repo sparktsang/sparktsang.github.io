@@ -9,6 +9,7 @@ permalink: /library/stick-with-it/chi/
 language: chi
 image: assets/bookcover/stick-with-it-chi.jpg
 infographic: assets/images/stick-with-it-info.png
+audio: https://od.lk/s/ODdfNDc1MzA4ODNfYWI1RGk/stick-with-it.m4a
 ---
 
 《恆毅力的七堂課》  

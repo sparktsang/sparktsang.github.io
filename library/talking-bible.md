@@ -9,6 +9,7 @@ nav_title: Talking as a Bible
 description: Ever wonder why simple conversations turn into arguments? These notes unpack the "four ears" of interpersonal communication, revealing how hidden appeals and relationship dynamics cause misunderstandings, and offers practical psychological tools for authentic and effective interactions.
 image: assets/bookcover/talking-bible.png
 infographic: assets/images/talking-bible-info.png
+audio: https://od.lk/s/ODdfNDc1MzA5NjRfOFBDTTQ/talking-bible.m4a
 ---
 
 *Talking as a Bible* by Friedemann Schulz von Thun

@@ -10,6 +10,7 @@ permalink: /library/takahashi/chi/
 language: chi
 image: assets/bookcover/takahashi.jpg
 infographic: assets/images/takahashi-info.png
+audio: https://od.lk/s/ODdfNDc1MzA4OThfR3MzRFg/takahashi.m4a
 ---
 
 高橋洋一《地緣政治：主權、資源與戰爭》

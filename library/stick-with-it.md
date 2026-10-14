@@ -8,6 +8,7 @@ short_title: "Stick With It"
 description: Forget relying on willpower alone to achieve your goals. These notes introduce a scientifically proven framework (SCIENCE) for lasting behavioral change, offering practical, brain-friendly neurohacking techniques to build good habits, beat procrastination, and finally stick with your plans.
 image: assets/bookcover/stick-with-it.jpg
 infographic: assets/images/stick-with-it-info.png
+audio: https://od.lk/s/ODdfNDc1MzA4ODNfYWI1RGk/stick-with-it.m4a
 ---
 
 *Stick With It: A Scientifically Proven Process for Changing Your Life—for Good* by Sean Young
