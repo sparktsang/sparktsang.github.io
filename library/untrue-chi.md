@@ -9,6 +9,7 @@ permalink: /library/untrue/chi/
 language: chi
 image: assets/bookcover/untrue-chi.jpg
 infographic: assets/images/untrue-info.png
+audio: https://od.lk/s/ODdfNDc1NjcwNDRfbDJsaGk/untrue.m4a
 ---
 
 《性、謊言、柏金包：女性欲望的新科學》  

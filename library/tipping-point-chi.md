@@ -10,6 +10,7 @@ permalink: /library/tipping-point/chi/
 language: chi
 image: assets/bookcover/tipping-point.jpg
 infographic: assets/images/tipping-point-info.png
+audio: https://od.lk/s/ODdfNDc1NjcwNDBfWDJXWEQ/tipping-point.m4a
 ---
 
 《引爆趨勢：小改變如何引發大流行》  

@@ -8,6 +8,7 @@ title_obvious: false
 description: The playbook for mastering hard skills fast. These notes summarize the 9 rules of ultralearning, from meta-learning to retrieval practice, teaching you how to focus intensely, target weaknesses, and accelerate your personal growth.
 image: assets/bookcover/ultralearning.jpg
 infographic: assets/images/ultralearning-info.png
+audio: https://od.lk/s/ODdfNDc1NjcwMzdfWFR2M28/ultralearning.m4a
 ---
 
 *Ultralearning: Master Hard Skills, Outsmart the Competition, and Accelerate Your Career* by Scott H Young

@@ -9,6 +9,7 @@ permalink: /library/tepper/chi/
 language: chi
 image: assets/bookcover/tepper.webp
 infographic: assets/images/tepper-info.png
+audio: https://od.lk/s/ODdfNDc1Mzk0NTVfdHdvVGs/tepper.m4a
 ---
 
 《競爭之死：高度壟斷的資本主義，是延誤創新、壓低工資、拉大貧富差距的元凶》  

@@ -8,6 +8,7 @@ short_title: "The Tipping Point"
 description: How do ideas, products, and behaviors spread like viruses? These notes break down the three rules of social epidemics—the Law of the Few, the Stickiness Factor, and the Power of Context—revealing the hidden triggers that turn small actions into massive global trends.
 image: assets/bookcover/tipping-point.webp
 infographic: assets/images/tipping-point-info.png
+audio: https://od.lk/s/ODdfNDc1NjcwNDBfWDJXWEQ/tipping-point.m4a
 ---
 
 *The Tipping Point: How Little Things Can Make a Big Difference* by Malcolm Gladwell

@@ -10,6 +10,7 @@ permalink: /library/two-thousand-years/chi/
 language: chi
 image: assets/bookcover/two-thousand-years.jpg
 infographic: assets/images/two-thousand-years-info.png
+audio: https://od.lk/s/ODdfNDc1NjcwMzlfOFNRc2s/two-thousand-years.m4a
 ---
 
 English translation [here](/library/two-thousand-years){:target="_blank"}. 

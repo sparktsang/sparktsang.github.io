@@ -7,6 +7,7 @@ short_title: "Untrue"
 description: Shattering traditional myths about female desire. These notes combine anthropology and the latest science to debunk the illusion of "natural female monogamy," offering a radical new perspective on women's true evolutionary instincts and intimate relationships.
 image: assets/bookcover/untrue.jpg
 infographic: assets/images/untrue-info.png
+audio: https://od.lk/s/ODdfNDc1NjcwNDRfbDJsaGk/untrue.m4a
 ---
 
 *Untrue: Why Nearly Everything We Believe about Women, Lust, and Infidelity Is Wrong and How the New Science Can Set Us Free* by Wednesday Martin

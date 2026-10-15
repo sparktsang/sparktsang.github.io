@@ -8,6 +8,7 @@ permalink: /library/ultralearning/chi/
 language: chi
 image: assets/bookcover/ultralearning-chi.jpg
 infographic: assets/images/ultralearning-info.png
+audio: https://od.lk/s/ODdfNDc1NjcwMzdfWFR2M28/ultralearning.m4a
 ---
 
 《超速學習：我這樣做，一個月學會素描，一年學會四種語言，完成MIT四年課程》  
