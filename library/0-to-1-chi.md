@@ -69,7 +69,7 @@ Google 和微軟發展日壯開始注意對方，結果 Windows v Chrome OS、Bi
 經濟規模：固定成本由更多銷售產品攤分  
 品牌：很多人模仿蘋果：品牌故事、精品材質、詼諧解說、高貴定價、極簡設計… 蘋果本身的獨佔優勢都沒有其閃亮品牌顯眼，但卻是品牌強化獨佔地位的根基，喬布斯重回蘋果時專注發展少數十倍大躍進的潛在機會，沒有科技公司單靠品牌吃飯  
 以上元素要發揮效果，必須慎選市場，每個新創事業一開始都很小，而每個獨佔事業都可在自己的市場呼風喚雨：主導小市場比大市場容易得多  
-paypal 一開始用三個月時間跟 ebay 的 25%的超級賣家做生意，創業家如果討論要由千億美元市場搶下 1%市佔是個警訊  
+paypal 一開始用三個月時間跟 ebay 的 25% 的超級賣家做生意，創業家如果討論要由千億美元市場搶下 1%市佔是個警訊  
 主導一個利基市場後應該逐步擴展，亞馬遜一開始賣書，然後由相似度最高的市場著手：光碟、錄影帶、軟件，終成全球最大雜貨店  
 eBay 一開始是在絨毛玩具豆豆娃的市場形成獨佔，再擴至服務其他小型收藏家  
 別做破壞者，盡量避免競爭：著迷於破壞意味要透過舊企業的眼光看待自己，反對既有企業不可能是全新企業故不可能成為獨佔事業  
@@ -133,7 +133,7 @@ eBay 一開始是在絨毛玩具豆豆娃的市場形成獨佔，再擴至服務
 Bob Dylan：人不是忙著出生就是忙著等死；一間企業如果不斷創新，創業可以無限延長  
 
 好團隊應有相同願景，可以特別興奮與我們共事，這是 PayPal 幫之源  
-能到 google 享受高薪的人為何想加入你的公司成為第二十位工程師？有價值的股票、聰明的同事或挑戰性的問題，只是陳腔濫調，好答案無定案，必須度身訂做，一種與使命有關，一種與團隊有關  
+能到 Google 享受高薪的人為何想加入你的公司成為第二十位工程師？有價值的股票、聰明的同事或挑戰性的問題，只是陳腔濫調，好答案無定案，必須度身訂做，一種與使命有關，一種與團隊有關  
 公司每個人都該具有與眾不同的氣質，而同時志趣相投，在 PayPal 我們需要人人都著迷數位貨幣  
 分工明確、消除互相競爭可確保內部和諧  
 Accenture 顧問公司的顧問來來去去，和公司沒有長久連結，是虛無主義；教派是擁極高向心力的教條主義；從 0 到 1 文化是在中間偏向教派一邊，向心力高但對外人不理解的事看法正確  
@@ -157,7 +157,7 @@ Accenture 顧問公司的顧問來來去去，和公司沒有長久連結，是�
 PayPal 技術長聚集數學專才，仔細研究欺詐交易，寫成軟件自動辨識，但竊賊也可以不斷改良，所以最後只可先由電腦辨別，再交專人終判，有了這套系統才於 02 年首季轉虧為盈  
 出售 PayPal 後，軟件工程師 Steven Cohen 提出可以利用 PayPal 安全認證系統的人機複合模式，來辨識恐怖分子和金融欺詐，Palantir 遂創於 04 年，十年後可望達十億營收  
 中央情報局由強調人類優勢的間諜主導，國家安全局則由信奉電腦至上的將軍主導，Palantir 目標超越對立偏見，先做電腦軟件分析，再由受訓分析師檢查，協尋恐怖分子、預測叛軍埋彈地點、起訴內線交易、掃蕩兒童色情集團、偵測欺詐交易為銀行和政府節省每年數億  
-如今 97%人資用 LinkedIn 的強大過濾功能篩選候選人，若其純用科技取代人資不會成就今日  
+如今 97% 人資用 LinkedIn 的強大過濾功能篩選候選人，若其純用科技取代人資不會成就今日  
 最有價值企業不問靠電腦解決什麼問題，問的是電腦如何協助人類解決困難問題  
 電腦取代人類應是 22 世紀的煩惱，不應該和有必要取代人類兩立場之間，還大有空間  
 
@@ -207,8 +207,10 @@ Howard Hughes 律師庭上強調不能把適用你我的標準放在他上，法
 
 27/6/2020 閱畢於尖沙嘴誠品  
 
----
-
+<div class="post-highlight-msg" markdown="1">
 Thiel challenges us to abandon broken models and achieve a "0 to 1" breakthrough to save the future. He famously asks: *what important truth do you know that the world ignores?*  
+
 But what happens when the world’s fundamental architecture is structurally designed to crush those very truths before they can ever be heard?  
-To truly invent the future, we need more than a 0 to 1 innovation in business. *My philosophy* proposes the ultimate 0 to 1 paradigm shift for human civilization: [a new structural framework where truth no longer relies on privilege](/philosophy){:target="_blank"}, but survives solely by withstanding the ultimate test of refutation.  
+
+To truly invent the future, we need more than a 0 to 1 innovation in business. *My philosophy* proposes the ultimate 0 to 1 paradigm shift for human civilization: [a new structural framework where truth no longer relies on privilege](/philosophy){:target="_blank"}, but survives solely by withstanding the ultimate test of refutation.
+</div>

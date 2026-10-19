@@ -287,9 +287,9 @@
 
 		{% comment %} === 2. 顯示頂部排名歡迎詞 (剔除 normal_lib_note: false) === {% endcomment %}
 		{% if page.category == "Library" and page.normal_lib_note != false %}
-			<div class="library-welcome-msg" style="padding: 1.5rem; background: rgba(66, 133, 244, 0.05); border-left: 4px solid var(--accent); border-radius: 4px; margin-bottom: 2.5rem; font-size: 0.95em; color: var(--muted); line-height: 1.6;">
+			<div class="post-highlight-msg">
 			{% if page.language == "chi" %}
-				為了安放多年來親筆淬鍊的 <strong>{{ total_notes }}</strong> 份閱讀心血結晶，我建築了這座書影懸浮的<strong><a href="{{ site.baseurl }}/library/chi" style="color: var(--accent); text-decoration: none; border-bottom: 1px dotted var(--accent); " target="_blank">【無涯殿】</a></strong>，作為這些寶貝筆記的家。<br>此刻，感謝有您駐足於此一浩瀚書庫中的第 <strong>{{ current_rank }}</strong> 份珍藏——
+				為了安放多年來親筆淬鍊的 <strong>{{ total_notes }}</strong> 份閱讀心血結晶，我建築了這座書影懸浮的<strong><a href="{{ site.baseurl }}/library/chi" style="color: var(--accent); text-decoration: none; border-bottom: 1px dotted var(--accent); " target="_blank">【無涯殿】</a></strong>，作為這些寶貝筆記的家。<br><br>此刻，感謝有您駐足於此一浩瀚書庫中的第 <strong>{{ current_rank }}</strong> 份珍藏——
 			{% else %}
 				I've spent years distilling my reading into <strong>{{ total_notes }}</strong> hand-crafted notes. To give these personal treasures a proper home, I designed <strong><a href="{{ site.baseurl }}/library" style="color: var(--accent); text-decoration: none; border-bottom: 1px dotted var(--accent);" target="_blank">this Library</a></strong>—a custom space where the books float before your eyes.<br><br>Thank you for stopping by note <strong>#{{ current_rank }}</strong> of the collection—
 			{% endif %}
