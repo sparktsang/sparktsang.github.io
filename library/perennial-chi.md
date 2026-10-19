@@ -9,9 +9,10 @@ description: |
   非書籍。本人所創之投資框架的奠基性論著。
   從第一原理出發，演繹投資長勝的普世法則——並非另一套特定策略，乃是一切真正能夠長勝的方法，都必須符合的前提。
 permalink: /library/perennial/chi/
-image: assets/bookcover/perennial-cover-chi.png
 language: chi
-lib_note: false
+image: assets/bookcover/perennial-cover-chi.png
+infographic: assets/images/perennial-info.png
+normal_lib_note: false
 ---
 
 Spark Tsang《投資長勝的普世法則》

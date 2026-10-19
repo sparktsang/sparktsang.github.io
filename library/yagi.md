@@ -9,6 +9,7 @@ nav_title: Easiest Way to Find What You Want to Do
 description: Stop feeling lost in your career. These notes break down the "Like × Good At × Value" formula to help you uncover your intrinsic motivation. Use this simple self-understanding method to pinpoint your true calling without taking blind risks.
 image: assets/bookcover/yagi-eng.png
 infographic: assets/images/yagi-info.png
+audio: https://od.lk/s/ODdfNDc1NjcyODJfOUZMOG8/yagi.m4a
 ---
 
 *The World's Easiest Way to Find What You Want to Do* by Yagi Jimpei

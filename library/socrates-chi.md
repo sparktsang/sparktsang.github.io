@@ -24,16 +24,16 @@ English translation [here](/library/socrates){:target="_blank"}.
 ### 目錄
 
 1. [導言](#導言)  
-2. [申辯篇 Apology Ap.](#申辯篇-apology-ap)  
-3. [克里托篇 Crito Cri.](#克里托篇-crito-cri)  
-4. [卡爾米德篇 Charmides Chrm. （論中正）](#卡爾米德篇-charmides-chrm-論中正)  
-5. [拉凱斯篇 Laches Lch. （論勇）](#拉凱斯篇-laches-lch-論勇)  
-6. [呂西斯篇 Lysis Ly. （論友）](#呂西斯篇-lysis-ly-論友)  
-7. [歐緒弗洛篇 Euthyphro Euthphr. （論虔敬）](#歐緒弗洛篇-euthyphro-euthphr-論虔敬)  
-8. [小希庇亞篇 Lesser Hippias L.Hp. （論惡）](#小希庇亞篇-lesser-hippias-lhp-論惡)  
-9. [伊安篇 Ion Ion （論誦詩）](#伊安篇-ion-ion-論誦詩)  
-10. [高爾吉亞篇 Gorgias Grg. （論公正）](#高爾吉亞篇-gorgias-grg-論公正)  
-11. [普羅泰戈拉篇 Protagoras Prt. （論美德）](#普羅泰戈拉篇-protagoras-prt-論美德)  
+2. [申辯篇 Apology [Ap.]](#申辯篇-apology-ap)  
+3. [克里托篇 Crito [Cri.]](#克里托篇-crito-cri)  
+4. [卡爾米德篇 Charmides [Chrm.] （論中正）](#卡爾米德篇-charmides-chrm-論中正)  
+5. [拉凱斯篇 Laches [Lch.] （論勇）](#拉凱斯篇-laches-lch-論勇)  
+6. [呂西斯篇 Lysis [Ly.] （論友）](#呂西斯篇-lysis-ly-論友)  
+7. [歐緒弗洛篇 Euthyphro [Euthphr.] （論虔敬）](#歐緒弗洛篇-euthyphro-euthphr-論虔敬)  
+8. [小希庇亞篇 Lesser Hippias [L.Hp.] （論惡）](#小希庇亞篇-lesser-hippias-lhp-論惡)  
+9. [伊安篇 Ion [Ion] （論誦詩）](#伊安篇-ion-ion-論誦詩)  
+10. [高爾吉亞篇 Gorgias [Grg.] （論公正）](#高爾吉亞篇-gorgias-grg-論公正)  
+11. [普羅泰戈拉篇 Protagoras [Prt.] （論美德）](#普羅泰戈拉篇-protagoras-prt-論美德)  
 
 ---
 
@@ -44,7 +44,7 @@ English translation [here](/library/socrates){:target="_blank"}.
 本書選編不以蘇格拉底有無出現在對話，而以對話思想歸屬為準  
 
 
-### 申辯篇 Apology Ap.  
+### 申辯篇 Apology [Ap.]  
 
 開首，蘇格拉底請求審判團集中聽他說得是否公正，而不在意他的講話方式  
 訴狀大意：蘇格拉底行不義，整天忙忙碌碌考察天上地下之事，把較弱的論證變得較強，還教給他人；蘇哲指全屬假  
@@ -66,7 +66,7 @@ English translation [here](/library/socrates){:target="_blank"}.
 我去死，你們去活，無人知道誰的命更好，只有神知道  
 
 
-### 克里托篇 Crito Cri.  
+### 克里托篇 Crito [Cri.]  
 
 克里托獄訪蘇哲，指祭船將回雅典（祭船出航時，依例不殺犯人），死刑之日快臨，要下定決心了  
 若其不接受救援，會被認為是一眾朋友袖手旁觀讓他去死，背負可恥惡名；冒險相救分所當然，勿擔憂大家犯難；獄卒索要不多，多人已來相援，必能應付；倘絕命自毀，子成孤雛，並非善良勇敢，有負德性；受死的荒唐結果，會被認為是己方膽小怕事，使事情失控，邪惡又羞恥  
@@ -80,7 +80,7 @@ English translation [here](/library/socrates){:target="_blank"}.
 克里托無話可說  
 
 
-### 卡爾米德篇 Charmides Chrm. （論中正）  
+### 卡爾米德篇 Charmides [Chrm.] （論中正）  
 
 σωφροσύνη意指通達理智、謙恭仁愛、克己自持，書之中譯為「節制」，只通末一義，本筆記譯「中正」  
 蘇格拉底出戰歸來，去了體育場，克里底亞說起體貌俊美，令眾人神魂顛倒的卡爾米德  
@@ -119,7 +119,7 @@ English translation [here](/library/socrates){:target="_blank"}.
 卡指不知自己是否中正，但確需咒語，他聽從克的指示，一旦允許蘇施咒，就事無大小都聽他  
 
 
-### 拉凱斯篇 Laches Lch. （論勇）  
+### 拉凱斯篇 Laches [Lch.] （論勇）  
 
 此篇由青年教育談起，轉而論「勇」  
 聚會上，呂西瑪庫發言，代表自己與美勒西亞，責備自己成名的父親在成長時放縱他們，如今羞於談及自己的業績。聽說有人推薦武裝格鬥的教育方式，遂帶上了自己的兒子，想請教包括名將在內的眾人教子之道  
@@ -148,7 +148,7 @@ English translation [here](/library/socrates){:target="_blank"}.
 最後，各人請蘇為孩子們服務，蘇指剛剛的討論中大家都陷入困境，無法承擔此務，應當聯合起來找老師  
 
 
-### 呂西斯篇 Lysis Ly. （論友）  
+### 呂西斯篇 Lysis [Ly.] （論友）  
 
 希波泰勒邀請蘇格拉底進摔跤學校，說那裡的人都很漂亮  
 蘇問誰最漂亮，希羞紅了臉；希的同伴克特西普說他老是在談美少年呂西斯，用寫給他的情詩把大家淹沒  
@@ -173,7 +173,7 @@ English translation [here](/library/socrates){:target="_blank"}.
 蘇只得承認雖自認為是年青人的朋友，卻不知何謂朋友。  
 
 
-### 歐緒弗洛篇 Euthyphro Euthphr. （論虔敬）  
+### 歐緒弗洛篇 Euthyphro [Euthphr.] （論虔敬）  
 
 蘇被控不敬神，遇上要告父謀殺的歐緒弗洛，其父綁了殺其家奴之僕，未及詢問祭司如何處置，殺人犯就凍餓而死，歐認為父親殺了這殺人犯，並指舉告公正，私情非考慮因素，又自詡具備虔敬方面的精確知識，以致知道自己所為是虔敬的  
 蘇指要成為對方的學生，以便可反駁控告自己不敬神的人，他請教何謂虔敬  
@@ -188,7 +188,7 @@ English translation [here](/library/socrates){:target="_blank"}.
 蘇指出與神親近跟為神所喜沒分別，論證又走回原點，再次請教歐。歐託詞急事逃去。  
 
 
-### 小希庇亞篇 Lesser Hippias L.Hp. （論惡）  
+### 小希庇亞篇 Lesser Hippias [L.Hp.] （論惡）  
 
 希庇亞引荷馬著作，指阿喀琉斯比奧德修斯好，前者誠實後者撒謊  
 蘇詰問下希認撒謊者有能力、理智，在撒謊上是聰明的，但有能力撒謊者也是有能力說真話者，蘇指結論是說真話說假話的是同一種人，又引申自覺撒謊比不自覺撒謊、自覺行不義比不自覺行不義更佳，希無法接受，批評蘇在論證上製造混亂  
@@ -197,7 +197,7 @@ English translation [here](/library/socrates){:target="_blank"}.
 蘇指自己如一般人在事情上搖擺不定，但若像你們般的聰明人都這樣就太可怕  
 
 
-### 伊安篇 Ion Ion （論誦詩）  
+### 伊安篇 Ion [Ion] （論誦詩）  
 
 伊安等人在外邦的誦詩賽得獎，遇蘇格拉底，蘇向他請教  
 伊安指自己只懂誦荷馬的詩，他的詩最為優秀，大家都承認他說得好，但他不懂其他詩人  
@@ -208,7 +208,7 @@ English translation [here](/library/socrates){:target="_blank"}.
 最後，蘇指責伊安的論說不斷變化，在其催迫下伊安承認是神靈附體的吟誦者，而非某種技藝的大師  
 
 
-### 高爾吉亞篇 Gorgias Grg. （論公正）  
+### 高爾吉亞篇 Gorgias [Grg.] （論公正）  
 
 蘇格拉底訪演說家高爾吉亞，問何謂演講術，答謂有關言語的技藝，蘇指很多其他技藝也涉及言語，算術涉及關於奇偶的言語，那演講術涉及的是甚麼  
 高指是有關最高的善，蘇指醫生也可稱其提供的健康最為崇高  
@@ -237,7 +237,7 @@ English translation [here](/library/socrates){:target="_blank"}.
 蘇最後指人死後靈魂裸露受審，不公正的靈魂一覽無遺，會被判去地獄，反之則登極樂；餘人無法證明捨公正外還有更值一過的生活，而在論證上也只有公正生活的論證在駁斥下存活  
 
 
-### 普羅泰戈拉篇 Protagoras Prt. （論美德）  
+### 普羅泰戈拉篇 Protagoras [Prt.] （論美德）  
 
 少年希波克拉底欲拜有智者之稱的普羅泰戈拉為師，蘇格拉底問其教的是何領域，希答不出；蘇指智者就如販賣教育的零售，一如販賣食品的零售，只有體育家或醫生看得出其產品是否有益身體，也只有靈魂的醫生能曉得何種教育有益靈魂，希不知那是否有益就要購買，是危險的  
 希與蘇拜訪普羅泰戈拉，道明來意；普了解蘇的謹慎，並指很多智者面對大量的敵意寧以他事偽裝，像是音樂、詩歌，自己卻從不如此  

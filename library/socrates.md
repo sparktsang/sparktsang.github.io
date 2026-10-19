@@ -18,16 +18,16 @@ Original notes [here](/library/socrates/chi){:target="_blank"}.
 ### Contents
 
 1. [Prologue](#prologue)  
-2. [Apology Ap.](#apology-ap)  
-3. [Crito Cri.](#crito-cri)  
-4. [Charmides Chrm. (On Temperance)](#charmides-chrm-on-temperance)  
-5. [Laches Lch. (On Courage)](#laches-lch-on-courage)  
-6. [Lysis Ly. (On Friendship)](#lysis-ly-on-friendship)  
-7. [Euthyphro Euthphr. (On Piety)](#euthyphro-euthphr-on-piety)  
-8. [Lesser Hippias L.Hp. (On Evil)](#lesser-hippias-lhp-on-evil)  
-9. [Ion Ion (On Poetry)](#ion-ion-on-poetry)  
-10. [Gorgias Grg. (On Justice)](#gorgias-grg-on-justice)  
-11. [Protagoras Prt. (On Virtue)](#protagoras-prt-on-virtue)  
+2. [Apology [Ap.]](#apology-ap)  
+3. [Crito [Cri.]](#crito-cri)  
+4. [Charmides [Chrm.] (On Temperance)](#charmides-chrm-on-temperance)  
+5. [Laches [Lch.] (On Courage)](#laches-lch-on-courage)  
+6. [Lysis [Ly.] (On Friendship)](#lysis-ly-on-friendship)  
+7. [Euthyphro [Euthphr.] (On Piety)](#euthyphro-euthphr-on-piety)  
+8. [Lesser Hippias [L.Hp.] (On Evil)](#lesser-hippias-lhp-on-evil)  
+9. [Ion [Ion] (On Poetry)](#ion-ion-on-poetry)  
+10. [Gorgias [Grg.] (On Justice)](#gorgias-grg-on-justice)  
+11. [Protagoras [Prt.] (On Virtue)](#protagoras-prt-on-virtue)  
 
 ---
 
@@ -37,7 +37,7 @@ Socrates shifted the central subject of ancient Greek philosophy from nature to 
 He argued that virtue is knowledge, using inductive reasoning to examine various definitions of virtue; he also believed that some people lacked virtue because distorted perceptions and inflated desires warped their rational nature, which education was needed to restore. He overlooked, however, the role of consciousness and emotion in the formation of virtue.  
 This volume selects the dialogues not according to whether Socrates actually appears in them, but according to whether the ideas expressed belong to Socratic thought.  
 
-### Apology Ap.  
+### Apology [Ap.]  
 
 At the outset, Socrates asks the jury to focus on whether what he says is just, rather than on the manner in which he speaks.  
 The gist of the indictment: Socrates acts unjustly, spending all day investigating things in heaven and on earth, making the weaker argument appear the stronger, and teaching this to others. Socrates says all of this is false.  
@@ -58,7 +58,7 @@ Death is either annihilation or a migration of the soul. The former is like drea
 He does not hate those who sentenced him to death. He asks everyone that if their sons grow up caring more about money and power than virtue, or thinking themselves important when they are nothing of the sort, they should treat them as he has been treated and repay them in kind.  
 I go to die; you go on living. No one knows which of us has the better fate. Only the god knows.  
 
-### Crito Cri.  
+### Crito [Cri.]  
 
 Crito visits Socrates in prison and says that the sacred ship will soon return to Athens (by custom, no execution is carried out while the sacred ship is away). The day of his death is approaching, so he must make up his mind.  
 If he refuses rescue, people will think that all his friends stood by and let him die, leaving them with a disgraceful reputation. Taking the risk to save him is only natural, so he should not worry about putting everyone in difficulty. The jailers demand little; many people have already come to help, and they can certainly manage it. If he throws away his life, his sons will be left fatherless. That is neither kind nor courageous, and it would betray virtue. The absurd outcome of allowing him to die will make their side seem cowardly and timid, leaving matters to get out of control; it would be evil and shameful.  
@@ -71,7 +71,7 @@ If he escapes, he will destroy the laws of the city and turn the court’s judgm
 An Athenian citizen who is dissatisfied is free to take his property and leave for another place at any time. A rebel, however, violates the obligation to honor the city as one honors one’s parents, the gratitude owed to the state for raising and nurturing its citizens, and the justice of the agreement between citizen and city. Socrates has spent seventy years in the city, raised his family here, and remained here all this time, apart from military campaigns. He has clearly been more satisfied with Athens than the average Athenian and has unquestionably chosen us, thereby agreeing to the arrangement of living as a citizen under our rule. Moreover, when he was on trial, he could have proposed exile at any time. The agreement was fair, free of pressure, deception, or coercion. Escape and exile would therefore be a betrayal, placing friends and relatives in danger. A civilized city that is well governed would reject a lawbreaker like him, leaving him to wander in some chaotic and disordered place, living as a coward afraid to die. What then becomes of all the justice and virtue he is always talking about? As for his children, his friends will take care of them; otherwise they would hardly deserve to be called his friends.  
 Crito has nothing left to say.  
 
-### Charmides Chrm. (On Temperance)
+### Charmides [Chrm.] (On Temperance)
 
 σωφροσύνη refers to sound understanding, modesty and benevolence, self-restraint, and self-control.  
 Socrates returns from military service and goes to the wrestling school. Critias tells him about Charmides, whose handsome appearance has left everyone spellbound.  
@@ -109,7 +109,7 @@ Under Socrates’ questioning, Critias says that this knowledge can enable a per
 Socrates is troubled for Charmides, because he has a sound soul yet seems to have discovered that soundness is completely useless. But he says he cannot believe that this is really the case. He considers soundness a great good and would rather think of himself as a useless investigator; if one possesses soundness, he believes one can be happy.  
 Charmides says he does not know whether he is sound-minded, but clearly needs the incantation. He follows Critias’ instructions, and once Socrates is permitted to cast the spell, he will listen to him about everything, great or small.  
 
-### Laches Lch. (On Courage)
+### Laches [Lch.] (On Courage)
 
 This dialogue begins with the education of the young and turns to the question of courage.  
 At a gathering, Lysimachus speaks on behalf of himself and Melesias. He reproaches their famous fathers for having indulged them while they were growing up, leaving them now too ashamed to talk about their own achievements. Having heard someone recommend armed combat training, they have brought their sons along to ask everyone, including famous generals, how they should educate them.  
@@ -137,7 +137,7 @@ Nicias also agrees that every field of knowledge concerns its object in the past
 Therefore, Nicias’ definition must be revised to “knowledge of good and evil in the past, present, and future.” But this is not merely a part of virtue; it is the whole of virtue, so the argument fails.  
 In the end, everyone asks Socrates to take responsibility for the boys’ education. Socrates points out that in their discussion everyone has fallen into difficulty and cannot take on this task themselves. They should join forces and find a teacher.  
 
-### Lysis Ly. (On Friendship) 
+### Lysis [Ly.] (On Friendship) 
 
 Hippothales invites Socrates into the wrestling school, saying that everyone there is beautiful.  
 Socrates asks who is the most beautiful. Hippothales blushes. His companion Ctesippus says that he is always talking about the handsome boy Lysis, drowning everyone in love poems written for him.  
@@ -161,7 +161,7 @@ Since the good cannot be friends with one another, and the bad cannot be friends
 But this means that good things in themselves are completely useless, and that once bad things are eliminated, there would be nothing left for anything to be friends with.  
 Socrates can only admit that although he regards himself as a friend of the young, he does not know what a friend is.  
 
-### Euthyphro Euthphr. (On Piety)  
+### Euthyphro [Euthphr.] (On Piety)  
 
 Socrates, accused of impiety, encounters Euthyphro, who is prosecuting his own father for murder. His father had tied up a servant who had killed another household servant. Before he could ask the authorities how the matter should be handled, the murderer died from exposure and starvation. Euthyphro believes that his father killed a murderer and that prosecuting him is just, with personal feelings irrelevant. He even boasts that he possesses precise knowledge concerning piety, to the point that he knows what he is doing is pious.  
 Socrates says he would like to become Euthyphro’s student so that he can rebut those accusing him of impiety. He asks what piety is.  
@@ -175,7 +175,7 @@ Euthyphro’s second definition: “The part of justice concerned with serving t
 Under Socrates’ guidance, Euthyphro puts it this way. Under questioning, he agrees that serving cattle and sheep benefits the cattle and sheep, whereas serving the gods does not benefit them, since they have no need of anything from humans. Therefore, “serving” here means pleasing the gods and becoming close to them.  
 Socrates points out that being close to the gods is no different from being loved by the gods, so the argument has returned to where it started. He asks Euthyphro once again for clarification. Euthyphro uses the excuse that he is in a hurry and leaves.  
 
-### Lesser Hippias L.Hp. (On Evil)
+### Lesser Hippias [L.Hp.] (On Evil)
 
 Hippias cites Homer and says that Achilles is better than Odysseus: the former is truthful, while the latter lies.  
 Under Socrates’ questioning, Hippias agrees that a liar has ability and intelligence, and is clever at lying. But someone capable of lying is also capable of telling the truth. Socrates points out that the conclusion is therefore that the same kind of person can tell the truth and tell lies. He then goes further and suggests that knowingly lying is better than unknowingly lying, and knowingly doing wrong is better than unknowingly doing wrong. Hippias cannot accept this and criticizes Socrates for creating confusion through his argument.  
@@ -183,7 +183,7 @@ Under further questioning, Hippias agrees that in every field, knowingly being b
 Socrates also gets Hippias to agree that capable and good souls act knowingly when they act unjustly, whereas worthless souls act without knowing what they are doing; good people have good souls, bad people bad souls. Based on the previous conclusion, this would mean that good people knowingly do evil while bad people unknowingly do evil. Hippias cannot agree.  
 Socrates says that he himself, like ordinary people, wavers back and forth on these matters. But if even people as clever as Hippias are like this, then that is truly frightening.  
 
-### Ion Ion (On Poetry) 
+### Ion [Ion] (On Poetry) 
 
 Ion and others win prizes in poetry recitation contests in foreign lands and encounter Socrates, who asks him questions.  
 Ion says he only knows how to recite Homer. Homer is the greatest poet, everyone agrees that he recites Homer well, yet he knows nothing about other poets.  
@@ -193,7 +193,7 @@ Socrates wants to examine whether Ion is in his right mind while reciting. He sa
 Socrates examines passages in the poetry Ion recites that concern other arts. Ion admits that he knows no better than a doctor what a doctor ought to say in a poem, and the same is true of weavers and shepherds. Yet he claims to know how a general would speak to inspire his troops. Socrates suggests that perhaps he is therefore also a good general. Why, then, does he not command an army? Socrates also points out that saying “because I am a foreigner” does not work.  
 In the end, Socrates accuses Ion of constantly changing his argument. Under Socrates’ pressure, Ion admits that he is a divinely inspired rhapsode, not a master of any particular art.  
 
-### Gorgias Grg. (On Justice)
+### Gorgias [Grg.] (On Justice)
 
 Socrates visits the rhetorician Gorgias and asks what rhetoric is. Gorgias answers that it is an art concerned with speech. Socrates points out that many other arts also deal with speech. Arithmetic deals with speech concerning odd and even, so what exactly does rhetoric deal with?  
 Gorgias says it concerns the highest good. Socrates points out that a doctor could also say that the health he provides is the highest good.  
@@ -221,7 +221,7 @@ Socrates returns to the point that doing injustice is worse than suffering injus
 Socrates admits that if he were brought before a court, it would be difficult for him to defend himself, just as a pastry-maker might bring a doctor before a court and accuse him of cutting people open, burning them, forcing them to take bitter medicines, and making them hungry and thirsty, leaving the doctor no effective defense. Even so, someone unable to defend himself in such circumstances deserves admiration so long as he remains just, and can meet death calmly.  
 Socrates concludes that after death the soul is stripped naked and judged. An unjust soul is completely exposed and will be sent to hell; a just soul will instead go to the Isles of the Blessed. No one else can prove that there is any life worth living more than a just life, and in the argument only the case for living justly survives refutation.  
 
-### Protagoras Prt. (On Virtue)  
+### Protagoras [Prt.] (On Virtue)  
 
 The young Hippocrates wants to become the student of Protagoras, who is renowned as a sophist. Socrates asks what field he teaches, but Hippocrates cannot answer. Socrates says sophists are like retailers selling education, just as retailers sell food. Only an athlete or a doctor can tell whether a food product benefits the body, and only a doctor of the soul can know what kind of education benefits the soul. Buying something without knowing whether it is beneficial is dangerous.  
 Hippocrates and Socrates visit Protagoras and explain why they have come. Protagoras understands Socrates’ caution and points out that many sophists, faced with enormous hostility, disguise themselves as teachers of other subjects such as music or poetry. He himself never does so.  

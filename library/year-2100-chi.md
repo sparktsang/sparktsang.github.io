@@ -9,6 +9,7 @@ permalink: /library/year-2100/chi/
 language: chi
 image: assets/bookcover/year-2100.jpg
 infographic: assets/images/year-2100-info.png
+audio: https://od.lk/s/ODdfNDc1Njc4MzdfanBjNm8/year-2100.m4a
 ---
 
 加來道雄《2100 科技大未來：從現在到2100年，科技將如何改變我們的生活》  
