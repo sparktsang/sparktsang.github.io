@@ -11,6 +11,7 @@ image: assets/bookcover/perennial-cover.png
 infographic: assets/images/perennial-info.png
 audio: https://od.lk/s/ODdfNDc3NTc4ODFfZDBxVDU/perennial.m4a
 normal_lib_note: false
+lib_def: perennial
 redirect_from:
   - /knowledge/2025/11/15/investment-first-principles.html
 ---

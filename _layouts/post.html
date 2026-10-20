@@ -315,7 +315,6 @@
 						
 			<span class="image main" style="margin-bottom: 0.5rem;"><img src="{{ site.baseurl }}/{{ page.infographic }}" alt="" /></span>
 			
-			{% comment %} 插入浮水印 App 導流圖說 {% endcomment %}
 			{% if page.infographic_watermark == "right" %}
 				<div class="watermark-caption" style="text-align: right;">
 			{% else %}
@@ -330,10 +329,20 @@
 
 		{% endif %}
 
-		{% if page.category == "Library" and page.normal_lib_note != false %}
+		{% if page.category == "Library" %}
 			<section class="lib_correct">
-				{% capture my_include %}{% include lib_correct.md %}{% endcapture %}
-				{{ my_include | markdownify }}
+				
+				{% capture my_include_normal %}{% include lib_correct.md %}{% endcapture %}
+				{% capture my_include_perennial %}{% include lib_correct_perennial.md %}{% endcapture %}
+				{% capture my_include_design %}{% include lib_correct_design.md %}{% endcapture %}
+
+				{% if page.normal_lib_note != false %}
+					{{ my_include_normal | markdownify }}
+				{% elsif page.lib_def == "perennial" %}
+					{{ my_include_perennial | markdownify }}
+				{% elsif page.lib_def == "design" %}
+					{{ my_include_design | markdownify }}
+				{% endif %}
 			</section>
 		{% endif %}
 

@@ -11,6 +11,7 @@ permalink: /library/design/
 image: assets/bookcover/design-cover.png
 audio: https://od.lk/s/ODdfNDc3NTgyODhfaU9ZdDU/design.m4a
 normal_lib_note: false
+lib_def: design
 render_with_liquid: false
 overflow: true
 ---
