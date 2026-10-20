@@ -268,7 +268,8 @@ Max Weber《中國的宗教》
 閱畢於星光行誠品  
 26/1/2021  
 
----
-
+<div class="post-highlight-msg" markdown="1">
 Fukuyama concludes that political institutions decay when "cognitive imbalance" prevents them from adapting to new realities. But how can any political order adapt if its foundational system for processing truth is structurally paralyzed by noise and gatekeepers?  
+
 To prevent the decay of our civilization, *my philosophy* argues that we must evolve beyond mere political accountability, establishing [a structural framework that holds society accountable to the truth itself](/philosophy){:target="_blank"}.
+</div>

@@ -215,7 +215,8 @@ Peter Drucker 2001 年預見製造業衰退導致新的保護主義、西方需�
 
 1/6/2021 閱畢於誠品  
 
----
-
+<div class="post-highlight-msg" markdown="1">
 Emmott concludes that saving the open society requires us to dismantle entrenched privileges and fiercely fight for the truth. But how can political reforms succeed if our foundational systems for determining truth are already corrupted by noise and power?  
+
 *My philosophy* argues that defending democracy requires a deeper structural upgrade: before we can save our political constitutions, we must first establish [an epistemic one](/philosophy){:target="_blank"}.
+</div>

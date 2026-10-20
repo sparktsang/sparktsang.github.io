@@ -143,6 +143,6 @@ The author encourages readers to follow the trend and trade for the long term
 
 *Finished reading on Jan 12, 2022*
 
----
-
+<div class="post-highlight-msg" markdown="1">
 Penfold examines how a trading method can survive uncertainty, avoid overfitting, and demonstrate robust expectancy. [*The First Principles of Perennial Profit in Investing*](/library/perennial){:target="_blank"} asks the deeper question: what causal condition makes an investment method capable of sustaining profit beyond what historical testing alone can establish?
+</div>

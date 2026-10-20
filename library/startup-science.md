@@ -285,7 +285,8 @@ The Renaissance began with the establishment of the scientific method. Today, th
 
 *Finished reading on Sep 6, 2021*
 
----
-
+<div class="post-highlight-msg" markdown="1">
 Tadokoro champions the "Lean Startup" methodology as the scientific tool for entrepreneurs, emphasizing that success comes from rapid iteration, constant pivoting, and listening closely to customer feedback. But is agile adaptation enough to build a truly world-changing company?  
+
 In [*Zero to One*](/library/0-to-1), legendary founder and investor Peter Thiel argues the exact opposite—claiming that an obsession with "lean" iteration often destroys bold vision. To truly invent the future, Thiel insists we must abandon incremental tweaks and instead pursue radical, contrarian secrets that take us from zero to one.
+</div>

@@ -126,8 +126,10 @@ Products, ideas, concepts, and behaviors can all become trends. A trend is not c
 
 *Finished reading on Nov 8, 2021*
 
----
-
+<div class="post-highlight-msg" markdown="1">
 Berger’s STEPPS framework provides the scientific blueprint for engineering ideas that spread like wildfire—essentially, teaching you how to press the "gas pedal" of word-of-mouth marketing.  
+
 But what happens when you have a highly contagious idea, yet people still stubbornly resist adopting it? Driving real behavior requires more than just momentum; it requires removing the parking brake.  
+
 In his profound follow-up work, [*The Catalyst*](/library/catalyst), Berger tackles the other half of the equation, revealing the hidden psychological barriers that block change and offering a methodology for dissolving resistance instead of just pushing harder.
+</div>

@@ -693,6 +693,8 @@ Rise in house-price-to-income ratios across multiple countries, 1977–2016: bot
 
 *Finished reading on 21 April 2025*  
 
----
+<div class="post-highlight-msg" markdown="1">
+Patel seeks the underlying force behind recurring economic cycles, arguing that apparently different crises can emerge from the same deeper mechanism.  
 
-Patel seeks the underlying force behind recurring economic cycles, arguing that apparently different crises can emerge from the same deeper mechanism. [*The First Principles of Perennial Profit in Investing*](/library/perennial){:target="_blank"} takes the question further: even when a causal mechanism has been identified, how can it be translated into an investment method whose future profitability is not merely inferred from historical patterns, but grounded in causality itself?
+[*The First Principles of Perennial Profit in Investing*](/library/perennial){:target="_blank"} takes the question further: even when a causal mechanism has been identified, how can it be translated into an investment method whose future profitability is not merely inferred from historical patterns, but grounded in causality itself?
+</div>

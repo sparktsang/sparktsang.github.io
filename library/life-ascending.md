@@ -255,4 +255,4 @@ The mitochondrial-DNA research of Masashi Tanaka's team confirmed that a variati
 Quoting the great evolutionary biologist Theodosius Dobzhansky: without the light of evolution, nothing in biology makes sense. If we devoted even some of the effort currently spent on modern medical research to understanding the mechanisms of aging, it would be surprising if we still could not find an elixir of youth within 20 years.  
 Neurons cannot be replaced. Based on each individual's unique experiences, they form 10,000 synaptic connections. To replace them all with new ones would mean that the price of immortality is the sacrifice of humanity.  
 
-30/11/2021 Finished reading at Eslite Bookstore, Starlight Walk  
+Finished reading on Nov 30, 2021

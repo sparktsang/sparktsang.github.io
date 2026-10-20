@@ -156,6 +156,6 @@ Make sure the risk of ruin is zero. The best losers are long-term winners. I wis
 
 *Finsihed reading on June 20, 2018 in Malaysia*  
 
----
-
+<div class="post-highlight-msg" markdown="1">
 Penfold asks how a trading method can be tested for positive expectancy. [*The First Principles of Perennial Profit in Investing*](/library/perennial){:target="_blank"} takes the question one step deeper: what causal condition makes a method capable of sustaining profit in the first place?
+</div>

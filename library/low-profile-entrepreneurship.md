@@ -63,7 +63,8 @@ At the beginning, the author applied for an entrepreneurship course that require
 
 *Finished reading on Feb 5, 2021*  
 
----
-
+<div class="post-highlight-msg" markdown="1">
 Tanaka proves that escaping the corporate grind doesn't require venture capital, revolutionary tech, or taking massive risks; it simply requires leveraging everyday skills to quietly build trust and help others. If this "low-profile" approach to reclaiming your freedom resonates with you, the next logical step is learning how to systemize it.  
+
 In [*The $100 Startup*](/library/100-startup), Guillebeau expands on this philosophy, offering a practical blueprint for turning these quiet, skill-based side hustles into highly profitable, location-independent microbusinesses with negligible upfront cost.
+</div>

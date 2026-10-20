@@ -255,7 +255,8 @@ English translation [here](/library/perennial){:target="_blank"}.
 19/12/2019  
 撰畢於高雄貝殼窩
 
----
-
+<div class="post-highlight-msg" markdown="1">
 The principles developed here did not emerge in a vacuum. They grew out of a personal search for an investment method that could survive the failure of the models and authorities I once trusted.  
+
 [*My autobiography*]({% post_url 2025-10-25-search %}){:target="_blank"} recounts that journey—from investment gurus and seductive backtests to the first attempts at building my own system.
+</div>

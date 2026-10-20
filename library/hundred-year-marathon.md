@@ -89,8 +89,10 @@ The CCP hawks have no intention of conquering the United States. On the contrary
 
 *Finished reading on Feb 18, 2019*
 
----
-
+<div class="post-highlight-msg" markdown="1">
 Pillsbury reveals how China’s grand strategy relies on systemic deception—manipulating Western perceptions while ruthlessly silencing domestic dissent to conceal its true ambitions.  
+
 But this weaponization of truth and information is not a new tactic; it is the classic playbook of authoritarian survival. How exactly do such regimes construct and maintain these alternate realities without collapsing under their own lies?  
+
 In [*How to Be a Dictator*](/library/be-dictator), Dikötter deconstructs the mechanics of 20th-century tyranny, exposing how power is maintained not just through brute force, but through the control and distortion of truth.
+</div>

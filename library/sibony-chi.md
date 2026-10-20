@@ -156,7 +156,8 @@ Philip E. Tetlock 匯廿年間近 300 名政經專家八萬多筆預測，發現
 
 18/8/2021 閱畢於星光行誠品  
 
----
-
+<div class="post-highlight-msg" markdown="1">
 Sibony demonstrates that individual cognitive biases cannot be overcome by intuition alone; they must be countered by a robust "decision architecture" that institutionalizes dialogue, disagreement, and objective testing.  
+
 But if corporations require structured refutation to survive the market, what architecture does humanity need to survive the post-truth era? Scaling this exact principle to a civilizational level, *my philosophy* proposes [an epistemic architecture—an open-source framework](/philosophy){:target="_blank"} where truth is freed from human bias through relentless and mandatory refutation.
+</div>

@@ -127,7 +127,8 @@ For more information, see the author's blog at sethgodin.com.
 
 *Finished reading on March 10, 2025*
 
----
-
+<div class="post-highlight-msg" markdown="1">
 Godin warns that in a saturated world, trying to please the masses with a "safe" and ordinary product is the riskiest strategy of all; to survive, you must abandon compromise and create a "Purple Cow" that thrives at the extremes. But this principle extends far beyond marketing and product design—it is the fundamental law of business survival.  
+
 In [*Zero to One*](/library/0-to-1), legendary founder Peter Thiel elevates this exact contrarian mindset to the level of corporate strategy, arguing that true visionaries don't compete in crowded, ordinary markets; instead, they build monopolies by discovering hidden secrets and going from zero to one.
+</div>

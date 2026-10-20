@@ -151,6 +151,6 @@ indextrader.com.au
 
 12/1/2022 閱畢於星光行誠品  
 
----
-
+<div class="post-highlight-msg" markdown="1">
 此書作者追問方法如何避過風險、繞過曲線過適、驗證正期望值。[《投資長勝的普世法則》](/library/perennial/chi){:target="_blank"}則尋根問底，查究一切的投資長勝方法所必須符合的法則。
+</div>

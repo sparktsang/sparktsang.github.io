@@ -185,7 +185,8 @@ Search: scott adams persuasion reading list
 
 *Finished reading on Jan 7, 2021*
 
----
-
+<div class="post-highlight-msg" markdown="1">
 Adams demonstrates how "master persuaders" exploit cognitive dissonance, visual anchors, and emotional filters to shape public perception, revealing that in the political arena, facts frequently lose to compelling narratives. But why is the human brain so easily hacked by these emotional fictions? This vulnerability is not a modern glitch; it is the evolutionary mechanism that built human civilization.  
+
 In [*Homo Deus*](/library/deus), Yuval Noah Harari deconstructs this exact phenomenon on a macro-historical scale, explaining how our species conquered the planet entirely through our unique ability to create, spread, and believe in "intersubjective realities" and grand narratives.
+</div>

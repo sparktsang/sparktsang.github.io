@@ -359,7 +359,8 @@ Alchemy、algebra、algorithm、alcohol 等字都暗蔵回教學者追求知識�
 
 6/1/2022 閱畢於星光行誠品  
 
----
-
+<div class="post-highlight-msg" markdown="1">
 Ansary describes how societies construct networks of meaning, and how accumulated exceptions can eventually force one paradigm to give way to another.  
+
 [*My philosophy*](/philosophy){:target="_blank"} asks a more fundamental question: what should a system of knowledge do when its own framework becomes the obstacle to seeing what is true?
+</div>

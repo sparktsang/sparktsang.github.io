@@ -105,7 +105,8 @@ The biggest takeaway: stop living someone else's life
 
 *Finished reading on May 23, 2019*
 
----
-
+<div class="post-highlight-msg" markdown="1">
 Guillebeau concludes that the ultimate hurdle to building your own business isn't a lack of capital, but the psychological inertia of conforming to the traditional 9-to-5 script.  
+
 But why does that conventional path feel increasingly hollow today? In [*The Age of the New Type*](/library/new-type), Shu Yamaguchi decodes the macroeconomic shift behind this exact crisis of meaning, revealing why the old corporate models are collapsing—and why individuals who prioritize purpose and intuition over traditional scale are uniquely equipped to thrive in the new era.
+</div>

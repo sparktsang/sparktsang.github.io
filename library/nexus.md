@@ -206,6 +206,6 @@ The trajectory of history is extraordinarily open and can bend in any direction.
 
 *Finished reading on Feb 3, 2026*
 
----
-
+<div class="post-highlight-msg" markdown="1">
 Harari’s final lesson is that powerful systems need powerful mechanisms of self-correction. But what would governance look like if [self-correction were not merely a safeguard, but its first principle](/philosophy){:target="_blank"}?
+</div>

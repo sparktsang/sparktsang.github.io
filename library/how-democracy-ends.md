@@ -85,6 +85,6 @@ The elderly have grown accustomed to using Bitcoin and worry about the new presi
 
 *Finished reading on February 9, 2019*
 
----
-
+<div class="post-highlight-msg" markdown="1">
 Runciman examines how democratic systems can fail without realizing it. [*My philosophy*](/philosophy){:target="_blank"} begins with a broader question: how can any institution claim legitimacy if no institution can reliably determine what is true?
+</div>

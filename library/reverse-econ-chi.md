@@ -268,7 +268,10 @@ Adam Smith 於《國富論》提出無形之手概念，被新自由主義者視
 
 筆記最後更新時間：3/8/2020  
 
----
-
+<div class="post-highlight-msg" markdown="1">
 Lee exposes how orthodox economics and financial gatekeepers have trapped humanity in a destructive paradigm, calling for a radical system overhaul to save our future.  
-But how can we dismantle a rigged economic system if our society's fundamental mechanism for determining truth is already captured by those same elites? Before we can rebuild economics, we must rebuild the foundation of knowledge itself. *My philosophy* proposes exactly this: [a decentralized framework where systemic flaws can no longer be hidden by privilege](/philosophy){:target="_blank"}, and truth is determined not by power, but by ruthless, open-source refutation.
+
+But how can we dismantle a rigged economic system if our society's fundamental mechanism for determining truth is already captured by those same elites? Before we can rebuild economics, we must rebuild the foundation of knowledge itself.  
+
+*My philosophy* proposes exactly this: [a decentralized framework where systemic flaws can no longer be hidden by privilege](/philosophy){:target="_blank"}, and truth is determined not by power, but by ruthless, open-source refutation.
+</div>

@@ -147,6 +147,6 @@ Original notes [here](/library/value-invest/chi){:target="_blank"}.
 
 *Finished reading on March 18, 2020*
 
----
-
+<div class="post-highlight-msg" markdown="1">
 Greenwald asks how investors can determine what a business is worth. [*The First Principles of Perennial Profit in Investing*](/library/perennial){:target="_blank"} asks a more fundamental question: what makes any investment method capable of producing sustainable profit?
+</div>

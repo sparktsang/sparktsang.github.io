@@ -273,8 +273,10 @@ In the appendix, Musk lamented that PayPal was no longer what it used to be and 
 
 *Finished reading on March 22, 2022*
 
----
-
+<div class="post-highlight-msg" markdown="1">
 Vance’s biography reveals how Musk uses relentless first-principles thinking to shatter the stagnation of entrenched industries, almost single-handedly building the infrastructure for humanity's survival.  
+
 But while individual genius can revolutionize rockets and cars, the survival of civilization cannot depend on the sheer willpower of a few billionaires fighting broken systems. What if we applied this exact ruthless optimization to the operating system of human consensus?  
+
 *My philosophy* takes first-principles thinking to its final conclusion: [an open-source framework structurally designed to strip away noise and gatekeepers](/philosophy){:target="_blank"}, accelerating the survival of truth.
+</div>

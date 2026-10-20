@@ -336,7 +336,8 @@ A network of meaning resembles many points connected together. The points are gi
 
 *Finished reading on June 1, 2022*
 
----
-
+<div class="post-highlight-msg" markdown="1">
 Ansary describes how societies construct networks of meaning, and how accumulated exceptions can eventually force one paradigm to give way to another.  
+
 [*My philosophy*](/philosophy){:target="_blank"} asks a more fundamental question: what should a system of knowledge do when its own framework becomes the obstacle to seeing what is true?
+</div>

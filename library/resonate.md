@@ -143,7 +143,8 @@ The American poet E. E. Cummings broke too many rules and, after being rejected 
 
 *Finished reading on Oct 11, 2020*  
 
----
-
+<div class="post-highlight-msg" markdown="1">
 Duarte demonstrates how framing a presentation around the "Hero's Journey" can create powerful resonance, using contrast and storytelling to inspire audiences to embrace a new vision. However, as Duarte notes, every hero naturally resists the call to adventure; even the most moving story can fail if the audience's internal defense mechanisms remain intact.  
+
 To overcome this, [*The Catalyst*](/library/catalyst) by Jonah Berger breaks down the specific psychological villains that block transformation—such as the endowment effect and reactance—providing a systematic method to remove these barriers so your audience can finally cross the threshold.
+</div>

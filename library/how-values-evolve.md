@@ -229,8 +229,10 @@ If the biological engineering she mentions succeeds, the super-organisms of the 
 
 *Finished reading on June 17, 2021*
 
----
-
+<div class="post-highlight-msg" markdown="1">
 Morris concludes that our deepest moral values are not eternal truths, but merely evolutionary adaptations to our systems of energy capture—warning that as we push beyond the fossil-fuel era, genetically and technologically altered "posthumans" will develop values entirely alien to us.  
+
 But if our current humanist ideals are just a temporary phase bound to a specific economic era, what system of meaning will replace them when biology and technology merge?  
+
 In [*Homo Deus*](/library/deus), Harari explores this existential threshold, revealing how the quest to upgrade humanity into gods will inevitably dismantle the very humanist fictions we currently hold sacred.
+</div>

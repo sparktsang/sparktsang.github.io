@@ -64,7 +64,8 @@ English translation [here](/library/low-profile-entrepreneurship){:target="_blan
 
 5/2/2021 閱畢於星光行誠品  
 
----
-
+<div class="post-highlight-msg" markdown="1">
 田中祐一證明了跳出企業老鼠圈，無需求助創投基金、建立革命技術、或承擔巨大風險，僅僅需要利用日常技能，默默助人立信，深耕細作。如果你對這種自由、低調之法有所共鳴，下一步理所當然就是了解如何將其化為系統。  
+
 [《The $100 Startup》](/library/100-startup/chi)一書中延伸了此一哲學，專為這些匠人副業如何昇華為一本多利、衝出異域，成本極微的實業，寫下了可實作的藍圖綱領。
+</div>

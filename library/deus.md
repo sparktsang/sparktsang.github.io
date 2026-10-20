@@ -131,6 +131,6 @@ We stand on the precipice of a shift in the fundamental narrative that has gover
 
 *Finished reading on June 9, 2019*
 
----
-
+<div class="post-highlight-msg" markdown="1">
 Harari demonstrates how shared fictions built human civilization, and how the algorithm-driven future is rapidly dismantling them. If the old humanist narrative is collapsing, what operating system will take its place? *My philosophy* introduces the next necessary paradigm: not another convenient fiction, but [an epistemic framework structurally designed to let truths survive](/philosophy){:target="_blank"}.
+</div>

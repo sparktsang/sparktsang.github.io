@@ -207,6 +207,6 @@ V = 股息 x 1 / (R-G) 資本成本 - 股利成長率（過往十年平均為 3%
 
 2020.3.18 閱畢於星光行誠品
 
----
-
+<div class="post-highlight-msg" markdown="1">
 此書作者追問投資者如何對企業估值。[《投資長勝的普世法則》](/library/perennial/chi){:target="_blank"}則尋根問底，查究一切的投資長勝方法所必須符合的法則。
+</div>

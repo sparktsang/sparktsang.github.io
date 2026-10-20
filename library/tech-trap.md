@@ -119,7 +119,8 @@ If governments exaggerate the effects of automation, they will generate fear, fu
 
 *Finished reading on March 14, 2021*
 
----
-
-Frey warns that as the AI revolution disrupts our economic foundations, our survival depends on whether our social and political institutions can adapt before populism and fear crush technological progress.  
+<div class="post-highlight-msg" markdown="1">
+Frey warns that as the AI revolution disrupts our economic foundations, our survival depends on whether our social and political institutions can adapt before populism and fear crush technological progress. 
+ 
 But how can our institutions navigate this monumental transition if our underlying mechanism for societal consensus is already paralyzed by noise and polarization? To survive this technology trap, *my philosophy* argues that we first need a structural upgrade to human knowledge: [an open-source framework capable of forging the irrefutable truths required to guide civilization through its next great crisis](/philosophy){:target="_blank"}.
+</div>

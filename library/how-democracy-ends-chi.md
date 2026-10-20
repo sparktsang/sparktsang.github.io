@@ -93,6 +93,6 @@ John Stuart Mill 主張應視乎教育水平決定各人持有票數，通過民
 
 二零一九年二月九日閱畢於誠品西門店  
 
----
-
+<div class="post-highlight-msg" markdown="1">
 Runciman asks what might come after democracy. I have been exploring [a fundamentally different model of governance](/philosophy){:target="_blank"}, built from first principles rather than inherited institutions.
+</div>

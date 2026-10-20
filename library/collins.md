@@ -103,7 +103,8 @@ Research Data
 
 *Finished reading on July 10, 2020*
 
----
-
+<div class="post-highlight-msg" markdown="1">
 Collins reveals the disciplined framework required to make the leap from good to great. But how do you ensure that greatness survives long after the Level 5 leaders are gone?  
+
 In his comprehensive masterclass, [*BE 2.0*](/library/beyond-entrepreneurship), Collins expands on these very principles—providing the complete, actionable blueprint for turning a breakthrough success into an enduring institution.
+</div>

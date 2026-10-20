@@ -171,7 +171,8 @@ The “resource curse” makes it difficult for Hong Kong to experience mass sla
 
 *Finished reading on Nov 9, 2021*  
 
----
-
+<div class="post-highlight-msg" markdown="1">
 Loud reveals how political empires operate like "imperial theologies"—engineering grand historical narratives to dictate orthodoxy, absorb identities, and justify total control.  
+
 But this mechanism of weaponizing stories to organize and dominate millions is not unique to Eastern history; it is the fundamental operating system of human civilization. How do these imaginary constructs become the reality we live and die for? In [*Homo Deus*](/library/deus), Harari deconstructs this exact phenomenon on a global scale, explaining how "intersubjective fictions"—from ancient empires to modern political systems—have always been the true architects of our reality.
+</div>

@@ -174,8 +174,10 @@ Freemium 收費定界：太低沒人用，太高沒人需要付費，故要視�
 
 28/10/2021 閱畢於星光行誠品  
 
----
-
+<div class="post-highlight-msg" markdown="1">
 Berger demonstrates that changing deeply entrenched beliefs isn't about pushing harder, but about acting as a catalyst to remove psychological barriers and friction.  
+
 Yet, while these techniques work on individuals, how do we change the mind of an entire civilization that is structurally wired to reject the truth?  
+
 *My philosophy* proposes the final societal catalyst: [a decentralized framework designed to bypass systemic gatekeepers](/philosophy){:target="_blank"} and reduce the friction of validating truth to a minimum.
+</div>

@@ -114,7 +114,8 @@ May this understanding help human societies design policies conducive to prosper
 
 *Finished reading on May 29, 2022*
 
----
-
+<div class="post-highlight-msg" markdown="1">
 Galor demonstrates that the wealth and inequality of modern nations are not historical accidents, but the inevitable result of deep geographic and demographic forces that shaped the evolution of their institutions. He warns that trying to impose superficial economic policies without understanding these deep roots is nothing more than a "cargo cult".  
+
 But how exactly did these geographic pressures translate into the complex political structures we have today? In [*The Origins of Political Order*](/library/fukuyama), Fukuyama provides the definitive macro-historical map of this process, tracing the evolutionary paths that allowed some civilizations to develop the rule of law and accountable government, while others fell into cycles of authoritarian decay.
+</div>

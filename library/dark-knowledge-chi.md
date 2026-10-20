@@ -182,7 +182,8 @@ Brian Johnson 成立 Kernel，宣稱要能夠對神經網絡底層功能直接�
 
 21/10/2020 閱畢於誠品  
 
----
-
+<div class="post-highlight-msg" markdown="1">
 Wang reveals that the AI revolution is flooding our world with "dark knowledge"—correlations and decisions locked inside a black box that surpasses human comprehension. As machine intelligence becomes increasingly opaque, humanity’s ability to transparently verify truth becomes our most critical survival asset.  
+
 Yet, our current societal framework structurally fails at this exact task. *My philosophy* proposes the necessary upgrade: [an open-source, verifiable framework for human consensus](/philosophy){:target="_blank"}, built to anchor our reality before we are entirely overwhelmed by the black box of the machine.
+</div>

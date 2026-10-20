@@ -692,6 +692,8 @@ Werner, R. A. (2020), *Princes of the Yen: Japan's Central Bankers and the Trans
 
 全書閱畢 21/4/2025  
 
----
+<div class="post-highlight-msg" markdown="1">
+此書作者探索經濟周期規律，主張表面上的不同危機皆來自同一底層機制，以此駕馭投資，獲利避險。  
 
-此書作者探索經濟周期規律，主張表面上的不同危機皆來自同一底層機制，以此駕馭投資，獲利避險。[《投資長勝的普世法則》](/library/perennial/chi){:target="_blank"}則更進一步，查究如何確立方法與獲利之間的因果關係，以及一切的投資長勝方法所必須符合的法則。
+[《投資長勝的普世法則》](/library/perennial/chi){:target="_blank"}則更進一步，查究如何確立方法與獲利之間的因果關係，以及一切的投資長勝方法所必須符合的法則。
+</div>

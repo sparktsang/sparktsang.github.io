@@ -117,7 +117,8 @@ In the conclusion, the author synthesizes the entrepreneurial myths this book ha
 
 *Finished reading on Jan 27, 2022*
 
----
-
+<div class="post-highlight-msg" markdown="1">
 Tamaseb uses rigorous data to debunk Silicon Valley’s media myths, revealing the traits, resilience, and problem-solving mechanics that separate billion-dollar unicorns from the rest. But achieving a massive valuation is only the first chapter of a company's history.  
+
 What happens after the turbulent startup phase is conquered? In [*BE 2.0*](/library/beyond-entrepreneurship), Collins provides a masterclass on the next critical phase: how to transcend the initial entrepreneurial hustle and build the enduring systems, leadership, and "clocks" required to turn a breakthrough startup into a lasting institution.
+</div>

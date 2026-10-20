@@ -401,7 +401,8 @@ Compared with the tears he shed on the streets of London back then, the author n
 
 *Finished reading on Nov 29, 2020*
 
----
-
+<div class="post-highlight-msg" markdown="1">
 Tegmark warns that humanity must define its ultimate goals before superintelligence fills in the blank. But how can we align artificial intelligence with human values when our own systems for determining truth and ethics are fundamentally broken?  
+
 *My philosophy* offers the necessary prerequisite: [a structural framework to align human consensus](/philosophy){:target="_blank"} before we attempt to align machine intelligence.
+</div>
