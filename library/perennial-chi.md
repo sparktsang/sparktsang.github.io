@@ -12,6 +12,7 @@ permalink: /library/perennial/chi/
 language: chi
 image: assets/bookcover/perennial-cover-chi.png
 infographic: assets/images/perennial-info.png
+audio: https://od.lk/s/ODdfNDc3NTc4ODFfZDBxVDU/perennial.m4a
 normal_lib_note: false
 ---
 

@@ -100,3 +100,68 @@
 .post-highlight-msg p:last-child {
     margin-bottom: 0 !important;
 }
+
+/* ── 開源共創宣言區塊 (Curator/Builder Note) ── */
+.lib_correct {
+	margin: 6rem auto 4rem; /* 增加上方空間，與圖表拉開距離 */
+	padding: 2.5rem 3rem;
+	max-width: 800px; /* 限制寬度，讓閱讀視線更集中，不像頁尾版權宣告橫跨全螢幕 */
+	
+	/* 使用虛線邊框，強烈暗示「這是一個開放修改的區域 / Work in Progress」 */
+	border: 1px dashed var(--card-border); 
+	border-radius: var(--radius);
+	
+	/* 極其微弱的背景色，區分空間但不過度搶眼 */
+	background-color: rgba(128, 128, 128, 0.03); 
+	
+	color: var(--muted);
+	font-size: 0.9em;
+	line-height: 1.8;
+}
+
+/* 標題設計：打破常規，採用標籤/Meta風格 */
+.lib_correct h3 {
+	margin-top: 0;
+	margin-bottom: 1.5rem;
+	font-size: 0.75em;
+	font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; /* 等寬字體帶出 Hacker/Open-source 氛圍 */
+	text-transform: uppercase;
+	letter-spacing: 0.15em;
+	color: var(--text);
+	display: inline-block;
+	
+	/* 左側加上一條細細的 Accent 線條，增加精緻感 */
+	padding-left: 0.8rem;
+	border-left: 3px solid var(--accent);
+}
+
+/* 讓段落之間有呼吸空間 */
+.lib_correct p {
+	margin-bottom: 1.2rem;
+}
+.lib_correct p:last-child {
+	margin-bottom: 0;
+}
+
+/* 連結特效：強調「參與」與「行動」 */
+.lib_correct a {
+	color: var(--text);
+	text-decoration: none;
+	/* 用 Accent 顏色的點狀底線，比一般連結更有科技感與互動感 */
+	border-bottom: 1px dotted var(--accent); 
+	transition: all 0.3s ease;
+}
+
+.lib_correct a:hover {
+	color: var(--accent);
+	border-bottom: 1px solid var(--accent);
+	background-color: rgba(66, 133, 244, 0.05); /* 輕微的 Highlight 效果 */
+}
+
+/* 手機版適配 */
+@media (max-width: 768px) {
+	.lib_correct {
+		padding: 1.5rem;
+		margin: 4rem 1rem 3rem;
+	}
+}

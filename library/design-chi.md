@@ -12,6 +12,7 @@ description: |
 permalink: /library/design/chi/
 language: chi
 image: assets/bookcover/design-cover-chi.png
+audio: https://od.lk/s/ODdfNDc3NTgyODhfaU9ZdDU/design.m4a
 normal_lib_note: false
 render_with_liquid: false
 overflow: true

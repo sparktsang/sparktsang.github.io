@@ -9,6 +9,7 @@ title_obvious: false
 description: Not a book. The foundational treatise behind the investment framework I developed. A first-principles derivation of the universal principle of perennial profit in investing—not another strategy, but the necessary condition to which every genuinely successful investment method must conform.
 image: assets/bookcover/perennial-cover.png
 infographic: assets/images/perennial-info.png
+audio: https://od.lk/s/ODdfNDc3NTc4ODFfZDBxVDU/perennial.m4a
 normal_lib_note: false
 redirect_from:
   - /knowledge/2025/11/15/investment-first-principles.html

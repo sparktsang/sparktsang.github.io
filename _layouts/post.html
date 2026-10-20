@@ -314,21 +314,6 @@
 			<span class="image main"><img src="{{ site.baseurl }}/{{ page.infographic }}" alt="" /></span>
 		{% endif %}
 
-		<style>
-			.lib_correct {
-				margin-top: 4rem;
-				padding-top: 2rem;
-				border-top: 1px solid rgba(255,255,255,0.2);
-				opacity: 0.8;
-				font-size: 0.8em;
-			}
-
-			.lib_correct h3 {
-				margin-bottom: 1rem;
-				font-size: 1.15em;
-			}
-		</style>
-
 		{% if page.category == "Library" and page.normal_lib_note != false %}
 			<section class="lib_correct">
 				{% capture my_include %}{% include lib_correct.md %}{% endcapture %}
