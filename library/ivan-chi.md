@@ -9,6 +9,7 @@ permalink: /library/ivan/chi/
 language: chi
 image: assets/bookcover/ivan.png
 infographic: assets/images/ivan-info.png
+infographic_watermark: right
 audio: https://od.lk/s/ODdfNDc1MjA1NjVfM1BwdTg/ivan.m4a
 ---
 

@@ -12,6 +12,7 @@ permalink: /library/least-resistance/chi/
 language: chi
 image: assets/bookcover/fritz-chi.jpg
 infographic: assets/images/least-resistance-info.png
+infographic_watermark: right
 audio: https://od.lk/s/ODdfNDc1MjA1NjZfa2tGWFU/least-resistance.m4a
 ---
 

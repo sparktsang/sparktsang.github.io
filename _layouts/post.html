@@ -120,6 +120,7 @@
 			letter-spacing: 0.08em;  /* 稍微加上字距 */
 			margin-bottom: 40px; 
 		}
+		
 		.back-link:hover {
 			color: #f0f0f0;          /* 滑鼠懸停時變色 */
 			text-decoration: underline;
@@ -311,7 +312,22 @@
 					<p>Thank you for reading until the end. This is a bonus just for you. </p>
 				{% endif %}
 			{% endif %}	
-			<span class="image main"><img src="{{ site.baseurl }}/{{ page.infographic }}" alt="" /></span>
+						
+			<span class="image main" style="margin-bottom: 0.5rem;"><img src="{{ site.baseurl }}/{{ page.infographic }}" alt="" /></span>
+			
+			{% comment %} 插入浮水印 App 導流圖說 {% endcomment %}
+			{% if page.infographic_watermark == "right" %}
+				<div class="watermark-caption" style="text-align: right;">
+			{% else %}
+				<div class="watermark-caption">
+			{% endif %}
+				{% if page.language == "chi" %}
+					本圖網址水印由 <a href="/artifacts/watermark/" target="_blank" style="color: var(--text); border-bottom: 1px dotted var(--muted); text-decoration: none; transition: color 0.2s;">Zen Watermark</a> 於五秒內生成——該水印工具是我為了逃離互聯網勒索，而自建的零摩擦造物。
+				{% else %}
+					Watermarked in 5s via <a href="/artifacts/watermark/" target="_blank" style="color: var(--text); border-bottom: 1px dotted var(--muted); text-decoration: none; transition: color 0.2s;">Zen Watermark</a>—an artifact built to escape the internet's extortion racket.
+				{% endif %}
+			</div>
+
 		{% endif %}
 
 		{% if page.category == "Library" and page.normal_lib_note != false %}
