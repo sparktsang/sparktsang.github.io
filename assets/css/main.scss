@@ -230,3 +230,96 @@
 @keyframes blinker {
 	50% { opacity: 0; }
 }
+
+.library-nav-container {
+	display: flex;
+	justify-content: space-between;
+	align-items: flex-start;
+	margin-top: 8rem;
+	padding-top: 3rem;
+	border-top: 1px solid rgba(255, 255, 255, 0.08); /* 柔和的頂部分隔線 */
+}
+
+.library-nav-side {
+	flex: 1;
+	max-width: 45%; /* 確保標題太長時不會互相碰撞 */
+}
+.text-right {
+	text-align: right;
+}
+
+.library-nav-link {
+	display: flex;
+	flex-direction: column;
+	text-decoration: none;
+	transition: transform 0.4s cubic-bezier(0.16, 1, 0.3, 1); /* 平滑的物理慣性過渡 */
+}
+
+/* Meta 標籤：微小、等寬、淡色 */
+.library-nav-link .nav-meta {
+	font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+	font-size: 0.75rem;
+	color: var(--muted);
+	letter-spacing: 0.15em;
+	text-transform: uppercase;
+	margin-bottom: 0.6rem;
+	transition: color 0.3s ease;
+}
+
+/* 內容標題：放大、優雅、作為視覺重點 */
+.library-nav-link .nav-title {
+	font-size: 1.15rem;
+	font-weight: 500;
+	line-height: 1.4;
+	color: var(--text);
+	transition: color 0.3s ease;
+}
+
+/* 懸停微互動 (Hover Micro-interactions) */
+.library-nav-link.prev:hover {
+	transform: translateX(-6px); /* 向左微微滑動 */
+}
+.library-nav-link.next:hover {
+	transform: translateX(6px);  /* 向右微微滑動 */
+}
+.library-nav-link:hover .nav-meta,
+.library-nav-link:hover .nav-title {
+	color: var(--accent); /* 字體發亮 */
+}
+
+/* 返回按鈕區域 */
+.library-nav-back {
+	text-align: center;
+	margin-top: 4rem;
+}
+.library-nav-back .back-link {
+	display: inline-block;
+	font-family: var(--font-ui), sans-serif;
+	font-size: 0.8rem;
+	font-weight: bold;
+	color: #888;
+	letter-spacing: 0.1em;
+	text-transform: uppercase;
+	text-decoration: none;
+	padding: 0.8rem 1.5rem;
+	border: 1px solid transparent;
+	transition: all 0.3s ease;
+}
+.library-nav-back .back-link:hover {
+	color: var(--text);
+	border-bottom: 1px dotted var(--text);
+}
+
+/* 手機版適配 */
+@media (max-width: 768px) {
+	.library-nav-container {
+		flex-direction: column;
+		gap: 3rem;
+	}
+	.library-nav-side {
+		max-width: 100%;
+	}
+	.text-right {
+		text-align: left; /* 手機上統一靠左，閱讀視線更連貫 */
+	}
+}

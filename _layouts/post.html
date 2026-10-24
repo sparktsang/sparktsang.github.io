@@ -467,37 +467,43 @@
 		{% endif %}
 
 		{% if page.category == "Library" %}
-			{% comment %} 3. 渲染上一篇與下一篇嘅按鈕 (計算已在頂部完成) {% endcomment %}
-			<div class="post-nav" style="display:flex; justify-content:space-between; align-items:center; margin-top:10rem;">
+			{% if page.language != "chi" %}
+				{% assign lbl_prev = "Previous Note" %}
+				{% assign lbl_next = "Next Note" %}
+				{% assign lbl_back = "BACK TO LIBRARY" %}
+				{% assign link_back = site.baseurl | append: "/library" %}
+			{% else %}
+				{% assign lbl_prev = "上一篇" %}
+				{% assign lbl_next = "下一篇" %}
+				{% assign lbl_back = "返歸【無涯殿】" %}
+				{% assign link_back = site.baseurl | append: "/library/chi" %}
+			{% endif %}
+
+			<div class="library-nav-container">
 				
-				<div class="prev-post">
-				{% if prev_real %}
-				<a href="{{ prev_real.url | relative_url }}" class="button small">
-					＜<span class="nav-label">{{ prevword }}{{ prev_real.nav_title | default: prev_real.short_title | default: prev_real.title }}</span>
-				</a>
-				{% endif %}
+				<div class="library-nav-side">
+					{% if prev_real %}
+					<a href="{{ prev_real.url | relative_url }}" class="library-nav-link prev">
+						<span class="nav-meta">＜ {{ lbl_prev }}</span>
+						<span class="nav-title">{{ prev_real.nav_title | default: prev_real.short_title | default: prev_real.title }}</span>
+					</a>
+					{% endif %}
 				</div>
 
-				<div class="next-post" style="text-align:right;">
-				{% if next_real %}
-				<a href="{{ next_real.url | relative_url }}" class="button small">
-					<span class="nav-label">{{ nextword }}{{ next_real.nav_title | default: next_real.short_title | default: next_real.title }}　</span>＞
-				</a>
-				{% endif %}
+				<div class="library-nav-side text-right">
+					{% if next_real %}
+					<a href="{{ next_real.url | relative_url }}" class="library-nav-link next">
+						<span class="nav-meta">{{ lbl_next }} ＞</span>
+						<span class="nav-title">{{ next_real.nav_title | default: next_real.short_title | default: next_real.title }}</span>
+					</a>
+					{% endif %}
 				</div>
 
 			</div>
 
-			{% if page.language != "chi" %}
-				<div class="sort-toggle" style="text-align:center; margin-top:2rem;">
-					<a href="{{ site.baseurl }}/library" class="button">BACK TO LIBRARY</a>
-				</div>
-			{% else %}
-				<div class="sort-toggle" style="text-align:center; margin-top:2rem;">
-					<a href="{{ site.baseurl }}/library/chi" class="button">返歸【無涯殿】</a>
-				</div>
-			{% endif %}
-
+			<div class="library-nav-back">
+				<a href="{{ link_back }}" class="back-link">{{ lbl_back }}</a>
+			</div>
 		{% endif %}
 
 		{% if page.title == "Philosophy" %}		
