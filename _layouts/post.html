@@ -259,9 +259,16 @@
 	<div class="audio-card__icon" aria-hidden="true">🎧</div>
 	<div class="audio-card__body">
 		<p class="audio-card__label">
-		{% if page.language == "chi" %}Listen to the deep dive of these notes by Gemini Notebook (In English).
-		{% else %}Listen to the deep dive of these notes by Gemini Notebook.
-		{% endif %}	
+		{% capture listen_to_txt %}Listen to the deep dive of these notes by Gemini Notebook.{% endcapture %}
+		{% if page.lib_def == "design" %}
+			{% assign listen_to_txt = listen_to_txt | replace_first: "these notes", "this archive" %}
+		{% elsif page.lib_def == "perennial" %}
+			{% assign listen_to_txt = listen_to_txt | replace_first: "these notes", "this article" %}
+		{% endif %}
+		{% if page.language == "chi" %}
+			{% assign listen_to_txt = listen_to_txt | replace_first: ".", " (In English)." %}
+		{% endif %}
+		{{ listen_to_txt }}
 		</p>
 
 		<audio
