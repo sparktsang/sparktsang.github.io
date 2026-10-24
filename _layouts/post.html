@@ -145,7 +145,7 @@
 			{% if page.date and page.order != 0 and page.order != 99999 %}<p>{{ page.date | date: "%Y-%m-%d" }}</p>{% endif %}
 		</header>
 		
-		{% if page.image %}
+		{% if page.image and page.category != "Artifacts" %}
 			{% if page.category != "Library" %}
 				<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></span>
 			{% else %}
@@ -231,6 +231,25 @@
 		{% endif %}
 		{% comment %} === 陣列計算完結 === {% endcomment %}
 
+		{% comment %} === Artifacts 陣列計算與排名 === {% endcomment %}
+		{% if page.category == "Artifacts" %}
+			{% assign all_arts = site.pages | where: "category", "Artifacts" %}
+			
+			{% assign ordered_arts = all_arts | where_exp: "item", "item.order != nil" | sort: "order" %}
+			{% assign unordered_arts = all_arts | where_exp: "item", "item.order == nil" | sort: "title" %}
+			{% assign final_arts = ordered_arts | concat: unordered_arts %}
+			
+			{% assign total_arts = final_arts.size %}
+			{% assign current_rank = 0 %}
+			
+			{% for item in final_arts %}
+				{% if item.url == page.url %}
+					{% assign current_rank = forloop.index %}
+					{% break %}
+				{% endif %}
+			{% endfor %}
+		{% endif %}
+
 		{% assign rendered = content %}
 
 		{% if page.target_blank %}
@@ -292,16 +311,31 @@
 		{% if page.category == "Library" and page.audio %}
 			{% assign rendered = rendered | replace_first: "<hr />", add_audio %}
 		{% endif %}
-
-		{% comment %} === 2. 顯示頂部排名歡迎詞 (剔除 normal_lib_note: false) === {% endcomment %}
-		{% if page.category == "Library" and page.normal_lib_note != false %}
-			<div class="post-highlight-msg">
-			{% if page.language == "chi" %}
-				為了安放多年來親筆淬鍊的 <strong>{{ total_notes }}</strong> 份閱讀心血結晶，我建築了這座書影懸浮的<strong><a href="{{ site.baseurl }}/library/chi" style="color: var(--accent); text-decoration: none; border-bottom: 1px dotted var(--accent); " target="_blank">【無涯殿】</a></strong>，作為這些寶貝筆記的家。<br><br>此刻，感謝有您駐足於此一浩瀚書庫中的第 <strong>{{ current_rank }}</strong> 份珍藏——
-			{% else %}
-				I've spent years distilling my reading into <strong>{{ total_notes }}</strong> hand-crafted notes. To give these personal treasures a proper home, I designed <strong><a href="{{ site.baseurl }}/library" style="color: var(--accent); text-decoration: none; border-bottom: 1px dotted var(--accent);" target="_blank">this Library</a></strong>—a custom space where the books float before your eyes.<br><br>Thank you for stopping by note <strong>#{{ current_rank }}</strong> of the collection—
+		
+		<div class="post-highlight-msg">
+			{% if page.category == "Library" %}
+				{% if page.normal_lib_note != false %}
+					{% if page.language == "chi" %}
+						為了安放多年來親筆淬鍊的 <strong>{{ total_notes }}</strong> 份閱讀心血結晶，我建築了這座書影懸浮的<strong><a href="{{ site.baseurl }}/library/chi" style="color: var(--accent); text-decoration: none; border-bottom: 1px dotted var(--accent);" target="_blank">【無涯殿】</a></strong>，作為這些寶貝筆記的家。<br><br>此刻，感謝有您駐足於此一浩瀚書庫中的第 <strong>{{ current_rank }}</strong> 份珍藏——
+					{% else %}
+						I've spent years distilling my reading into <strong>{{ total_notes }}</strong> hand-crafted notes. To give these personal treasures a proper home, I designed <strong><a href="{{ site.baseurl }}/library" style="color: var(--accent); text-decoration: none; border-bottom: 1px dotted var(--accent);" target="_blank">this Library</a></strong>—a custom space where the books float before your eyes.<br><br>Thank you for stopping by note <strong>#{{ current_rank }}</strong> of the collection—
+					{% endif %}
+				{% else %}
+					{% if page.language == "chi" %}
+						你偏離了常規的書架——而這是刻意為之的設計。在安放 <strong>{{ total_notes }}</strong> 份閱讀心血之外，<strong><a href="{{ site.baseurl }}/library/chi" style="color: var(--accent); text-decoration: none; border-bottom: 1px dotted var(--accent);" target="_blank">【無涯殿】</a></strong>還庫存著極少的另類造物——非為記錄別人的思想，而是我對抗這世界的藍圖。<br><br>此刻，您正凝視其中一件特別展品——
+					{% else %}
+						You have stepped off the main corridors—by design. Beyond the <strong>{{ total_notes }}</strong> reading notes housed in <strong><a href="{{ site.baseurl }}/library" style="color: var(--accent); text-decoration: none; border-bottom: 1px dotted var(--accent);" target="_blank">this Library</a></strong>, there lie a few hidden artifacts—born not from reading, but from rebellion and creation.<br><br>You are currently examining one of these rare exhibits—
+					{% endif %}
+				{% endif %}
+			{% elsif page.category == "Artifacts" %}
+				When the internet devolves into an extortion racket, common sense becomes a rare exhibit. I built <strong><a href="{{ site.baseurl }}/artifacts/" target="_blank" style="color: var(--accent); text-decoration: none; border-bottom: 1px dotted var(--accent);">Artifacts</a></strong> as a digital armory to collect the tools I’ve forged to reclaim my own sanity.<br><br>You are currently examining the manifesto behind <strong>NO. {% if current_rank < 10 %}0{% endif %}{{ current_rank }}</strong> of these constructs—
 			{% endif %}
-			</div>
+		</div>
+
+		{% if page.category == "Artifacts" and page.image %}
+			<span class="image main artifact-display">
+				<img src="{{ site.baseurl }}/{{ page.image }}" alt="" />
+			</span>
 		{% endif %}
 
 		{{ rendered }}
