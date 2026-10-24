@@ -312,8 +312,8 @@
 			{% assign rendered = rendered | replace_first: "<hr />", add_audio %}
 		{% endif %}
 		
-		<div class="post-highlight-msg">
-			{% if page.category == "Library" %}
+		{% if page.category == "Library" %}
+			<div class="post-highlight-msg">
 				{% if page.normal_lib_note != false %}
 					{% if page.language == "chi" %}
 						為了安放多年來親筆淬鍊的 <strong>{{ total_notes }}</strong> 份閱讀心血結晶，我建築了這座書影懸浮的<strong><a href="{{ site.baseurl }}/library/chi" style="color: var(--accent); text-decoration: none; border-bottom: 1px dotted var(--accent);" target="_blank">【無涯殿】</a></strong>，作為這些寶貝筆記的家。<br><br>此刻，感謝有您駐足於此一浩瀚書庫中的第 <strong>{{ current_rank }}</strong> 份珍藏——
@@ -327,10 +327,12 @@
 						You have stepped off the main corridors—by design. Beyond the <strong>{{ total_notes }}</strong> reading notes housed in <strong><a href="{{ site.baseurl }}/library" style="color: var(--accent); text-decoration: none; border-bottom: 1px dotted var(--accent);" target="_blank">this Library</a></strong>, there lie a few hidden artifacts—born not from reading, but from rebellion and creation.<br><br>You are currently examining one of these rare exhibits—
 					{% endif %}
 				{% endif %}
-			{% elsif page.category == "Artifacts" %}
+			</div>
+		{% elsif page.category == "Artifacts" %}
+			<div class="post-highlight-msg">
 				When the internet devolves into an extortion racket, common sense becomes a rare exhibit. I built <strong><a href="{{ site.baseurl }}/artifacts/" target="_blank" style="color: var(--accent); text-decoration: none; border-bottom: 1px dotted var(--accent);">Artifacts</a></strong> as a digital armory to collect the tools I’ve forged to reclaim my own sanity.<br><br>You are currently examining the manifesto behind <strong>NO. {% if current_rank < 10 %}0{% endif %}{{ current_rank }}</strong> of these constructs—
-			{% endif %}
-		</div>
+			</div>
+		{% endif %}
 
 		{% if page.category == "Artifacts" and page.image %}
 			<span class="image main artifact-display">
