@@ -511,20 +511,61 @@
 		{% endif %}
 
 		{% if page.cta_url and page.cta_text %}
-			{% if page.category != "Artifacts" %}
-				<div class="cta-container">
-					<a href="{{ page.cta_url | relative_url }}" class="read-more-btn">{{ page.cta_text }}</a>
+			{% if page.category == "Artifacts" %}
+				<div class="artifact-cta-wrapper" style="text-align: center; margin-top: 5rem; margin-bottom: 3rem; padding-top: 3rem; border-top: 1px solid rgba(255,255,255,0.05);">
+					<a href="{{ page.cta_url | relative_url }}" class="artifact-terminal-btn" target="_blank">
+						<span class="blink-cursor">_</span> {{ page.cta_text }}
+					</a>
 				</div>
 			{% else %}
 				<div class="cta-container">
 					<a href="{{ page.cta_url | relative_url }}" class="read-more-btn" target="_blank">{{ page.cta_text }}</a>
 				</div>
 			{% endif %}
-			{% if page.category == "Artifacts" %}
-				<a href="/artifacts/" class="back-link">BACK TO ARTIFACTS</a>
-			{% elsif page.cta_nav_url and page.cta_nav_text %}
-				<a href="{{ page.cta_nav_url | relative_url }}" class="back-link">{{ page.cta_nav_text }}</a>
-			{% endif %}
+		{% endif %}
+
+		{% if page.category == "Artifacts" %}
+			{% assign prev_art = nil %}
+			{% assign next_art = nil %}
+			{% assign found_art = false %}
+
+			{% for item in final_arts %}
+				{% if found_art %}
+					{% assign next_art = item %}
+					{% break %}
+				{% endif %}
+
+				{% if item.url == page.url %}
+					{% assign found_art = true %}
+				{% else %}
+					{% assign prev_art = item %}
+				{% endif %}
+			{% endfor %}
+
+			<div class="post-nav" style="display:flex; justify-content:space-between; align-items:center; margin-top: 4rem;">
+				
+				<div class="prev-post">
+				{% if prev_art %}
+				<a href="{{ prev_art.url | relative_url }}" class="button small">
+					＜<span class="nav-label" style="font-family: ui-monospace, monospace; font-size:0.8em; letter-spacing:0.1em;">　PREV - {{ prev_art.title }}</span>
+				</a>
+				{% endif %}
+				</div>
+
+				<div class="next-post" style="text-align:right;">
+				{% if next_art %}
+				<a href="{{ next_art.url | relative_url }}" class="button small">
+					<span class="nav-label" style="font-family: ui-monospace, monospace; font-size:0.8em; letter-spacing:0.1em;">NEXT - {{ next_art.title }}　</span>＞
+				</a>
+				{% endif %}
+				</div>
+
+			</div>
+
+			<div class="sort-toggle" style="text-align:center; margin-top:2rem;">
+				<a href="{{ site.baseurl }}/artifacts/" class="back-link" style="font-family: var(--font-ui); font-size: 0.8rem; font-weight: bold; color: #888888; letter-spacing: 0.08em; text-decoration: none; transition: color 0.3s;">BACK TO ARTIFACTS</a>
+			</div>
+
 		{% endif %}
 		
 	</div>

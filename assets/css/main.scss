@@ -199,3 +199,34 @@
 		border-radius: 6px;
 	}
 }
+
+.artifact-terminal-btn {
+	display: inline-block;
+	font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+	font-size: 0.85rem;
+	letter-spacing: 0.15em;
+	color: var(--accent); /* 使用你網站的亮色/點綴色 */
+	background: transparent;
+	padding: 1.2rem 2.5rem;
+	border: 1px solid var(--accent);
+	border-radius: 4px;
+	text-decoration: none;
+	text-transform: uppercase;
+	transition: all 0.3s ease;
+	box-shadow: 0 0 10px rgba(66, 133, 244, 0.1); /* 微微的霓虹發光感，可按你網站的主題色調整 RGB */
+}
+
+.artifact-terminal-btn:hover {
+	background: var(--accent);
+	color: var(--page-bg);
+	box-shadow: 0 0 20px rgba(66, 133, 244, 0.4);
+}
+
+.blink-cursor {
+	animation: blinker 1s linear infinite;
+	margin-right: 5px;
+}
+
+@keyframes blinker {
+	50% { opacity: 0; }
+}
