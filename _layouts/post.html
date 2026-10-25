@@ -161,12 +161,8 @@
 
 			{% if page.language != "chi" %}
 				{% assign lib_notes = all_lib | where_exp: "item", "item.language != 'chi'" %}
-				{% assign prevword = "　Previous - " %}
-				{% assign nextword = "Next - " %}
 			{% else %}
 				{% assign lib_notes = all_lib | where_exp: "item", "item.language == 'chi'" %}
-				{% assign prevword = "　上篇　" %}
-				{% assign nextword = "下篇　" %}
 			{% endif %}
 
 			{% assign class_list = "Investment,Science,Philosophy,History,Politics,Economics,Entrepreneurship,Marketing,Psychology,Personal Growth,Relationship,Data Science,Story Writing,Novels,Miscellaneous" | split: "," %}
@@ -406,9 +402,7 @@
 			max-width: 100%;
 			box-sizing: border-box;
 			}
-		</style>
 
-		<style>
 			@media (max-width: 768px) {
 			.post-nav .nav-label { display: none; }
 			}
@@ -571,7 +565,7 @@
 			</div>
 
 			<div class="sort-toggle" style="text-align:center; margin-top:2rem;">
-				<a href="{{ site.baseurl }}/artifacts/" class="back-link" style="font-family: var(--font-ui); font-size: 0.8rem; font-weight: bold; color: #888888; letter-spacing: 0.08em; text-decoration: none; transition: color 0.3s;">BACK TO ARTIFACTS</a>
+				<a href="{{ site.baseurl }}/artifacts/" class="back-link" style="text-decoration: none; transition: color 0.3s;">BACK TO ARTIFACTS</a>
 			</div>
 
 		{% endif %}
