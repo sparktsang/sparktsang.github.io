@@ -155,7 +155,39 @@
 			{% endif %}
 		{% endif %}
 
-		{% comment %} === 1. 新增與搬移：Library 陣列計算、計數與上下篇 === {% endcomment %}
+		{% comment %} === Life 陣列計算與排名 === {% endcomment %}
+		{% if page.category == "Life" %}
+			{% assign all_life = site.categories.Life | reverse %}
+			
+			{% assign total_life_posts = 0 %}
+			{% assign current_rank = 0 %}
+			{% assign prev_life = nil %}
+			{% assign next_life = nil %}
+			{% assign found_life = false %}
+			
+			{% for item in all_life %}
+				{% comment %} 1. 計算真正紀實文學嘅總數同排名 (剔除 ordinary: false) {% endcomment %}
+				{% if item.ordinary != false %}
+					{% assign total_life_posts = total_life_posts | plus: 1 %}
+					{% if item.url == page.url %}
+						{% assign current_rank = total_life_posts %}
+					{% endif %}
+				{% endif %}
+				
+				{% comment %} 2. 搵出當前文章嘅上一篇同下一篇 (所有 Life 文章都適用，包含 prologue/epilogue) {% endcomment %}
+				{% if found_life and next_life == nil %}
+					{% assign next_life = item %}
+				{% endif %}
+
+				{% if item.url == page.url %}
+					{% assign found_life = true %}
+				{% elsif found_life == false %}
+					{% assign prev_life = item %}
+				{% endif %}
+			{% endfor %}
+		{% endif %}
+
+		{% comment %} === Library 陣列計算、計數與上下篇 === {% endcomment %}
 		{% if page.category == "Library" %}
 			{% assign all_lib = site.pages | where: "category", "Library" %}
 
@@ -308,7 +340,11 @@
 			{% assign rendered = rendered | replace_first: "<hr />", add_audio %}
 		{% endif %}
 		
-		{% if page.category == "Library" %}
+		{% if page.category == "Life" and page.ordinary != false %}
+			<div class="post-highlight-msg" style="opacity: 0.65;">
+				We navigate a world built on silent compromises, unwritten rules, and invisible systems. This space is the operating table.<br><br>Among the <strong>{{ total_life_posts }}</strong> clinical dissections of our modern condition housed <a href="{{ site.baseurl }}/life" style="color: var(--accent); text-decoration: none; border-bottom: 1px dotted var(--accent);" target="_blank">here</a>, you are currently examining incision <strong>#{% if current_rank < 10 %}0{% endif %}{{ current_rank }}</strong>—
+			</div>
+		{% elsif page.category == "Library" %}
 			<div class="post-highlight-msg">
 				{% if page.normal_lib_note != false %}
 					{% if page.language == "chi" %}
@@ -409,45 +445,20 @@
 		</style>
 				
 		{% if page.category == "Life" %}
-		
-			{% assign prev_real = nil %}
-			{% assign ptr = page.previous %}
-			
-			{% for i in (1..50) %}
-			  {% if ptr and ptr.category == "Life" and ptr.archive != true %}
-				{% assign prev_real = ptr %}
-				{% break %}
-			  {% elsif ptr %}
-				{% assign ptr = ptr.previous %}
-			  {% endif %}
-			{% endfor %}
-
-			{% assign next_real = nil %}
-			{% assign ptr2 = page.next %}
-			
-			{% for i in (1..50) %}
-			  {% if ptr2 and ptr2.category == "Life" and ptr2.archive != true %}
-			    {% assign next_real = ptr2 %}
-			    {% break %}
-			  {% elsif ptr2 %}
-			    {% assign ptr2 = ptr2.next %}
-			  {% endif %}
-			{% endfor %}
-
 			<div class="post-nav" style="display:flex; justify-content:space-between; align-items:center; margin-top:10rem;">
 			
-				<div class="next-post" style="text-align:right;">
-				{% if prev_real %}
-					<a href="{{ prev_real.url | relative_url }}" class="button small">
-						＜<span class="nav-label">　Previous - {{ prev_real.short_title | default: prev_real.title }}</span>
+				<div class="prev-post">
+				{% if prev_life %}
+					<a href="{{ prev_life.url | relative_url }}" class="button small">
+						＜<span class="nav-label">　PREVIOUS - {{ prev_life.short_title | default: prev_life.title }}</span>
 					</a>
 				{% endif %}
 				</div>
 			
-				<div class="prev-post">
-				{% if next_real %}
-					<a href="{{ next_real.url | relative_url }}" class="button small">
-						<span class="nav-label">Next - {{ next_real.short_title | default: next_real.title }}　</span>＞
+				<div class="next-post" style="text-align:right;">
+				{% if next_life %}
+					<a href="{{ next_life.url | relative_url }}" class="button small">
+						<span class="nav-label">NEXT - {{ next_life.short_title | default: next_life.title }}　</span>＞
 					</a>
 				{% endif %}
 				</div>
@@ -455,9 +466,8 @@
 			</div>
 			
 			<div class="sort-toggle" style="text-align:center; margin-top:2rem;">
-				<a href="{{ site.baseurl }}/life" class="button">BACK TO LIFE</a>
+				<a href="{{ site.baseurl }}/life" class="back-link" style="text-decoration: none; transition: color 0.3s;">BACK TO LIFE</a>
 			</div>
-		
 		{% endif %}
 
 		{% if page.category == "Library" %}
