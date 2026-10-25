@@ -145,13 +145,13 @@
 			{% if page.date and page.order != 0 and page.order != 99999 %}<p>{{ page.date | date: "%Y-%m-%d" }}</p>{% endif %}
 		</header>
 		
-		{% if page.image and page.category != "Artifacts" %}
-			{% if page.category != "Library" %}
-				<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></span>
-			{% else %}
+		{% if page.image %}
+			{% if page.category == "Library" %}
 				<span class="image main">
 					<img src="{{ site.baseurl }}/{{ page.image }}" alt="" class="lib-img" />
 				</span>
+			{% elsif page.category != "Life" and page.category != "Artifacts" %}
+				<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></span>
 			{% endif %}
 		{% endif %}
 
@@ -366,10 +366,14 @@
 			</div>
 		{% endif %}
 
-		{% if page.category == "Artifacts" and page.image %}
-			<span class="image main artifact-display">
-				<img src="{{ site.baseurl }}/{{ page.image }}" alt="" />
-			</span>
+		{% if page.image %}
+			{% if page.category == "Artifacts" %}
+				<span class="image main artifact-display">
+					<img src="{{ site.baseurl }}/{{ page.image }}" alt="" />
+				</span>
+			{% elsif page.category == "Life" %}
+				<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></span>
+			{% endif %}
 		{% endif %}
 
 		{{ rendered }}
@@ -445,27 +449,29 @@
 		</style>
 				
 		{% if page.category == "Life" %}
-			<div class="post-nav" style="display:flex; justify-content:space-between; align-items:center; margin-top:10rem;">
-			
-				<div class="prev-post">
-				{% if prev_life %}
-					<a href="{{ prev_life.url | relative_url }}" class="button small">
-						＜<span class="nav-label">　PREVIOUS - {{ prev_life.short_title | default: prev_life.title }}</span>
+			<div class="life-nav-container">
+				
+				<div class="life-nav-side">
+					{% if prev_life %}
+					<a href="{{ prev_life.url | relative_url }}" class="life-nav-link prev">
+						<span class="nav-meta">Previous Chronicle</span>
+						<span class="nav-title">{{ prev_life.short_title | default: prev_life.title }}</span>
 					</a>
-				{% endif %}
+					{% endif %}
 				</div>
 			
-				<div class="next-post" style="text-align:right;">
-				{% if next_life %}
-					<a href="{{ next_life.url | relative_url }}" class="button small">
-						<span class="nav-label">NEXT - {{ next_life.short_title | default: next_life.title }}　</span>＞
+				<div class="life-nav-side text-right">
+					{% if next_life %}
+					<a href="{{ next_life.url | relative_url }}" class="life-nav-link next">
+						<span class="nav-meta">Next Chronicle</span>
+						<span class="nav-title">{{ next_life.short_title | default: next_life.title }}</span>
 					</a>
-				{% endif %}
+					{% endif %}
 				</div>
 			
 			</div>
 			
-			<div class="sort-toggle" style="text-align:center; margin-top:2rem;">
+			<div class="life-nav-back">
 				<a href="{{ site.baseurl }}/life" class="back-link" style="text-decoration: none; transition: color 0.3s;">BACK TO LIFE</a>
 			</div>
 		{% endif %}

@@ -323,3 +323,82 @@
 		text-align: left; /* 手機上統一靠左，閱讀視線更連貫 */
 	}
 }
+
+/* ── Life 專屬：文學手稿翻頁 CSS ── */
+.life-nav-container {
+	display: flex;
+	justify-content: space-between;
+	align-items: flex-start;
+	margin-top: 10rem; /* 保持大量留白，讓讀者有沉思空間 */
+	padding-top: 3rem;
+	border-top: 1px solid rgba(255, 255, 255, 0.04); /* 比 Library 更微弱的分隔線，若有若無 */
+}
+
+.life-nav-side {
+	flex: 1;
+	max-width: 48%; /* 防止長標題碰撞 */
+}
+.text-right {
+	text-align: right;
+}
+
+.life-nav-link {
+	display: flex;
+	flex-direction: column;
+	text-decoration: none;
+	opacity: 0.65; /* 初始狀態帶有褪色感 */
+	transition: opacity 0.5s ease; /* 緩慢的電影級淡入 */
+}
+.life-nav-link:hover {
+	opacity: 1;
+}
+
+/* Meta 標籤：時間的流逝 */
+.life-nav-link .nav-meta {
+	font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+	font-size: 0.65rem;
+	color: var(--muted);
+	letter-spacing: 0.25em; /* 極寬的字距，營造空靈感 */
+	text-transform: uppercase;
+	margin-bottom: 0.8rem;
+}
+
+/* 內容標題：人的故事 */
+.life-nav-link .nav-title {
+	font-size: 1.1rem;
+	font-weight: normal;
+	font-style: italic; /* 斜體增強文學感與自述感 */
+	line-height: 1.5;
+	color: var(--text);
+	transition: color 0.5s ease, transform 0.5s ease; /* 慢速位移 */
+}
+
+/* 懸停微互動 (慢速呼吸感) */
+.life-nav-link.prev:hover .nav-title {
+	transform: translateX(-4px); 
+	color: var(--accent); /* 如果不想用藍色，可以改為 #fff 純白 */
+}
+.life-nav-link.next:hover .nav-title {
+	transform: translateX(4px);  
+	color: var(--accent);
+}
+
+/* 返回按鈕區域 */
+.life-nav-back {
+	text-align: center;
+	margin-top: 6rem;
+}
+
+/* 手機版適配 */
+@media (max-width: 768px) {
+	.life-nav-container {
+		flex-direction: column;
+		gap: 3.5rem;
+	}
+	.life-nav-side {
+		max-width: 100%;
+	}
+	.text-right {
+		text-align: left; /* 手機上統一靠左，像書本目錄 */
+	}
+}
