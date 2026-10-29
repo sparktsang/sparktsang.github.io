@@ -83,7 +83,7 @@ If you are a robot, there is a [better sitemap for you](/sitemap.xml).
 
 ---
 
-### [Library, Chinese version / 無涯殿](/library/chi) (*Under Construction*)
+### [Library, Chinese version / 無涯殿](/library/chi) (*Polishing the Experience*)
 
 {% assign lib_notes = all_lib | where_exp: "item", "item.language == 'chi'" %}
 
@@ -123,7 +123,7 @@ If you are a robot, there is a [better sitemap for you](/sitemap.xml).
 
 ---
 
-### [Artifacts](/artifacts) (*Under Construction*)
+### [Artifacts](/artifacts) (*Nearing Completion*)
 
 {% assign all_arts = site.pages | where: "category", "Artifacts" %}
 {% assign ordered_arts = all_arts | where_exp: "p", "p.order != nil" | sort: "order" %}
