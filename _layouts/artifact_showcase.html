@@ -259,12 +259,9 @@
   <!-- CATALOG SECTION -->
   <main class="catalog">
 
-    {% assign all_arts = site.pages | where: "category", "Artifacts" %}
+    {% assign final_arts = site.data.artifact_navigation.all %}
     
     <!-- 將有 Order 同無 Order 嘅頁面分開排序再合併 -->
-    {% assign ordered_arts = all_arts | where_exp: "item", "item.order != nil" | sort: "order" %}
-    {% assign unordered_arts = all_arts | where_exp: "item", "item.order == nil" | sort: "title" %}
-    {% assign final_arts = ordered_arts | concat: unordered_arts %}
 
     {% for post in final_arts %}
       <article class="artifact-row">

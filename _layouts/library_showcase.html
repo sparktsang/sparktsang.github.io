@@ -232,72 +232,30 @@
   <div id="main" class="library-main">
     <div class="library-lang-container">
         
-        {% assign all_lib = site.pages | where: "category", "Library" %}
-
         {% if page.version == 'chi' %}
-          {% assign lib_notes = all_lib | where_exp: "item", "item.language == 'chi'" %}
+          {% assign lib_categories = site.data.library_navigation.chi %}
         {% else %}
-          {% assign lib_notes = all_lib | where_exp: "item", "item.language != 'chi'" %}
+          {% assign lib_categories = site.data.library_navigation.en %}
         {% endif %}
-        
-        {% assign class_list = "Investment,Science,Philosophy,History,Politics,Economics,Entrepreneurship,Marketing,Psychology,Personal Growth,Relationship,Data Science,Story Writing,Novels,Miscellaneous" | split: "," %}
 
-        {% for c in class_list %}
-            {% assign target_cat = c | downcase %}
-            
-            {% assign has_items = false %}
-            {% for post in lib_notes %}
-                {% assign p_cat = post.classification | default: "Miscellaneous" | downcase %}
-                {% if p_cat == target_cat %}
-                    {% assign has_items = true %}
-                    {% break %}
-                {% endif %}
-            {% endfor %}
-
-            {% if has_items %}
+        {% for category in lib_categories %}
+            {% if category.items.size > 0 %}
                 <div class="category-node">
-                    <span data-short="{{ c | replace: 'Entrepreneurship', 'Business' | replace: 'Miscellaneous', 'Misc.' }}">{{ c }}</span>
+                    <span data-short="{{ category.name | replace: 'Entrepreneurship', 'Business' | replace: 'Miscellaneous', 'Misc.' }}">{{ category.name }}</span>
                 </div>
 
                 <div class="category-grid">
-                    <!-- 1. 有 Order 的書 -->
-                    {% for i in (1..100) %}
-                        {% for post in lib_notes %}
-                            {% assign p_cat = post.classification | default: "Miscellaneous" | downcase %}
-                            {% if p_cat == target_cat and post.order == i %}
-                                <div class="shard-wrapper {% cycle 'global_pos': 'pos-left', 'pos-right' %}">
-                                    <div class="obsidian-shard"
-                                         data-title="{{ post.title | escape }}"
-                                         data-short-title="{{ post.short_title | escape }}"
-                                         data-desc="{{ post.description | escape }}"
-                                         data-title-obvious="{{ post.title_obvious }}">
-                                        
-                                        <a href="{{ post.url | relative_url }}" target="_blank" class="click-area"></a>
-                                        <div class="book-cover" style="background-image: url('{{ post.image | relative_url }}');"></div>
-                                        
-                                    </div>
-                                </div>
-                            {% endif %}
-                        {% endfor %}
-                    {% endfor %}
-
-                    <!-- 2. 無 Order 的書 -->
-                    {% for post in lib_notes %}
-                        {% assign p_cat = post.classification | default: "Miscellaneous" | downcase %}
-                        {% if p_cat == target_cat and post.order == nil %}
-                            <div class="shard-wrapper {% cycle 'global_pos': 'pos-left', 'pos-right' %}">
-                                <div class="obsidian-shard"
-                                     data-title="{{ post.title | escape }}"
-                                     data-short-title="{{ post.short_title | escape }}"
-                                     data-desc="{{ post.description | escape }}"
-                                     data-title-obvious="{{ post.title_obvious }}">
-                                    
-                                    <a href="{{ post.url | relative_url }}" target="_blank" class="click-area"></a>
-                                    <div class="book-cover" style="background-image: url('{{ post.image | relative_url }}');"></div>
-                                    
-                                </div>
+                    {% for post in category.items %}
+                        <div class="shard-wrapper {% cycle 'global_pos': 'pos-left', 'pos-right' %}">
+                            <div class="obsidian-shard"
+                                 data-title="{{ post.title | escape }}"
+                                 data-short-title="{{ post.short_title | escape }}"
+                                 data-desc="{{ post.description | escape }}"
+                                 data-title-obvious="{{ post.title_obvious }}">
+                                <a href="{{ post.url | relative_url }}" target="_blank" class="click-area"></a>
+                                <div class="book-cover" style="background-image: url('{{ post.image | relative_url }}');"></div>
                             </div>
-                        {% endif %}
+                        </div>
                     {% endfor %}
                 </div>
             {% endif %}

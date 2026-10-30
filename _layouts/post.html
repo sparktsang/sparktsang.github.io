@@ -157,125 +157,29 @@
 
 		{% comment %} === Life 陣列計算與排名 === {% endcomment %}
 		{% if page.category == "Life" %}
-			{% assign all_life = site.categories.Life | reverse %}
-			
-			{% assign total_life_posts = 0 %}
-			{% assign current_rank = 0 %}
-			{% assign prev_life = nil %}
-			{% assign next_life = nil %}
-			{% assign found_life = false %}
-			
-			{% for item in all_life %}
-				{% comment %} 1. 計算真正紀實文學嘅總數同排名 (剔除 ordinary: false) {% endcomment %}
-				{% if item.ordinary != false %}
-					{% assign total_life_posts = total_life_posts | plus: 1 %}
-					{% if item.url == page.url %}
-						{% assign current_rank = total_life_posts %}
-					{% endif %}
-				{% endif %}
-				
-				{% comment %} 2. 搵出當前文章嘅上一篇同下一篇 (所有 Life 文章都適用，包含 prologue/epilogue) {% endcomment %}
-				{% if found_life and next_life == nil %}
-					{% assign next_life = item %}
-				{% endif %}
-
-				{% if item.url == page.url %}
-					{% assign found_life = true %}
-				{% elsif found_life == false %}
-					{% assign prev_life = item %}
-				{% endif %}
-			{% endfor %}
+			{% assign life_nav_data = page.life_nav %}
+			{% assign total_life_posts = life_nav_data.total_life_posts %}
+			{% assign current_rank = life_nav_data.current_rank %}
+			{% assign prev_life = life_nav_data.prev %}
+			{% assign next_life = life_nav_data.next %}
 		{% endif %}
 
 		{% comment %} === Library 陣列計算、計數與上下篇 === {% endcomment %}
 		{% if page.category == "Library" %}
-			{% assign all_lib = site.pages | where: "category", "Library" %}
-
-			{% if page.language != "chi" %}
-				{% assign lib_notes = all_lib | where_exp: "item", "item.language != 'chi'" %}
-			{% else %}
-				{% assign lib_notes = all_lib | where_exp: "item", "item.language == 'chi'" %}
-			{% endif %}
-
-			{% assign class_list = "Investment,Science,Philosophy,History,Politics,Economics,Entrepreneurship,Marketing,Psychology,Personal Growth,Relationship,Data Science,Story Writing,Novels,Miscellaneous" | split: "," %}
-			{% assign flattened_lib = "" | split: "" %}
-
-			{% for c in class_list %}
-				{% assign target_cat = c | downcase %}
-				{% assign cat_items_ordered = "" | split: "" %}
-				{% assign cat_items_unordered = "" | split: "" %}
-
-				{% for post in lib_notes %}
-					{% assign p_cat = post.classification | default: "Miscellaneous" | downcase %}
-					{% if p_cat == target_cat %}
-						{% if post.order != nil %}
-							{% assign cat_items_ordered = cat_items_ordered | push: post %}
-						{% else %}
-							{% assign cat_items_unordered = cat_items_unordered | push: post %}
-						{% endif %}
-					{% endif %}
-				{% endfor %}
-
-				{% assign sorted_ordered = cat_items_ordered | sort: "order" %}
-				{% for post in sorted_ordered %}
-					{% assign flattened_lib = flattened_lib | push: post %}
-				{% endfor %}
-				{% for post in cat_items_unordered %}
-					{% assign flattened_lib = flattened_lib | push: post %}
-				{% endfor %}
-			{% endfor %}
-
-			{% comment %} 
-			利用單一迴圈同時搞定：
-			1. 計算真正閱讀筆記嘅總數同當前排名 (剔除 normal_lib_note: false)
-			2. 搵出當前文章嘅上一篇同下一篇 (包含所有 Library 文章) 
-			{% endcomment %}
-			{% assign total_notes = 0 %}
-			{% assign current_rank = 0 %}
-			{% assign prev_real = nil %}
-			{% assign next_real = nil %}
-			{% assign found_current = false %}
-
-			{% for item in flattened_lib %}
-				{% comment %} 計數邏輯：只針對真正嘅閱讀筆記 {% endcomment %}
-				{% if item.normal_lib_note != false %}
-					{% assign total_notes = total_notes | plus: 1 %}
-					{% if item.url == page.url %}
-						{% assign current_rank = total_notes %}
-					{% endif %}
-				{% endif %}
-
-				{% comment %} 上下篇導航邏輯：所有 Library 筆記（包含寄存文章）都適用 {% endcomment %}
-				{% if found_current and next_real == nil %}
-					{% assign next_real = item %}
-				{% endif %}
-
-				{% if item.url == page.url %}
-					{% assign found_current = true %}
-				{% elsif found_current == false %}
-					{% assign prev_real = item %}
-				{% endif %}
-			{% endfor %}
+			{% assign library_nav_data = page.library_nav %}
+			{% assign total_notes = library_nav_data.total_notes %}
+			{% assign current_rank = library_nav_data.current_rank %}
+			{% assign prev_real = library_nav_data.prev %}
+			{% assign next_real = library_nav_data.next %}
 		{% endif %}
-		{% comment %} === 陣列計算完結 === {% endcomment %}
 
-		{% comment %} === Artifacts 陣列計算與排名 === {% endcomment %}
+        {% comment %} === Artifacts 陣列計算與排名 === {% endcomment %}
 		{% if page.category == "Artifacts" %}
-			{% assign all_arts = site.pages | where: "category", "Artifacts" %}
-			
-			{% assign ordered_arts = all_arts | where_exp: "item", "item.order != nil" | sort: "order" %}
-			{% assign unordered_arts = all_arts | where_exp: "item", "item.order == nil" | sort: "title" %}
-			{% assign final_arts = ordered_arts | concat: unordered_arts %}
-			
-			{% assign total_arts = final_arts.size %}
-			{% assign current_rank = 0 %}
-			
-			{% for item in final_arts %}
-				{% if item.url == page.url %}
-					{% assign current_rank = forloop.index %}
-					{% break %}
-				{% endif %}
-			{% endfor %}
+			{% assign artifact_nav_data = page.artifact_nav %}
+			{% assign total_arts = artifact_nav_data.total_arts %}
+			{% assign current_rank = artifact_nav_data.current_rank %}
+			{% assign prev_art = artifact_nav_data.prev %}
+			{% assign next_art = artifact_nav_data.next %}
 		{% endif %}
 
 		{% assign rendered = content %}
@@ -543,23 +447,6 @@
 		{% endif %}
 
 		{% if page.category == "Artifacts" %}
-			{% assign prev_art = nil %}
-			{% assign next_art = nil %}
-			{% assign found_art = false %}
-
-			{% for item in final_arts %}
-				{% if found_art %}
-					{% assign next_art = item %}
-					{% break %}
-				{% endif %}
-
-				{% if item.url == page.url %}
-					{% assign found_art = true %}
-				{% else %}
-					{% assign prev_art = item %}
-				{% endif %}
-			{% endfor %}
-
 			<div class="post-nav" style="display:flex; justify-content:space-between; align-items:center; margin-top: 4rem;">
 				
 				<div class="prev-post">
