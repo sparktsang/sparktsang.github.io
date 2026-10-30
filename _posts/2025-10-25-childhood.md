@@ -12,10 +12,6 @@ redirect_from:
   - life/2025/10/25/childhood.html
 ---
 
-This essay is the first of an eleven-part series.
-
----
-
 <!--Prologue: The Mute Genius-->
 Something has always been wrong with me.
 

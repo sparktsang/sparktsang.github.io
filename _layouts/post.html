@@ -244,7 +244,7 @@
 			{% assign rendered = rendered | replace_first: "<hr />", add_audio %}
 		{% endif %}
 		
-		{% if page.category == "Life" and page.ordinary != false %}
+		{% if page.category == "Life" and page.ordinary != false and page.series != "Autobiography" %}
 			<div class="post-highlight-msg" style="opacity: 0.65;">
 				We navigate a world built on silent compromises, unwritten rules, and invisible systems. This space is the operating table.<br><br>Among the <strong>{{ total_life_posts }}</strong> clinical dissections of our modern condition housed <a href="{{ site.baseurl }}/life" style="color: var(--accent); text-decoration: none; border-bottom: 1px dotted var(--accent);" target="_blank">here</a>, you are currently examining incision <strong>#{% if current_rank < 10 %}0{% endif %}{{ current_rank }}</strong>—
 			</div>
