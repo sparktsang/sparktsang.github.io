@@ -336,10 +336,14 @@ body:has(.curator-modal:target) { /* modal 開時停用背景捲軸，避免兩�
 	box-shadow: 0 25px 60px rgba(0,0,0,0.9);
 	padding: 3rem 5rem;
 	color: #94a3b8;
-	font-family: var(--font-serif, serif);
-	font-size: 1.05rem;
+	font-family: "Literata", serif;
+	font-size: 1rem;
 	line-height: 1.8;
 	text-align: left;
+}
+
+.curator-modal-box h3 {
+	font-family: "Cormorant Garamond", serif;
 }
 
 /* 交叉掣 */
