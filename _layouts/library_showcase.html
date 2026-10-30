@@ -312,7 +312,14 @@
     </div>
   </section>
 
-
+  <!-- ===== 全息閱讀室 (隱藏結構) ===== -->
+  <div id="manifesto" class="curator-modal">
+    <div class="curator-modal-box" style="background-color: #06060A;">
+      <a href="#!" class="curator-close">&times;</a>
+      {% capture manifesto_content %}{% include library_manifesto.md %}{% endcapture %}
+      {{ manifesto_content | markdownify }}
+    </div>
+  </div>
 
   {% include footer.html %}
 

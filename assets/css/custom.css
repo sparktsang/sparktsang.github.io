@@ -1,7 +1,27 @@
 /*
+  CSS by Spark Tsang
   sparktsang.github.io
   License: MIT
 */
+
+/* ── 藝術字體 Logo 容器 ── */
+h1.artistic-title {
+	margin: 0 0 clamp(1.5rem, 3vh, 2rem) 0;
+	display: flex;
+	align-items: flex-start;
+}
+
+/* 控制藝術字的尺寸 */
+h1.artistic-title img {
+	display: block;
+	width: 100%;
+	max-width: 400px;
+	height: auto;
+	object-fit: contain;
+	object-position: left center;
+	filter: drop-shadow(0 0 10px rgba(255,255,255,0.05)); 
+	transform: translateX(-17px); 
+}
 
 .index_text {
     font-size: 0.8em;
@@ -246,6 +266,102 @@
 	.text-right {
 		text-align: left; /* 手機上統一靠左，閱讀視線更連貫 */
 	}
+}
+
+/* ===== 全息閱讀室 (Curator's Manifesto Modal) ===== */
+.curator-modal {
+	position: fixed;
+	inset: 0;
+	display: flex;
+	overflow-y: auto; 
+	align-items: flex-start;
+	background: rgba(5, 7, 12, 0.92);
+	backdrop-filter: blur(15px);
+	z-index: 100000;
+	opacity: 0;
+	visibility: hidden;
+	transition: opacity 0.4s ease, visibility 0.4s ease;
+}
+
+/* 當網址包含 #manifesto 時，自動顯示 */
+.curator-modal:target {
+	opacity: 1;
+	visibility: visible;
+}
+
+body:has(.curator-modal:target) { /* modal 開時停用背景捲軸，避免兩軸並存 */
+	overflow: hidden;
+}
+
+/* 閱讀室內部容器 */
+.curator-modal-box {
+	/* 盒子永遠舖滿全熒幕 */
+	width: 100%;
+	min-height: 100%;
+	box-sizing: border-box;
+
+	/* 內容喺盒內置中 */
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+
+	background: rgba(15, 18, 25, 0.85);
+	border: 1px solid rgba(var(--popupbox-color), 0.15);
+	border-radius: 4px;
+	box-shadow: 0 25px 60px rgba(0,0,0,0.9);
+	padding: 3rem 5rem;
+	color: #94a3b8;
+	font-family: var(--font-serif, serif);
+	font-size: 1.05rem;
+	line-height: 1.8;
+	text-align: left;
+}
+
+/* 交叉掣 */
+.curator-close {
+	position: fixed;
+	top: 2rem;
+	right: 2rem;
+	color: rgba(var(--popupbox-color), 0.5);
+	font-family: 'Share Tech Mono', monospace;
+	font-size: 2.5rem;
+	text-decoration: none;
+	line-height: 1;
+	transition: color 0.3s ease;
+}
+.curator-close:hover {
+	color: #fff;
+}
+
+/* 首頁 [ Read the Curator's Note ] 嘅按鈕設計 */
+.curator-link {
+	font-family: inherit; 
+	font-size: inherit;
+	font-weight: inherit;
+	letter-spacing: inherit;
+	line-height: inherit;
+	
+	/* 顏色同上面一樣，或者極微弱地亮 5% 作為潛意識引導 */
+	color: #a5b4c6; 
+	text-decoration: none;
+	
+	/* 極度隱若嘅底線，代替突兀嘅顏色對比 */
+	border-bottom: 1px solid rgba(165, 180, 198, 0.4); 
+	padding-bottom: 2px;
+	transition: all 0.5s ease;
+}
+
+.curator-link:hover {
+	color: #ffffff;
+	border-bottom-color: rgba(255, 255, 255, 0.6);
+	text-shadow: 0 0 20px rgba(255, 255, 255, 0.4); 
+	cursor: pointer;
+}
+
+/* 手機版微調 */
+@media (max-width: 800px) {
+	.curator-modal-box { padding: 3rem 2rem; font-size: 1rem; }
+	.curator-close { top: 1rem; right: 1.5rem; }
 }
 
 /* ── Life 專屬：文學手稿翻頁 CSS ── */

@@ -6,7 +6,7 @@ description: |
   can make a short life feel painfully small.
   Still, I keep striving to become someone I could admire.
 
-  Reading is one way I pursue that ambition.
+  <a href="#manifesto" class="curator-link">Reading is one way I pursue that ambition.</a>
 foot: |
   After reading countless books, I eventually discovered that...
   <a href="/life" target="_blank">I was the book most worthy to read.</a>
