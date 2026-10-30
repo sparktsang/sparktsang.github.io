@@ -1,6 +1,7 @@
 ---
 layout: library_showcase
 title: 無涯殿
+title-font: assets/images/無涯殿_font_gemini.png
 version: chi
 permalink: /library/chi/
 description: |
@@ -18,12 +19,12 @@ mobile_description: |
   永恆追求、永恆餓渴的心。</a>
 foot: |
   閱卷無數，始知…
-  <a href="/life" target="_blank">自己才是那卷最值一讀的書。</a>
+  <a href="/life" target="_blank" class="curator-link">自己才是那卷最值一讀的書。</a>
 
   
   
   
   
-  中 | <a href="/library">EN</a>
+  中 | <a href="/library" class="curator-link">EN</a>
 image: assets/images/obsidian_eclipse_chatgpt.png
 ---

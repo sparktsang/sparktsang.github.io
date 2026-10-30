@@ -209,7 +209,13 @@
   <section id="banner">
     <div class="inner">
       <header class="major">
-        <h1 style="font-family: 'Share Tech Mono', monospace; letter-spacing: 0.1em; text-shadow: 0 0 20px rgba(56,189,248,0.5);">{{ page.title | default: "The Codex" }}</h1>
+          <h1 class="exhibition-title">
+            {% if page.version == 'chi' %}
+              <img src='{{ site.baseurl }}/{{ page.title-font }}' style="aspect-ratio: 2.2 / 1;" alt="{{ page.title }}">
+            {% else %}
+              <img src='{{ site.baseurl }}/{{ page.title-font }}' alt="{{ page.title }}">
+            {% endif %}
+            </h1>
       </header>
       <div class="content">
         <p class="desc-wide"   style="color:#94a3b8; text-align:center; width:100%; white-space: pre-line;">

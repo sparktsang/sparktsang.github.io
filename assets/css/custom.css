@@ -23,6 +23,31 @@ h1.artistic-title img {
 	transform: translateX(-17px); 
 }
 
+.exhibition-title {
+  margin: 0;
+  padding: 0 16px;
+  text-align: center;
+}
+
+.exhibition-title img {
+  display: block;
+  margin: 0 auto;
+
+  width: min(23vw, 900px);   /* 闊度：控制大細 */
+  height: auto;				/* 高度：控制大細 */
+  aspect-ratio: 2.64 / 1;      /* 拉伸後嘅闊高比：改呢個控制拉高/壓扁 */
+  object-fit: fill;           /* 拉伸、不裁切 */
+  max-width: none;
+  max-height: none;
+}
+
+@media (max-width: 768px) {
+  .exhibition-title img {
+    width: 50vw;          /* 手機用多啲闊度 */
+    aspect-ratio: 2.64 / 1; /* 比例保持一樣 → 唔會變形 */
+  }
+}
+
 .index_text {
     font-size: 0.8em;
     list-style: none;
