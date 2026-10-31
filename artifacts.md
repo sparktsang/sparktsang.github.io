@@ -5,5 +5,5 @@ description: |
   Thoughts define the universe.
   Tools shape the thoughts.
 image: assets/images/spark_gemini.jpg
-menu-order: 4
+menu-order: 3
 ---

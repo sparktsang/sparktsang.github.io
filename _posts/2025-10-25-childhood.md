@@ -4,7 +4,7 @@ title: "Portrait of the Artist as a Young Ghost: An Autopsy of a Childhood"
 short_title: "Portrait of a Young Ghost"
 subtitle: "I had no hope, but I had a hypothesis. And that hypothesis...was just enough to keep the ghost walking."
 menu_title: Autobiography
-menu-order: 1
+menu-order: 4
 category: "Life"
 image: assets/images/broken_childhood_bing.jpeg
 series: Autobiography

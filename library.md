@@ -28,5 +28,5 @@ mobile_foot: |
   
   <a href="/library/chi" class="curator-link">中</a> | EN
 image: assets/images/obsidian_eclipse_chatgpt.png
-menu-order: 3
+menu-order: 2
 ---
