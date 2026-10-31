@@ -246,7 +246,11 @@
 		
 		{% if page.category == "Life" and page.ordinary != false and page.series != "Autobiography" %}
 			<div class="post-highlight-msg" style="opacity: 0.65;">
-				We navigate a world built on silent compromises, unwritten rules, and invisible systems. This space is the operating table.<br><br>Among the <strong>{{ total_life_posts }}</strong> clinical dissections of our modern condition housed <a href="{{ site.baseurl }}/life" style="color: var(--accent); text-decoration: none; border-bottom: 1px dotted var(--accent);" target="_blank">here</a>, you are currently examining incision <strong>#{% if current_rank < 10 %}0{% endif %}{{ current_rank }}</strong>—
+				Most of our lives happen in the background. A delayed train. A cup of instant coffee. A fleeting conversation with a stranger.<br><br>We are taught to ignore these moments. But if you pause and pay attention, these encounters are the blueprints of how our world operates—and how it quietly fails us.<br><br>What follows are my field notes. Not grand adventures, but quiet observations of the invisible rules we all live by.<br><br>Among the <strong>{{ total_life_posts }}</strong> records housed <a href="{{ site.baseurl }}/life" style="color: var(--accent); text-decoration: none; border-bottom: 1px dotted var(--accent);" target="_blank">here</a>, you are currently reading observation <strong>#{% if current_rank < 10 %}0{% endif %}{{ current_rank }}</strong>—
+			</div>
+		{% elsif page.series == "Autobiography" %}
+			<div class="post-highlight-msg" style="opacity: 0.65;">
+				Have you ever written, or thought of writing, your own autobiography?<br><br>Writing an autobiography is not an act. It is an identity.<br><br>What you are about to read are my most personal stories. I hope they will not just change how you think about the human mind—and the worlds built by those who architect them—but also show you why you must write your own, no matter who you are, and how to begin.<br><br>You are currently reading episode <strong>#{{ page.series-order }}</strong> of mine. I hope I'll read yours one day.
 			</div>
 		{% elsif page.category == "Library" %}
 			<div class="post-highlight-msg">
@@ -266,7 +270,7 @@
 			</div>
 		{% elsif page.category == "Artifacts" %}
 			<div class="post-highlight-msg">
-				When the internet devolves into an extortion racket, common sense becomes a rare exhibit. I built <strong><a href="{{ site.baseurl }}/artifacts/" target="_blank" style="color: var(--accent); text-decoration: none; border-bottom: 1px dotted var(--accent);">Artifacts</a></strong> as a digital armory to collect the tools I’ve forged to reclaim my own sanity.<br><br>You are currently examining the manifesto behind <strong>NO. {% if current_rank < 10 %}0{% endif %}{{ current_rank }}</strong> of these constructs—
+				Have you ever tried to do something incredibly simple on the internet, only to find yourself trapped in a maze of ads, paywalls, or broken interfaces?<br><br>We often accept this daily friction as normal. We forget that the digital tools we are forced to use silently dictate how we act, what we tolerate, and how we think.<br><br><strong><a href="{{ site.baseurl }}/artifacts/" target="_blank" style="color: var(--accent); text-decoration: none; border-bottom: 1px dotted var(--accent);"><em>Artifacts</em></a></strong> is a collection of simple, zero-compromise tools I built when I decided to stop accepting the friction. But before a piece of code is written, there is usually a story of why it had to exist.<br><br>You are currently reading the story behind tool <strong>NO. {% if current_rank < 10 %}0{% endif %}{{ current_rank }}</strong>.
 			</div>
 		{% endif %}
 

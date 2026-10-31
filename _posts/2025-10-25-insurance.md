@@ -6,6 +6,7 @@ subtitle: "This wasn't a world without trust. It was a world that had learned to
 category: "Life"
 image: assets/images/man_in_suit_on_stage_l.jpg
 series: Autobiography
+series-order: 4
 redirect_from:
   - life/2025/10/25/insurance.html
 ---

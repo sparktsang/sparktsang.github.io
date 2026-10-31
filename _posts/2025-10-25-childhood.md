@@ -8,6 +8,7 @@ menu-order: 1
 category: "Life"
 image: assets/images/broken_childhood_bing.jpeg
 series: Autobiography
+series-order: 1
 redirect_from:
   - life/2025/10/25/childhood.html
 ---

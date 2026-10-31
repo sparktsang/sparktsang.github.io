@@ -36,7 +36,7 @@ module SparkTsang
 
       life_posts = (site.categories["Life"] || []).reverse
       total_life_posts = life_posts.count do |post|
-        post.data["ordinary"] != false
+        post.data["ordinary"] != false && post.data["series"] != "Autobiography"
       end
 
       site.data["life_navigation"] = {
@@ -49,7 +49,7 @@ module SparkTsang
       current_life_rank = 0
 
       life_posts.each_with_index do |post, index|
-        current_life_rank += 1 if post.data["ordinary"] != false
+        current_life_rank += 1 if post.data["ordinary"] != false && post.data["series"] != "Autobiography"
 
         post.data["life_nav"] = {
           "total_life_posts" => total_life_posts,
