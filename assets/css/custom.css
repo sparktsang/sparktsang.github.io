@@ -48,6 +48,25 @@ h1.artistic-title img {
   }
 }
 
+.exhibition-title-chi img {
+  display: block;
+  margin: 0 auto;
+
+  width: min(18vw, 900px);
+  height: auto;
+  aspect-ratio: 2.2 / 1;
+  object-fit: fill;
+  max-width: none;
+  max-height: none;
+}
+
+@media (max-width: 768px) {
+  .exhibition-title-chi img {
+    width: 40vw;
+    aspect-ratio: 2.2 / 1;
+  }
+}
+
 .index_text {
     font-size: 0.8em;
     list-style: none;

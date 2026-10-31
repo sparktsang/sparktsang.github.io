@@ -210,13 +210,9 @@
   <section id="banner">
     <div class="inner">
       <header class="major">
-          <h1 class="exhibition-title">
-            {% if page.version == 'chi' %}
-              <img src='{{ site.baseurl }}/{{ page.title-font }}' style="aspect-ratio: 2.2 / 1;" alt="{{ page.title }}">
-            {% else %}
-              <img src='{{ site.baseurl }}/{{ page.title-font }}' alt="{{ page.title }}">
-            {% endif %}
-            </h1>
+          {% if page.version == 'chi' %}<h1 class="exhibition-title-chi">{% else %}<h1 class="exhibition-title">{% endif %}
+            <img src='{{ site.baseurl }}/{{ page.title-font }}' alt="{{ page.title }}">
+          </h1>
       </header>
       <div class="content">
         <p class="desc-wide"   style="color:#94a3b8; text-align:center; width:100%; white-space: pre-line;">
