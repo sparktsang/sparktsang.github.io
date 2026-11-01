@@ -68,7 +68,7 @@ If you are a robot, there is a [better sitemap for you](/sitemap.xml).
 
 ---
 
-### [Artifacts](/artifacts) (*Nearing Completion*)
+### [Artifacts](/artifacts)
 
 {% assign ordered_arts = site.data.artifact_navigation.ordered %}
 
