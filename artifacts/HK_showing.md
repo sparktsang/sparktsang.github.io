@@ -1,12 +1,12 @@
 ---
 layout: post
 category: "Artifacts"
-order: 2
+order: 1
 title: | 
   HK Movie
   RT Scores
 article_title: "The Cinematic Ballot: An Anatomy of Aesthetic Injustice"
-app_title: 香港即日上映電影數據 - 每日更新 / Hong Kong Today's Screening Data - Updated Daily
+app_title: Hong Kong Today's Screening Data - Updated Daily
 description: | 
   Filtering the noise before you buy the ticket.
   An automated, data-driven guide to daily cinema updated every dawn.

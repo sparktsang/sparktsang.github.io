@@ -1,7 +1,7 @@
 ---
 layout: post
 category: "Artifacts"
-order: 5
+order: 4
 title: Screen Canvas
 article_title: "The Thermodynamics of Stupidity: An Autopsy of Human Engineering"
 app_title: Blackout Board

@@ -1,7 +1,7 @@
 ---
 layout: post
 category: "Artifacts"
-order: 4
+order: 3
 title: Zen Watermark
 article_title: "The Friction Cartel: An Artifact of the Last Human"
 app_title: Image Watermark Generator
