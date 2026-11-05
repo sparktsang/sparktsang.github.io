@@ -356,7 +356,7 @@ body:has(.curator-modal:target) { /* modal 開時停用背景捲軸，避免兩�
 	padding: 3rem 5rem;
 	color: #94a3b8;
 	font-family: "Literata", serif;
-	font-size: 1rem;
+	font-size: 0.96rem;
 	line-height: 1.8;
 	text-align: left;
 }

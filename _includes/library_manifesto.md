@@ -13,3 +13,5 @@ To help these ideas travel beyond me, I designed the notes as more than static d
 Some paths lead further still: into open editions where readers can challenge the text, propose corrections, and help improve it—with accepted contributions credited.  
 
 If a note helps you see something differently, enjoy an idea, or discover a connection you might otherwise have missed, then it has already travelled beyond me. Perhaps that's the closest thing to immortality a reading note can offer.  
+
+*Written on Oct 27, 2026*
