@@ -2,8 +2,8 @@
 layout: artifact_showcase
 title: Artifacts
 description: |
-  Thoughts define the universe.
-  Tools shape the thoughts.
+  I've never thought I would become a "dev".
+  But here I am.
 image: assets/images/spark_gemini.jpg
 menu-order: 3
 ---
