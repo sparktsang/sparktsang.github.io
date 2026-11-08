@@ -1,9 +1,19 @@
 ---
 layout: post
-title: Works
+title: The NovaSphere Epic
+menu_title: Epic
 description: "THE EPIC: How the World Will Be."
 image: assets/images/weaving_world_leonardo_3-to-1_2nd_1.jpg
+page_def: novasphere
+redirect_from:
+  - /works
 ---
+
+<div class="post-highlight-msg" markdown="1">
+First presented in 2025, this blueprint remains the foundational conception of the NovaSphere Epic.
+
+Its central institutional architecture and historical trajectory have remained intact, while subsequent work has focused on developing the scientific, literary, and philosophical foundations necessary for its eventual realization.
+</div>
 
 <br>
 
@@ -113,16 +123,16 @@ A system that simultaneously achieves maximum **efficiency** (radical innovation
 **CE Y.23**
 > The Final Argument. An ultimate weapon, born from an act of treason, is deployed to solve the final equation. A sky of fire. A world of silence. Unity.
 
----
-
 <br>
 
 ---
 
 <br>
 
-> The full manuscript of the First Volume of the NovaSphere Epic is in preparation.
->
-> This page serves only as a record of the foundational blueprint.
->
-> The story will be told in its own time.
+<div class="post-highlight-msg" markdown="1">
+The full literary realization of the first volume is planned for Phase III, following the development of its underlying literary framework.  
+
+This page serves only as a record of the foundational blueprint.  
+
+The story will be told in its own time.
+</div>

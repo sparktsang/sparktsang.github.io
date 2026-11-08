@@ -490,3 +490,21 @@ body:has(.curator-modal:target) { /* modal 開時停用背景捲軸，避免兩�
 		text-align: left; /* 手機上統一靠左，像書本目錄 */
 	}
 }
+
+/* 頁底特別導航掣 */
+.simulation-nav {
+    text-align: center;
+    margin-top: 10rem;
+    padding: 0 1.5rem;
+}
+
+.simulation-nav__description {
+    max-width: 34rem;
+    margin: 1.1rem auto 0;
+    color: rgba(255, 255, 255, 0.42);
+    font-size: 0.78em;
+    font-weight: 400;
+    line-height: 1.7;
+    letter-spacing: 0.015em;
+    text-transform: none;
+}

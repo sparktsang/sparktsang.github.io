@@ -430,13 +430,14 @@
 			</div>
 		{% endif %}
 
-		{% if page.title == "Philosophy" %}		
-			<div class="sort-toggle" style="text-align:center; margin-top:10rem;">
-				<a href="{{ site.baseurl }}/works" class="button">SEE THE SIMULATION</a>
+		{% if page.title == "Philosophy" %}
+			<div class="simulation-nav">
+				<a href="{{ site.baseurl }}/epic" class="button">SEE THE SIMULATION</a>
+				<p class="simulation-nav__description">
+					A literary simulation of a civilization shaped by the logic of open argumentation.
+				</p>
 			</div>
-		{% endif %}
-		
-		{% if page.title == "Works" or page.title == "Sitemap" %}
+		{% elsif page.page_def == "novasphere" or page.title == "Sitemap" %}
 			<div class="sort-toggle" style="text-align:center; margin-top:10rem;">
 				<a href="{{ site.baseurl }}/" class="button">BACK TO HOME</a>
 			</div>

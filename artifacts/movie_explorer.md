@@ -28,7 +28,7 @@ The traditional search giants failed. The bespoke cinematic platforms failed. Wh
 
 If the world refuses to build it, you build it yourself. 
 
-I expected a grueling architectural challenge. Instead, I found an open, structured database—Wikidata—already resting beneath the internet's surface. I did not even need to scrape the data; I merely had to ask for it. More absurdly, it took only a single prompt to an AI to generate the entire code. A person with zero programming background could summon this tool into existence. 
+I expected a grueling architectural challenge. Instead, I found an open, structured database—Wikidata—already resting beneath the internet's surface. I did not even need to scrape the data; I merely had to ask for it. More absurdly, it took only a single prompt to an AI to generate the core functional code. A person with zero programming background could summon this tool into existence. 
 
 How does the universe justify this? How does anyone explain that a tool defined by four basic filters, capable of being conjured by a single line of text, is entirely absent from the global internet? Is this a rational phenomenon? 
 
