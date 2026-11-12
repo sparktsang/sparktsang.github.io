@@ -5,8 +5,7 @@ menu-order: 5
 target_blank: true
 ---
 
-A directory to help you navigate more than two hundred pages, all of which worthy to read,  
-if you can handle them.  
+A directory of 250+ pages. Good luck getting out once you start.
 
 If you are a robot, there is a [better sitemap for you](/sitemap.xml).
 

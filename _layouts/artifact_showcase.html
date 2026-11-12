@@ -216,33 +216,41 @@
        Mobile Responsive Adjustments
        ========================================================= */
     @media (max-width: 900px) {
-      .artifact-row, .artifact-row:nth-child(even) {
+      .artifact-row,
+      .artifact-row:nth-child(even) {
         flex-direction: column;
-        min-height: auto;
-        position: relative;
+        min-height: 100vh;     /* 手機用「細視窗高度」，避免地址欄郁動時跳位 */
+      }
+
+      .artifact-title {
+        line-height: 1.25;
+        margin-bottom: 2rem; /* 標題同 Slogan 嘅距離 */
       }
 
       .artifact-text {
-        padding: 6rem 2rem;
+        flex: 0 0 auto;         /* 唔再平分高度，按內容高 */
+        padding: 15vh 2rem 5vh;
         align-items: center;
         text-align: center;
-        pointer-events: none
+        /* 刪走 pointer-events: none */
       }
 
       .artifact-slogan {
+        line-height: 1.8;
+        font-size: 1rem; /* 保持適中，唔好太細 */
         max-width: 100%;
       }
 
       .artifact-visual {
-        position: absolute;
-        top: 0; left: 0; right: 0; bottom: 0;
-        z-index: 1;
+        position: static;       /* 由 absolute 改回正常文檔流 */
+        flex: 1;                /* 食晒下半部剩餘高度 */
+        min-height: 40vh;       /* 防止符號區被壓扁 */
         background: transparent;
       }
 
       a.watermark {
-        font-size: 20rem;
-        opacity: 0.03;
+        font-size: clamp(9rem, 55vw, 20rem); /* 唔好死用 20rem，窄屏會爆 */
+        opacity: 0.08;          /* 唔再需要 0.03 咁淡，因為已唔會疊住字 */
       }
     }
   </style>
