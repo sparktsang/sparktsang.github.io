@@ -9,6 +9,7 @@ title_obvious: false
 image: assets/bookcover/reverse-econ.png
 infographic: assets/images/reverse-econ-info.png
 audio: https://od.lk/s/ODdfNDc1MzAyODJfNUhBcUM/reverse-econ.m4a
+target_blank: true
 ---
 
 *Reverse Economics* by Eddy Lee Wai-Choi
@@ -245,103 +246,103 @@ Keynes: “In the not-too-distant future, economics will return to its proper, s
 **Selected Wikipedia entries:**  
 
 **Basic concepts**  
-－Capitalism  
-－Criticism of Capitalism  
-－Marxism  
-－Socialism  
-－Economics  
-－Neoclassical Economics  
-－Criticism of Neoclassical Economics  
-－Keynesianism  
-－Monetarism  
-－Neoliberalism  
-－Neoconservatism  
-－Market Fundamentalism  
-－Market Failure  
-－Corporation  
-－Privatization  
-－Plutocracy  
-－Economic Inequality  
-－Poverty  
-－General Equilibrium Theory  
-－Business Cycle  
-－Rational Expectations  
-－Efficient Market Hypothesis  
-－Pareto Efficiency  
-－Public Choice Theory  
-－Coase Theorem  
-－Supply-side Economics  
-－Trickle-down Economics  
-－Welfare Economics  
-－Neocolonialism  
-－Dependency Theory  
-－Alter-globalization  
-－Heterodox Economics  
-－Behavioral Economics  
-－Triple Bottom Line  
-－Green Economy  
+* [Capitalism](https://en.wikipedia.org/wiki/Capitalism)
+* [Criticism of Capitalism](https://en.wikipedia.org/wiki/Criticism_of_capitalism)
+* [Marxism](https://en.wikipedia.org/wiki/Marxism)
+* [Socialism](https://en.wikipedia.org/wiki/Socialism)
+* [Economics](https://en.wikipedia.org/wiki/Economics)
+* [Neoclassical Economics](https://en.wikipedia.org/wiki/Neoclassical_economics)
+* [Criticism of Neoclassical Economics](https://en.wikipedia.org/wiki/Neoclassical_economics#Criticisms)
+* [Keynesianism](https://en.wikipedia.org/wiki/Keynesian_economics)
+* [Monetarism](https://en.wikipedia.org/wiki/Monetarism)
+* [Neoliberalism](https://en.wikipedia.org/wiki/Neoliberalism)
+* [Neoconservatism](https://en.wikipedia.org/wiki/Neoconservatism)
+* [Market Fundamentalism](https://en.wikipedia.org/wiki/Market_fundamentalism)
+* [Market Failure](https://en.wikipedia.org/wiki/Market_failure)
+* [Corporation](https://en.wikipedia.org/wiki/Corporation)
+* [Privatization](https://en.wikipedia.org/wiki/Privatization)
+* [Plutocracy](https://en.wikipedia.org/wiki/Plutocracy)
+* [Economic Inequality](https://en.wikipedia.org/wiki/Economic_inequality)
+* [Poverty](https://en.wikipedia.org/wiki/Poverty)
+* [General Equilibrium Theory](https://en.wikipedia.org/wiki/General_equilibrium_theory)
+* [Business Cycle](https://en.wikipedia.org/wiki/Business_cycle)
+* [Rational Expectations](https://en.wikipedia.org/wiki/Rational_expectations)
+* [Efficient Market Hypothesis](https://en.wikipedia.org/wiki/Efficient-market_hypothesis)
+* [Pareto Efficiency](https://en.wikipedia.org/wiki/Pareto_efficiency)
+* [Public Choice Theory](https://en.wikipedia.org/wiki/Public_choice_theory)
+* [Coase Theorem](https://en.wikipedia.org/wiki/Coase_theorem)
+* [Supply-side Economics](https://en.wikipedia.org/wiki/Supply-side_economics)
+* [Trickle-down Economics](https://en.wikipedia.org/wiki/Trickle-down_economics)
+* [Welfare Economics](https://en.wikipedia.org/wiki/Welfare_economics)
+* [Neocolonialism](https://en.wikipedia.org/wiki/Neocolonialism)
+* [Dependency Theory](https://en.wikipedia.org/wiki/Dependency_theory)
+* [Alter-globalization](https://en.wikipedia.org/wiki/Alter-globalization)
+* [Heterodox Economics](https://en.wikipedia.org/wiki/Heterodox_economics)
+* [Behavioral Economics](https://en.wikipedia.org/wiki/Behavioral_economics)
+* [Triple Bottom Line](https://en.wikipedia.org/wiki/Triple_bottom_line)
+* [Green Economy](https://en.wikipedia.org/wiki/Green_economy)
 
 **Specific events / knowledge**  
-－Great Depression  
-－Glass-Steagall Act  
-－Bretton Woods System  
-－Plaza Accord  
-－Enron Incident  
-－Sarbanes-Oxley Act  
-－Financial Crisis of 2007–08  
-－Goldman Sachs  
-－Alan Greenspan  
-－Dodd-Frank Wall Street Reform and Consumer Protection Act  
-－Washington Consensus  
-－International Monetary Fund  
-－Millennium Ecosystem Assessment  
-－Millennium Development Goals  
-－Global Warming  
-－World Economic Forum  
-－Global Justice Movement  
-－World Social Forum  
-－Occupy Movement  
-－Earth Charter Initiative  
+* [Great Depression](https://en.wikipedia.org/wiki/Great_Depression)
+* [Glass-Steagall Act](https://en.wikipedia.org/wiki/Glass%E2%80%93Steagall_legislation)
+* [Bretton Woods System](https://en.wikipedia.org/wiki/Bretton_Woods_system)
+* [Plaza Accord](https://en.wikipedia.org/wiki/Plaza_Accord)
+* [Enron Incident](https://en.wikipedia.org/wiki/Enron_scandal)
+* [Sarbanes-Oxley Act](https://en.wikipedia.org/wiki/Sarbanes%E2%80%93Oxley_Act)
+* [Financial Crisis of 2007–08](https://en.wikipedia.org/wiki/2007%E2%80%932008_financial_crisis)
+* [Goldman Sachs](https://en.wikipedia.org/wiki/Goldman_Sachs)
+* [Alan Greenspan](https://en.wikipedia.org/wiki/Alan_Greenspan)
+* [Dodd-Frank Wall Street Reform and Consumer Protection Act](https://en.wikipedia.org/wiki/Dodd%E2%80%93Frank_Wall_Street_Reform_and_Consumer_Protection_Act)
+* [Washington Consensus](https://en.wikipedia.org/wiki/Washington_Consensus)
+* [International Monetary Fund](https://en.wikipedia.org/wiki/International_Monetary_Fund)
+* [Millennium Ecosystem Assessment](https://en.wikipedia.org/wiki/Millennium_Ecosystem_Assessment)
+* [Millennium Development Goals](https://en.wikipedia.org/wiki/Millennium_Development_Goals)
+* [Global Warming](https://en.wikipedia.org/wiki/Global_warming)
+* [World Economic Forum](https://en.wikipedia.org/wiki/World_Economic_Forum)
+* [Global Justice Movement](https://en.wikipedia.org/wiki/Global_justice_movement)
+* [World Social Forum](https://en.wikipedia.org/wiki/World_Social_Forum)
+* [Occupy Movement](https://en.wikipedia.org/wiki/Occupy_movement)
+* [Earth Charter Initiative](https://en.wikipedia.org/wiki/Earth_Charter_Initiative)
 
 **Recommended books not listed in the main text:**  
-－Stuart L. Hart, *Capitalism at the Crossroads* (2010)  
-－David Orrell, *Introducing Economics* (2011)  
-－Michael Goodwin, *Economix* (2012)  
-－Jonathan Aldred, *The Skeptical Economist* (2010)  
-－Rod Hill & Andrew Myatt, *The Economics Anti-Text* (2010)  
-－David Boyle & Andrew Simms, *The New Economics* (2009)  
-－John Cassidy, *How Markets Fail* (2009)  
-－David Harvey, *A Brief History of Neoliberalism* (2007)  
-－Immanuel Wallerstein, *World-Systems Analysis* (2004)  
-－Giovanni Arrighi, *The Long Twentieth Century* (2010)  
-－David Harvey, *The Limits to Capital* (2007)  
-－Simon Tormey, *Anti-Capitalism* (2004)  
-－Raj Patel, *The Value of Nothing* (2009)  
-－Larry Elliot & Dan Atkinson, *The Gods that Failed* (2008)  
-－Will Hutton, *Them and Us* (2010)  
-－Chuck Collins, *99 to 1* (2012)  
-－Robert B. Reich, *Beyond Outrage* (2012)  
-－James Galbraith, *Predator State* (2008)  
-－Charles H. Ferguson, *Predator Nation* (2012)  
-－Bill McKibben, *The End of Nature* (1996)  
-－Richard Heinberg, *The End of Growth Update* (2012)  
-－Lester R. Brown, *Plan B 4.0* (2009)  
-－James Hansen, *Storms of My Grandchildren* (2010)  
-－James Gustave Speth, *The Bridge at the End of the World* (2008)  
-－Elizabeth Kolbert, *Field Notes from a Catastrophe* (2006)  
-－Naomi Oreskes & Erik M. Conway, *Merchants of Doubt* (2010)  
-－William F. Felice, *The Global New Deal* (2002)  
-－Molly Scott Cato, *Green Economics* (2008)  
-－Jeffrey Sachs, *The Price of Civilization* (2011)  
-－John Raulston Saul, *The Collapse of Globalism* (2006)  
-－Joseph Stiglitz, *Making Globalization Work* (2007)  
-－Dan Rodrik, *The Globalization Paradox* (2011)  
-－Ha-Joon Chang, *23 Things They Don't Tell You About Capitalism* (2010)  
-－John Perkins, *The Secret History of the American Empire* (2008)  
-－David Korten, *The Great Turning* (2005)  
-－張翠容, *The Road to Truth in Latin America* (2009)  
-－丁學良, *The China Model: For and Against* (2010)  
-－黃樹東, *The Rise and Fall of Great Powers; The Struggle over Development Paths in the Context of Globalization* (2012)  
+* Stuart L. Hart, Capitalism at the Crossroads (2010)
+* David Orrell, Introducing Economics (2011)
+* Michael Goodwin, Economix (2012)
+* Jonathan Aldred, The Skeptical Economist (2010)
+* Rod Hill & Andrew Myatt, The Economics Anti-Text (2010)
+* David Boyle & Andrew Simms, The New Economics (2009)
+* John Cassidy, How Markets Fail (2009)
+* David Harvey, A Brief History of Neoliberalism (2007)
+* Immanuel Wallerstein, World-Systems Analysis (2004)
+* Giovanni Arrighi, The Long Twentieth Century (2010)
+* David Harvey, The Limits to Capital (2007)
+* Simon Tormey, Anti-Capitalism (2004)
+* Raj Patel, The Value of Nothing (2009)
+* Larry Elliot & Dan Atkinson, The Gods that Failed (2008)
+* Will Hutton, Them and Us (2010)
+* Chuck Collins, 99 to 1 (2012)
+* Robert B. Reich, Beyond Outrage (2012)
+* James Galbraith, Predator State (2008)
+* Charles H. Ferguson, Predator Nation (2012)
+* Bill McKibben, The End of Nature (1996)
+* Richard Heinberg, The End of Growth Update (2012)
+* Lester R. Brown, Plan B 4.0 (2009)
+* James Hansen, Storms of My Grandchildren (2010)
+* James Gustave Speth, The Bridge at the End of the World (2008)
+* Elizabeth Kolbert, Field Notes from a Catastrophe (2006)
+* Naomi Oreskes & Erik M. Conway, Merchants of Doubt (2010)
+* William F. Felice, The Global New Deal (2002)
+* Molly Scott Cato, Green Economics (2008)
+* Jeffrey Sachs, The Price of Civilization (2011)
+* John Raulston Saul, The Collapse of Globalism (2006)
+* Joseph Stiglitz, Making Globalization Work (2007)
+* Dan Rodrik, The Globalization Paradox (2011)
+* Ha-Joon Chang, 23 Things They Don’t Tell You About Capitalism (2010)
+* John Perkins, The Secret History of the American Empire (2008)
+* David Korten, The Great Turning (2005)
+* 張翠容, The Road to Truth in Latin America (2009)
+* 丁學良, The China Model: For and Against (2010)
+* 黃樹東, The Rise and Fall of Great Powers; The Struggle over Development Paths in the Context of Globalization (2012)
 
 *Last updated: August 3, 2020*
 
