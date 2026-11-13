@@ -471,6 +471,148 @@ body:has(.curator-modal:target) { /* modal 開時停用背景捲軸，避免兩�
 	color: var(--accent);
 }
 
+/* ── Library 同架典藏（單欄書目版本：無截斷、自適應長短描述） ── */
+.lib-related-section {
+	margin-top: 5rem;
+	padding-top: 3.5rem;
+	border-top: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.lib-related-header {
+	margin-bottom: 2.25rem;
+}
+
+.lib-related-meta {
+	display: inline-block;
+	font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+	font-size: 0.9rem;
+	text-transform: uppercase;
+	letter-spacing: 0.15em;
+	color: var(--text);
+	padding-left: 0.8rem;
+	border-left: 3px solid var(--accent);
+	margin-bottom: 0.6rem;
+}
+
+.lib-related-subtitle {
+	margin: 0;
+	font-size: 0.9rem;
+	color: var(--muted);
+}
+
+/* 電腦版與手機版統一單欄由上至下排列 */
+.lib-related-grid {
+	display: flex;
+	flex-direction: column;
+	gap: 1.5rem;
+}
+
+.lib-related-card {
+	display: flex;
+	align-items: center; /* 短描述時垂直置中，避免右下角顯得空洞 */
+	gap: 1.75rem;
+	padding: 1.65rem 2rem; /* 充裕內距，長描述時亦不覺迫狹 */
+	border: 1px solid var(--card-border);
+	border-bottom: 1px solid var(--card-border); /* 覆蓋 Forty 主題預設點狀底線 */
+	border-radius: 10px;
+	background: rgba(128, 128, 128, 0.03);
+	text-decoration: none;
+	transition: transform 0.3s cubic-bezier(0.16, 1, 0.3, 1), border-color 0.3s ease, background-color 0.3s ease;
+}
+
+.lib-related-card:hover {
+	transform: translateY(-2px);
+	border-color: var(--accent);
+	border-bottom-color: var(--accent);
+	background: rgba(66, 133, 244, 0.05);
+}
+
+.lib-related-card__cover {
+	flex: 0 0 76px;
+	width: 76px;
+}
+
+.lib-related-card__cover img {
+	display: block;
+	width: 100%;
+	height: auto;
+	border-radius: 4px;
+	box-shadow: 0 4px 12px rgba(0, 0, 0, 0.35);
+}
+
+.lib-related-card__body {
+	flex: 1 1 auto;
+	min-width: 0;
+}
+
+.lib-related-card__title {
+	margin: 0 0 0.5rem 0;
+	font-size: 1.05rem;
+	font-weight: 600;
+	line-height: 1.4;
+	color: var(--text);
+	transition: color 0.25s ease;
+}
+
+.lib-related-card:hover .lib-related-card__title {
+	color: var(--accent);
+}
+
+/* 取消省略號截斷，完整呈現所有 description */
+.lib-related-card__desc {
+	display: block;
+	margin: 0;
+	font-size: 0.9rem;
+	line-height: 1.65;
+	color: var(--muted);
+}
+
+/* ── 手機版：擴闊上下空間，並將簡介釋放為全寬 ── */
+@media (max-width: 768px) {
+	.lib-related-grid {
+		gap: 1.75rem; /* 擴闊每本書之間的上下距離 */
+	}
+
+	.lib-related-card {
+		display: grid;
+		grid-template-columns: 1fr;
+		row-gap: 0.65rem;
+		padding: 1.65rem 1.35rem; /* 加大卡片內部上下呼吸空間 */
+	}
+
+	.lib-related-card:has(.lib-related-card__cover) {
+		grid-template-columns: 56px 1fr;
+		column-gap: 1.1rem;
+		row-gap: 1.1rem; /* 標題列與下方簡介之間的空間 */
+		align-items: center;
+	}
+
+	/* 讓 title 與 desc 釋放出來參與外層 grid 排版，無須改動 HTML */
+	.lib-related-card__body {
+		display: contents;
+	}
+
+	.lib-related-card:has(.lib-related-card__cover) .lib-related-card__cover {
+		grid-column: 1;
+		grid-row: 1;
+		width: 56px;
+	}
+
+	.lib-related-card:has(.lib-related-card__cover) .lib-related-card__title {
+		grid-column: 2;
+		grid-row: 1;
+		margin: 0; /* 確保標題與封面完美垂直置中 */
+		font-size: 1rem;
+	}
+
+	.lib-related-card:has(.lib-related-card__cover) .lib-related-card__desc {
+		grid-column: 1 / -1; /* 簡介霸晒整張卡片全寬，中英文都能完整顯示 */
+		grid-row: 2;
+		font-size: 0.88rem;
+		line-height: 1.65;
+	}
+}
+
 /* 返回按鈕區域 */
 .life-nav-back {
 	text-align: center;

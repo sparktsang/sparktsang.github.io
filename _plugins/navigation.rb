@@ -104,7 +104,8 @@ module SparkTsang
 
         categories = CATEGORIES.map do |category|
           matching = notes.select do |page|
-            classification = page.data["classification"] || "Miscellaneous"
+            raw_class = page.data["classification"].to_s.strip
+            classification = raw_class.empty? ? "Miscellaneous" : raw_class
             classification.downcase == category.downcase
           end
 
@@ -132,14 +133,32 @@ module SparkTsang
         end
         current_rank = 0
 
+        # 建立快速索引，記錄每篇文章屬於邊個分類物件
+        category_by_page = {}
+        categories.each do |category|
+          category["items"].each do |item|
+            category_by_page[item] = category
+          end
+        end
+
         ordered_notes.each_with_index do |page, index|
           current_rank += 1 if page.data["normal_lib_note"] != false
+
+          current_category = category_by_page[page]
+          # 抽出同分類下、除咗自己以外嘅所有展品（已保持原本嘅 order 排序）
+          same_category_items = if current_category
+            current_category["items"].reject { |item| item == page }
+          else
+            []
+          end
 
           page.data["library_nav"] = {
             "total_notes" => total_notes,
             "current_rank" => current_rank,
             "prev" => index.positive? ? ordered_notes[index - 1] : nil,
-            "next" => ordered_notes[index + 1]
+            "next" => ordered_notes[index + 1],
+            "classification" => current_category ? current_category["name"] : "Miscellaneous",
+            "same_category_items" => same_category_items
           }
         end
       end

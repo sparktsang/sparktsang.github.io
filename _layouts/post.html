@@ -171,6 +171,8 @@
 			{% assign current_rank = library_nav_data.current_rank %}
 			{% assign prev_real = library_nav_data.prev %}
 			{% assign next_real = library_nav_data.next %}
+			{% assign lib_class = library_nav_data.classification %}
+			{% assign same_class_items = library_nav_data.same_category_items %}
 		{% endif %}
 
         {% comment %} === Artifacts 陣列計算與排名 === {% endcomment %}
@@ -396,11 +398,42 @@
 				{% assign lbl_next = "Next Note" %}
 				{% assign lbl_back = "BACK TO LIBRARY" %}
 				{% assign link_back = site.baseurl | append: "/library" %}
+				{% assign lbl_shelf_meta = "On the Same Shelf" %}
+				{% assign lbl_shelf_desc = "Other exhibits filed under " | append: lib_class | append: ":" %}
 			{% else %}
 				{% assign lbl_prev = "上一篇" %}
 				{% assign lbl_next = "下一篇" %}
 				{% assign lbl_back = "返歸【無涯殿】" %}
 				{% assign link_back = site.baseurl | append: "/library/chi" %}
+				{% assign lbl_shelf_meta = "同架典藏" %}
+				{% assign lbl_shelf_desc = "無涯殿內同屬「" | append: lib_class | append: "」的其他展品：" %}
+			{% endif %}
+
+			{% comment %} === 同分類展品櫥窗 === {% endcomment %}
+			{% if same_class_items and same_class_items.size > 0 %}
+				<section class="lib-related-section" aria-label="{{ lbl_shelf_meta }}">
+					<div class="lib-related-header">
+						<span class="lib-related-meta">{{ lbl_shelf_meta }} // {{ lib_class }}</span>
+					</div>
+
+					<div class="lib-related-grid">
+						{% for item in same_class_items %}
+							<a href="{{ item.url | relative_url }}" class="lib-related-card">
+								{% if item.image %}
+									<div class="lib-related-card__cover">
+										<img src="{{ item.image | relative_url }}" alt="{{ item.short_title | default: item.title | escape }}" loading="lazy" />
+									</div>
+								{% endif %}
+								<div class="lib-related-card__body">
+									<h4 class="lib-related-card__title">{{ item.short_title | default: item.title }}</h4>
+									{% if item.description %}
+										<span class="lib-related-card__desc">{{ item.description | strip_html | strip }}</span>
+									{% endif %}
+								</div>
+							</a>
+						{% endfor %}
+					</div>
+				</section>
 			{% endif %}
 
 			<div class="library-nav-container">
