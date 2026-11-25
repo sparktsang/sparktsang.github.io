@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<!-- 
+  Layout by Spark Tsang
+  sparktsang.github.io
+  License: MIT
+-->
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
+<head>
+  {% include head.html %}
+
+  <style>
+    /* =========================================================
+       Curated Fullscreen Layout
+       ========================================================= */
+    :root {
+      --screen-bg: #0a0a0c;
+      --header-height: 0px;   /* 如果 header 係 fixed 且唔透明，喺呢度填高度 */
+    }
+
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    html {
+      scroll-snap-type: y mandatory;
+      scroll-behavior: smooth;
+      scroll-padding-top: var(--header-height);
+      background: var(--screen-bg);
+    }
+
+    body {
+      background: var(--screen-bg);
+      overflow-x: hidden;
+    }
+
+    /* The shared header include reserves space for the fixed header. This
+       gallery begins at the viewport top, so remove that reserved strip. */
+    #wrapper {
+      padding-top: 0;
+    }
+
+    /* ── 每一屏 ── */
+    .curated-screen {
+      position: relative;
+      width: 100%;
+      height: 100vh;           /* fallback */
+      height: 100dvh;          /* 手機動態視口 */
+      scroll-snap-align: start;
+      scroll-snap-stop: always;
+      overflow: hidden;
+      background: var(--screen-bg);
+    }
+
+    .curated-screen svg {
+      display: block;
+      width: 100%;
+      height: 100%;
+    }
+
+    /* 預設：手機 SVG 隱藏 */
+    .curated-screen .screen-mobile { display: none; }
+
+    /* 手機版：有 mobile 圖就切換 */
+    @media (max-width: 900px) {
+      .curated-screen.has-mobile .screen-desktop { display: none; }
+      .curated-screen.has-mobile .screen-mobile  { display: block; }
+    }
+
+    /* ── 浮層 hover / focus 視覺回饋 ── */
+    .curated-screen svg a rect {
+      transition: fill 0.2s ease, stroke 0.2s ease;
+    }
+    .curated-screen svg a:hover rect:not(.full-cover),
+    .curated-screen svg a:focus-visible rect:not(.full-cover) {
+      fill: rgba(255, 255, 255, 0.10);
+    }
+    .curated-screen svg a:focus-visible rect:not(.full-cover),
+    .curated-screen svg a:focus-visible rect.full-cover {
+      stroke: #fff;
+      stroke-width: 3;
+      stroke-dasharray: 8 6;
+    }
+
+    /* ── Footer ── */
+    footer {
+      scroll-snap-align: end;
+    }
+  </style>
+</head>
+<body>
+
+  {% include header.html %}
+
+  <main class="curated-gallery">
+    {% for screen in page.screens %}
+
+      {% assign has_mobile = false %}
+      {% if screen.mobile_image and screen.mobile_image != "" %}
+        {% assign has_mobile = true %}
+      {% endif %}
+
+      {% assign dw = screen.desktop_size[0] %}
+      {% assign dh = screen.desktop_size[1] %}
+
+      <section class="curated-screen{% if has_mobile %} has-mobile{% endif %}"
+               aria-label="{{ screen.alt | default: 'Screen ' | append: forloop.index }}">
+
+        <!-- ============ DESKTOP SVG ============ -->
+        <svg class="screen-desktop"
+            viewBox="0 0 {{ dw }} {{ dh }}"
+            preserveAspectRatio="xMidYMid slice"
+            xmlns="http://www.w3.org/2000/svg"
+            aria-label="{{ screen.alt | default: '' }}">
+
+          {% if screen.full_link %}
+            <a href="{{ screen.full_link.url | relative_url }}"
+              {% if screen.full_link.target %}target="{{ screen.full_link.target }}"{% endif %}
+              {% if screen.full_link.target == '_blank' %}rel="noopener"{% endif %}>
+              <title>{{ screen.full_link.title | default: screen.full_link.url }}</title>
+              <image href="{{ screen.desktop_image | relative_url }}"
+                    x="0" y="0" width="{{ dw }}" height="{{ dh }}"
+                    preserveAspectRatio="xMidYMid meet"/>
+              <rect class="full-cover" x="0" y="0"
+                    width="{{ dw }}" height="{{ dh }}" fill="transparent"/>
+            </a>
+          {% else %}
+            <image href="{{ screen.desktop_image | relative_url }}"
+                  x="0" y="0" width="{{ dw }}" height="{{ dh }}"
+                  preserveAspectRatio="xMidYMid meet"/>
+            {% for hs in screen.hotspots %}
+              {% if hs.desktop %}
+                <a href="{{ hs.url | relative_url }}"
+                  {% if hs.target %}target="{{ hs.target }}"{% endif %}
+                  {% if hs.target == '_blank' %}rel="noopener"{% endif %}>
+                  <title>{{ hs.title | default: hs.url }}</title>
+                  <rect x="{{ hs.desktop.x }}" y="{{ hs.desktop.y }}"
+                        width="{{ hs.desktop.w }}" height="{{ hs.desktop.h }}"
+                        fill="transparent"/>
+                </a>
+              {% endif %}
+            {% endfor %}
+          {% endif %}
+        </svg>
+
+        <!-- ============ MOBILE SVG（只喺有 mobile 圖時輸出） ============ -->
+        {% if has_mobile %}
+          {% assign mw = screen.mobile_size[0] %}
+          {% assign mh = screen.mobile_size[1] %}
+          <svg class="screen-mobile"
+              viewBox="0 0 {{ mw }} {{ mh }}"
+              preserveAspectRatio="none"
+              xmlns="http://www.w3.org/2000/svg"
+              aria-label="{{ screen.alt | default: '' }}">
+
+            {% if screen.full_link %}
+              <a href="{{ screen.full_link.url | relative_url }}"
+                {% if screen.full_link.target %}target="{{ screen.full_link.target }}"{% endif %}
+                {% if screen.full_link.target == '_blank' %}rel="noopener"{% endif %}>
+                <title>{{ screen.full_link.title | default: screen.full_link.url }}</title>
+                <image href="{{ screen.mobile_image | relative_url }}"
+                      x="0" y="0" width="{{ mw }}" height="{{ mh }}"
+                      preserveAspectRatio="xMidYMid meet"/>
+                <rect class="full-cover" x="0" y="0"
+                      width="{{ mw }}" height="{{ mh }}" fill="transparent"/>
+              </a>
+            {% else %}
+              <image href="{{ screen.mobile_image | relative_url }}"
+                    x="0" y="0" width="{{ mw }}" height="{{ mh }}"
+                    preserveAspectRatio="xMidYMid meet"/>
+              {% for hs in screen.hotspots %}
+                {% if hs.mobile %}
+                  <a href="{{ hs.url | relative_url }}"
+                    {% if hs.target %}target="{{ hs.target }}"{% endif %}
+                    {% if hs.target == '_blank' %}rel="noopener"{% endif %}>
+                    <title>{{ hs.title | default: hs.url }}</title>
+                    <rect x="{{ hs.mobile.x }}" y="{{ hs.mobile.y }}"
+                          width="{{ hs.mobile.w }}" height="{{ hs.mobile.h }}"
+                          fill="transparent"/>
+                  </a>
+                {% endif %}
+              {% endfor %}
+            {% endif %}
+          </svg>
+        {% endif %}
+
+      </section>
+    {% endfor %}
+  </main>
+
+  {% include footer.html %}
+
+</body>
+</html>

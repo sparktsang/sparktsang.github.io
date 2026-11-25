@@ -10,6 +10,7 @@ This repository contains a mix of open-source code and original content. The lic
 All original text content, articles, and photography by Spark Tsang are licensed under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** license, including but not limited to content or images in:
 * `_posts/`
 * `library/`
+* `artifacts/`
 * `assets/images`
 
 In short, you are free to share, copy, and redistribute the material in any medium or format under the following terms:
@@ -21,6 +22,7 @@ All custom layouts and custom JavaScript/CSS logic developed by Spark Tsang are 
 * `_layouts/life_showcase.html`
 * `_layouts/library_showcase.html`
 * `_layouts/artifact_showcase.html`
+* `_layouts/100vh_curate.html`
 
 **3. Base Theme (Forty)**  
 The underlying website template is ["Forty"](https://github.com/andrewbanchich/forty-jekyll-theme) by [HTML5 UP](https://html5up.net), licensed under the **Creative Commons Attribution 3.0 License** (CCA 3.0), see [LICENSE-FORTY-HTML5UP.md](LICENSE-FORTY-HTML5UP.md).

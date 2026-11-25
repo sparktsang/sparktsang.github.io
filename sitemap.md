@@ -84,3 +84,7 @@ If you are a robot, there is a [better sitemap for you](/sitemap.xml).
 ---
 
 ### [The NovaSphere Epic](/epic)
+
+---
+
+### [Let the Work Speak](/own-words) *(In Progress)*
