@@ -24,7 +24,7 @@ I met the first, and to this day, the last, benefactor of my life.
 
 He seemed to see right through me—not just the persona of the traveller, but the structure beneath my alienation. He understood my relentless quest for independence and intellectual autonomy. He asked profound, probing questions about my past, and for some reason I still don't fully understand, I opened up to this stranger in a way I never had before. It was not trust. It was recognition—rare, disarming, and impossible to resist. I spoke of [my teenage existential crisis][childhood]{:target="_blank"}, the conflicts with my father, [my search for meaning in philosophy][forging]{:target="_blank"}—even [my failed attempt at a "co-living revolution"][gap]{:target="_blank"}.
 
-In return, he spoke of his world, a world of billion-dollar acquisitions and the absolute power of credibility. Then, as I had expected, he turned his sharp, analytical gaze onto my system. He didn't just ask what it did; he asked how it was built. He asked about my algorithm, my value projections, my buy-and-sell thresholds, the first principles behind my "value-purity" index. 
+In return, he spoke of his world, a world of billion-dollar acquisitions and the absolute power of credibility. Then, as I had expected, he turned his sharp, analytical gaze onto my system. He didn't just ask what it did; he asked how it was built. He asked about my algorithm, my value projections, my buy-and-sell thresholds, [the first principles behind my "value-purity" index][perennial]{:target="_blank"}. 
 
 After listening to my struggles, he diagnosed my problem with a brutal, startling accuracy. "Your weakness," he said, "is that you are too smart. It makes people feel like they can be easily tricked by you, and their defences go up." He saw things I couldn't see, speaking of truths I had only just learned through years of painful trial and error as if they were simple, self-evident facts.
 
@@ -200,3 +200,4 @@ Sequel — *To be continuted*
 [childhood]: {% post_url 2025-10-25-childhood %}
 [forging]: {% post_url 2025-10-25-forging %}
 [gap]: {% post_url 2025-10-25-gap %}
+[perennial]: /library/perennial
